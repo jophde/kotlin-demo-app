@@ -1,0 +1,632 @@
+<root>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void append(java.lang.CharSequence, java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams void readFully(java.io.InputStream, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource concat(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.io.ByteSource&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource wrap(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources T readLines(java.net.URL, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding withPadChar(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void append(java.lang.CharSequence, java.io.File, java.nio.charset.Charset) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding java.io.OutputStream encodingStream(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams void readFully(java.io.InputStream, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources T readLines(java.net.URL, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Closer android.support.test.espresso.core.deps.guava.io.Closer create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources byte[] toByteArray(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams int read(java.io.InputStream, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources java.net.URL getResource(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource concat(java.util.Iterator&lt;? extends android.support.test.espresso.core.deps.guava.io.ByteSource&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams java.io.OutputStream nullOutputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataInput newDataInput(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSink android.support.test.espresso.core.deps.guava.io.CharSink asCharSink(java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource java.io.BufferedReader openBufferedStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.net.URL, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSink java.io.OutputStream openBufferedStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files T readLines(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.nio.MappedByteBuffer map(java.io.File, java.nio.channels.FileChannel.MapMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.collect.TreeTraverser&lt;java.io.File&gt; fileTreeTraverser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void move(java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding base64()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams int read(java.io.InputStream, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String simplifyPath(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource java.io.InputStream openStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.collect.ImmutableList&lt;java.lang.String&gt; readLines()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource slice(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.nio.MappedByteBuffer map(java.io.File, java.nio.channels.FileChannel.MapMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams byte[] toByteArray(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void move(java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String toString(java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LittleEndianDataOutputStream LittleEndianDataOutputStream(java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.nio.charset.Charset, java.lang.Appendable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource concat(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.io.CharSource&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.hash.HashCode hash(android.support.test.espresso.core.deps.guava.hash.HashFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding java.lang.String encode(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSink long writeFrom(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink void writeLines(java.lang.Iterable&lt;? extends java.lang.CharSequence&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LittleEndianDataInputStream void readFully(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSink asCharSink(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.FileWriteMode...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void createParentDirs(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource T readLines(android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.nio.MappedByteBuffer map(java.io.File, java.nio.channels.FileChannel.MapMode, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files T readLines(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.nio.charset.Charset, java.lang.Appendable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSink java.io.OutputStream openStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files boolean equal(java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.BufferedReader newReader(java.io.File, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources android.support.test.espresso.core.deps.guava.io.ByteSource asByteSource(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataInput newDataInput(java.io.ByteArrayInputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSink asCharSink(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.FileWriteMode...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files T readLines(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams java.io.Writer nullWriter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.ByteSink encodingSink(android.support.test.espresso.core.deps.guava.io.CharSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources java.util.List&lt;java.lang.String&gt; readLines(java.net.URL, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams T readLines(java.lang.Readable, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.nio.charset.Charset, java.lang.Appendable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource long copyTo(android.support.test.espresso.core.deps.guava.io.CharSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataOutput newDataOutput(java.io.ByteArrayOutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void copy(java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams long copy(java.io.InputStream, java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.io.File, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding withSeparator(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding base16()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources java.util.List&lt;java.lang.String&gt; readLines(java.net.URL, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams T readLines(java.lang.Readable, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.BufferedWriter newWriter(java.io.File, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding byte[] decode(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.ByteSink asByteSink(java.io.File, android.support.test.espresso.core.deps.guava.io.FileWriteMode...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink java.io.Writer openBufferedStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataOutput newDataOutput()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams void skipFully(java.io.Reader, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSink asCharSink(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.FileWriteMode...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.FileBackedOutputStream android.support.test.espresso.core.deps.guava.io.ByteSource asByteSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files byte[] toByteArray(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams java.io.InputStream limit(java.io.InputStream, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.nio.MappedByteBuffer map(java.io.File, java.nio.channels.FileChannel.MapMode, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding lowerCase()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource concat(android.support.test.espresso.core.deps.guava.io.ByteSource...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataInput newDataInput(java.io.ByteArrayInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource concat(android.support.test.espresso.core.deps.guava.io.CharSource...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.util.List&lt;java.lang.String&gt; readLines(java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String getFileExtension(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding java.lang.String encode(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources android.support.test.espresso.core.deps.guava.io.ByteSource asByteSource(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams T readBytes(java.io.InputStream, android.support.test.espresso.core.deps.guava.io.ByteProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource java.io.InputStream openBufferedStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding base64Url()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.ByteSource decodingSource(android.support.test.espresso.core.deps.guava.io.CharSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.hash.HashCode hash(java.io.File, android.support.test.espresso.core.deps.guava.hash.HashFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.BufferedWriter newWriter(java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.base.Predicate&lt;java.io.File&gt; isFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink long writeFrom(java.lang.Readable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource wrap(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams void readFully(java.io.InputStream, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String simplifyPath(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.ByteSource asByteSource(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.nio.MappedByteBuffer map(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams T readBytes(java.io.InputStream, android.support.test.espresso.core.deps.guava.io.ByteProcessor&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams long copy(java.io.InputStream, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.hash.HashCode hash(java.io.File, android.support.test.espresso.core.deps.guava.hash.HashFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files T readBytes(java.io.File, android.support.test.espresso.core.deps.guava.io.ByteProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink void writeLines(java.lang.Iterable&lt;? extends java.lang.CharSequence&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource concat(java.util.Iterator&lt;? extends android.support.test.espresso.core.deps.guava.io.CharSource&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams java.util.List&lt;java.lang.String&gt; readLines(java.lang.Readable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams void readFully(java.io.InputStream, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.net.URL, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource wrap(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files boolean equal(java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource concat(java.util.Iterator&lt;? extends android.support.test.espresso.core.deps.guava.io.ByteSource&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams java.util.List&lt;java.lang.String&gt; readLines(java.lang.Readable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.base.Predicate&lt;java.io.File&gt; isDirectory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource long copyTo(java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void write(byte[], java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding java.io.InputStream decodingStream(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource java.io.Reader openStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink void writeLines(java.lang.Iterable&lt;? extends java.lang.CharSequence&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.util.List&lt;java.lang.String&gt; readLines(java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataInput newDataInput(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataInput newDataInput(byte[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams java.io.Writer asWriter(java.lang.Appendable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams java.io.Writer asWriter(java.lang.Appendable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LineReader LineReader(java.lang.Readable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding omitPadding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.ByteSink encodingSink(android.support.test.espresso.core.deps.guava.io.CharSink)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void write(byte[], java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LittleEndianDataInputStream void readFully(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding base32()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource boolean contentEquals(android.support.test.espresso.core.deps.guava.io.ByteSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.File createTempDir()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String readFirstLine(java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding withSeparator(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSink android.support.test.espresso.core.deps.guava.io.CharSink asCharSink(java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LittleEndianDataInputStream LittleEndianDataInputStream(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource wrap(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding upperCase()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.ByteSink asByteSink(java.io.File, android.support.test.espresso.core.deps.guava.io.FileWriteMode...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource long copyTo(android.support.test.espresso.core.deps.guava.io.ByteSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink void write(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.FileBackedOutputStream void write(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void write(java.lang.CharSequence, java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources java.lang.String toString(java.net.URL, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources void copy(java.net.URL, java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding java.io.InputStream decodingStream(java.io.Reader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams long copy(java.lang.Readable, java.lang.Appendable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String toString(java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String getNameWithoutExtension(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LittleEndianDataOutputStream void writeChars(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.lang.String readFirstLine(java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void touch(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams java.io.InputStream limit(java.io.InputStream, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams long copy(java.nio.channels.ReadableByteChannel, java.nio.channels.WritableByteChannel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource T read(android.support.test.espresso.core.deps.guava.io.ByteProcessor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataOutput newDataOutput(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.net.URL, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource concat(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.io.ByteSource&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.BaseEncoding base32Hex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource concat(java.util.Iterator&lt;? extends android.support.test.espresso.core.deps.guava.io.CharSource&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void write(java.lang.CharSequence, java.io.File, java.nio.charset.Charset) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources java.lang.String toString(java.net.URL, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSink void write(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources void copy(java.net.URL, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams long copy(java.lang.Readable, java.lang.Appendable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files T readBytes(java.io.File, android.support.test.espresso.core.deps.guava.io.ByteProcessor&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSink asCharSink(java.io.File, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.FileWriteMode...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.CharSource asCharSource(java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource long copyTo(java.lang.Appendable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.ByteSource asByteSource(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams long copy(java.nio.channels.ReadableByteChannel, java.nio.channels.WritableByteChannel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.BufferedReader newReader(java.io.File, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteStreams android.support.test.espresso.core.deps.guava.io.ByteArrayDataOutput newDataOutput(java.io.ByteArrayOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding android.support.test.espresso.core.deps.guava.io.ByteSource decodingSource(android.support.test.espresso.core.deps.guava.io.CharSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.ByteSource android.support.test.espresso.core.deps.guava.io.ByteSource concat(android.support.test.espresso.core.deps.guava.io.ByteSource...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSink java.io.Writer openStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.LineProcessor T getResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharStreams java.lang.String toString(java.lang.Readable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void append(java.lang.CharSequence, java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files android.support.test.espresso.core.deps.guava.io.ByteSink asByteSink(java.io.File, android.support.test.espresso.core.deps.guava.io.FileWriteMode...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.BufferedReader newReader(java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Resources T readLines(java.net.URL, java.nio.charset.Charset, android.support.test.espresso.core.deps.guava.io.LineProcessor&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource concat(android.support.test.espresso.core.deps.guava.io.CharSource...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.CharSource android.support.test.espresso.core.deps.guava.io.CharSource concat(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.io.CharSource&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.PatternFilenameFilter PatternFilenameFilter(java.util.regex.Pattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.BaseEncoding java.io.OutputStream encodingStream(java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files void write(java.lang.CharSequence, java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.Files java.io.BufferedWriter newWriter(java.io.File, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.io.FileWriteMode APPEND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

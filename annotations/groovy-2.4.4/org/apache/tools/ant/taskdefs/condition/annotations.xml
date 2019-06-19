@@ -1,0 +1,110 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.condition.IsLastModified.CompareMode java.lang.String[] getValues()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports ERROR_NO_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_VMS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable MSG_NO_REACHABLE_TEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports ERROR_NO_ATTRIBUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os void setFamily(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_NT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable ERROR_NO_HOST_IN_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os void setVersion(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.condition.HasMethod org.apache.tools.ant.types.Path createClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_MAC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_OS2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable METHOD_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports NOT_SUPPORTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports FEATURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable ERROR_NO_HOSTNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os Os(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.condition.IsSigned boolean isSigned(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports ERROR_BOTH_ATTRIBUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os void setArch(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_WINDOWS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable ERROR_ON_NETWORK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports NOT_RECOGNIZED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_UNIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os void setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.ParserSupports PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_TANDEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_OS400'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_ZOS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable ERROR_BAD_TIMEOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable ERROR_BAD_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.IsReachable ERROR_BOTH_TARGETS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_DOS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_9X'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.condition.Os FAMILY_NETWARE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

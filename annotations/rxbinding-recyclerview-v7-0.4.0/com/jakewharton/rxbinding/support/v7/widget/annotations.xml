@@ -1,0 +1,11 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RecyclerViewChildDetachEvent com.jakewharton.rxbinding.support.v7.widget.RecyclerViewChildDetachEvent create(android.support.v7.widget.RecyclerView, android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RecyclerViewScrollEvent com.jakewharton.rxbinding.support.v7.widget.RecyclerViewScrollEvent create(android.support.v7.widget.RecyclerView, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RecyclerViewChildAttachEvent com.jakewharton.rxbinding.support.v7.widget.RecyclerViewChildAttachEvent create(android.support.v7.widget.RecyclerView, android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

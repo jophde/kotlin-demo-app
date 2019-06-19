@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.ivy.core.repository.RepositoryManagementEngine java.util.Collection getOrphans()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

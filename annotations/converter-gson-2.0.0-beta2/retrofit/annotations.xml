@@ -1,0 +1,21 @@
+<root>
+    <item
+        name='retrofit.GsonConverterFactory retrofit.Converter&lt;?,com.squareup.okhttp.RequestBody&gt; toRequestBody(java.lang.reflect.Type, java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.GsonConverterFactory retrofit.GsonConverterFactory create(com.google.gson.Gson) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.GsonConverterFactory retrofit.GsonConverterFactory create(com.google.gson.Gson)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.GsonConverterFactory retrofit.GsonConverterFactory create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.GsonConverterFactory retrofit.Converter&lt;com.squareup.okhttp.ResponseBody,?&gt; fromResponseBody(java.lang.reflect.Type, java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

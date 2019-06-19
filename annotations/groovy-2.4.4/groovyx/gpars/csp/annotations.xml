@@ -1,0 +1,8 @@
+<root>
+    <item name='groovyx.gpars.csp.ALT ALT(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.csp.ALT ALT(groovyx.gpars.csp.ChannelInputList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

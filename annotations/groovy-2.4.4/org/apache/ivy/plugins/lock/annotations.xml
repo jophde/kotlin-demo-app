@@ -1,0 +1,62 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.lock.ArtifactLockStrategy void unlockArtifact(org.apache.ivy.core.module.descriptor.Artifact, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.FileBasedLockStrategy.FileLocker void unlock(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.FileBasedLockStrategy.NIOFileLocker void unlock(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.FileBasedLockStrategy.CreateFileLocker void unlock(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.NoLockStrategy void unlockArtifact(org.apache.ivy.core.module.descriptor.Artifact, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.ArtifactLockStrategy boolean lockArtifact(org.apache.ivy.core.module.descriptor.Artifact, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.LockStrategy void unlockArtifact(org.apache.ivy.core.module.descriptor.Artifact, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.LockStrategy boolean lockArtifact(org.apache.ivy.core.module.descriptor.Artifact, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.lock.NoLockStrategy boolean lockArtifact(org.apache.ivy.core.module.descriptor.Artifact, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

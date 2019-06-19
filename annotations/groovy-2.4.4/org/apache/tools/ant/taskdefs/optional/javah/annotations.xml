@@ -1,0 +1,35 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.javah.SunJavah boolean compile(org.apache.tools.ant.taskdefs.optional.Javah) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.javah.Kaffeh IMPLEMENTATION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.javah.Gcjh boolean compile(org.apache.tools.ant.taskdefs.optional.Javah) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.javah.Kaffeh boolean compile(org.apache.tools.ant.taskdefs.optional.Javah) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.javah.JavahAdapter boolean compile(org.apache.tools.ant.taskdefs.optional.Javah) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.javah.Gcjh IMPLEMENTATION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.javah.SunJavah IMPLEMENTATION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.javah.JavahAdapterFactory java.lang.String getDefault()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

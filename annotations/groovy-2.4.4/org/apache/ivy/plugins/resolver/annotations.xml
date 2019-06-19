@@ -1,0 +1,1140 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver void publish(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IvyRepResolver void setIvyroot(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver void addIvyPattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.AbstractResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.cache.CacheMetadataOptions getCacheOptions(org.apache.ivy.core.resolve.ResolveData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.resolve.ResolvedModuleRevision parse(org.apache.ivy.plugins.resolver.util.ResolvedResource, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver java.util.Map[] listTokenValues(java.lang.String[], java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver void addConfiguredArtifact(org.apache.ivy.core.settings.IvyPattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver void publish(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.core.module.id.ModuleRevisionId convertM2ResourceSearchIdToNormal(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.search.OrganisationEntry[] listOrganisations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.cache.CacheMetadataOptions getCacheOptions(org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPatterns(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.List, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver java.lang.String getDestination(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver java.lang.String[] listTokenValues(java.lang.String, java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver void addConfiguredIvy(org.apache.ivy.core.settings.IvyPattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IvyRepResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver java.lang.String convertM2OrganizationForResourceSearch(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver void putSignature(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IvyRepResolver DEFAULT_IVYPATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.plugins.parser.ParserSettings getParserSettings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver java.lang.String getDestination(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.SshResolver void setListCommand(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.MirroredURLResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver long get(org.apache.ivy.plugins.repository.Resource, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver void putChecksum(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, java.lang.String, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver java.lang.String getModuleDescriptorExtension()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.search.OrganisationEntry[] listOrganisations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findArtifactRef(org.apache.ivy.core.module.descriptor.Artifact, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver void addArtifactPattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IBiblioResolver void setRoot(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver java.lang.String getModuleDescriptorExtension()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver void findTokenValues(java.util.Collection, java.util.List, java.util.Map, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IvyRepResolver DEFAULT_IVYROOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver java.lang.String getDestination(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.ResolvedModuleRevision findModuleInCache(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver long get(org.apache.ivy.plugins.repository.Resource, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver java.lang.String getDestination(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.BasicResolver DATE_FORMAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.IvyNode getSystemNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.search.OrganisationEntry[] listOrganisations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findArtifactRef(org.apache.ivy.core.module.descriptor.Artifact, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.ResolvedModuleRevision findModuleInCache(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IBiblioResolver DEFAULT_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.ResolvedModuleRevision checkLatest(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolvedModuleRevision, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPattern(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.module.descriptor.DependencyDescriptor toSystem(org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver java.lang.String getDestination(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.VsftpResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IBiblioResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPattern(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.cache.CacheDownloadOptions getCacheDownloadOptions(org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver long getPublicationDate(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findArtifactRef(org.apache.ivy.core.module.descriptor.Artifact, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver void setArtpattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver java.lang.String getDestination(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver java.util.Map[] listTokenValues(java.lang.String[], java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver void addIvyPattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.SFTPResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.search.OrganisationEntry[] listOrganisations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver void setIvypattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.BasicResolver DESCRIPTOR_OPTIONAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.ResolvedModuleRevision checkLatest(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolvedModuleRevision, org.apache.ivy.core.resolve.ResolveData) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPattern(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.BasicResolver DESCRIPTOR_REQUIRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.plugins.repository.Resource getResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ResolverSettings org.apache.ivy.plugins.namespace.Namespace getSystemNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.DualResolver DESCRIPTOR_REQUIRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.module.descriptor.DependencyDescriptor toSystem(org.apache.ivy.core.module.descriptor.DependencyDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.SshResolver void setFileSeparator(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver void findTokenValues(java.util.Collection, java.util.List, java.util.Map, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver void publish(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.module.descriptor.DependencyDescriptor fromSystem(org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPattern(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.module.descriptor.DependencyDescriptor fromSystem(org.apache.ivy.core.module.descriptor.DependencyDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver void checkModuleDescriptorRevision(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ResolverSettings void filterIgnore(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractSshBasedResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.VfsResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver void convertM2TokenValuesForResourceSearch(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver java.lang.String[] listTokenValues(java.lang.String, java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver long get(org.apache.ivy.plugins.repository.Resource, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.plugins.resolver.util.ResourceMDParser getDefaultRMDParser(org.apache.ivy.core.module.id.ModuleId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findFirstArtifactRef(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver java.util.Collection findIvyNames(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IBiblioResolver DEFAULT_ROOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.plugins.resolver.util.ResourceMDParser getRMDParser(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver void setRepositoryCacheManager(org.apache.ivy.core.cache.RepositoryCacheManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver long get(org.apache.ivy.plugins.repository.Resource, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver void publish(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IvyRepResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver java.util.Collection findArtifactNames(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.FileSystemResolver void addConfiguredIvy(org.apache.ivy.core.settings.IvyPattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.URLResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver java.util.Collection findNames(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.CacheResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.CacheResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.RepositoryResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.DownloadOptions getDownloadOptions(org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ResolverSettings java.lang.String getResolveMode(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver void addArtifactPattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.ChainResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IBiblioResolver DEFAULT_M2_ROOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver void findTokenValues(java.util.Collection, java.util.List, java.util.Map, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DualResolver boolean exists(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver void publish(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPattern(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver java.util.Collection findNames(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.ResolvedModuleRevision findModuleInCache(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver boolean shouldReturnResolvedModule(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolvedModuleRevision) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.FileSystemResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver void setPattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.JarResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findArtifactRef(org.apache.ivy.core.module.descriptor.Artifact, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.RepositoryResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] listResources(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.IBiblioResolver org.apache.ivy.core.search.RevisionEntry[] listRevisions(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.SshResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.resolve.ResolvedModuleRevision findModuleInCache(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver void addConfiguredArtifact(org.apache.ivy.core.settings.IvyPattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findResourceUsingPattern(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.resolver.util.ResourceMDParser, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.DualResolver DESCRIPTOR_OPTIONAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.DependencyResolver org.apache.ivy.core.resolve.ResolvedModuleRevision getDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver boolean shouldReturnResolvedModule(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolvedModuleRevision) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver org.apache.ivy.core.module.id.ModuleRevisionId convertM2IdForResourceSearch(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.AbstractResolver org.apache.ivy.core.search.ModuleEntry[] listModules(org.apache.ivy.core.search.OrganisationEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.IvyRepResolver void setArtroot(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.BasicResolver org.apache.ivy.core.report.DownloadReport download(org.apache.ivy.core.module.descriptor.Artifact[], org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

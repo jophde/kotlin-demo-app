@@ -1,0 +1,1030 @@
+<root>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper void doubleTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher void assignToArray(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack org.codehaus.groovy.classgen.asm.BytecodeVariable defineVariable(org.codehaus.groovy.ast.Variable, org.codehaus.groovy.ast.ClassNode, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeSynchronized(org.codehaus.groovy.ast.stmt.SynchronizedStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void unbox(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller org.codehaus.groovy.classgen.asm.MethodCaller newVirtual(java.lang.Class, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack void init(org.codehaus.groovy.ast.VariableScope, org.codehaus.groovy.ast.Parameter[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OperandStack void doGroovyCast(org.codehaus.groovy.ast.Variable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateBinaryExpression(java.lang.String, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeExpressionStatement(org.codehaus.groovy.ast.stmt.ExpressionStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack org.codehaus.groovy.classgen.asm.BytecodeVariable defineVariable(org.codehaus.groovy.ast.Variable, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void eval(org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeCaseStatement(org.codehaus.groovy.ast.stmt.CaseStatement, int, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getClassInternalName(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeIfElse(org.codehaus.groovy.ast.stmt.IfStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper void removeTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void writeSpecialConstructorCall(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.BytecodeHelper int hashCode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter void removeTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ExpressionAsVariableSlot void visit(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeForStatement(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MopWriter java.lang.String getMopMethodName(org.codehaus.groovy.ast.MethodNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack org.codehaus.groovy.classgen.asm.BytecodeVariable defineVariable(org.codehaus.groovy.ast.Variable, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller org.codehaus.groovy.classgen.asm.MethodCaller newVirtual(java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateCompareExpression(org.codehaus.groovy.classgen.asm.MethodCaller, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ClosureWriter org.codehaus.groovy.ast.ClassNode getOrAddClosureClass(org.codehaus.groovy.ast.expr.ClosureExpression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getGenericsMethodSignature(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller org.codehaus.groovy.classgen.asm.MethodCaller newStatic(java.lang.Class, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeSwitch(org.codehaus.groovy.ast.stmt.SwitchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper void doubleTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack org.codehaus.groovy.classgen.asm.BytecodeVariable getVariable(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper void doubleTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getGenericsBounds(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getTypeDescription(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OperandStack void loadOrStoreVariable(org.codehaus.groovy.classgen.asm.BytecodeVariable, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.UnaryExpressionHelper void writeUnaryPlus(org.codehaus.groovy.ast.expr.UnaryPlusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack groovyjarjarasm.asm.Label createLocalLabel(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void makeCall(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeIteratorNext(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeContinue(org.codehaus.groovy.ast.stmt.ContinueStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter stdCompareCodes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.UnaryExpressionHelper void writeUnaryMinus(org.codehaus.groovy.ast.expr.UnaryMinusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeReturn(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack org.codehaus.groovy.classgen.asm.BytecodeVariable defineVariable(org.codehaus.groovy.ast.Variable, org.codehaus.groovy.ast.ClassNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher typeMapKeyNames'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter java.util.List&lt;java.lang.String&gt; getCallSites()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluatePostfixMethod(org.codehaus.groovy.ast.expr.PostfixExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller MethodCaller(int, java.lang.Class, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeIteratorHasNext(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack void init(org.codehaus.groovy.ast.VariableScope, org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void pushConstant(groovyjarjarasm.asm.MethodVisitor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper void doubleTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper void removeTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doCastToPrimitive(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeIteratorHasNext(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getMethodDescriptor(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.OperandStack groovyjarjarasm.asm.Label jump(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter org.codehaus.groovy.ast.ClassNode getArrayGetResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeWhileLoop(org.codehaus.groovy.ast.stmt.WhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.TypeChooser org.codehaus.groovy.ast.ClassNode resolveType(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getMethodDescriptor(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.DelegatingController void init(org.codehaus.groovy.classgen.AsmClassGenerator, org.codehaus.groovy.classgen.GeneratorContext, groovyjarjarasm.asm.ClassVisitor, org.codehaus.groovy.ast.ClassNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeReturn(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeAssert(org.codehaus.groovy.ast.stmt.AssertStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher boolean doPrimtiveCompare(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.BinaryExpression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper boolean isClassLiteralPossible(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void castNonPrimitiveToBool(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter java.lang.String prepareConstructorCall(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter void call(groovyjarjarasm.asm.MethodVisitor, int, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper void removeTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeThrow(org.codehaus.groovy.ast.stmt.ThrowStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doCastToPrimitive(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getMethodDescriptor(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.Parameter[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void unbox(groovyjarjarasm.asm.MethodVisitor, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeBlockStatement(org.codehaus.groovy.ast.stmt.BlockStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getClassInternalName(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String[] getClassInternalNames(org.codehaus.groovy.ast.ClassNode[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeBreak(org.codehaus.groovy.ast.stmt.BreakStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getGenericsSignature(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeExpressionStatement(org.codehaus.groovy.ast.stmt.ExpressionStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void assignToArray(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryDoubleExpressionHelper void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.MethodCaller java.lang.reflect.Method getMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OperandStack void storeVar(org.codehaus.groovy.classgen.asm.BytecodeVariable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper org.codehaus.groovy.ast.ClassNode getDevisionOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void writeInvokeMethod(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void writeInvokeStaticMethod(org.codehaus.groovy.ast.expr.StaticMethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher void evaluateBinaryExpressionWithAssignment(java.lang.String, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void coerce(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doCastToPrimitive(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ClosureWriter org.codehaus.groovy.ast.ClassNode createClosureClass(org.codehaus.groovy.ast.expr.ClosureExpression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void castToNonPrimitiveIfNecessary(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MopWriter.Factory org.codehaus.groovy.classgen.asm.MopWriter create(org.codehaus.groovy.classgen.asm.WriterController)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.BytecodeVariable THIS_VARIABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateBinaryExpressionWithAssignment(java.lang.String, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeWhileLoop(org.codehaus.groovy.ast.stmt.WhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter void doubleTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeForInLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void visitBoxedArgument(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.WriterControllerFactory org.codehaus.groovy.classgen.asm.WriterController makeController(org.codehaus.groovy.classgen.asm.WriterController)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void coerce(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void negateBoolean(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper void doubleTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.InvocationWriter invokeStaticMethod'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeBlockStatement(org.codehaus.groovy.ast.stmt.BlockStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluatePrefixMethod(org.codehaus.groovy.ast.expr.PrefixExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateTernary(org.codehaus.groovy.ast.expr.TernaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getClassInternalName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper org.codehaus.groovy.ast.ClassNode getDevisionOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter org.codehaus.groovy.ast.expr.ArgumentListExpression makeArgumentList(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.UnaryExpressionHelper void writeNotExpression(org.codehaus.groovy.ast.expr.NotExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void visitClassLiteral(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doCastToWrappedType(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack org.codehaus.groovy.classgen.asm.BytecodeVariable getVariable(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.WriterController void init(org.codehaus.groovy.classgen.AsmClassGenerator, org.codehaus.groovy.classgen.GeneratorContext, groovyjarjarasm.asm.ClassVisitor, org.codehaus.groovy.ast.ClassNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OperandStack void pushConstant(org.codehaus.groovy.ast.expr.ConstantExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getIsCaseMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MopWriter void generateMopCalls(java.util.LinkedList&lt;org.codehaus.groovy.ast.MethodNode&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper org.codehaus.groovy.ast.ClassNode getArrayGetResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void makeGetPropertySite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeDumper byte[] processBytecode(java.lang.String, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeForInLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doCastToWrappedType(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ClosureWriter org.codehaus.groovy.ast.Parameter[] getClosureSharedVariables(org.codehaus.groovy.ast.expr.ClosureExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.AssertionWriter void writeAssertStatement(org.codehaus.groovy.ast.stmt.AssertStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.VariableSlotLoader void visit(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doCastToWrappedType(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.CallSiteWriter CONSTRUCTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void makeGroovyObjectGetPropertySite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller org.codehaus.groovy.classgen.asm.MethodCaller newInterface(java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.MopWriter FACTORY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionWriter void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getMethodDescriptor(java.lang.Class, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.InvocationWriter invokeMethod'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryBooleanExpressionHelper org.codehaus.groovy.ast.ClassNode getNormalOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper org.codehaus.groovy.ast.ClassNode getNormalOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper org.codehaus.groovy.ast.ClassNode getDevisionOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void prepareSiteAndReceiver(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack void writeExceptionTable(org.codehaus.groovy.classgen.asm.CompileStack.BlockRecorder, groovyjarjarasm.asm.Label, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void finnishConstructorCall(org.codehaus.groovy.ast.ConstructorNode, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.InvocationWriter invokeMethodOnSuper'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.MopWriter boolean isMopMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeStatementLabel(org.codehaus.groovy.ast.stmt.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryLongExpressionHelper void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void load(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getMethodDescriptor(java.lang.Class, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter newStatic(java.lang.Class, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String formatNameForClassLoading(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getTypeDescription(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryDoubleExpressionHelper org.codehaus.groovy.ast.ClassNode getDevisionOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper void writePlusPlus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void writeInvokeConstructor(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CompileStack int defineTemporaryVariable(org.codehaus.groovy.ast.Variable, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void setNodeMeta(org.codehaus.groovy.classgen.asm.TypeChooser, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.InvocationWriter invokeClosureMethod'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeDoWhileLoop(org.codehaus.groovy.ast.stmt.DoWhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher void evaluateCompareExpression(org.codehaus.groovy.classgen.asm.MethodCaller, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryDoubleExpressionHelper void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.InvocationWriter castToVargsArray'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeForLoopWithClosureList(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper org.codehaus.groovy.ast.ClassNode getDevisionOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String[] getClassInternalNames(org.codehaus.groovy.ast.ClassNode[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper java.lang.String getClassLoadingTypeDescription(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeTryCatchFinally(org.codehaus.groovy.ast.stmt.TryCatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher boolean doPrimitiveCompare(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.BinaryExpression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter boolean writeAICCall(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryDoubleExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArraySetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter newStatic(java.lang.Class, java.lang.String, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void makeUncachedCall(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.ClassExpression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter, boolean, boolean, boolean, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher void evaluateBinaryExpression(java.lang.String, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper org.codehaus.groovy.ast.ClassNode getNormalOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ClosureWriter void loadReference(java.lang.String, org.codehaus.groovy.classgen.asm.WriterController) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementMetaTypeChooser org.codehaus.groovy.ast.ClassNode resolveType(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateEqual(org.codehaus.groovy.ast.expr.BinaryExpression, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void makeCallSite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper boolean isSameCompilationUnit(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper boolean box(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.BytecodeVariable SUPER_VARIABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void writeNormalConstructorCall(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ClosureWriter org.codehaus.groovy.ast.Parameter[] getClosureSharedVariables(org.codehaus.groovy.ast.expr.ClosureExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper org.codehaus.groovy.ast.ClassNode getArrayGetResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryDoubleExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.InvocationWriter invokeMethodOnCurrent'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateArrayAssignmentWithOperator(java.lang.String, org.codehaus.groovy.ast.expr.BinaryExpression, org.codehaus.groovy.ast.expr.BinaryExpression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionMultiTypeDispatcher org.codehaus.groovy.classgen.asm.BinaryExpressionWriter[] initializeDelegateHelpers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper void doReturn(groovyjarjarasm.asm.MethodVisitor, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller org.codehaus.groovy.classgen.asm.MethodCaller newStatic(java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller org.codehaus.groovy.classgen.asm.MethodCaller newInterface(java.lang.Class, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.BytecodeDumper STANDARD_ERR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.CallSiteWriter void makeCallSite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeHelper boolean isSameCompilationUnit(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper void writeMinusMinus(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.UnaryExpressionHelper void writeBitwiseNegate(org.codehaus.groovy.ast.expr.BitwiseNegationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.InvocationWriter void loadArguments(java.util.List&lt;org.codehaus.groovy.ast.expr.Expression&gt;, org.codehaus.groovy.ast.Parameter[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryExpressionHelper void evaluateArrayAssignmentWithOperator(java.lang.String, org.codehaus.groovy.ast.expr.BinaryExpression, org.codehaus.groovy.ast.expr.BinaryExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper org.codehaus.groovy.classgen.asm.MethodCaller getArrayGetCaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeIfElse(org.codehaus.groovy.ast.stmt.IfStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeDoWhileLoop(org.codehaus.groovy.ast.stmt.DoWhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BytecodeDumper byte[] processBytecode(java.lang.String, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryIntExpressionHelper void removeTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryObjectExpressionHelper void removeTwoOperands(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.StatementWriter void writeForLoopWithClosureList(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryFloatExpressionHelper org.codehaus.groovy.ast.ClassNode getNormalOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.BinaryDoubleExpressionHelper org.codehaus.groovy.ast.ClassNode getNormalOpResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.MethodCaller void call(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.ClosureWriter org.codehaus.groovy.ast.ClassNode createClosureClass(org.codehaus.groovy.ast.expr.ClosureExpression, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.OptimizingStatementWriter void writeIteratorNext(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

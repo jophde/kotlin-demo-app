@@ -1,0 +1,14 @@
+<root>
+    <item name='rx.internal.util.atomic.MpscLinkedAtomicQueue boolean offer(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.util.atomic.SpscExactAtomicArrayQueue boolean offer(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.util.atomic.SpscLinkedAtomicQueue boolean offer(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.util.atomic.SpscUnboundedAtomicArrayQueue boolean offer(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

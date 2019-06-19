@@ -1,0 +1,51 @@
+<root>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.CardView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7...Anko.Factories.CardviewV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v7.widget.CardView&gt; getCARD_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.cardview.v7...Anko.Factories.CardviewV7View INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.CardView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.cardview.v7...Anko.Factories.CardviewV7View INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.CardView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.CardView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.CardView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.cardview.v7...Anko.Factories.CardviewV7View CARD_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.cardview.v7.CardviewV7ViewsKt android.support.v7.widget.CardView cardView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.CardView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

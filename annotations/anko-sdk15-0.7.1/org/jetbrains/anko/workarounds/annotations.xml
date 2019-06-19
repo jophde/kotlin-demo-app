@@ -1,0 +1,749 @@
+<root>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns DELETED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns PRESENCE_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RawContactsColumns RAW_CONTACT_IS_READ_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns PHOTO_URI'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RawContactsColumns DELETED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarContract_SyncColumns CAN_PARTIALLY_UPDATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns DURATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns SYNC1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PhoneLookupColumns TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_PRESENCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns AVAILABILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ExtendedPropertiesColumns NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.AttendeesColumns EVENT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns PRESENCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns LAST_SYNCED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EVENT_TIMEZONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns CREATION_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CommonColumns LABEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA_VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns HAS_EXTENDED_PROPERTIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns SYNC2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns RDATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns AUTO_ADD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns MIMETYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns DATA_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns CHAT_CAPABILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns OWNER_ACCOUNT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarCacheColumns KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarContract_SyncColumns ACCOUNT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns SYNC3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ExtendedPropertiesColumns EVENT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns RAW_CONTACT_SOURCE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA11'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns IS_READ_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PresenceColumns IM_ACCOUNT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns CAN_INVITE_OTHERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.AttendeesColumns ATTENDEE_EMAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PresenceColumns CUSTOM_PROTOCOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns EVENT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EVENT_END_TIMEZONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns MAX_REMINDERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns UNGROUPED_WITH_PHONES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactOptionsColumns LAST_TIME_CONTACTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RawContactsColumns DATA_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_STATUS_RES_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns ALLOWED_REMINDERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns BEGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns LOOKUP_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns SYNC3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns DTSTART'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns GUESTS_CAN_SEE_GUESTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns ALLOWED_AVAILABILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns PHONETIC_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns CONTACT_LOOKUP_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ColorsColumns COLOR_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns GUESTS_CAN_INVITE_OTHERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ORIGINAL_ALL_DAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns SYNC2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns STATUS_LABEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_STATUS_LABEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns IS_USER_PROFILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns PHOTO_FILE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns ACCOUNT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactOptionsColumns TIMES_CONTACTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns DISPLAY_NAME_ALTERNATIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventDaysColumns STARTDAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns STATUS_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns CONTACT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PresenceColumns IM_HANDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns SYNC1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EXRULE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PresenceColumns PROTOCOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ORGANIZER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactOptionsColumns SEND_TO_VOICEMAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns SYNC_EVENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns HAS_PHONE_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns SHOULD_SYNC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactOptionsColumns CUSTOM_RINGTONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PhoneLookupColumns LABEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RawContactsColumns RAW_CONTACT_IS_USER_PROFILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns UNGROUPED_VISIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CommonColumns TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns DISPLAY_NAME_PRIMARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns SHOULD_SYNC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_CHAT_CAPABILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EVENT_LOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ORIGINAL_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns ACCOUNT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns END'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns ALARM_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns SUMMARY_WITH_PHONES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RawContactsColumns CONTACT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ALL_DAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventDaysColumns ENDDAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CALENDAR_DISPLAY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns PHONETIC_NAME_STYLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns STREAM_ITEM_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns ACCOUNT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CALENDAR_COLOR_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns SORT_KEY_PRIMARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns RAW_CONTACT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PhoneLookupColumns NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns LAST_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns STATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns PHOTO_FILE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ORIGINAL_SYNC_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns IS_SUPER_PRIMARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_STATUS_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns PHOTO_THUMBNAIL_URI'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns DATA_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.AttendeesColumns ATTENDEE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CAN_MODIFY_TIME_ZONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ACCESS_LEVEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns FAVORITES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactStatusColumns CONTACT_STATUS_TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CALENDAR_COLOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns GROUP_IS_READ_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CommonColumns DATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns NOTIFY_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns PHOTO_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns CALENDAR_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.AttendeesColumns ATTENDEE_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns RRULE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns RES_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns UNGROUPED_COUNT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns RAW_CONTACT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarContract_SyncColumns _SYNC_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns RES_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CAN_ORGANIZER_RESPOND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns HAS_ALARM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns SYNC4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EVENT_COLOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns DTEND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.AttendeesColumns ATTENDEE_RELATIONSHIP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns DISPLAY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarContract_SyncColumns DELETED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns RES_LABEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns ALLOWED_ATTENDEE_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsContract_SyncColumns ACCOUNT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns SYNC2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA14'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RawContactsColumns AGGREGATION_MODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns GUESTS_CAN_MODIFY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.SettingsColumns ANY_UNSYNCED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns DEFAULT_SORT_ORDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsContract_SyncColumns SOURCE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns ACCOUNT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns SORT_INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns GROUP_VISIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns SYNC4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns MINUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarAlertsColumns RECEIVED_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns SYNC1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns SUMMARY_COUNT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns COMMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA13'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns DATA_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RemindersColumns MINUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CALENDAR_ACCESS_LEVEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.PresenceColumns DATA_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns DESCRIPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns CALENDAR_TIME_ZONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns PRESENCE_CUSTOM_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns SORT_KEY_ALTERNATIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RemindersColumns METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns SYNC4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns NOTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ExtendedPropertiesColumns VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarColumns VISIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EXDATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns ORIGINAL_INSTANCE_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.GroupsColumns SYSTEM_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarContract_SyncColumns DIRTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.AttendeesColumns ATTENDEE_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ColorsColumns COLOR_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SELF_ATTENDEE_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarContract_SyncColumns ACCOUNT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsContract_SyncColumns ACCOUNT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsContract_SyncColumns VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.RemindersColumns EVENT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactOptionsColumns STARRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactNameColumns DISPLAY_NAME_SOURCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsColumns IN_VISIBLE_GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns SYNC_DATA5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns STATUS_RES_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns HAS_ATTENDEE_DATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns SYNC3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StatusColumns STATUS_TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.EventsColumns EVENT_COLOR_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ColorsColumns COLOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns IS_PRIMARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA15'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemPhotosColumns PHOTO_URI'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.ContactsContract_SyncColumns DIRTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.CalendarCacheColumns VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.StreamItemsColumns TEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.workarounds.InterfaceWorkarounds.DataColumns DATA5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

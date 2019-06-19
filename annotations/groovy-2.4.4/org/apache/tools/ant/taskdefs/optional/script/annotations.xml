@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.script.ScriptDef.NestedElement void setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.script.ScriptDef java.lang.Object createNestedElement(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.script.ScriptDef.Attribute void setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.script.ScriptDefBase java.lang.Object createDynamicElement(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

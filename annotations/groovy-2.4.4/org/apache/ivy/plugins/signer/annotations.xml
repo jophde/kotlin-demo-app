@@ -1,0 +1,9 @@
+<root>
+    <item name='org.apache.ivy.plugins.signer.SignatureGenerator java.lang.String getExtension()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

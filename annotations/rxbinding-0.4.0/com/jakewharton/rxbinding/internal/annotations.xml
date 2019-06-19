@@ -1,0 +1,14 @@
+<root>
+    <item name='com.jakewharton.rxbinding.internal.Functions FUNC1_ALWAYS_TRUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.internal.Preconditions T checkNotNull(T, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.internal.Preconditions T checkNotNull(T, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.internal.Functions FUNC0_ALWAYS_TRUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

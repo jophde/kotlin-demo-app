@@ -1,0 +1,227 @@
+<root>
+    <item name='org.ccil.cowan.tagsoup.Parser CDATAElementsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser defaultAttributesFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser scannerProperty'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser externalParameterEntitiesFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser java.lang.Object getProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser namespacePrefixesFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.HTMLScanner void scan(java.io.Reader, org.ccil.cowan.tagsoup.ScanHandler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser ignoreBogonsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Schema void attribute(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.PYXScanner void scan(java.io.Reader, org.ccil.cowan.tagsoup.ScanHandler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter INDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser resolveDTDURIsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser restartElementsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void emptyElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.ElementType java.lang.String namespace(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.AttributesImpl void setAttributes(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser ignorableWhitespaceFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void dataElement(java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser XML11Feature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser void setFeature(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.CommandLine void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter DOCTYPE_SYSTEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Schema void parent(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser unicodeNormalizationCheckingFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser stringInterningFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void dataElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser validationFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void dataElement(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.PYXWriter void endElement(java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter DOCTYPE_PUBLIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Schema void attribute(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.PYXWriter void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser schemaProperty'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Element boolean canContain(org.ccil.cowan.tagsoup.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser autoDetectorProperty'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.AttributesImpl AttributesImpl(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Schema void parent(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter CDATA_SECTION_ELEMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.AutoDetector java.io.Reader autoDetectingReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.ElementType void setAttribute(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Scanner void scan(java.io.Reader, org.ccil.cowan.tagsoup.ScanHandler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void dataElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes, java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser xmlnsURIsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter MEDIA_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser useLocator2Feature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser translateColonsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser useAttributes2Feature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser bogonsEmptyFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void setOutputProperty(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.PYXWriter void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.ElementType void setAttribute(org.ccil.cowan.tagsoup.AttributesImpl, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.ElementType boolean canContain(org.ccil.cowan.tagsoup.ElementType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.ElementType java.lang.String localName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser useEntityResolver2Feature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser namespacesFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser void setProperty(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.ElementType ElementType(java.lang.String, int, int, int, org.ccil.cowan.tagsoup.Schema) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser externalGeneralEntitiesFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter STANDALONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Element void setAttribute(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser isStandaloneFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser lexicalHandlerParameterEntitiesFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Schema void elementType(java.lang.String, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter OMIT_XML_DECLARATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser void parse(org.xml.sax.InputSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Schema org.ccil.cowan.tagsoup.ElementType getElementType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter ENCODING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser lexicalHandlerProperty'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.XMLWriter void characters(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.ccil.cowan.tagsoup.Parser rootBogonsFeature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

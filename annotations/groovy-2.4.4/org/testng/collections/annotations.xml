@@ -1,0 +1,87 @@
+<root>
+    <item
+        name='org.testng.collections.Sets java.util.Set&lt;V&gt; newHashSet(java.util.Collection&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.SetMultiMap java.util.Set&lt;K&gt; getKeys()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Lists java.util.List&lt;K&gt; newArrayList(java.util.Collection&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.ListMultiMap void putAll(K, java.util.Collection&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Maps java.util.Map&lt;K,V&gt; newHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Maps java.util.Map&lt;K,V&gt; newHashMap(java.util.Map&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Sets java.util.Set&lt;V&gt; newHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.SetMultiMap void putAll(K, java.util.Collection&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Objects.ToStringHelper org.testng.collections.Objects.ToStringHelper add(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.ListMultiMap org.testng.collections.ListMultiMap&lt;K,V&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.ListMultiMap java.util.List&lt;K&gt; getKeys()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Maps java.util.Map&lt;K,V&gt; newHashtable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Objects.ToStringHelper org.testng.collections.Objects.ToStringHelper add(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Objects org.testng.collections.Objects.ToStringHelper toStringHelper(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Lists java.util.List&lt;K&gt; newArrayList(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Lists java.util.List&lt;K&gt; newArrayList(K...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Objects.ToStringHelper org.testng.collections.Objects.ToStringHelper omitNulls()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Lists java.util.List&lt;K&gt; newArrayList(K...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Lists java.util.List&lt;K&gt; newArrayList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Objects org.testng.collections.Objects.ToStringHelper toStringHelper(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Maps org.testng.collections.SetMultiMap&lt;K,V&gt; newSetMultiMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Maps org.testng.collections.ListMultiMap&lt;K,V&gt; newListMultiMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.collections.Objects.ToStringHelper org.testng.collections.Objects.ToStringHelper omitEmptyStrings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.collections.Maps java.util.Map&lt;K,V&gt; newLinkedHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

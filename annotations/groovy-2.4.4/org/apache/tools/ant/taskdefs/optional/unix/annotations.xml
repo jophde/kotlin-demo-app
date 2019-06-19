@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.unix.Symlink void deleteSymlink(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

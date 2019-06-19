@@ -1,0 +1,760 @@
+<root>
+    <item
+        name='groovyjarjarasm.asm.tree.TryCatchBlockNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.TypeInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insert(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InvokeDynamicInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.MethodVisitor visitMethod(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.JumpInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldNode void visitAttribute(groovyjarjarasm.asm.Attribute) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode void accept(groovyjarjarasm.asm.MethodVisitor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.InsnList void add(groovyjarjarasm.asm.tree.InsnList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode LocalVariableAnnotationNode(int, int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.tree.LabelNode[], groovyjarjarasm.asm.tree.LabelNode[], int[], java.lang.String) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitInvokeDynamicInsn(java.lang.String, java.lang.String, groovyjarjarasm.asm.Handle, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LineNumberNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void accept(groovyjarjarasm.asm.ClassVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitTypeAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitMultiANewArrayInsn(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.MethodNode void visitLabel(groovyjarjarasm.asm.Label) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitLocalVariableAnnotation(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.Label[], groovyjarjarasm.asm.Label[], int[], java.lang.String, boolean) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.IincInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insert(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.AbstractInsnNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.MethodVisitor visitMethod(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insertBefore(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.InsnList) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.IntInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLineNumber(int, groovyjarjarasm.asm.Label) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.AnnotationVisitor visitTypeAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insertBefore(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitInvokeDynamicInsn(java.lang.String, java.lang.String, groovyjarjarasm.asm.Handle, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.InsnList java.util.ListIterator iterator(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LdcInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.TableSwitchInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LabelNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AbstractInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MultiANewArrayInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AbstractInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode void visit(int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LookupSwitchInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LabelNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitTableSwitchInsn(int, int, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode void visitInnerClass(java.lang.String, java.lang.String, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitLocalVariableAnnotation(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.Label[], groovyjarjarasm.asm.Label[], int[], java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLookupSwitchInsn(groovyjarjarasm.asm.Label, int[], groovyjarjarasm.asm.Label[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList groovyjarjarasm.asm.tree.AbstractInsnNode[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.TableSwitchInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.VarInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode LocalVariableAnnotationNode(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.tree.LabelNode[], groovyjarjarasm.asm.tree.LabelNode[], int[], java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AnnotationNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.tree.LabelNode getLabelNode(groovyjarjarasm.asm.Label) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AbstractInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.VarInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitTableSwitchInsn(int, int, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLookupSwitchInsn(groovyjarjarasm.asm.Label, int[], groovyjarjarasm.asm.Label[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AnnotationNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AnnotationNode groovyjarjarasm.asm.AnnotationVisitor visitArray(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void remove(groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.InsnList void insert(groovyjarjarasm.asm.tree.InsnList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.JumpInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InvokeDynamicInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitLocalVariableAnnotation(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.Label[], groovyjarjarasm.asm.Label[], int[], java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList int indexOf(groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitMethodInsn(int, java.lang.String, java.lang.String, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLookupSwitchInsn(groovyjarjarasm.asm.Label, int[], groovyjarjarasm.asm.Label[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void add(groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LdcInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitTryCatchBlock(groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.TypeInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insert(groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void set(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.AbstractInsnNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.FieldVisitor visitField(int, java.lang.String, java.lang.String, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FrameNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.InsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitTryCatchAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.IntInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitParameterAnnotation(int, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode LocalVariableAnnotationNode(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.tree.LabelNode[], groovyjarjarasm.asm.tree.LabelNode[], int[], java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.MethodNode void visitLdcInsn(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitParameterAnnotation(int, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.FieldVisitor visitField(int, java.lang.String, java.lang.String, java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitFieldInsn(int, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitInsnAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitTryCatchBlock(groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode void visitAttribute(groovyjarjarasm.asm.Attribute) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldNode groovyjarjarasm.asm.AnnotationVisitor visitTypeAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitAttribute(groovyjarjarasm.asm.Attribute) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitTypeAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode void visitOuterClass(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode LocalVariableAnnotationNode(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.tree.LabelNode[], groovyjarjarasm.asm.tree.LabelNode[], int[], java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LookupSwitchInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitLocalVariableAnnotation(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.Label[], groovyjarjarasm.asm.Label[], int[], java.lang.String, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AbstractInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode cloneAnnotations(groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AnnotationNode void visitEnum(java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MultiANewArrayInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitInsnAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode LocalVariableAnnotationNode(int, int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.tree.LabelNode[], groovyjarjarasm.asm.tree.LabelNode[], int[], java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitTryCatchAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.MethodVisitor visitMethod(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insertBefore(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.AbstractInsnNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.FieldNode void accept(groovyjarjarasm.asm.ClassVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LineNumberNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.ClassNode void accept(groovyjarjarasm.asm.ClassVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InnerClassNode void accept(groovyjarjarasm.asm.ClassVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitLocalVariableAnnotation(int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.Label[], groovyjarjarasm.asm.Label[], int[], java.lang.String, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.MethodNode void visitTypeInsn(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitFieldInsn(int, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FrameNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.IincInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode clone(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AnnotationNode void visitEnum(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarasm.asm.tree.InsnList java.util.ListIterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.AnnotationVisitor visitTypeAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AbstractInsnNode groovyjarjarasm.asm.tree.AbstractInsnNode cloneAnnotations(groovyjarjarasm.asm.tree.AbstractInsnNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.AnnotationNode void visit(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldNode groovyjarjarasm.asm.AnnotationVisitor visitTypeAnnotation(int, groovyjarjarasm.asm.TypePath, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ParameterNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitJumpInsn(int, groovyjarjarasm.asm.Label) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitTryCatchBlock(groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LocalVariableAnnotationNode LocalVariableAnnotationNode(int, int, groovyjarjarasm.asm.TypePath, groovyjarjarasm.asm.tree.LabelNode[], groovyjarjarasm.asm.tree.LabelNode[], int[], java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.ClassNode groovyjarjarasm.asm.FieldVisitor visitField(int, java.lang.String, java.lang.String, java.lang.String, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void set(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.AbstractInsnNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FrameNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.FieldNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotation(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode groovyjarjarasm.asm.AnnotationVisitor visitAnnotationDefault()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodNode void visitLocalVariable(java.lang.String, java.lang.String, java.lang.String, groovyjarjarasm.asm.Label, groovyjarjarasm.asm.Label, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.MethodInsnNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.LineNumberNode void accept(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.tree.InsnList void insert(groovyjarjarasm.asm.tree.AbstractInsnNode, groovyjarjarasm.asm.tree.InsnList) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

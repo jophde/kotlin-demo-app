@@ -1,0 +1,101 @@
+<root>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectOutputStream createObjectOutputStream(com.thoughtworks.xstream.io.HierarchicalStreamWriter, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectInputStream createObjectInputStream(com.thoughtworks.xstream.io.HierarchicalStreamReader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectOutputStream createObjectOutputStream(java.io.OutputStream, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream com.thoughtworks.xstream.converters.DataHolder newDataHolder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectOutputStream createObjectOutputStream(com.thoughtworks.xstream.io.HierarchicalStreamWriter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectOutputStream createObjectOutputStream(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectInputStream createObjectInputStream(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(com.thoughtworks.xstream.io.HierarchicalStreamDriver, java.io.Reader, com.thoughtworks.xstream.security.TypePermission[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream void aliasPackage(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(com.thoughtworks.xstream.io.HierarchicalStreamDriver, java.io.Reader, com.thoughtworks.xstream.security.TypePermission[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer void toXML(com.thoughtworks.xstream.XStream, java.lang.Object, java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectOutputStream createObjectOutputStream(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(com.thoughtworks.xstream.io.HierarchicalStreamDriver, java.lang.String, com.thoughtworks.xstream.security.TypePermission[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream void alias(java.lang.String, java.lang.Class, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(com.thoughtworks.xstream.io.HierarchicalStreamDriver, java.lang.String, com.thoughtworks.xstream.security.TypePermission[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.String toXML(com.thoughtworks.xstream.XStream, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectOutputStream createObjectOutputStream(java.io.Writer, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(java.lang.String, com.thoughtworks.xstream.security.TypePermission[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream java.io.ObjectInputStream createObjectInputStream(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(com.thoughtworks.xstream.io.HierarchicalStreamDriver, java.io.Reader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(com.thoughtworks.xstream.io.HierarchicalStreamDriver, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStreamer java.lang.Object fromXML(java.io.Reader, com.thoughtworks.xstream.security.TypePermission[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream void aliasType(java.lang.String, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.XStream void alias(java.lang.String, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.XStream void aliasPackage(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

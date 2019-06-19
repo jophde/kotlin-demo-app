@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.shell.completion.GroovySyntaxCompletor.CompletionCase org.codehaus.groovy.tools.shell.completion.GroovySyntaxCompletor.CompletionCase $INIT(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.completion.ReflectionCompletionCandidate int compareTo(org.codehaus.groovy.tools.shell.completion.ReflectionCompletionCandidate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.completion.ReflectionCompletionCandidate java.util.List&lt;java.lang.String&gt; getjAnsiCodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.completion.ReflectionCompletionCandidate int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,49 @@
+<root>
+    <item name='groovy.xml.streamingmarkupsupport.Builder namespaceMethodMap'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.streamingmarkupsupport.StreamingMarkupWriter java.io.Writer escaped()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.streamingmarkupsupport.StreamingMarkupWriter java.io.Writer unescaped()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.streamingmarkupsupport.BaseMarkupBuilder java.lang.Object bind(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.streamingmarkupsupport.Builder.Built Built(groovy.lang.Closure, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.streamingmarkupsupport.Builder java.lang.Object bind(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.xml.streamingmarkupsupport.Builder java.lang.Object bind(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovy.xml.streamingmarkupsupport.Builder Builder(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.streamingmarkupsupport.BaseMarkupBuilder BaseMarkupBuilder(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.streamingmarkupsupport.BaseMarkupBuilder java.lang.Object bind(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.streamingmarkupsupport.Builder.Built namespaceSpecificTags'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

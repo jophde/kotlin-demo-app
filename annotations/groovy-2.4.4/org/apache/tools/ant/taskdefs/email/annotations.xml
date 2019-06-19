@@ -1,0 +1,39 @@
+<root>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailTask PLAIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.email.EmailTask org.apache.tools.ant.types.Path createAttachments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailTask AUTO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailTask MIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailAddress EmailAddress(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.email.EmailTask void setEncoding(org.apache.tools.ant.taskdefs.email.EmailTask.Encoding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailTask void setFrom(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailTask void setReplyTo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.email.EmailTask UU'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.email.EmailTask org.apache.tools.ant.taskdefs.email.Header createHeader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.email.EmailTask.Encoding java.lang.String[] getValues()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

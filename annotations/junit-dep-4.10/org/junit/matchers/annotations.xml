@@ -1,0 +1,26 @@
+<root>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItem(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;java.lang.String&gt; containsString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItem(org.hamcrest.Matcher&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.junit.internal.matchers.CombinableMatcher&lt;T&gt; either(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; everyItem(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.hamcrest.Matcher&lt;java.lang.Iterable&lt;T&gt;&gt; hasItems(org.hamcrest.Matcher&lt;? extends T&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.junit.matchers.JUnitMatchers org.junit.internal.matchers.CombinableMatcher&lt;T&gt; both(org.hamcrest.Matcher&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

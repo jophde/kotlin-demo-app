@@ -1,0 +1,60 @@
+<root>
+    <item name='org.testng.remote.RemoteArgs PORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteDispatcher MASTER_STRATEGY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.RemoteWorker org.testng.SuiteRunner sendSuite(org.testng.remote.ConnectionInfo, org.testng.xml.XmlSuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.RemoteTestNG DEBUG_SUITE_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.RemoteTestNG PROPERTY_DEBUG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.RemoteArgs DONT_EXIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.RemoteArgs ACK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.RemoteWorker org.testng.SuiteRunner sendSuite(org.testng.remote.ConnectionInfo, org.testng.xml.XmlSuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteDispatcher STRATEGY_SUITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteDispatcher VERBOSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteDispatcher STRATEGY_TEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteDispatcher MASTER_ADPATER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.RemoteTestNG DEBUG_PORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteSlave VERBOSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.SuiteDispatcher java.util.List&lt;org.testng.ISuite&gt; dispatch(org.testng.internal.IConfiguration, java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.lang.String, java.util.List&lt;org.testng.ITestListener&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.SuiteSlave SLAVE_ADPATER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.RemoteTestNG PROPERTY_VERBOSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.RemoteWorker org.testng.SuiteRunner sendSuite(org.testng.remote.ConnectionInfo, org.testng.xml.XmlSuite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

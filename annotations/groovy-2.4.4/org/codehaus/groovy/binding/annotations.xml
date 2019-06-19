@@ -1,0 +1,120 @@
+<root>
+    <item name='org.codehaus.groovy.binding.PropertyBinding.UpdateStrategy OUTSIDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.SwingTimerTriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.ClosureTriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.ClosureTriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.binding.PropertyBinding.UpdateStrategy ASYNC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.BindPath void updateLocalSyntheticProperties(java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.BindingProxy java.lang.Object getProperty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.MutualPropertyBinding void setSourceBinding(org.codehaus.groovy.binding.SourceBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.binding.PropertyBinding.UpdateStrategy SAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.FullBinding void setSourceBinding(org.codehaus.groovy.binding.SourceBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.PropertyBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.TriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.binding.PropertyBinding.UpdateStrategy MIXED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.AbstractFullBinding void setSourceBinding(org.codehaus.groovy.binding.SourceBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.EventTriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.binding.PropertyBinding.UpdateStrategy SYNC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.PropertyPathFullBinding void propertyChange(java.beans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.EventTriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.binding.PropertyBinding.UpdateStrategy DEFER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.TriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.PropertyBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.binding.SwingTimerTriggerBinding org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

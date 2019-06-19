@@ -1,0 +1,34 @@
+<root>
+    <item
+        name='org.apache.ivy.osgi.updatesite.PluginAdapter org.apache.ivy.osgi.core.BundleInfo pluginAsBundle(java.net.URI, org.apache.ivy.osgi.updatesite.xml.EclipsePlugin) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.PluginAdapter org.apache.ivy.osgi.core.BundleInfo pluginAsBundle(java.net.URI, org.apache.ivy.osgi.updatesite.xml.EclipsePlugin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.PluginAdapter org.apache.ivy.osgi.core.BundleInfo pluginAsBundle(java.net.URI, org.apache.ivy.osgi.updatesite.xml.EclipsePlugin)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.PluginAdapter org.apache.ivy.osgi.core.BundleInfo featureAsBundle(java.net.URI, org.apache.ivy.osgi.updatesite.xml.EclipseFeature) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.PluginAdapter org.apache.ivy.osgi.core.BundleInfo featureAsBundle(java.net.URI, org.apache.ivy.osgi.updatesite.xml.EclipseFeature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.PluginAdapter org.apache.ivy.osgi.core.BundleInfo featureAsBundle(java.net.URI, org.apache.ivy.osgi.updatesite.xml.EclipseFeature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.UpdateSiteLoader org.apache.ivy.osgi.repo.RepoDescriptor load(java.net.URI) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.updatesite.UpdateSiteDescriptor void addFeature(org.apache.ivy.osgi.updatesite.xml.EclipseFeature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

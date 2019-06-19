@@ -1,0 +1,56 @@
+<root>
+    <item name='io.realm.rx.RealmObservableFactory rx.Observable&lt;io.realm.RealmResults&lt;E&gt;&gt; from(io.realm.Realm, io.realm.RealmResults&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.rx.RxObservableFactory rx.Observable&lt;io.realm.RealmResults&lt;E&gt;&gt; from(io.realm.Realm, io.realm.RealmResults&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.rx.RealmObservableFactory rx.Observable&lt;io.realm.DynamicRealmObject&gt; from(io.realm.DynamicRealm, io.realm.DynamicRealmObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.rx.RxObservableFactory rx.Observable&lt;io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt;&gt; from(io.realm.DynamicRealm, io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.rx.RealmObservableFactory rx.Observable&lt;io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt;&gt; from(io.realm.DynamicRealm, io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.rx.RxObservableFactory rx.Observable&lt;io.realm.DynamicRealmObject&gt; from(io.realm.DynamicRealm, io.realm.DynamicRealmObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.rx.RealmObservableFactory rx.Observable&lt;io.realm.DynamicRealm&gt; from(io.realm.DynamicRealm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.rx.RxObservableFactory rx.Observable&lt;io.realm.Realm&gt; from(io.realm.Realm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.rx.RealmObservableFactory rx.Observable&lt;io.realm.Realm&gt; from(io.realm.Realm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.rx.RxObservableFactory rx.Observable&lt;io.realm.DynamicRealm&gt; from(io.realm.DynamicRealm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.rx.RealmObservableFactory rx.Observable&lt;E&gt; from(io.realm.Realm, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.rx.RxObservableFactory rx.Observable&lt;E&gt; from(io.realm.Realm, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

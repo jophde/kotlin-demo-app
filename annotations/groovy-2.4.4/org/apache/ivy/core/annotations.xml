@@ -1,0 +1,190 @@
+<root>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.Artifact) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.LogOptions LOG_QUIET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String getTokenRoot(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.RelativeUrlResolver java.net.URL getURL(java.net.URL, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper BRANCH_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.ExecutionRelativeUrlResolver java.net.URL getURL(java.net.URL, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.util.Map, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper ARTIFACT_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.cache.ArtifactOrigin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.NormalRelativeUrlResolver java.net.URL getURL(java.net.URL, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyContext IvyContext(org.apache.ivy.core.IvyContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.ExecutionRelativeUrlResolver java.net.URL getURL(java.net.URL, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.core.LogOptions LOG_DOWNLOAD_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper EXT_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.Artifact, java.lang.String, org.apache.ivy.core.cache.ArtifactOrigin) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.LogOptions org.apache.ivy.core.LogOptions setLog(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper ORGANISATION_PATH_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.NormalRelativeUrlResolver java.net.URL getURL(java.net.URL, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.Artifact) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper CONF_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.RelativeUrlResolver java.net.URL getURL(java.net.URL, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper TYPE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper MODULE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.LogOptions LogOptions(org.apache.ivy.core.LogOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, org.apache.ivy.core.cache.ArtifactOrigin, java.util.Map, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substituteTokens(java.lang.String, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper void substituteVariable(java.lang.StringBuffer, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper REVISION_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.cache.ArtifactOrigin) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.Artifact, java.lang.String, org.apache.ivy.core.cache.ArtifactOrigin) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper void substituteToken(java.lang.StringBuffer, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.Artifact, java.lang.String, org.apache.ivy.core.cache.ArtifactOrigin) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.LogOptions LOG_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper ORGANISATION_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper ORGANISATION_KEY2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.IvyPatternHelper ORIGINAL_ARTIFACTNAME_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.IvyPatternHelper java.lang.String substitute(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

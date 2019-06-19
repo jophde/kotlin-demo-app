@@ -1,0 +1,107 @@
+<root>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor java.lang.String superClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.GrammarFile void addGrammar(groovyjarjarantlr.preprocessor.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Hierarchy groovyjarjarantlr.preprocessor.Grammar findRoot(groovyjarjarantlr.preprocessor.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Hierarchy void addGrammar(groovyjarjarantlr.preprocessor.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Preprocessor void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Tool Tool(groovyjarjarantlr.Tool, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Preprocessor groovyjarjarantlr.collections.impl.IndexedVector optionSpec(groovyjarjarantlr.preprocessor.Grammar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenNames'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Hierarchy void addGrammarFile(groovyjarjarantlr.preprocessor.GrammarFile) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Preprocessor _tokenSet_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.preprocessor.Hierarchy java.lang.String optionsToString(groovyjarjarantlr.collections.impl.IndexedVector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.Tool void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.preprocessor.PreprocessorLexer _tokenSet_9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v4.kotlin.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.kotlin.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.kotlin.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.kotlin.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

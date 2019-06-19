@@ -1,0 +1,542 @@
+<root>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor java.lang.String[] getDependencyConfigurations(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact DefaultArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact DefaultArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration Configuration(java.lang.String, org.apache.ivy.core.module.descriptor.Configuration.Visibility, java.lang.String, java.lang.String[], boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact org.apache.ivy.core.module.descriptor.Artifact newIvyArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact org.apache.ivy.core.module.id.ArtifactRevisionId getId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact newPomArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void addDependencyDescriptorMediator(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.descriptor.DependencyDescriptorMediator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ModuleDescriptor org.apache.ivy.core.module.id.ModuleRules getAllDependencyDescriptorMediators()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration void replaceWildcards(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ModuleDescriptor void setResolvedPublicationDate(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ConfigurationIntersection ConfigurationIntersection(java.lang.String, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultExtendsDescriptor DefaultExtendsDescriptor(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String[], boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.OverrideDependencyDescriptorMediator org.apache.ivy.core.module.descriptor.DependencyDescriptor mediate(org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact DefaultArtifact(org.apache.ivy.core.module.id.ArtifactRevisionId, java.util.Date, java.net.URL, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor java.lang.String[] getDependencyConfigurations(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact org.apache.ivy.core.module.descriptor.Artifact newIvyArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ModuleDescriptor java.util.Map&lt;java.lang.String,java.lang.String&gt; getExtraInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor DefaultDependencyDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newDefaultInstance(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.DependencyArtifactDescriptor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherMrid(org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newDefaultInstance(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.DependencyArtifactDescriptor[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ModuleDescriptor org.apache.ivy.plugins.conflict.ConflictManager getConflictManager(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor boolean doesExclude(java.lang.String[], org.apache.ivy.core.module.id.ArtifactId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ConfigurationGroup org.apache.ivy.core.module.descriptor.Configuration.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyArtifactDescriptor[] getDependencyArtifacts(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherName(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor DefaultDependencyDescriptor(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void addConfiguration(org.apache.ivy.core.module.descriptor.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherName(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor org.apache.ivy.core.module.id.ModuleRevisionId getDependencyRevisionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultExtendsDescriptor DefaultExtendsDescriptor(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.plugins.conflict.ConflictManager getConflictManager(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newDefaultInstance(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor boolean doesExclude(java.lang.String[], org.apache.ivy.core.module.id.ArtifactId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherMrid(org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor java.util.Map&lt;java.lang.String,java.lang.String&gt; getExtraInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherMrid(org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.module.id.ModuleRevisionId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor DefaultDependencyDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void setResolvedPublicationDate(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor org.apache.ivy.core.module.descriptor.ExcludeRule[] getExcludeRules(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.id.ModuleRules getAllDependencyDescriptorMediators()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyDescriptor clone(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.core.module.descriptor.Configuration.Visibility PUBLIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherType(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor transformInstance(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.NamespaceTransformer, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration java.util.Collection findConfigurationExtending(java.lang.String, org.apache.ivy.core.module.descriptor.Configuration[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newBasicInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void addConflictManager(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.plugins.conflict.ConflictManager) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.descriptor.ModuleDescriptor DEFAULT_CONFIGURATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyArtifactDescriptor DefaultDependencyArtifactDescriptor(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newCallerInstance(org.apache.ivy.core.module.id.ModuleRevisionId[], boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration java.util.Collection findConfigurationExtending(java.lang.String, org.apache.ivy.core.module.descriptor.Configuration[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor transformInstance(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.NamespaceTransformer, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration.Visibility org.apache.ivy.core.module.descriptor.Configuration.Visibility getVisibility(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherExt(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void setModuleRevisionId(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyDescriptor clone(org.apache.ivy.core.module.id.ModuleRevisionId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor org.apache.ivy.core.module.descriptor.IncludeRule[] getIncludeRules(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptorMediator org.apache.ivy.core.module.descriptor.DependencyDescriptor mediate(org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration Configuration(org.apache.ivy.core.module.descriptor.Configuration, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newCallerInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newCallerInstance(org.apache.ivy.core.module.id.ModuleRevisionId[], boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor DefaultModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.util.Date, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherType(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact java.lang.String[] getConfigurations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ConfigurationGroup ConfigurationGroup(java.lang.String, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ModuleDescriptor boolean doesExclude(java.lang.String[], org.apache.ivy.core.module.id.ArtifactId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration Configuration(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyArtifactDescriptor DefaultDependencyArtifactDescriptor(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newBasicInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor DefaultModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration org.apache.ivy.core.module.descriptor.Configuration.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DependencyDescriptor mediate(org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact newIvyArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.ConfigurationIntersection org.apache.ivy.core.module.descriptor.Configuration.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newCallerInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newDefaultInstance(org.apache.ivy.core.module.id.ModuleRevisionId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact DefaultArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date, java.lang.String, java.lang.String, java.lang.String, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact newIvyArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor DefaultModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.util.Date, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void addConflictManager(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.plugins.conflict.ConflictManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor DefaultDependencyDescriptor(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.ExcludeRule[] getExcludeRules(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyArtifactDescriptor DefaultDependencyArtifactDescriptor(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor DefaultModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.ModuleDescriptor transformInstance(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.plugins.namespace.Namespace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact newPomArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor void addDependencyDescriptorMediator(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.descriptor.DependencyDescriptorMediator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherTypeAndExt(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.Configuration Configuration(java.lang.String, org.apache.ivy.core.module.descriptor.Configuration.Visibility, java.lang.String, java.lang.String[], boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.descriptor.ModuleDescriptor CALLER_ALL_CONFIGURATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherTypeAndExt(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor transformInstance(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.NamespaceTransformer, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyDescriptor clone(org.apache.ivy.core.module.id.ModuleRevisionId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.IncludeRule[] getIncludeRules(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyArtifactDescriptor[] getDependencyArtifacts(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor boolean doesExclude(java.lang.String[], org.apache.ivy.core.module.id.ArtifactId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.id.ModuleRevisionId getDependencyRevisionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact org.apache.ivy.core.module.descriptor.Artifact cloneWithAnotherExt(org.apache.ivy.core.module.descriptor.Artifact, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyDescriptor transformInstance(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.Namespace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultArtifact DefaultArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Date, java.lang.String, java.lang.String, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor DefaultDependencyDescriptor(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, boolean, boolean, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.MDArtifact MDArtifact(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.lang.String, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyArtifactDescriptor DefaultDependencyArtifactDescriptor(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.lang.String, java.lang.String, java.lang.String, java.net.URL, java.util.Map) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor org.apache.ivy.core.module.descriptor.DependencyDescriptor clone(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.descriptor.Configuration.Visibility PRIVATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor newCallerInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor java.lang.String replaceFallbackConfigurationPattern(java.util.regex.Pattern, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

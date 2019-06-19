@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='com.thoughtworks.qdox.ant.AbstractQdoxTask com.thoughtworks.qdox.model.DocletTagFactory createDocletTagFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.ant.AbstractQdoxTask void buildFileMap(java.io.File, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.ant.AbstractQdoxTask void processSources(com.thoughtworks.qdox.model.JavaSource[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.ant.AbstractQdoxTask void processClasses(com.thoughtworks.qdox.model.JavaClass[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

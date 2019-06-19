@@ -1,0 +1,54 @@
+<root>
+    <item
+        name='org.codehaus.groovy.ant.CompileTaskSupport groovy.lang.GroovyClassLoader createClassLoader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ant.Groovy void execGroovy(java.lang.String, java.io.PrintStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ant.Groovydoc org.codehaus.groovy.tools.groovydoc.LinkArgument createLink()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.CompileTaskSupport log'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.Groovyc void addToCompileList(java.io.File[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.Groovy void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.FileScanner java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ant.AntProjectPropertiesDelegate java.lang.Object put(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ant.AntProjectPropertiesDelegate java.lang.Object put(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.FileScanner java.util.Iterator directories()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ant.Groovyc groovy.lang.GroovyClassLoader buildClassLoaderFor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.AntProjectPropertiesDelegate void putAll(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.Groovy void printResults(java.io.PrintStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ant.Groovyc org.codehaus.groovy.control.CompilationUnit makeCompileUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ant.Groovyc void setScriptExtension(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,21 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.cvslib.ChangeLogWriter void printChangeLog(java.io.PrintWriter, org.apache.tools.ant.taskdefs.cvslib.CVSEntry[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.cvslib.CVSEntry void addFile(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.cvslib.ChangeLogWriter void printChangeLog(java.io.PrintWriter, org.apache.tools.ant.taskdefs.cvslib.CVSEntry[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.cvslib.CVSEntry java.util.Vector getFiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.cvslib.CVSEntry void addFile(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

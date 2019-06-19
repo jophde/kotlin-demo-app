@@ -1,0 +1,93 @@
+<root>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamReader void appendErrors(com.thoughtworks.xstream.converters.ErrorWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamWriter com.thoughtworks.xstream.io.HierarchicalStreamWriter underlyingWriter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamWriter void startNode(java.lang.String, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token void writeId(java.io.DataOutput, long, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token.Formatter com.thoughtworks.xstream.io.binary.Token read(java.io.DataInput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token.Formatter void write(java.io.DataOutput, com.thoughtworks.xstream.io.binary.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token.Formatter com.thoughtworks.xstream.io.binary.Token read(java.io.DataInput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token.Formatter void write(java.io.DataOutput, com.thoughtworks.xstream.io.binary.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamReader com.thoughtworks.xstream.io.HierarchicalStreamReader underlyingReader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token java.lang.String readString(java.io.DataInput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.binary.Token long readId(java.io.DataInput, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.BinaryStreamWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token void writeString(java.io.DataOutput, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.binary.Token void writeString(java.io.DataOutput, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

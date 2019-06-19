@@ -1,0 +1,116 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp org.apache.ivy.plugins.repository.ssh.Scp.FileInfo getFileinfo(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository void setListCommand(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository void get(java.lang.String, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository java.io.InputStream openStream(org.apache.ivy.plugins.repository.ssh.SshResource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository void put(java.io.File, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.AbstractSshBasedRepository void releaseSession(com.jcraft.jsch.Session, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshResource org.apache.ivy.plugins.repository.Resource clone(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository org.apache.ivy.plugins.repository.Resource getResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository java.util.List list(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository org.apache.ivy.plugins.repository.ssh.SshResource resolveResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.repository.ssh.SshResource java.io.InputStream openStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.repository.ssh.Scp Scp(com.jcraft.jsch.Session) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp void get(java.lang.String, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshCache com.jcraft.jsch.Session getSession(java.lang.String, int, java.lang.String, java.lang.String, java.io.File, java.lang.String, java.io.File, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp org.apache.ivy.plugins.repository.ssh.Scp.FileInfo getFileinfo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository java.io.InputStream openStream(org.apache.ivy.plugins.repository.ssh.SshResource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshCache com.jcraft.jsch.Session getSession(java.lang.String, int, java.lang.String, java.lang.String, java.io.File, java.lang.String, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.AbstractSshBasedRepository com.jcraft.jsch.Session getSession(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.AbstractSshBasedRepository java.lang.String getRepositoryScheme()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp void put(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository java.lang.String getRepositoryScheme()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp void put(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshRepository void get(java.lang.String, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.SshCache com.jcraft.jsch.Session getSession(java.lang.String, int, java.lang.String, java.lang.String, java.io.File, java.lang.String, java.io.File, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp void get(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.ssh.Scp void get(java.lang.String, java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

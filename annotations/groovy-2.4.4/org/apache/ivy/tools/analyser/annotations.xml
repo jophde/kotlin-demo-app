@@ -1,0 +1,21 @@
+<root>
+    <item
+        name='org.apache.ivy.tools.analyser.DependencyAnalyser org.apache.ivy.core.module.descriptor.ModuleDescriptor[] analyze(org.apache.ivy.tools.analyser.JarModule[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.tools.analyser.RepositoryAnalyser void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.tools.analyser.RepositoryAnalyser void analyse(java.lang.String, org.apache.ivy.tools.analyser.DependencyAnalyser) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.tools.analyser.JarJarDependencyAnalyser org.apache.ivy.core.module.descriptor.ModuleDescriptor[] analyze(org.apache.ivy.tools.analyser.JarModule[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

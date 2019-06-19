@@ -1,0 +1,44 @@
+<root>
+    <item name='rx.internal.schedulers.EventLoopsScheduler rx.Scheduler.Worker createWorker()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.Subscription schedule(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.Subscription schedule(rx.functions.Action0, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.internal.schedulers.ScheduledAction scheduleActual(rx.functions.Action0, long, java.util.concurrent.TimeUnit, rx.internal.util.SubscriptionList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.internal.schedulers.ScheduledAction scheduleActual(rx.functions.Action0, long, java.util.concurrent.TimeUnit, rx.subscriptions.CompositeSubscription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.internal.schedulers.ScheduledAction scheduleActual(rx.functions.Action0, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.ScheduledAction void add(rx.Subscription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.internal.schedulers.ScheduledAction scheduleActual(rx.functions.Action0, long, java.util.concurrent.TimeUnit, rx.subscriptions.CompositeSubscription) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.Subscription schedule(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.GenericScheduledExecutorService INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.internal.schedulers.ScheduledAction scheduleActual(rx.functions.Action0, long, java.util.concurrent.TimeUnit, rx.internal.util.SubscriptionList) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.internal.schedulers.NewThreadWorker rx.Subscription schedule(rx.functions.Action0, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

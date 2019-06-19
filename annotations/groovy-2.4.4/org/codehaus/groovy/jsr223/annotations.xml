@@ -1,0 +1,106 @@
+<root>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl javax.script.CompiledScript compile(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory java.lang.String getOutputStatement(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl java.lang.Object eval(java.io.Reader, javax.script.ScriptContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl javax.script.CompiledScript compile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory java.lang.String getEngineName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl java.lang.Object invokeFunction(java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl java.lang.Object invokeMethod(java.lang.Object, java.lang.String, java.lang.Object...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory javax.script.ScriptEngine getScriptEngine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl T getInterface(java.lang.Object, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl java.lang.Object eval(java.lang.String, javax.script.ScriptContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl T getInterface(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory java.lang.String getProgram(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.ScriptExtensions java.lang.Object eval(javax.script.ScriptEngine, java.lang.String, groovy.lang.Binding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory java.lang.String getEngineVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.ScriptExtensions java.lang.Object eval(javax.script.ScriptEngine, java.lang.String, groovy.lang.Binding) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyCompiledScript java.lang.Object eval(javax.script.ScriptContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.ScriptExtensions java.lang.Object eval(javax.script.ScriptEngine, java.io.Reader, groovy.lang.Binding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory java.lang.String getMethodCallSyntax(java.lang.String, java.lang.String, java.lang.String...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl javax.script.Bindings createBindings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl java.lang.Object eval(java.io.Reader, javax.script.ScriptContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl javax.script.CompiledScript compile(java.io.Reader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineFactory java.lang.String getLanguageName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl java.lang.Object invokeMethod(java.lang.Object, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.ScriptExtensions java.lang.Object eval(javax.script.ScriptEngine, java.io.Reader, groovy.lang.Binding) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl GroovyScriptEngineImpl(groovy.lang.GroovyClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.jsr223.GroovyScriptEngineImpl T getInterface(java.lang.Object, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

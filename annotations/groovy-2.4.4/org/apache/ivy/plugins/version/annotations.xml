@@ -1,0 +1,346 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher void setSettings(org.apache.ivy.core.settings.IvySettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionRangeMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ExactVersionMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionRangeMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.SubVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.SubVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionRangeMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher void setSettings(org.apache.ivy.core.settings.IvySettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.PatternVersionMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.PatternVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.SubVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.SubVersionMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ExactVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.PatternVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.Match org.apache.ivy.plugins.matcher.Matcher getPatternMatcher(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.SubVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionRangeMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher void add(org.apache.ivy.plugins.version.VersionMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionRangeMatcher boolean isDynamic(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.VersionRangeMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.AbstractVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ChainVersionMatcher int compare(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Comparator) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.LatestVersionMatcher boolean needModuleDescriptor(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.SubVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.version.ExactVersionMatcher boolean accept(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,33 @@
+<root>
+    <item name='org.apache.tools.ant.taskdefs.optional.testing.Funtest SHUTDOWN_INTERRUPTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.testing.Funtest TEARDOWN_EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.testing.Funtest void setTimeoutUnit(org.apache.tools.ant.taskdefs.WaitFor.Unit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.testing.Funtest void setShutdownUnit(org.apache.tools.ant.taskdefs.WaitFor.Unit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.testing.Funtest SKIPPING_TESTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.testing.Funtest APPLICATION_FORCIBLY_SHUT_DOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.testing.Funtest void ignoringThrowable(java.lang.String, java.lang.Throwable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.testing.Funtest WARN_OVERRIDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.testing.Funtest APPLICATION_EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

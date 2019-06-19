@@ -1,0 +1,11 @@
+<root>
+    <item name='groovyjarjarantlr.build.Tool void error(java.lang.String, java.lang.Exception) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.build.ANTLR java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.build.Tool void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

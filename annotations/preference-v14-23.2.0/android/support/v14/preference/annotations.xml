@@ -1,0 +1,116 @@
+<root>
+    <item name='android.support.v14.preference.MultiSelectListPreference MultiSelectListPreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreference boolean[] getSelectedItems()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreferenceDialogFragment void onPrepareDialogBuilder(android.app.AlertDialog.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.SwitchPreference SwitchPreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.ListPreferenceDialogFragment android.support.v14.preference.ListPreferenceDialogFragment newInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment android.support.v7.widget.RecyclerView onCreateRecyclerView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.EditTextPreferenceDialogFragment void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreference java.lang.Object onGetDefaultValue(android.content.res.TypedArray, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreferenceDialogFragment android.support.v14.preference.MultiSelectListPreferenceDialogFragment newInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.ListPreferenceDialogFragment void onPrepareDialogBuilder(android.app.AlertDialog.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.SwitchPreference SwitchPreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment ARG_PREFERENCE_ROOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreference MultiSelectListPreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment android.support.v7.widget.RecyclerView.LayoutManager onCreateLayoutManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.EditTextPreferenceDialogFragment void onBindDialogView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreference MultiSelectListPreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceDialogFragment void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.EditTextPreferenceDialogFragment android.support.v14.preference.EditTextPreferenceDialogFragment newInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.SwitchPreference void onBindViewHolder(android.support.v7.preference.PreferenceViewHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment android.support.v7.widget.RecyclerView.Adapter onCreateAdapter(android.support.v7.preference.PreferenceScreen)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment boolean onPreferenceTreeClick(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.SwitchPreference SwitchPreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreferenceDialogFragment void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.ListPreferenceDialogFragment void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreference java.lang.Object onGetDefaultValue(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceDialogFragment ARG_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.SwitchPreference SwitchPreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceFragment android.support.v7.widget.RecyclerView onCreateRecyclerView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceDialogFragment void onBindDialogView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.MultiSelectListPreference MultiSelectListPreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v14.preference.PreferenceDialogFragment void onPrepareDialogBuilder(android.app.AlertDialog.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v14.preference.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

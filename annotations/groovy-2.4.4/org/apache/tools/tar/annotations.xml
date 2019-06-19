@@ -1,0 +1,128 @@
+<root>
+    <item
+        name='org.apache.tools.tar.TarUtils int formatLongOctalOrBinaryBytes(long, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarUtils int formatCheckSumOctalBytes(long, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants GNU_LONGLINK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarBuffer void writeRecord(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants TMAGIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarArchiveSparseEntry TarArchiveSparseEntry(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarEntry org.apache.tools.tar.TarEntry[] getDirectoryEntries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarBuffer void writeRecord(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry boolean equals(org.apache.tools.tar.TarEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarUtils int formatOctalBytes(long, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarOutputStream void putNextEntry(org.apache.tools.tar.TarEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarEntry boolean isDescendent(org.apache.tools.tar.TarEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarEntry void writeEntryHeader(byte[], org.apache.tools.zip.ZipEncoding, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants VERSION_POSIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry TarEntry(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry void writeEntryHeader(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry TarEntry(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry void parseTarHeader(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarEntry void parseTarHeader(byte[], org.apache.tools.zip.ZipEncoding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarUtils long parseOctal(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants VERSION_GNU_SPACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry TarEntry(byte[], org.apache.tools.zip.ZipEncoding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry void setModTime(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants MAGIC_POSIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarUtils long parseOctalOrBinary(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants VERSION_GNU_ZERO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarUtils boolean parseBoolean(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry TarEntry(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarUtils int formatLongOctalBytes(long, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarUtils int formatNameBytes(java.lang.String, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarConstants GNU_TMAGIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarEntry void writeEntryHeader(byte[], org.apache.tools.zip.ZipEncoding, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarInputStream boolean canReadEntryData(org.apache.tools.tar.TarEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarOutputStream void write(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarUtils int formatNameBytes(java.lang.String, byte[], int, int, org.apache.tools.zip.ZipEncoding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarUtils long computeCheckSum(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.tar.TarUtils int formatNameBytes(java.lang.String, byte[], int, int, org.apache.tools.zip.ZipEncoding) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.tar.TarEntry java.util.Date getModTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

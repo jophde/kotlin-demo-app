@@ -1,0 +1,325 @@
+<root>
+    <item name='groovyjarjarcommonscli.Option java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, groovyjarjarcommonscli.Options, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter java.lang.StringBuffer renderWrappedText(java.lang.StringBuffer, int, int, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printWrapped(java.io.PrintWriter, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, int, int, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser void processArgs(groovyjarjarcommonscli.Option, java.util.ListIterator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printWrapped(java.io.PrintWriter, int, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser groovyjarjarcommonscli.CommandLine parse(groovyjarjarcommonscli.Options, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.Options addOptionGroup(groovyjarjarcommonscli.OptionGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printOptions(java.io.PrintWriter, int, groovyjarjarcommonscli.Options, int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.Options addOption(groovyjarjarcommonscli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.TypeHandler java.io.File createFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.HelpFormatter DEFAULT_LONG_OPT_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.MissingOptionException MissingOptionException(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.CommandLine java.lang.String[] getArgs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser java.lang.String[] flatten(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarcommonscli.Parser void setOptions(groovyjarjarcommonscli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser groovyjarjarcommonscli.CommandLine parse(groovyjarjarcommonscli.Options, java.lang.String[], java.util.Properties, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, groovyjarjarcommonscli.Options) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser groovyjarjarcommonscli.CommandLine parse(groovyjarjarcommonscli.Options, java.lang.String[], java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.TypeHandler java.lang.Number createNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.HelpFormatter int findWrapPos(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, int, int, java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, groovyjarjarcommonscli.Options, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.OptionGroup getOptionGroup(groovyjarjarcommonscli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.PosixParser void burstToken(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.GroovyInternalPosixParser void burstToken(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printWrapped(java.io.PrintWriter, int, int, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, int, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.GroovyInternalPosixParser java.lang.String[] flatten(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarcommonscli.HelpFormatter DEFAULT_ARG_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.OptionBuilder groovyjarjarcommonscli.Option create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String, groovyjarjarcommonscli.Options) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.Options addOption(groovyjarjarcommonscli.Option)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, groovyjarjarcommonscli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.Options addOption(java.lang.String, java.lang.String, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, int, int, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.OptionGroup groovyjarjarcommonscli.OptionGroup addOption(groovyjarjarcommonscli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printWrapped(java.io.PrintWriter, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, int, int, java.lang.String, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.MissingArgumentException MissingArgumentException(groovyjarjarcommonscli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.BasicParser java.lang.String[] flatten(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.PatternOptionBuilder groovyjarjarcommonscli.Options parsePattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.TypeHandler java.net.URL createURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.AlreadySelectedException AlreadySelectedException(groovyjarjarcommonscli.OptionGroup, groovyjarjarcommonscli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printOptions(java.io.PrintWriter, int, groovyjarjarcommonscli.Options, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.PosixParser java.lang.String[] flatten(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarcommonscli.HelpFormatter DEFAULT_SYNTAX_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.OptionBuilder groovyjarjarcommonscli.Option create(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.PatternOptionBuilder groovyjarjarcommonscli.Options parsePattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String, groovyjarjarcommonscli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.OptionGroup void setSelected(groovyjarjarcommonscli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.GnuParser java.lang.String[] flatten(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter java.lang.StringBuffer renderOptions(java.lang.StringBuffer, int, groovyjarjarcommonscli.Options, int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.OptionBuilder groovyjarjarcommonscli.Option create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.CommandLine java.util.Properties getOptionProperties(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser void processArgs(groovyjarjarcommonscli.Option, java.util.ListIterator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter java.lang.StringBuffer renderWrappedText(java.lang.StringBuffer, int, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.OptionGroup groovyjarjarcommonscli.OptionGroup addOption(groovyjarjarcommonscli.Option)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, int, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printHelp(java.lang.String, java.lang.String, groovyjarjarcommonscli.Options, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.Options addOption(java.lang.String, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.CommandLineParser groovyjarjarcommonscli.CommandLine parse(groovyjarjarcommonscli.Options, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.AlreadySelectedException AlreadySelectedException(groovyjarjarcommonscli.OptionGroup, groovyjarjarcommonscli.Option) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarcommonscli.HelpFormatter DEFAULT_OPT_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.CommandLineParser groovyjarjarcommonscli.CommandLine parse(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter java.lang.StringBuffer renderWrappedText(java.lang.StringBuffer, int, int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Parser groovyjarjarcommonscli.CommandLine parse(groovyjarjarcommonscli.Options, java.lang.String[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarcommonscli.Options groovyjarjarcommonscli.Options addOptionGroup(groovyjarjarcommonscli.OptionGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

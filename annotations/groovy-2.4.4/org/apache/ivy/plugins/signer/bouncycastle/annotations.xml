@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.signer.bouncycastle.OpenPGPSignatureGenerator java.lang.String getExtension()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

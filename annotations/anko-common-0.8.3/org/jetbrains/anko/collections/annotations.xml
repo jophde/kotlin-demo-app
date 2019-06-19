@@ -1,0 +1,80 @@
+<root>
+    <item name='org.jetbrains.anko.collections.ArraysKt kotlin.sequences.Sequence&lt;T&gt; asSequence(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt kotlin.sequences.Sequence&lt;java.lang.Boolean&gt; asSequence(android.util.SparseBooleanArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachByIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachReversedWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt kotlin.sequences.Sequence&lt;java.lang.Boolean&gt; asSequence(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachByIndex(T[], kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt android.util.Pair&lt;F,S&gt; toAndroidPair(kotlin.Pair&lt;? extends F,? extends S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt kotlin.Pair&lt;F,S&gt; toKotlinPair(android.util.Pair&lt;F,S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachReversed(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachReversedWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachReversed(T[], kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachByIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachReversedWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt kotlin.Pair&lt;F,S&gt; toKotlinPair(android.util.Pair&lt;F,S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt android.util.Pair&lt;F,S&gt; toAndroidPair(kotlin.Pair&lt;? extends F,? extends S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt kotlin.sequences.Sequence&lt;java.lang.Integer&gt; asSequence(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt kotlin.sequences.Sequence&lt;java.lang.Integer&gt; asSequence(android.util.SparseIntArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt kotlin.sequences.Sequence&lt;T&gt; asSequence(android.util.SparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachByIndex(T[], kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachReversedWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.CollectionsKt void forEachReversed(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachReversed(T[], kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.ArraysKt void forEachWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxRecyclerViewKt rx.Observable&lt;java.lang.Integer&gt; scrollStateChanges(android.support.v7.widget.RecyclerView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxRecyclerViewAdapterKt rx.Observable&lt;T&gt; dataChanges(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxRecyclerViewKt rx.Observable&lt;com.jakewharton.rxbinding.support.v7.widget.RecyclerViewChildAttachStateChangeEvent&gt; childAttachStateChangeEvents(android.support.v7.widget.RecyclerView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxRecyclerViewKt rx.Observable&lt;com.jakewharton.rxbinding.support.v7.widget.RecyclerViewScrollEvent&gt; scrollEvents(android.support.v7.widget.RecyclerView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

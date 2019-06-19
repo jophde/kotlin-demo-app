@@ -1,0 +1,42 @@
+<root>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine void initialize(org.apache.bsf.BSFManager, java.lang.String, java.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine java.lang.Object execEvalShared(java.lang.String, int, int, java.lang.Object, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine void exec(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine void undeclareBean(org.apache.bsf.BSFDeclaredBean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine void initialize(org.apache.bsf.BSFManager, java.lang.String, java.util.Vector) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine java.lang.Object eval(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.netrexx.NetRexxEngine void declareBean(org.apache.bsf.BSFDeclaredBean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

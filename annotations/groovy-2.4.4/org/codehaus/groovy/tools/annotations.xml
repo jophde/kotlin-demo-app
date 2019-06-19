@@ -1,0 +1,140 @@
+<root>
+    <item name='org.codehaus.groovy.tools.Compiler void compile(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.ErrorReporter void report(org.codehaus.groovy.control.CompilationFailedException, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.FileSystemCompiler int checkFiles(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.GrapeUtil java.util.Map&lt;java.lang.String,java.lang.Object&gt; getIvyParts(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.GroovyClass EMPTY_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler boolean validateFiles(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.ErrorReporter void report(java.lang.Exception, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.GroovyStarter void rootLoader(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.FileSystemCompiler void deleteRecursive(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.Compiler DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.LoaderConfiguration void addClassPath(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.Utilities java.lang.String repeatString(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler void displayHelp(groovyjarjarcommonscli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.ErrorReporter void report(org.codehaus.groovy.GroovyExceptionInterface, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler org.codehaus.groovy.control.CompilerConfiguration generateCompilerConfigurationFromOptions(groovyjarjarcommonscli.CommandLine) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.ErrorReporter void write(java.io.PrintWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.Utilities boolean isJavaIdentifier(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.Compiler void compile(java.io.File[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler java.lang.String[] generateFileNamesFromOptions(groovyjarjarcommonscli.CommandLine) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.ErrorReporter void dispatch(java.lang.Throwable, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler void doCompilation(org.codehaus.groovy.control.CompilerConfiguration, org.codehaus.groovy.control.CompilationUnit, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler void doCompilation(org.codehaus.groovy.control.CompilerConfiguration, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.DgmConverter void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler void doCompilation(org.codehaus.groovy.control.CompilerConfiguration, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler void doCompilation(org.codehaus.groovy.control.CompilerConfiguration, org.codehaus.groovy.control.CompilationUnit, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.Compiler void compile(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.FileSystemCompiler void compile(java.io.File[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.RootLoader RootLoader(org.codehaus.groovy.tools.LoaderConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.ErrorReporter void report(java.lang.Throwable, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler org.codehaus.groovy.control.CompilerConfiguration generateCompilerConfigurationFromOptions(groovyjarjarcommonscli.CommandLine)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.LoaderConfiguration java.util.List&lt;java.lang.String&gt; getGrabUrls()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.FileSystemCompiler groovyjarjarcommonscli.Options createCompilationOptions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.GrapeUtil java.util.Map&lt;java.lang.String,java.lang.Object&gt; getIvyParts(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.DgmConverter void loadParameters(org.codehaus.groovy.reflection.CachedMethod, int, groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.FileSystemCompiler void compile(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.Utilities java.lang.String repeatString(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.StringHelper java.lang.String[] tokenizeUnquoted(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.ErrorReporter void write(java.io.PrintStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

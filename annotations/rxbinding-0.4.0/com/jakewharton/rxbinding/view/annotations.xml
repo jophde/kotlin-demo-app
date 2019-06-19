@@ -1,0 +1,212 @@
+<root>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Integer&gt; titleRes(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewGroupHierarchyChildViewRemoveEvent com.jakewharton.rxbinding.view.ViewGroupHierarchyChildViewRemoveEvent create(android.view.ViewGroup, android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; visibility(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Integer&gt; systemUiVisibilityChanges(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; preDraws(android.view.View, rx.functions.Func0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; pressed(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; detaches(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.DragEvent&gt; drags(android.view.View, rx.functions.Func1&lt;? super android.view.DragEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewAttachEvent com.jakewharton.rxbinding.view.ViewAttachEvent create(android.view.View, com.jakewharton.rxbinding.view.ViewAttachEvent.Kind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;com.jakewharton.rxbinding.view.ViewLayoutChangeEvent&gt; layoutChangeEvents(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.MotionEvent&gt; touches(android.view.View, rx.functions.Func1&lt;? super android.view.MotionEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Boolean&gt; visible(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.MotionEvent&gt; hovers(android.view.View, rx.functions.Func1&lt;? super android.view.MotionEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewAttachEvent.Kind ATTACH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; enabled(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; longClicks(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Boolean&gt; enabled(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.CharSequence&gt; title(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; selected(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewScrollChangeEvent com.jakewharton.rxbinding.view.ViewScrollChangeEvent create(android.view.View, int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.Observable&lt;java.lang.Void&gt; clicks(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Boolean&gt; focusChanges(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Integer&gt; iconRes(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; layoutChanges(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; activated(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; preDraws(android.view.View, rx.functions.Func0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.MotionEvent&gt; hovers(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; pressed(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.Observable&lt;java.lang.Void&gt; clicks(android.view.MenuItem, rx.functions.Func1&lt;? super android.view.MenuItem,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.MotionEvent&gt; touches(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Integer&gt; titleRes(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.DragEvent&gt; drags(android.view.View, rx.functions.Func1&lt;? super android.view.DragEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; longClicks(android.view.View, rx.functions.Func0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; visibility(android.view.View, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewLayoutChangeEvent com.jakewharton.rxbinding.view.ViewLayoutChangeEvent create(android.view.View, int, int, int, int, int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Boolean&gt; enabled(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; clicks(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; selected(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Boolean&gt; checked(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; globalLayouts(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; visibility(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super android.graphics.drawable.Drawable&gt; icon(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxViewGroup rx.Observable&lt;com.jakewharton.rxbinding.view.ViewGroupHierarchyChangeEvent&gt; changeEvents(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;com.jakewharton.rxbinding.view.ViewScrollChangeEvent&gt; scrollChangeEvents(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.MenuItemActionViewEvent.Kind COLLAPSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; activated(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.Observable&lt;java.lang.Void&gt; clicks(android.view.MenuItem, rx.functions.Func1&lt;? super android.view.MenuItem,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Boolean&gt; checked(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.DragEvent&gt; drags(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; clickable(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; visibility(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; longClicks(android.view.View, rx.functions.Func0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.MenuItemActionViewEvent.Kind EXPAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.Observable&lt;com.jakewharton.rxbinding.view.MenuItemActionViewEvent&gt; actionViewEvents(android.view.MenuItem, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.view.MenuItemActionViewEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; attaches(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; clickable(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Boolean&gt; visible(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewGroupHierarchyChildViewAddEvent com.jakewharton.rxbinding.view.ViewGroupHierarchyChildViewAddEvent create(android.view.ViewGroup, android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.Integer&gt; iconRes(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.MotionEvent&gt; touches(android.view.View, rx.functions.Func1&lt;? super android.view.MotionEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.MenuItemActionViewEvent com.jakewharton.rxbinding.view.MenuItemActionViewEvent create(android.view.MenuItem, com.jakewharton.rxbinding.view.MenuItemActionViewEvent.Kind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;com.jakewharton.rxbinding.view.ViewAttachEvent&gt; attachEvents(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;java.lang.Void&gt; draws(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.ViewAttachEvent.Kind DETACH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.Observable&lt;com.jakewharton.rxbinding.view.MenuItemActionViewEvent&gt; actionViewEvents(android.view.MenuItem, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.view.MenuItemActionViewEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super android.graphics.drawable.Drawable&gt; icon(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.Observable&lt;android.view.MotionEvent&gt; hovers(android.view.View, rx.functions.Func1&lt;? super android.view.MotionEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.Observable&lt;com.jakewharton.rxbinding.view.MenuItemActionViewEvent&gt; actionViewEvents(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxView rx.functions.Action1&lt;? super java.lang.Boolean&gt; enabled(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.view.RxMenuItem rx.functions.Action1&lt;? super java.lang.CharSequence&gt; title(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,8 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.SearchViewQueryTextEvent com.jakewharton.rxbinding.support.v7.widget.SearchViewQueryTextEvent create(android.support.v7.widget.SearchView, java.lang.CharSequence, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxSearchView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; query(android.support.v7.widget.SearchView, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

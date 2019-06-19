@@ -1,0 +1,49 @@
+<root>
+    <item
+        name='com.thoughtworks.xstream.io.path.Path com.thoughtworks.xstream.io.path.Path relativeTo(com.thoughtworks.xstream.io.path.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.PathTrackingWriter PathTrackingWriter(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.io.path.PathTracker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.PathTrackingWriter void startNode(java.lang.String, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.PathTrackingWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.Path com.thoughtworks.xstream.io.path.Path relativeTo(com.thoughtworks.xstream.io.path.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.path.Path Path(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.Path com.thoughtworks.xstream.io.path.Path apply(com.thoughtworks.xstream.io.path.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.Path com.thoughtworks.xstream.io.path.Path apply(com.thoughtworks.xstream.io.path.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.PathTrackingReader PathTrackingReader(com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.io.path.PathTracker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.path.PathTrackingReader void appendErrors(com.thoughtworks.xstream.converters.ErrorWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

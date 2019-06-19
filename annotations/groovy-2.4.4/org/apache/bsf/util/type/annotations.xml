@@ -1,0 +1,25 @@
+<root>
+    <item
+        name='org.apache.bsf.util.type.TypeConvertorRegistry void register(java.lang.Class, java.lang.Class, org.apache.bsf.util.type.TypeConvertor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.type.TypeConvertorRegistry void register(java.lang.Class, java.lang.Class, org.apache.bsf.util.type.TypeConvertor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.type.TypeConvertorRegistry org.apache.bsf.util.type.TypeConvertor lookup(java.lang.Class, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.type.TypeConvertorRegistry org.apache.bsf.util.type.TypeConvertor lookup(java.lang.Class, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.type.TypeConvertor java.lang.String getCodeGenString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

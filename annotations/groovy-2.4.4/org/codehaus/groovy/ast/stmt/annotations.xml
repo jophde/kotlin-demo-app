@@ -1,0 +1,91 @@
+<root>
+    <item
+        name='org.codehaus.groovy.ast.stmt.CaseStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.AssertStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.EmptyStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.ast.stmt.EmptyStatement INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.BlockStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.IfStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.SwitchStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.TryCatchStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ReturnStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.CatchStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ExpressionStatement ExpressionStatement(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ReturnStatement ReturnStatement(org.codehaus.groovy.ast.stmt.ExpressionStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.stmt.ReturnStatement RETURN_NULL_OR_VOID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ThrowStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ExpressionStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.BreakStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ForStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.ContinueStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.DoWhileStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.WhileStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.stmt.ForStatement FOR_LOOP_DUMMY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.stmt.SynchronizedStatement void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

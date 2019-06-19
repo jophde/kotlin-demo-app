@@ -1,0 +1,26 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapterFactory org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapter getCompiler(java.lang.String, org.apache.tools.ant.Task, org.apache.tools.ant.AntClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.compilers.DefaultJspCompilerAdapter void logAndAddFilesToCompile(org.apache.tools.ant.taskdefs.optional.jsp.JspC, java.util.Vector, org.apache.tools.ant.types.CommandlineJava) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.compilers.DefaultJspCompilerAdapter void logAndAddFilesToCompile(org.apache.tools.ant.taskdefs.optional.jsp.JspC, java.util.Vector, org.apache.tools.ant.types.CommandlineJava) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.compilers.DefaultJspCompilerAdapter void logAndAddFilesToCompile(org.apache.tools.ant.taskdefs.optional.jsp.JspC, java.util.Vector, org.apache.tools.ant.types.CommandlineJava) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapterFactory org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapter getCompiler(java.lang.String, org.apache.tools.ant.Task) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapterFactory org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapter getCompiler(java.lang.String, org.apache.tools.ant.Task) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

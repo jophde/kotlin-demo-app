@@ -1,0 +1,17 @@
+<root>
+    <item
+        name='groovy.test.GroovyAssert java.lang.Throwable shouldFailWithCause(java.lang.Class, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.test.GroovyAssert java.lang.Throwable shouldFail(java.lang.Class, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.test.GroovyAssert java.lang.Throwable shouldFail(java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.test.GroovyAssert TEST_SCRIPT_NAME_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

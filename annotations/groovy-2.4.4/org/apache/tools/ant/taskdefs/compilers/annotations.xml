@@ -1,0 +1,107 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.CompilerAdapterFactory org.apache.tools.ant.taskdefs.compilers.CompilerAdapter getCompiler(java.lang.String, org.apache.tools.ant.Task) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupJavacCommand()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.compilers.Javac12 CLASSIC_COMPILER_CLASSNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter java.lang.String[] getSupportedFileExtensions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupJavacCommandlineSwitches(org.apache.tools.ant.types.Commandline, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupJavacCommand(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.CompilerAdapter void setJavac(org.apache.tools.ant.taskdefs.Javac) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.compilers.AptCompilerAdapter APT_METHOD_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.CompilerAdapterFactory org.apache.tools.ant.taskdefs.compilers.CompilerAdapter getCompiler(java.lang.String, org.apache.tools.ant.Task, org.apache.tools.ant.types.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter void setJavac(org.apache.tools.ant.taskdefs.Javac) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter void addCurrentCompilerArgs(org.apache.tools.ant.types.Commandline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Path getBootClassPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter void logAndAddFilesToCompile(org.apache.tools.ant.types.Commandline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.Gcj org.apache.tools.ant.types.Commandline setupGCJCommand()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupModernJavacCommand()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter void addExtdirsToClasspath(org.apache.tools.ant.types.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupJavacCommandlineSwitches(org.apache.tools.ant.types.Commandline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupModernJavacCommandlineSwitches(org.apache.tools.ant.types.Commandline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.Kjc org.apache.tools.ant.types.Commandline setupKjcCommand()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.CompilerAdapterExtension java.lang.String[] getSupportedFileExtensions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Path getCompileClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.compilers.AptCompilerAdapter APT_ENTRY_POINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupJavacCommandlineSwitches(org.apache.tools.ant.types.Commandline, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupJavacCommandlineSwitches(org.apache.tools.ant.types.Commandline)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter org.apache.tools.ant.types.Commandline setupModernJavacCommandlineSwitches(org.apache.tools.ant.types.Commandline)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

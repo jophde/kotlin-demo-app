@@ -1,0 +1,138 @@
+<root>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.util.Map, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.util.Map, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory java.util.List&lt;java.lang.String&gt; localText(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory org.w3c.dom.Node parent(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory org.w3c.dom.NodeList breadthFirst(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory java.util.List&lt;org.w3c.dom.Node&gt; list(org.w3c.dom.NodeList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Node replaceNode(groovy.xml.dom.DOMCategory.NodesHolder, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory java.lang.String name(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory void setValue(org.w3c.dom.Element, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory java.lang.Object get(org.w3c.dom.NamedNodeMap, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.NamedNodeMap attributes(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory int size(org.w3c.dom.NamedNodeMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Node replaceNode(org.w3c.dom.Node, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.util.Map) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory java.lang.String text(org.w3c.dom.NodeList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.util.Map, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory void plus(org.w3c.dom.Element, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory org.w3c.dom.NodeList children(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Element appendNode(org.w3c.dom.Element, java.lang.Object, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory java.lang.Object get(org.w3c.dom.NodeList, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory java.lang.String toString(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Node replaceNode(org.w3c.dom.Node, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory org.w3c.dom.NodeList depthFirst(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory int size(org.w3c.dom.NodeList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory void putAt(org.w3c.dom.Element, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory java.util.List&lt;java.lang.String&gt; localText(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory org.w3c.dom.NodeList children(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory boolean isEmpty(org.w3c.dom.NodeList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory java.lang.String text(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory void plus(org.w3c.dom.NodeList, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.dom.DOMCategory org.w3c.dom.NodeList depthFirst(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory org.w3c.dom.Node replaceNode(groovy.xml.dom.DOMCategory.NodesHolder, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.dom.DOMCategory java.lang.Object get(org.w3c.dom.Element, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

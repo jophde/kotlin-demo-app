@@ -1,0 +1,58 @@
+<root>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods java.lang.StringBuilder leftShift(java.lang.StringBuilder, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.Java5 java.lang.Class[] getPluginDefaultGroovyMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods java.lang.Object previous(java.lang.Enum) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods int size(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.Java5 void configureClassNode(org.codehaus.groovy.ast.CompileUnit, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods java.lang.Object next(java.lang.Enum) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods void putAt(java.lang.StringBuilder, groovy.lang.EmptyRange, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.Java5 void setAdditionalClassInformation(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods void putAt(java.lang.StringBuilder, groovy.lang.IntRange, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods void putAt(java.lang.StringBuilder, groovy.lang.EmptyRange, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods void putAt(java.lang.StringBuilder, groovy.lang.IntRange, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.Java5 void configureAnnotation(org.codehaus.groovy.ast.AnnotationNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v5.Java5 java.lang.Object invokeHandle(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

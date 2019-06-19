@@ -1,0 +1,11 @@
+<root>
+    <item name='groovyx.gpars.agent.Agent void addListener(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.agent.Agent void addValidator(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.agent.AgentCore void setPGroup(groovyx.gpars.group.PGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

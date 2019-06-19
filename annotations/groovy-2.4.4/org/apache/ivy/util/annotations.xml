@@ -1,0 +1,260 @@
+<root>
+    <item name='org.apache.ivy.util.EncrytedProperties java.util.Collection values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.FileUtil boolean forceDelete(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator void setFileResolver(org.apache.ivy.util.FileResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean deepCopy(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.MacroDef void addConfiguredAttribute(org.apache.ivy.util.Configurator.Attribute) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil java.lang.String readEntirely(java.io.BufferedReader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.HexEncoder java.lang.String encode(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil void copy(java.io.InputStream, java.io.File, org.apache.ivy.util.CopyProgressListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean prepareCopy(java.io.File, java.io.File, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.MacroRecord org.apache.ivy.util.Configurator.MacroRecord recordChild(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.FileResolver DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil void symlink(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator void addChild(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil void copy(java.io.InputStream, java.io.File, org.apache.ivy.util.CopyProgressListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean prepareCopy(java.io.File, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Checks java.io.File checkAbsolute(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileResolver java.io.File resolveFile(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil java.io.File resolveFile(java.io.File, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.FileUtil java.lang.String readEntirely(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.XMLHelper void parse(java.net.URL, java.net.URL, org.xml.sax.helpers.DefaultHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.CopyProgressListener void progress(org.apache.ivy.util.CopyProgressEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.util.MessageLoggerEngine void pushLogger(org.apache.ivy.util.MessageLogger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.PropertiesFile PropertiesFile(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.MessageLoggerHelper void sumupProblems(org.apache.ivy.util.MessageLogger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.Configurator void setRoot(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileResolver java.io.File resolveFile(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.MacroRecord org.apache.ivy.util.Configurator.MacroRecord recordChild(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil void symlink(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean copy(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator void addConfiguredMacrodef(org.apache.ivy.util.Configurator.MacroDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.Macro org.apache.ivy.util.Configurator.MacroRecord recordCreateChild(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Checks java.io.File checkAbsolute(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.XMLHelper java.lang.String toSystemId(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil java.util.Collection listAll(java.io.File, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.Macro java.lang.Object play(org.apache.ivy.util.Configurator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Checks java.io.File checkAbsolute(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.CopyProgressListener void end(org.apache.ivy.util.CopyProgressEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.util.CollectionUtils java.util.List toList(java.util.Iterator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.CopyProgressEvent org.apache.ivy.util.CopyProgressEvent update(byte[], int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator java.lang.Object startCreateChild(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.FileUtil java.io.File normalize(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean copy(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.Checks void checkNotNull(java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean copy(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.XMLHelper void parse(java.net.URL, java.net.URL, org.xml.sax.helpers.DefaultHandler, org.xml.sax.ext.LexicalHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil void copy(java.io.InputStream, java.io.OutputStream, org.apache.ivy.util.CopyProgressListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.MacroDef void addConfiguredElement(org.apache.ivy.util.Configurator.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil java.io.InputStream unwrapPack200(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.StringUtils java.lang.String join(java.lang.Object[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.MacroDef java.lang.Object play(org.apache.ivy.util.Configurator, java.util.Map, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean deepCopy(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator.MacroDef org.apache.ivy.util.Configurator.Macro createMacro()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.MemoryUtil void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Message void setDefaultLogger(org.apache.ivy.util.MessageLogger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil java.util.List getPathFiles(java.io.File, java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil java.util.Collection listAll(java.io.File, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.DateUtil DATE_FORMAT_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil void copy(java.io.InputStream, java.io.OutputStream, org.apache.ivy.util.CopyProgressListener, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.FileUtil long getFileLength(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.CollectionUtils java.util.List toList(java.util.Iterator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Configurator org.apache.ivy.util.Configurator.MacroDef startMacroDef(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.CredentialsUtil org.apache.ivy.util.Credentials promptCredentials(org.apache.ivy.util.Credentials, java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.FileUtil boolean copy(java.io.File, java.io.File, org.apache.ivy.util.CopyProgressListener, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.Checks java.io.File checkAbsolute(java.io.File, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

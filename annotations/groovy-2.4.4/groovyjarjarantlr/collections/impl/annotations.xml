@@ -1,0 +1,57 @@
+<root>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet void orInPlace(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.BitSet of(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.BitSet and(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.ASTArray groovyjarjarantlr.collections.impl.ASTArray add(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.collections.impl.LList java.util.Enumeration elements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.collections.impl.BitSet java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.BitSet not()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.collections.impl.IndexedVector java.util.Enumeration elements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.BitSet or(groovyjarjarantlr.collections.impl.BitSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.BitSet or(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.collections.impl.Vector java.util.Enumeration elements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.Vector getRanges(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.collections.impl.BitSet int[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet groovyjarjarantlr.collections.impl.BitSet and(groovyjarjarantlr.collections.impl.BitSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.collections.impl.BitSet void andInPlace(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

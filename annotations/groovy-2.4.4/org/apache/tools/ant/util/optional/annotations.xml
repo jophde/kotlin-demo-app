@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.tools.ant.util.optional.JavaxScriptRunner java.lang.String getManagerName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

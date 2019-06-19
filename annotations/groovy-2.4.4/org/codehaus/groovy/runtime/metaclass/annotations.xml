@@ -1,0 +1,722 @@
+<root>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.lang.Object invokeStaticMethod(java.lang.Object, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copy(org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod java.util.List&lt;groovy.lang.MetaMethod&gt; createMethodList(java.lang.String, java.lang.Class, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureStaticMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl org.codehaus.groovy.runtime.m12n.ExtensionModuleRegistry getModuleRegistry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.metaclass.NewMetaMethod EMPTY_TYPE_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass groovy.lang.MetaClass getOwnerMetaClass(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.TransformMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.lang.Object get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header Header(java.lang.Class, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureStaticMetaMethod java.lang.Class getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl void setMetaClassCreationHandle(groovy.lang.MetaClassRegistry.MetaClassCreationHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateMethods(java.lang.Class, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureStaticMetaMethod ClosureStaticMetaMethod(java.lang.String, java.lang.Class, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap barrierLock'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod org.codehaus.groovy.reflection.CachedMethod getDoCall()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.lang.Object put(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass groovy.lang.MetaMethod getStaticMetaMethod(java.lang.String, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ThreadManagedMetaBeanProperty ThreadManagedMetaBeanProperty(java.lang.Class, java.lang.String, java.lang.Class, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MethodMetaProperty java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MultipleSetterProperty java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateMethodsDown(java.lang.Class, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack java.lang.Throwable fillInStackTrace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.util.List respondsTo(java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateMethods(org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap.Entry java.lang.Object setValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.EntryIterator getEntrySetIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MixinInstanceMetaProperty MixinInstanceMetaProperty(groovy.lang.MetaProperty, org.codehaus.groovy.reflection.MixinInMetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass org.codehaus.groovy.runtime.callsite.CallSite createPogoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass groovy.lang.MetaMethod getStaticMetaMethod(java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewStaticMetaMethod NewStaticMetaMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod ClosureMetaMethod(java.lang.String, groovy.lang.Closure, org.codehaus.groovy.reflection.CachedMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod java.util.List&lt;groovy.lang.MetaMethod&gt; createMethodList(java.lang.String, java.lang.Class, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.lang.Object invokeMethod(java.lang.Object, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.util.List&lt;groovy.lang.MetaMethod&gt; respondsTo(java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ReflectionMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.lang.Object put(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass org.codehaus.groovy.runtime.callsite.CallSite createPogoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.util.Collection values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass void applyPropertyDescriptors(java.beans.PropertyDescriptor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.util.List&lt;groovy.lang.MetaProperty&gt; getProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod java.lang.Class getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ReflectionMetaMethod groovy.lang.MetaMethod getCachedMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl MODULE_META_INF_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MethodMetaProperty void setProperty(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass groovy.lang.MetaProperty getMetaProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap.HashIterator HashIterator(org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ReflectorLoader java.lang.Class defineClass(java.lang.String, byte[], java.security.ProtectionDomain) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass org.codehaus.groovy.runtime.callsite.CallSite createPogoCallCurrentSite(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Class, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MixinInstanceMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod copy(org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ReflectionMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.lang.Object invokeMethod(java.lang.Class, java.lang.Object, java.lang.String, java.lang.Object[], boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MultipleSetterProperty void setProperty(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass org.codehaus.groovy.runtime.callsite.CallSite createPogoCallCurrentSite(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Class, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.TransformMetaMethod TransformMetaMethod(groovy.lang.MetaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass void setProperty(java.lang.Object, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewInstanceMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header Header(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewStaticMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass groovy.lang.MetaProperty hasProperty(java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass void addMetaBeanProperty(groovy.lang.MetaBeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureStaticMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewMetaMethod NewMetaMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap boolean containsKey(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MethodHelper boolean isStatic(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.util.List respondsTo(java.lang.Object, java.lang.String, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateMethods(java.lang.Class, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MixinInstanceMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copy(java.lang.Class, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap boolean findAndRemoveEntry(java.util.Map.Entry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl org.codehaus.groovy.util.FastArray getInstanceMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewInstanceMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.lang.Object remove(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewInstanceMetaMethod NewInstanceMetaMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateMethodsFromSuper(org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateNonNewMetaMethods(org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap ConcurrentReaderHashMap(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Entry getOrPutMethods(java.lang.String, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.EntryIterator org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Entry next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.lang.Object invokeMissingProperty(java.lang.Object, java.lang.String, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.NewStaticMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl org.codehaus.groovy.util.FastArray getStaticMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap.ValueIterator ValueIterator(org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.util.Enumeration elements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MultipleSetterProperty MultipleSetterProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MethodHelper boolean isPublic(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl groovy.lang.MetaClass getMetaClass(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass groovy.lang.MetaMethod getMetaMethod(java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.lang.Object getAttribute(java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.util.List&lt;groovy.lang.MetaMethod&gt; getMetaMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Entry getOrPutMethods(java.lang.String, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass groovy.lang.MetaMethod pickMethod(java.lang.String, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.metaclass.ReflectionMetaMethod method'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass void addMetaMethod(groovy.lang.MetaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.lang.Object invokeMethod(java.lang.Class, java.lang.Object, java.lang.String, java.lang.Object[], boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header getHeader(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap boolean containsValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ReflectionMetaMethod ReflectionMetaMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl void registerExtensionModuleFromProperties(java.util.Properties, java.lang.ClassLoader, java.util.Map&lt;org.codehaus.groovy.reflection.CachedClass,java.util.List&lt;groovy.lang.MetaMethod&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.lang.Object invokeStaticMethod(java.lang.Object, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.util.List&lt;groovy.lang.MetaMethod&gt; respondsTo(java.lang.Object, java.lang.String, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MissingPropertyExceptionNoStack java.lang.Throwable fillInStackTrace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ThreadManagedMetaBeanProperty ThreadManagedMetaBeanProperty(java.lang.Class, java.lang.String, java.lang.Class, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass void addNewInstanceMethod(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyNonPrivateMethodsDown(java.lang.Class, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.util.Set entrySet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod ClosureMetaMethod(java.lang.String, groovy.lang.Closure, org.codehaus.groovy.reflection.CachedMethod) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod ClosureMetaMethod(java.lang.String, java.lang.Class, groovy.lang.Closure, org.codehaus.groovy.reflection.CachedMethod) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Entry getMethods(java.lang.Class, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass java.lang.Object invokeMethod(java.lang.Object, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap void putAll(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod copy(org.codehaus.groovy.runtime.metaclass.ClosureMetaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MethodMetaProperty.GetBeanMethodMetaProperty java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MixedInMetaClass java.lang.Object invokeMethod(java.lang.Class, java.lang.Object, java.lang.String, java.lang.Object[], boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass java.util.List&lt;groovy.lang.MetaMethod&gt; getMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MethodMetaProperty.GetMethodMetaProperty java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MixedInMetaClass groovy.lang.MetaClass getOwnerMetaClass(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl void setMetaClass(java.lang.Object, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Entry getOrPutMethods(java.lang.String, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass void setAttribute(java.lang.Object, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass void setProperties(java.lang.Object, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap.KeyIterator KeyIterator(org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex void copyAllMethodsToSuper(org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header, org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap boolean contains(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.util.Set keySet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex org.codehaus.groovy.runtime.metaclass.MetaMethodIndex.Entry getMethods(java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass groovy.lang.MetaMethod getStaticMetaMethod(java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.OwnedMetaClass groovy.lang.MetaProperty getMetaProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ConcurrentReaderHashMap java.util.Enumeration keys()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.ClosureMetaClass void addNewStaticMethod(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MixedInMetaClass MixedInMetaClass(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.TransformMetaMethod java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.metaclass.MetaMethodIndex MetaMethodIndex(org.codehaus.groovy.reflection.CachedClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

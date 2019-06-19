@@ -1,0 +1,69 @@
+<root>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryJoinCommitUninterruptibly(org.multiverse.api.Txn, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier void ensureNotDead(org.multiverse.api.Txn, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryAwaitOpen(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryJoinCommit(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryJoinCommit(org.multiverse.api.Txn, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.VetoCommitBarrier void vetoCommit(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier void registerOnAbortTask(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryAwaitOpenUninterruptibly(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier void joinCommitUninterruptibly(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier void setScheduledExecutorService(java.util.concurrent.ScheduledExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier CommitBarrier(org.multiverse.commitbarriers.CommitBarrier.Status, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryJoinCommitUninterruptibly(org.multiverse.api.Txn, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.commitbarriers.CommitBarrier lock'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CountDownCommitBarrier void incParties(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier void joinCommit(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier void registerOnCommitTask(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.commitbarriers.CommitBarrier boolean tryJoinCommit(org.multiverse.api.Txn, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

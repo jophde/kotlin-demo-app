@@ -1,0 +1,53 @@
+<root>
+    <item
+        name='groovyx.gpars.dataflow.impl.ThenMessagingRunnable ThenMessagingRunnable(groovyx.gpars.dataflow.DataflowVariable&lt;V&gt;, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.DataflowChannelEventOrchestrator java.util.Collection&lt;groovyx.gpars.dataflow.BindErrorListener&lt;T&gt;&gt; getBindErrorListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.ThenMessagingRunnable ThenMessagingRunnable(groovyx.gpars.dataflow.DataflowVariable&lt;V&gt;, groovy.lang.Closure&lt;V&gt;, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.DataflowChannelEventListenerManager java.util.Collection&lt;groovyx.gpars.dataflow.DataflowChannelListener&lt;T&gt;&gt; getListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.BindErrorListenerManager java.util.Collection&lt;groovyx.gpars.dataflow.BindErrorListener&lt;T&gt;&gt; getBindErrorListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.SelectBase SelectBase(groovyx.gpars.group.PGroup, java.util.List&lt;groovyx.gpars.dataflow.SelectableChannel&lt;? extends T&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.ResizeableCountDownLatch boolean await(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.SelectCallback java.lang.Object call(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.impl.DataflowChannelEventOrchestrator java.util.Collection&lt;groovyx.gpars.dataflow.DataflowChannelListener&lt;T&gt;&gt; getListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.impl.ThenMessagingRunnable void doRun(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

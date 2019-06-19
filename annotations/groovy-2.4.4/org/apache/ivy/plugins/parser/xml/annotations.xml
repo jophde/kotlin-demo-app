@@ -1,0 +1,322 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void extendsStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setMergedDescriptor(org.apache.ivy.core.module.descriptor.ModuleDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.net.URL, java.io.File, org.apache.ivy.plugins.parser.xml.UpdateOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeDependencies(org.apache.ivy.core.module.descriptor.DependencyDescriptor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.plugins.parser.xml.UpdateOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setResolvedRevisions(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void configurationStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void dependenciesStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ConfigurationPrinter INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setGenerateRevConstraint(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setResolvedBranches(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.DependencyPrinter void print(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.Object, java.io.PrintWriter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void printConfiguration(org.apache.ivy.core.module.descriptor.Configuration, java.io.PrintWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void confStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void infoStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void managerStarted(org.xml.sax.Attributes, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setPubdate(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeWithOtherModuleDescriptor(java.util.List, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.net.URL, java.io.InputStream, java.io.OutputStream, org.apache.ivy.plugins.parser.xml.UpdateOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void publicationsStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ConfigurationPrinter void print(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.Object, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeLicenses(org.apache.ivy.core.module.descriptor.License[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void setResource(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.net.URL, java.io.OutputStream, org.apache.ivy.plugins.parser.xml.UpdateOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void dependencyStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void warning(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void printDependency(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.io.PrintWriter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setBranch(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.io.File) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.net.URL, java.io.File, org.apache.ivy.plugins.parser.xml.UpdateOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mediationOverrideStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser boolean isOtherNamespace(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser newParser(org.apache.ivy.plugins.parser.ParserSettings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setConfsToExclude(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser boolean accept(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser org.apache.ivy.plugins.matcher.PatternMatcher getPatternMatcher(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseOtherIvyFile(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void ivyModuleStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setNamespace(org.apache.ivy.plugins.namespace.Namespace)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void addDependencyArtifacts(java.lang.String, org.xml.sax.Attributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeInfo(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void addExcludeRule(java.lang.String, org.xml.sax.Attributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setReplaceInclude(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ConfigurationPrinter void print(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.Object, java.io.PrintWriter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setSettings(org.apache.ivy.plugins.parser.ParserSettings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void printDependency(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setRevision(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeConfigurations(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void includeConfStarted(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ItemPrinter void print(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.Object, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void addIncludeRule(java.lang.String, org.xml.sax.Attributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.net.URL, java.io.File, org.apache.ivy.plugins.parser.xml.UpdateOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.plugins.parser.xml.UpdateOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setUpdateBranch(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeAll(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void fatalError(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void mergeExcludes(org.apache.ivy.core.module.descriptor.ExcludeRule[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.UpdateOptions org.apache.ivy.plugins.parser.xml.UpdateOptions setMerge(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser java.lang.String getDefaultParentLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void error(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.DependencyPrinter void print(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.Object, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater void update(java.net.URL, java.io.OutputStream, org.apache.ivy.plugins.parser.xml.UpdateOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ItemPrinter void print(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.Object, java.io.PrintWriter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter void printConfiguration(org.apache.ivy.core.module.descriptor.Configuration, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser void parseRule(java.lang.String, org.xml.sax.Attributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.DependencyPrinter INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

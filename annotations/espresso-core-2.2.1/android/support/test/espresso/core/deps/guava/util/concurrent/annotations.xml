@@ -1,0 +1,1343 @@
+<root>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory java.util.concurrent.locks.ReentrantLock newReentrantLock(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service android.support.test.espresso.core.deps.guava.util.concurrent.Service stopAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture.SimpleForwardingListenableFuture android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.TimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterWhen(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policies THROW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped L getAt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture.SimpleForwardingCheckedFuture java.util.concurrent.Future delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped L get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ExecutionList void add(java.lang.Runnable, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService void awaitTerminated(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture.SimpleForwardingCheckedFuture SimpleForwardingCheckedFuture(android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableScheduledFuture&lt;?&gt; scheduleWithFixedDelay(java.lang.Runnable, long, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap&lt;K&gt; create(java.util.Map&lt;? extends K,? extends java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService void awaitRunning(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager startAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.FakeTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture V checkedGet(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.TimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory newInstance(android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory java.util.concurrent.locks.ReentrantReadWriteLock newReentrantReadWriteLock(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setThreadFactory(java.util.concurrent.ThreadFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors void addDelayedShutdownHook(java.util.concurrent.ExecutorService, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService void awaitTerminated(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.FakeTimeLimiter T callWithTimeout(java.util.concurrent.Callable&lt;T&gt;, long, java.util.concurrent.TimeUnit, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors android.support.test.espresso.core.deps.guava.util.concurrent.ListeningExecutorService sameThreadExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingFuture.SimpleForwardingFuture java.util.concurrent.Future&lt;V&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask&lt;V&gt; create(java.util.concurrent.Callable&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;, java.util.concurrent.Executor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableScheduledFuture&lt;?&gt; scheduleWithFixedDelay(java.lang.Runnable, long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask&lt;V&gt; create(java.lang.Runnable, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory newInstance(android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ExecutionList void add(java.lang.Runnable, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap&lt;K&gt; create(java.util.Map&lt;? extends K,? extends java.lang.Long&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SimpleTimeLimiter T callWithTimeout(java.util.concurrent.Callable&lt;T&gt;, long, java.util.concurrent.TimeUnit, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager ServiceManager(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.Service&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractFuture boolean setException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor void waitFor(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean waitFor(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.TimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingFuture java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterIf(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService android.support.test.espresso.core.deps.guava.util.concurrent.Service startAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; dereference(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; withFallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureFallback&lt;? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor void enterWhen(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractListeningExecutorService java.util.concurrent.RunnableFuture newTaskFor(java.lang.Runnable, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.FakeTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture.SimpleForwardingListenableFuture java.util.concurrent.Future delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped android.support.test.espresso.core.deps.guava.util.concurrent.Striped&lt;java.util.concurrent.locks.Lock&gt; lock(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles boolean tryAcquireUninterruptibly(java.util.concurrent.Semaphore, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; withFallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureFallback&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.util.concurrent.Service.State FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService void awaitTerminated(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.JdkFutureAdapters android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; listenInPoolThread(java.util.concurrent.Future&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; immediateCancelledFuture()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures V get(java.util.concurrent.Future&lt;V&gt;, long, java.util.concurrent.TimeUnit, java.lang.Class&lt;X&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter create(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture.SimpleForwardingListenableFuture java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SimpleTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ScheduledExecutorService getExitingScheduledExecutorService(java.util.concurrent.ScheduledThreadPoolExecutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.TimeLimiter T callWithTimeout(java.util.concurrent.Callable&lt;T&gt;, long, java.util.concurrent.TimeUnit, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setThreadFactory(java.util.concurrent.ThreadFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors boolean shutdownAndAwaitTermination(java.util.concurrent.ExecutorService, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.FakeTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors void addDelayedShutdownHook(java.util.concurrent.ExecutorService, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingFuture.SimpleForwardingFuture SimpleForwardingFuture(java.util.concurrent.Future&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.TimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture.SimpleForwardingListenableFuture SimpleForwardingListenableFuture(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles void sleepUninterruptibly(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SimpleTimeLimiter T callWithTimeout(java.util.concurrent.Callable&lt;T&gt;, long, java.util.concurrent.TimeUnit, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService void notifyFailed(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterWhenUninterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles void awaitUninterruptibly(java.util.concurrent.CountDownLatch) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.FakeTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; apply(I)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setUncaughtExceptionHandler(java.lang.Thread.UncaughtExceptionHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service.State RUNNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService android.support.test.espresso.core.deps.guava.util.concurrent.Service startAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager.Listener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Runnables java.lang.Runnable doNothing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles V getUninterruptibly(java.util.concurrent.Future&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractListeningExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask&lt;T&gt; newTaskFor(java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ScheduledExecutorService getExitingScheduledExecutorService(java.util.concurrent.ScheduledThreadPoolExecutor, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service void awaitTerminated(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Atomics java.util.concurrent.atomic.AtomicReferenceArray&lt;E&gt; newReferenceArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures java.util.concurrent.Future&lt;O&gt; lazyTransform(java.util.concurrent.Future&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager android.support.test.espresso.core.deps.guava.collect.ImmutableMap&lt;android.support.test.espresso.core.deps.guava.util.concurrent.Service,java.lang.Long&gt; startupTimes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AtomicDoubleArray AtomicDoubleArray(double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures V get(java.util.concurrent.Future&lt;V&gt;, long, java.util.concurrent.TimeUnit, java.lang.Class&lt;X&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager void awaitStopped(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures V getUnchecked(java.util.concurrent.Future&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering java.util.concurrent.locks.ReentrantReadWriteLock newReentrantReadWriteLock(E, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter boolean tryAcquire(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture.SimpleForwardingCheckedFuture android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService android.support.test.espresso.core.deps.guava.util.concurrent.Service stopAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableScheduledFuture&lt;?&gt; scheduleAtFixedRate(java.lang.Runnable, long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean tryEnterIf(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.TimeLimiter T callWithTimeout(java.util.concurrent.Callable&lt;T&gt;, long, java.util.concurrent.TimeUnit, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SimpleTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles boolean awaitUninterruptibly(java.util.concurrent.CountDownLatch, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service.State TERMINATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setPriority(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors boolean shutdownAndAwaitTermination(java.util.concurrent.ExecutorService, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; withFallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureFallback&lt;? extends V&gt;, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager.Listener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors android.support.test.espresso.core.deps.guava.util.concurrent.ListeningExecutorService listeningDecorator(java.util.concurrent.ExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture void addListener(java.lang.Runnable, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder java.util.concurrent.ThreadFactory build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped android.support.test.espresso.core.deps.guava.util.concurrent.Striped&lt;java.util.concurrent.locks.Lock&gt; lazyWeakLock(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures java.util.concurrent.Future&lt;O&gt; lazyTransform(java.util.concurrent.Future&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterWhenUninterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped android.support.test.espresso.core.deps.guava.util.concurrent.Striped&lt;java.util.concurrent.Semaphore&gt; semaphore(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures void addCallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureCallback&lt;? super V&gt;, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractFuture V get(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; successfulAsList(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering&lt;E&gt; newInstanceWithExplicitOrdering(java.lang.Class&lt;E&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SimpleTimeLimiter T newProxy(T, java.lang.Class&lt;T&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService void awaitRunning(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; allAsList(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager android.support.test.espresso.core.deps.guava.collect.ImmutableMultimap&lt;android.support.test.espresso.core.deps.guava.util.concurrent.Service.State,android.support.test.espresso.core.deps.guava.util.concurrent.Service&gt; servicesByState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service.State STOPPING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractCheckedFuture V checkedGet(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service android.support.test.espresso.core.deps.guava.util.concurrent.Service startAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService android.support.test.espresso.core.deps.guava.util.concurrent.Service stopAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Atomics java.util.concurrent.atomic.AtomicReference&lt;V&gt; newReference(V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture void addListener(java.lang.Runnable, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ScheduledExecutorService getExitingScheduledExecutorService(java.util.concurrent.ScheduledThreadPoolExecutor, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles void joinUninterruptibly(java.lang.Thread, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap void putAll(java.util.Map&lt;? extends K,? extends java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService java.util.concurrent.Executor executor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; makeChecked(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super java.lang.Exception,X&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; immediateFailedFuture(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures void addCallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureCallback&lt;? super V&gt;, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setDaemon(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.FakeTimeLimiter T callWithTimeout(java.util.concurrent.Callable&lt;T&gt;, long, java.util.concurrent.TimeUnit, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; nonCancellationPropagating(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; allAsList(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture java.util.concurrent.Future delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableScheduledFuture&lt;?&gt; schedule(java.lang.Runnable, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering java.util.concurrent.locks.ReentrantReadWriteLock newReentrantReadWriteLock(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.JdkFutureAdapters android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; listenInPoolThread(java.util.concurrent.Future&lt;V&gt;, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingFuture.SimpleForwardingFuture java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;, java.util.concurrent.Executor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enter(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService void awaitRunning(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; makeChecked(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super java.lang.Exception,X&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture.SimpleForwardingCheckedFuture android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterIf(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ExecutorService getExitingExecutorService(java.util.concurrent.ThreadPoolExecutor, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask void addListener(java.lang.Runnable, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SettableFuture android.support.test.espresso.core.deps.guava.util.concurrent.SettableFuture&lt;V&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles void joinUninterruptibly(java.lang.Thread) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor int getWaitQueueLength(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures V get(java.util.concurrent.Future&lt;V&gt;, java.lang.Class&lt;X&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; immediateFailedCheckedFuture(X) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles V getUninterruptibly(java.util.concurrent.Future&lt;V&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.collect.ImmutableList&lt;android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;T&gt;&gt; inCompletionOrder(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ExecutorService getExitingExecutorService(java.util.concurrent.ThreadPoolExecutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.Executor directExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setNameFormat(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.collect.ImmutableList&lt;android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;T&gt;&gt; inCompletionOrder(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles void joinUninterruptibly(java.lang.Thread, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter create(double, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; immediateFailedCheckedFuture(X)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles E takeUninterruptibly(java.util.concurrent.BlockingQueue&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles void putUninterruptibly(java.util.concurrent.BlockingQueue&lt;E&gt;, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering&lt;E&gt; newInstanceWithExplicitOrdering(java.lang.Class&lt;E&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures void addCallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureCallback&lt;? super V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture java.util.concurrent.Future delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager stopAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped android.support.test.espresso.core.deps.guava.util.concurrent.Striped&lt;java.util.concurrent.Semaphore&gt; lazyWeakSemaphore(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; successfulAsList(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterIfInterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ExecutorService getExitingExecutorService(java.util.concurrent.ThreadPoolExecutor, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SimpleTimeLimiter SimpleTimeLimiter(java.util.concurrent.ExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager.Listener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering java.util.concurrent.locks.ReentrantLock newReentrantLock(E, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService android.support.test.espresso.core.deps.guava.util.concurrent.Service stopAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean waitForUninterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policies WARN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingFuture java.util.concurrent.Future&lt;V&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures void addCallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureCallback&lt;? super V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ServiceManager void awaitHealthy(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService.Scheduler android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService.Scheduler newFixedRateSchedule(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles V getUninterruptibly(java.util.concurrent.Future&lt;V&gt;, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture V checkedGet(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.util.concurrent.Service.State NEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.UncaughtExceptionHandlers java.lang.Thread.UncaughtExceptionHandler systemExit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService listeningDecorator(java.util.concurrent.ScheduledExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService java.util.concurrent.Executor executor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask void addListener(java.lang.Runnable, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles boolean awaitUninterruptibly(java.util.concurrent.CountDownLatch, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractService void awaitRunning(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterIfInterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService listeningDecorator(java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter create(double, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard Guard(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory java.util.concurrent.locks.ReentrantReadWriteLock newReentrantReadWriteLock(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractCheckedFuture AbstractCheckedFuture(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles boolean tryAcquireUninterruptibly(java.util.concurrent.Semaphore, int, long, java.util.concurrent.TimeUnit) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles boolean tryAcquireUninterruptibly(java.util.concurrent.Semaphore, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService.CustomScheduler.Schedule Schedule(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service void awaitRunning(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService android.support.test.espresso.core.deps.guava.util.concurrent.Service startAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableScheduledFuture&lt;?&gt; scheduleAtFixedRate(java.lang.Runnable, long, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean hasWaiters(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean waitForUninterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors android.support.test.espresso.core.deps.guava.util.concurrent.ListeningExecutorService listeningDecorator(java.util.concurrent.ExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractListeningExecutorService java.util.concurrent.RunnableFuture newTaskFor(java.util.concurrent.Callable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Atomics java.util.concurrent.atomic.AtomicReference&lt;V&gt; newReference()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors android.support.test.espresso.core.deps.guava.util.concurrent.ListeningExecutorService newDirectExecutorService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures java.util.concurrent.Future&lt;O&gt; lazyTransform(java.util.concurrent.Future&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService android.support.test.espresso.core.deps.guava.util.concurrent.Service stopAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ScheduledExecutorService getExitingScheduledExecutorService(java.util.concurrent.ScheduledThreadPoolExecutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.JdkFutureAdapters android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; listenInPoolThread(java.util.concurrent.Future&lt;V&gt;, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture void addListener(java.lang.Runnable, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.RateLimiter boolean tryAcquire(int, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; apply(I) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Callables java.util.concurrent.Callable&lt;T&gt; returning(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped java.lang.Iterable&lt;L&gt; bulkGet(java.lang.Iterable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap android.support.test.espresso.core.deps.guava.util.concurrent.AtomicLongMap&lt;K&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder android.support.test.espresso.core.deps.guava.util.concurrent.ThreadFactoryBuilder setUncaughtExceptionHandler(java.lang.Thread.UncaughtExceptionHandler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService android.support.test.espresso.core.deps.guava.util.concurrent.Service startAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; allAsList(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; immediateFailedFuture(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering java.util.concurrent.locks.ReentrantLock newReentrantLock(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped android.support.test.espresso.core.deps.guava.util.concurrent.Striped&lt;java.util.concurrent.locks.ReadWriteLock&gt; readWriteLock(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.AsyncFunction&lt;? super I,? extends O&gt;, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.JdkFutureAdapters android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; listenInPoolThread(java.util.concurrent.Future&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterIf(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractListeningExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFutureTask&lt;T&gt; newTaskFor(java.lang.Runnable, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingListenableFuture void addListener(java.lang.Runnable, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Atomics java.util.concurrent.atomic.AtomicReferenceArray&lt;E&gt; newReferenceArray(E[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; immediateCheckedFuture(V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; withFallback(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.FutureFallback&lt;? extends V&gt;, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor void enterWhenUninterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.CheckedFuture&lt;V,X&gt; makeChecked(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super java.lang.Exception,X&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractIdleService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policies DISABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.WithExplicitOrdering&lt;E&gt; newInstanceWithExplicitOrdering(java.lang.Class&lt;E&gt;, android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory.Policy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; allAsList(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor void waitForUninterruptibly(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean enterWhen(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractFuture void addListener(java.lang.Runnable, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService.Scheduler android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService.Scheduler newFixedDelaySchedule(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.SettableFuture boolean setException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.CycleDetectingLockFactory java.util.concurrent.locks.ReentrantLock newReentrantLock(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ListeningScheduledExecutorService android.support.test.espresso.core.deps.guava.util.concurrent.ListenableScheduledFuture&lt;V&gt; schedule(java.util.concurrent.Callable&lt;V&gt;, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Uninterruptibles boolean tryAcquireUninterruptibly(java.util.concurrent.Semaphore, int, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; dereference(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.ForwardingCheckedFuture.SimpleForwardingCheckedFuture java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; nonCancellationPropagating(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractExecutionThreadService void awaitTerminated(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Monitor boolean waitFor(android.support.test.espresso.core.deps.guava.util.concurrent.Monitor.Guard, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractFuture void addListener(java.lang.Runnable, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Service.State STARTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; successfulAsList(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ExecutorService getExitingExecutorService(java.util.concurrent.ThreadPoolExecutor, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ExecutorService getExitingExecutorService(java.util.concurrent.ThreadPoolExecutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.MoreExecutors java.util.concurrent.ScheduledExecutorService getExitingScheduledExecutorService(java.util.concurrent.ScheduledThreadPoolExecutor, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Striped android.support.test.espresso.core.deps.guava.util.concurrent.Striped&lt;java.util.concurrent.locks.ReadWriteLock&gt; lazyWeakReadWriteLock(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.AbstractScheduledService void addListener(android.support.test.espresso.core.deps.guava.util.concurrent.Service.Listener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.JdkFutureAdapters android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; listenInPoolThread(java.util.concurrent.Future&lt;V&gt;, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;java.util.List&lt;V&gt;&gt; successfulAsList(java.lang.Iterable&lt;? extends android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;? extends V&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;V&gt; immediateFuture(V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.util.concurrent.Futures android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;O&gt; transform(android.support.test.espresso.core.deps.guava.util.concurrent.ListenableFuture&lt;I&gt;, android.support.test.espresso.core.deps.guava.base.Function&lt;? super I,? extends O&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

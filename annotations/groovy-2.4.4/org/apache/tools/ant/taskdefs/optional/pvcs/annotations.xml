@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.pvcs.Pvcs int runCmd(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.ExecuteStreamHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.pvcs.Pvcs void setConfig(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

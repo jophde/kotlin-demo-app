@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='org.apache.bsf.util.event.EventAdapterRegistry void register(java.lang.Class, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.EventAdapterRegistry java.lang.Class lookup(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

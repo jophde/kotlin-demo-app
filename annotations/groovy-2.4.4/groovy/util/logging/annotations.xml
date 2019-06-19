@@ -1,0 +1,102 @@
+<root>
+    <item
+        name='groovy.util.logging.Log4j2.Log4j2LoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j2.Log4j2LoggingStrategy boolean isLoggingMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Slf4j.Slf4jLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j2.Log4j2LoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Slf4j.Slf4jLoggingStrategy boolean isLoggingMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j.Log4jLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log.JavaUtilLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log.JavaUtilLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Commons.CommonsLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Slf4j.Slf4jLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log.JavaUtilLoggingStrategy boolean isLoggingMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j.Log4jLoggingStrategy boolean isLoggingMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j.Log4jLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Commons.CommonsLoggingStrategy boolean isLoggingMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Commons.CommonsLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log.JavaUtilLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j.Log4jLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j2.Log4j2LoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j2.Log4j2LoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Slf4j.Slf4jLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Commons.CommonsLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Slf4j.Slf4jLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Commons.CommonsLoggingStrategy org.codehaus.groovy.ast.expr.Expression wrapLoggingMethodCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log4j.Log4jLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.logging.Log.JavaUtilLoggingStrategy org.codehaus.groovy.ast.FieldNode addLoggerFieldToClass(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

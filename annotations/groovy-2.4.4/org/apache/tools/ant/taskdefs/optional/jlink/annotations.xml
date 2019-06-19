@@ -1,0 +1,13 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jlink.JlinkTask org.apache.tools.ant.types.Path createMergefiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jlink.JlinkTask org.apache.tools.ant.types.Path createAddfiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.jlink.jlink void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

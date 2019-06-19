@@ -1,0 +1,191 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.matcher.GlobPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ArtifactId, org.apache.ivy.core.module.id.ArtifactId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.RegexpPatternMatcher INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.PatternMatcher EXACT_OR_REGEXP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ArtifactId, org.apache.ivy.core.module.id.ArtifactId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MapMatcher MapMatcher(java.util.Map, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.AbstractPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean isExact(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.PatternMatcher ANY_EXPRESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.ExactOrRegexpPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.core.module.id.ModuleId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.PatternMatcher GLOB'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.PatternMatcher java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.GlobPatternMatcher INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean isExact(org.apache.ivy.plugins.matcher.PatternMatcher, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.Matcher boolean matches(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.ExactPatternMatcher INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean isExact(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.PatternMatcher org.apache.ivy.plugins.matcher.Matcher getMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ArtifactId, org.apache.ivy.core.module.id.ArtifactId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.NoMatcher INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.AbstractPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.PatternMatcher EXACT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.AnyMatcher boolean matches(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.GlobPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.PatternMatcher REGEXP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean isExact(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.RegexpPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.core.module.id.ModuleId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.ExactPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.AbstractPatternMatcher org.apache.ivy.plugins.matcher.Matcher getMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.ExactPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.AnyMatcher INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean isExact(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.NoMatcher boolean matches(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.matcher.ExactOrRegexpPatternMatcher INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.ExactOrRegexpPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.MatcherHelper boolean matches(org.apache.ivy.plugins.matcher.PatternMatcher, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.matcher.RegexpPatternMatcher org.apache.ivy.plugins.matcher.Matcher newMatcher(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

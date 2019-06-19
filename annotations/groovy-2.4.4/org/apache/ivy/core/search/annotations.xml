@@ -1,0 +1,42 @@
+<root>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine org.apache.ivy.core.module.id.ModuleId[] listModules(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine org.apache.ivy.core.search.ModuleEntry[] listModuleEntries(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine org.apache.ivy.core.module.id.ModuleRevisionId[] listModules(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine org.apache.ivy.core.module.id.ModuleRevisionId[] listModules(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine org.apache.ivy.core.module.id.ModuleRevisionId[] listModules(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine org.apache.ivy.core.search.RevisionEntry[] listRevisionEntries(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine java.util.Collection findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine java.util.Collection findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine java.util.Collection findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.search.SearchEngine java.util.Collection findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

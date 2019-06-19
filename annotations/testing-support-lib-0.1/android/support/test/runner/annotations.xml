@@ -1,0 +1,14 @@
+<root>
+    <item name='android.support.test.runner.AndroidJUnitRunner ARGUMENT_TEST_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.runner.AndroidJUnitRunner android.app.Activity newActivity(java.lang.Class&lt;?&gt;, android.content.Context, android.os.IBinder, android.app.Application, android.content.Intent, android.content.pm.ActivityInfo, java.lang.CharSequence, android.app.Activity, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.runner.AndroidJUnitRunner android.app.Activity newActivity(java.lang.Class&lt;?&gt;, android.content.Context, android.os.IBinder, android.app.Application, android.content.Intent, android.content.pm.ActivityInfo, java.lang.CharSequence, android.app.Activity, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.runner.AndroidJUnitRunner android.app.Activity newActivity(java.lang.Class&lt;?&gt;, android.content.Context, android.os.IBinder, android.app.Application, android.content.Intent, android.content.pm.ActivityInfo, java.lang.CharSequence, android.app.Activity, java.lang.String, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

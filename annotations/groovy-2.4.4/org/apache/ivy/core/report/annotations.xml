@@ -1,0 +1,56 @@
+<root>
+    <item
+        name='org.apache.ivy.core.report.ResolveReport ResolveReport(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.report.DownloadStatus FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.DownloadReport void addArtifactReport(org.apache.ivy.core.report.ArtifactDownloadReport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.ConfigurationResolveReport void addDependency(org.apache.ivy.core.resolve.IvyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.report.DownloadStatus NO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.ConfigurationResolveReport void addDependency(org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.report.DownloadReport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.ResolveReport org.apache.ivy.core.module.descriptor.ModuleDescriptor toFixedModuleDescriptor(org.apache.ivy.core.settings.IvySettings, java.util.List&lt;org.apache.ivy.core.module.id.ModuleId&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.report.ArtifactDownloadReport MISSING_ARTIFACT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.ResolveReport void output(org.apache.ivy.plugins.report.ReportOutputter[], org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.ResolveReport void setDependencies(java.util.List, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.ConfigurationResolveReport java.util.Set&lt;org.apache.ivy.core.module.id.ModuleRevisionId&gt; getModuleRevisionIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.report.DownloadStatus SUCCESSFUL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.report.ResolveReport java.util.List getModuleIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.report.DownloadStatus org.apache.ivy.core.report.DownloadStatus fromString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.report.ResolveReport java.util.List getAllProblemMessages()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

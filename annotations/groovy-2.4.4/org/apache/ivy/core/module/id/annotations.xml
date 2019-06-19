@@ -1,0 +1,126 @@
+<root>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId decode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object[] getRules(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.util.filter.Filter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleId org.apache.ivy.core.module.id.ModuleId decode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object getRule(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ArtifactRevisionId org.apache.ivy.core.module.id.ArtifactRevisionId newInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, java.lang.String, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleId org.apache.ivy.core.module.id.ModuleId decode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object getRule(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object getRule(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleId org.apache.ivy.core.module.id.ModuleId newInstance(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.id.ModuleId int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules void defineRule(org.apache.ivy.plugins.matcher.MapMatcher, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.id.MatcherLookup java.util.List get(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(java.lang.String, java.lang.String, java.lang.String, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object getRule(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.util.filter.Filter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.util.Map, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleId ModuleId(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object[] getRules(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.module.id.MatcherLookup java.util.List get(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ArtifactRevisionId org.apache.ivy.core.module.id.ArtifactRevisionId newInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.MatcherLookup void add(org.apache.ivy.plugins.matcher.MapMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules void defineRule(org.apache.ivy.plugins.matcher.MapMatcher, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRevisionId org.apache.ivy.core.module.id.ModuleRevisionId newInstance(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ArtifactRevisionId org.apache.ivy.core.module.id.ArtifactRevisionId newInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, java.lang.String, java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object[] getRules(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ModuleRules java.lang.Object getRule(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.module.id.ArtifactRevisionId org.apache.ivy.core.module.id.ArtifactRevisionId newInstance(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

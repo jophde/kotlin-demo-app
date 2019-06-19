@@ -1,0 +1,227 @@
+<root>
+    <item name='org.apache.ivy.ant.IvyBuildList.OnMissingDescriptor FAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyReport org.apache.tools.ant.taskdefs.XSLTProcess.Param createParam()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyTask void setResolved(org.apache.ivy.core.report.ResolveReport, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyTask java.lang.String getProperty(org.apache.ivy.core.settings.IvySettings, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyArtifactReport java.lang.String removeLeadingPath(java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyBuildList.OnMissingDescriptor SKIP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPostResolveTask org.apache.ivy.ant.IvyDependency createDependency()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyTask java.lang.String mergeConfs(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyTask ANT_PROJECT_CONTEXT_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyTask java.lang.String getProperty(java.lang.String, org.apache.ivy.core.settings.IvySettings, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings java.util.Properties getDefaultProperties(org.apache.tools.ant.ProjectComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPostResolveTask org.apache.ivy.core.module.id.ModuleRevisionId getResolvedMrid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings void addConfiguredCredentials(org.apache.ivy.ant.IvyAntSettings.Credentials) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyMakePom org.apache.ivy.ant.IvyMakePom.Mapping createMapping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyExtractFromSources void addConfiguredIgnore(org.apache.ivy.ant.IvyExtractFromSources.Ignore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyTask org.apache.ivy.Ivy getIvyInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPublish org.apache.ivy.ant.IvyPublish.PublishArtifact createArtifact()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyConfigure OVERRIDE_NOT_ALLOWED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.AntMessageLogger AntMessageLogger(org.apache.tools.ant.ProjectComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings java.util.Properties getDefaultProperties(org.apache.tools.ant.ProjectComponent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyArtifactReport java.lang.String removeLeadingPath(java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyConfigure void setUrl(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.AntBuildTrigger void progress(org.apache.ivy.core.event.IvyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyConfigure OVERRIDE_TRUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.AntCallTrigger void progress(org.apache.ivy.core.event.IvyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.ant.IvyResolve org.apache.ivy.ant.IvyDependency createDependency()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.FixDepsTask org.apache.ivy.ant.FixDepsTask.Keep createKeep()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyCacheTask java.util.List&lt;org.apache.ivy.core.report.ArtifactDownloadReport&gt; getArtifactReports()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.BuildOBRTask void setSourceType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyDependency org.apache.ivy.ant.IvyDependencyArtifact createArtifact()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyDependency org.apache.ivy.ant.IvyDependencyInclude createInclude()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings org.apache.ivy.ant.IvyAntSettings getDefaultInstance(org.apache.tools.ant.Task)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyCleanCache ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyDependencyConf org.apache.ivy.ant.IvyDependencyConf.IvyDependencyConfMapped createMapped()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyResolve org.apache.ivy.ant.IvyExclude createExclude()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyCleanCache NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyConfigure OVERRIDE_FALSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyDependency org.apache.ivy.ant.IvyDependencyExclude createExclude()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.AntMessageLogger void register(org.apache.tools.ant.ProjectComponent, org.apache.ivy.Ivy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyTask java.lang.String getProperty(org.apache.ivy.core.settings.IvySettings, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.AntCallTrigger void setPrefix(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings org.apache.ivy.ant.IvyAntSettings getDefaultInstance(org.apache.tools.ant.Task) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyBuildList DESCRIPTOR_REQUIRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPostResolveTask org.apache.ivy.ant.IvyConflict createConflict()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyTask void setResolved(org.apache.ivy.core.report.ResolveReport, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings org.apache.ivy.ant.IvyAntSettings getDefaultInstance(org.apache.tools.ant.ProjectComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyBuildList.OnMissingDescriptor TAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyBuildList.OnMissingDescriptor WARN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.AntBuildTrigger void setPrefix(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyTask java.lang.String getProperty(java.lang.String, org.apache.ivy.core.settings.IvySettings, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPostResolveTask org.apache.ivy.ant.IvyExclude createExclude()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyBuildList.OnMissingDescriptor HEAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyRepositoryReport org.apache.tools.ant.taskdefs.XSLTProcess.Param createParam()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.AntMessageLogger void register(org.apache.tools.ant.ProjectComponent, org.apache.ivy.Ivy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyExtractFromSources void addConfiguredMapping(org.apache.ivy.ant.PackageMapping) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPostResolveTask org.apache.ivy.core.module.id.ModuleId getResolvedModuleId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyAntSettings org.apache.ivy.ant.IvyAntSettings getDefaultInstance(org.apache.tools.ant.ProjectComponent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyPublish void addConfiguredArtifacts(org.apache.ivy.ant.IvyPublish.ArtifactsPattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyResolve org.apache.ivy.ant.IvyConflict createConflict()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.ant.IvyDependency org.apache.ivy.ant.IvyDependencyConf createConf()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.ant.IvyMakePom org.apache.ivy.ant.IvyMakePom.Dependency createDependency()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

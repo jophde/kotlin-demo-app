@@ -1,0 +1,201 @@
+<root>
+    <item
+        name='jsr166y.LinkedTransferQueue int drainTo(java.util.Collection&lt;? super E&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool void managedBlock(jsr166y.ForkJoinPool.ManagedBlocker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;T&gt; adapt(java.lang.Runnable, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.RunnableFuture&lt;T&gt; newTaskFor(java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinTask void invokeAll(jsr166y.ForkJoinTask&lt;?&gt;, jsr166y.ForkJoinTask&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.Future submit(java.lang.Runnable, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask V get(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.RunnableFuture&lt;T&gt; newTaskFor(java.util.concurrent.Callable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;T&gt; submit(java.lang.Runnable, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;T&gt; submit(jsr166y.ForkJoinTask&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinWorkerThread jsr166y.ForkJoinPool getPool()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.LinkedTransferQueue E take()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.LinkedTransferQueue boolean tryTransfer(E, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.Future submit(java.lang.Runnable, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;T&gt; submit(jsr166y.ForkJoinTask&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;T&gt; submit(java.lang.Runnable, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool java.util.concurrent.Future submit(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask void invokeAll(jsr166y.ForkJoinTask&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool java.util.concurrent.Future submit(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool defaultForkJoinWorkerThreadFactory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.Future submit(java.util.concurrent.Callable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinWorkerThread ForkJoinWorkerThread(jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.LinkedTransferQueue E poll(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool T invoke(jsr166y.ForkJoinTask&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.Future submit(java.util.concurrent.Callable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool void execute(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;T&gt; adapt(java.util.concurrent.Callable&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.RunnableFuture&lt;T&gt; newTaskFor(java.lang.Runnable, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.LinkedTransferQueue java.util.Iterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinTask java.util.Collection&lt;T&gt; invokeAll(java.util.Collection&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.LinkedTransferQueue int drainTo(java.util.Collection&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.concurrent.RunnableFuture&lt;T&gt; newTaskFor(java.lang.Runnable, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinTask java.util.Collection&lt;T&gt; invokeAll(java.util.Collection&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;T&gt; submit(java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool boolean awaitTermination(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;?&gt; adapt(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;?&gt; submit(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;?&gt; submit(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;?&gt; adapt(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.List&lt;java.util.concurrent.Future&lt;T&gt;&gt; invokeAll(java.util.Collection&lt;? extends java.util.concurrent.Callable&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;V&gt; fork()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool.ForkJoinWorkerThreadFactory jsr166y.ForkJoinWorkerThread newThread(jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='jsr166y.Phaser int awaitAdvanceInterruptibly(int, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool java.util.List&lt;java.util.concurrent.Future&lt;T&gt;&gt; invokeAll(java.util.Collection&lt;? extends java.util.concurrent.Callable&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinTask void invokeAll(jsr166y.ForkJoinTask&lt;?&gt;, jsr166y.ForkJoinTask&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;T&gt; adapt(java.util.concurrent.Callable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.TransferQueue boolean tryTransfer(E, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool.ForkJoinWorkerThreadFactory jsr166y.ForkJoinWorkerThread newThread(jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool ForkJoinPool(int, jsr166y.ForkJoinPool.ForkJoinWorkerThreadFactory, java.lang.Thread.UncaughtExceptionHandler, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinTask jsr166y.ForkJoinTask&lt;T&gt; adapt(java.lang.Runnable, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool void execute(jsr166y.ForkJoinTask&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='jsr166y.ForkJoinPool jsr166y.ForkJoinTask&lt;T&gt; submit(java.util.concurrent.Callable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='jsr166y.ForkJoinPool jsr166y.ForkJoinPool.ForkJoinWorkerThreadFactory getFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

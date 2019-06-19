@@ -1,0 +1,14 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.gstringTemplates.GroovyDocTemplateInfo DEFAULT_PACKAGE_TEMPLATES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.gstringTemplates.GroovyDocTemplateInfo DEFAULT_DOC_TEMPLATES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.gstringTemplates.GroovyDocTemplateInfo DEFAULT_CLASS_TEMPLATES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

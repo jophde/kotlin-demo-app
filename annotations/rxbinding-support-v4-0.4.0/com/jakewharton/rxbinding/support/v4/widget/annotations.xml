@@ -1,0 +1,8 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v4.widget.RxDrawerLayout rx.functions.Action1&lt;? super java.lang.Boolean&gt; open(android.support.v4.widget.DrawerLayout, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.widget.RxSwipeRefreshLayout rx.functions.Action1&lt;? super java.lang.Boolean&gt; refreshing(android.support.v4.widget.SwipeRefreshLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

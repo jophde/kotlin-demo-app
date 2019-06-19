@@ -1,0 +1,772 @@
+<root>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver javax.xml.stream.XMLInputFactory createInputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.JDom2Writer void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.XomReader XomReader(nu.xom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxReader void appendErrors(com.thoughtworks.xstream.converters.ErrorWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XmlFriendlyNameCoder java.util.Map createCacheMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JXmlWriter Dom4JXmlWriter(org.dom4j.io.XMLWriter, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter java.lang.Object getProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JXmlWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.JDom2Reader JDom2Reader(org.jdom2.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.QNameMap javax.xml.namespace.QName getQName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setEntityResolver(org.xml.sax.EntityResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.SaxWriter boolean getFeature(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.TraxSource XSTREAM_FEATURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JXmlWriter Dom4JXmlWriter(org.dom4j.io.XMLWriter, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Element, org.w3c.dom.Document, com.thoughtworks.xstream.io.naming.NameCoder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.XppDomWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.TraxSource TraxSource(java.lang.Object, com.thoughtworks.xstream.XStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDriver org.xmlpull.v1.XmlPullParser createParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setErrorHandler(org.xml.sax.ErrorHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractDocumentReader java.util.Iterator getAttributeNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setDTDHandler(org.xml.sax.DTDHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setProperty(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.KXml2Driver org.xmlpull.v1.XmlPullParser createParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter PrettyPrintWriter(java.io.Writer, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XppReader XppReader(java.io.Reader, org.xmlpull.v1.XmlPullParser, com.thoughtworks.xstream.io.naming.NameCoder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractDocumentWriter java.lang.Object createNode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractDocumentWriter java.util.List getTopLevelNodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.WstxDriver javax.xml.stream.XMLOutputFactory createOutputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter PrettyPrintWriter(java.io.Writer, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.SaxWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.DomWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JReader void appendErrors(com.thoughtworks.xstream.converters.ErrorWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.XmlFriendlyNameCoder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XppDomWriter java.lang.Object createNode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.SaxWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.Dom4JXmlWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.TraxSource TraxSource(java.lang.Object, com.thoughtworks.xstream.XStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setProperty(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setContentHandler(org.xml.sax.ContentHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter void writeAttributeValue(com.thoughtworks.xstream.core.util.QuickWriter, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XppReader XppReader(java.io.Reader, org.xmlpull.v1.XmlPullParser) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.xml.StaxWriter createStaxWriter(javax.xml.stream.XMLStreamWriter, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.KXml2DomDriver org.xmlpull.v1.XmlPullParser createParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.TraxSource TraxSource(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomReader JDomReader(org.jdom.Document, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomReader DomReader(org.w3c.dom.Document, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.SaxWriter CONFIGURED_XSTREAM_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.XomWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.xml.AbstractPullReader createStaxReader(javax.xml.stream.XMLStreamReader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractDocumentWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.Dom4JWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter PrettyPrintWriter(java.io.Writer, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void setFeature(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JReader Dom4JReader(org.dom4j.Document, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver javax.xml.stream.XMLOutputFactory createOutputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.TraxSource void setSourceAsList(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.SaxWriter SOURCE_OBJECT_LIST_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Element, org.w3c.dom.Document, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.SaxWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.Dom4JReader Dom4JReader(org.dom4j.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.QNameMap void registerMapping(javax.xml.namespace.QName, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JXmlWriter Dom4JXmlWriter(org.dom4j.io.XMLWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.TraxSource TraxSource(java.util.List, com.thoughtworks.xstream.XStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.JDomReader JDomReader(org.jdom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Document, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractPullReader java.util.Iterator getAttributeNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.StaxWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomWriter java.lang.Object createNode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XppDomWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Document, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Xpp3Driver org.xmlpull.v1.XmlPullParser createParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.BEAStaxDriver javax.xml.stream.XMLInputFactory createInputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractDocumentReader void appendErrors(com.thoughtworks.xstream.converters.ErrorWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.TraxSource TraxSource(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.TraxSource TraxSource(java.util.List, com.thoughtworks.xstream.XStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XppReader void appendErrors(com.thoughtworks.xstream.converters.ErrorWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomReader XomReader(nu.xom.Document, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.XppDomReader java.lang.String getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.StaxWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomReader DomReader(org.w3c.dom.Document, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomReader JDomReader(org.jdom.Document, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter void startNode(java.lang.String, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Writer void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.WstxDriver javax.xml.stream.XMLInputFactory createInputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.TraxSource void setXStream(com.thoughtworks.xstream.XStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.Dom4JXmlWriter void startNode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Reader JDom2Reader(org.jdom2.Document, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.TraxSource void setSource(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.BEAStaxDriver javax.xml.stream.XMLOutputFactory createOutputFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.DocumentWriter java.util.List getTopLevelNodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JReader Dom4JReader(org.dom4j.Document, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.JDomWriter void setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Element, com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.StaxDriver com.thoughtworks.xstream.io.xml.StaxWriter createStaxWriter(javax.xml.stream.XMLStreamWriter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.Writer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomWriter DomWriter(org.w3c.dom.Element, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Dom4JWriter void addAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.XomReader XomReader(nu.xom.Document, com.thoughtworks.xstream.io.naming.NameCoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.AbstractXppDomDriver org.xmlpull.v1.XmlPullParser createParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamWriter createWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.JDom2Driver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.DomDriver com.thoughtworks.xstream.io.HierarchicalStreamReader createReader(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.io.xml.DomReader DomReader(org.w3c.dom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.PrettyPrintWriter void writeText(com.thoughtworks.xstream.core.util.QuickWriter, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.Xpp3DomDriver org.xmlpull.v1.XmlPullParser createParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

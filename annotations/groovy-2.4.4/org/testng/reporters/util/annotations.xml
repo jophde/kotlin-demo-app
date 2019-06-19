@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.testng.reporters.util.StackTraceTools java.lang.StackTraceElement[] getTestNGInstrastructure(java.lang.StackTraceElement[], org.testng.ITestNGMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

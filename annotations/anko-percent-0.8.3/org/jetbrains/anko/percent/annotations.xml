@@ -1,0 +1,305 @@
+<root>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentRelativeLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent...Anko.Factories.PercentViewGroup INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentFrameLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentRelativeLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentRelativeLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout _PercentFrameLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent...Anko.Factories.PercentViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.percent._PercentRelativeLayout&gt; getPERCENT_RELATIVE_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentFrameLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentRelativeLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentRelativeLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent...Anko.Factories.PercentViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.percent._PercentFrameLayout&gt; getPERCENT_FRAME_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentRelativeLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentFrameLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentFrameLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentRelativeLayout percentRelativeLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.support.percent.PercentFrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentLayoutsKt kotlin.jvm.functions.Function1 access$getDefaultInit$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentFrameLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout _PercentRelativeLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentRelativeLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentRelativeLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentRelativeLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.percent._PercentFrameLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.percent.PercentFrameLayout.LayoutParams,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent._PercentFrameLayout android.view.View lparams$default(org.jetbrains.anko.percent._PercentFrameLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.percent.PercentViewsKt android.support.percent.PercentFrameLayout percentFrameLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

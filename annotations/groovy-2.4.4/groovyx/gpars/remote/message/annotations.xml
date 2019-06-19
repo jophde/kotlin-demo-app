@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='groovyx.gpars.remote.message.NodeDisconnectedMsg void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.remote.message.NodeConnectedMsg void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.remote.message.NodeConnectedMsg NodeConnectedMsg(groovyx.gpars.remote.LocalNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.remote.message.NodeDisconnectedMsg NodeDisconnectedMsg(groovyx.gpars.remote.LocalNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

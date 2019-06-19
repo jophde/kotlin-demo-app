@@ -1,0 +1,30 @@
+<root>
+    <item
+        name='org.apache.ivy.util.extendable.ExtendableItemHelper java.util.Map getExtraAttributes(org.apache.ivy.plugins.parser.ParserSettings, org.xml.sax.Attributes, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.extendable.DefaultExtendableItem void setExtraAttribute(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.extendable.ExtendableItemHelper java.util.Map getExtraAttributes(org.xml.sax.Attributes, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.extendable.UnmodifiableExtendableItem void setExtraAttribute(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.extendable.ExtendableItemHelper java.util.Map getExtraAttributes(org.xml.sax.Attributes, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.extendable.ExtendableItemHelper java.util.Map getExtraAttributes(org.apache.ivy.plugins.parser.ParserSettings, org.xml.sax.Attributes, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.extendable.ExtendableItemHelper void fillExtraAttributes(org.apache.ivy.plugins.parser.ParserSettings, org.apache.ivy.util.extendable.DefaultExtendableItem, org.xml.sax.Attributes, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

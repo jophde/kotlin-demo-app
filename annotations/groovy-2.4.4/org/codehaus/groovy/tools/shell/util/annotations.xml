@@ -1,0 +1,22 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.shell.util.CommandArgumentParser java.util.List&lt;java.lang.String&gt; parseLine(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.util.CommandArgumentParser java.util.List&lt;java.lang.String&gt; parseLine(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.util.PackageHelper IMPORT_COMPLETION_PREFERENCE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.util.PackageHelperImpl java.util.Set&lt;java.lang.String&gt; getClassnames(java.util.Set&lt;java.net.URL&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.util.PackageHelperImpl java.util.Set&lt;java.lang.String&gt; getClassnames(java.util.Set&lt;java.net.URL&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,102 @@
+<root>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyBinHelper void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyBinHelper void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyCallSiteWriter void makeCallSite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyCallSiteWriter void makeCallSite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void writeGetProperty(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyCallSiteWriter void makeGetPropertySite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void castNonPrimitiveToBool(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void writeNormalConstructorCall(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyCallSiteWriter void makeGroovyObjectGetPropertySite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void castToNonPrimitiveIfNecessary(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyCallSiteWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void coerce(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.IndyCallSiteWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.indy.InvokeDynamicWriter void coerce(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

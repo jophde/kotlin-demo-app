@@ -1,0 +1,8 @@
+<root>
+    <item name='org.testng.internal.invokers.InvokedMethodListenerMethod AFTER_INVOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.invokers.InvokedMethodListenerMethod BEFORE_INVOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,313 @@
+<root>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.OptionBuilder org.apache.commons.cli.Option create(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printWrapped(java.io.PrintWriter, int, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.Option java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printWrapped(java.io.PrintWriter, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.OptionGroup void setSelected(org.apache.commons.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.MissingArgumentException MissingArgumentException(org.apache.commons.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.PosixParser void burstToken(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser org.apache.commons.cli.CommandLine parse(org.apache.commons.cli.Options, java.lang.String[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, org.apache.commons.cli.Options, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printOptions(java.io.PrintWriter, int, org.apache.commons.cli.Options, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.HelpFormatter DEFAULT_SYNTAX_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String, org.apache.commons.cli.Options) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.TypeHandler java.lang.Number createNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.GnuParser java.lang.String[] flatten(org.apache.commons.cli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.TypeHandler java.net.URL createURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.HelpFormatter int findWrapPos(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.CommandLine java.lang.String[] getArgs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.OptionGroup org.apache.commons.cli.OptionGroup addOption(org.apache.commons.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.Options addOption(org.apache.commons.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser org.apache.commons.cli.CommandLine parse(org.apache.commons.cli.Options, java.lang.String[], java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.OptionBuilder org.apache.commons.cli.Option create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.Options addOption(java.lang.String, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, int, int, java.lang.String, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printWrapped(java.io.PrintWriter, int, int, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.BasicParser java.lang.String[] flatten(org.apache.commons.cli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, int, int, java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.CommandLineParser org.apache.commons.cli.CommandLine parse(org.apache.commons.cli.Options, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter java.lang.StringBuffer renderWrappedText(java.lang.StringBuffer, int, int, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, int, int, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, org.apache.commons.cli.Options, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.AlreadySelectedException AlreadySelectedException(org.apache.commons.cli.OptionGroup, org.apache.commons.cli.Option) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.CommandLine java.util.Properties getOptionProperties(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, org.apache.commons.cli.Options) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.MissingOptionException MissingOptionException(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, int, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String, org.apache.commons.cli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.HelpFormatter DEFAULT_OPT_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printWrapped(java.io.PrintWriter, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.AlreadySelectedException AlreadySelectedException(org.apache.commons.cli.OptionGroup, org.apache.commons.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.TypeHandler java.io.File createFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser org.apache.commons.cli.CommandLine parse(org.apache.commons.cli.Options, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser void processArgs(org.apache.commons.cli.Option, java.util.ListIterator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.OptionGroup org.apache.commons.cli.OptionGroup addOption(org.apache.commons.cli.Option)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.Options addOption(org.apache.commons.cli.Option)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.Options addOption(java.lang.String, java.lang.String, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.Options addOptionGroup(org.apache.commons.cli.OptionGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.OptionBuilder org.apache.commons.cli.Option create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.PatternOptionBuilder org.apache.commons.cli.Options parsePattern(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printOptions(java.io.PrintWriter, int, org.apache.commons.cli.Options, int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.Options addOptionGroup(org.apache.commons.cli.OptionGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.PosixParser java.lang.String[] flatten(org.apache.commons.cli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter java.lang.StringBuffer renderWrappedText(java.lang.StringBuffer, int, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser org.apache.commons.cli.CommandLine parse(org.apache.commons.cli.Options, java.lang.String[], java.util.Properties, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, org.apache.commons.cli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.PatternOptionBuilder org.apache.commons.cli.Options parsePattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter java.lang.StringBuffer renderOptions(java.lang.StringBuffer, int, org.apache.commons.cli.Options, int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.CommandLineParser org.apache.commons.cli.CommandLine parse(org.apache.commons.cli.Options, java.lang.String[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.cli.HelpFormatter DEFAULT_ARG_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.HelpFormatter DEFAULT_LONG_OPT_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser java.lang.String[] flatten(org.apache.commons.cli.Options, java.lang.String[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.commons.cli.Options org.apache.commons.cli.OptionGroup getOptionGroup(org.apache.commons.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter java.lang.StringBuffer renderWrappedText(java.lang.StringBuffer, int, int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.Parser void processArgs(org.apache.commons.cli.Option, java.util.ListIterator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, int, int, java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printHelp(java.io.PrintWriter, int, java.lang.String, java.lang.String, org.apache.commons.cli.Options, int, int, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.commons.cli.HelpFormatter void printUsage(java.io.PrintWriter, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.commons.cli.Parser void setOptions(org.apache.commons.cli.Options) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

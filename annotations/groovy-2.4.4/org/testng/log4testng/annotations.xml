@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.testng.log4testng.Logger org.testng.log4testng.Logger getLogger(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,15 @@
+<root>
+    <item name='groovy.inspect.swingui.TableSorter void setModel(javax.swing.table.TableModel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.swingui.TableSorter TableSorter(javax.swing.table.TableModel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.swingui.TableMap void setModel(javax.swing.table.TableModel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.inspect.swingui.TableSorter void addMouseListenerToHeaderInTable(javax.swing.JTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

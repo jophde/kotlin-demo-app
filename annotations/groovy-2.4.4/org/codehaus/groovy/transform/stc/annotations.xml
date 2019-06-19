@@ -1,0 +1,992 @@
+<root>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.transform.stc.DelegationMetadata getDelegationMetadata(org.codehaus.groovy.ast.expr.ClosureExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitMethodCallExpression(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean checkCompatibleAssignmentTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor TYPECHECKING_ANNOTATIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findSetters(org.codehaus.groovy.ast.ClassNode, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.lang.String prettyPrintMethodList(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getResultType(org.codehaus.groovy.ast.ClassNode, int, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.BinaryExpression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension boolean isDynamic(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.expr.ArgumentListExpression getArguments(org.codehaus.groovy.ast.expr.MethodCall)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleAmbiguousMethods(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.util.List&lt;org.codehaus.groovy.transform.stc.Receiver&lt;java.lang.String&gt;&gt; makeOwnerList(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitIfElse(org.codehaus.groovy.ast.stmt.IfStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean checkCompatibleAssignmentTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode newMethod(java.lang.String, java.util.concurrent.Callable&lt;org.codehaus.groovy.ast.ClassNode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.expr.ArgumentListExpression getArguments(org.codehaus.groovy.ast.expr.MethodCall) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport void findDGMMethodsForClassNode(java.lang.ClassLoader, org.codehaus.groovy.ast.ClassNode, java.lang.String, java.util.TreeSet&lt;org.codehaus.groovy.ast.MethodNode&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean typeCheckMethodsWithGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getType(org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension void makeDynamic(org.codehaus.groovy.ast.expr.PropertyExpression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitBinaryExpression(org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitClassExpression(org.codehaus.groovy.ast.expr.ClassExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitTernaryExpression(org.codehaus.groovy.ast.expr.TernaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void storeTargetMethod(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TraitTypeCheckingExtension TraitTypeCheckingExtension(org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void inferClosureParameterTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.ClosureExpression, org.codehaus.groovy.ast.Parameter, org.codehaus.groovy.ast.MethodNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addStaticTypeError(java.lang.String, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void inferDiamondType(org.codehaus.groovy.ast.expr.ConstructorCallExpression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode newMethod(java.lang.String, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void storeInferredTypeForPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferComponentType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TraitTypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport.TypeCheckingDSL java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode newMethod(java.lang.String, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; chooseBestMethod(org.codehaus.groovy.ast.ClassNode, java.util.Collection&lt;org.codehaus.groovy.ast.MethodNode&gt;, org.codehaus.groovy.ast.ClassNode...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker DELEGATION_METADATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode buildMapType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext errorCollectors'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension void storeType(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getResultType(org.codehaus.groovy.ast.ClassNode, int, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitRangeExpression(org.codehaus.groovy.ast.expr.RangeExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor returnListener'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitPostfixExpression(org.codehaus.groovy.ast.expr.PostfixExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsByNameAndArguments(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext enclosingMethodCalls'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.MethodNode checkGroovyStyleConstructor(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension boolean argTypeMatches(org.codehaus.groovy.ast.expr.MethodCall, int, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport int allParametersAndArgumentsMatch(org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.ClassNode[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean isParameterizedWithString(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.lang.Object extractTemporaryTypeInfoKey(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean isParameterizedWithGStringOrGStringString(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean implementsInterfaceOrIsSubclassOf(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitSwitch(org.codehaus.groovy.ast.stmt.SwitchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void checkGroovyConstructorMap(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.MapExpression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingContext closureSharedVariablesAssignmentTypes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addAssignmentError(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addTypeCheckingInfoAnnotation(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitAttributeExpression(org.codehaus.groovy.ast.expr.AttributeExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.Parameter[] parameterizeArguments(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.MethodNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext enclosingClassNodes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport Deprecated_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker DIRECT_METHOD_CALL_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean checkCast(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getGroupOperationResultType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean checkCompatibleAssignmentTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SignatureCodec org.codehaus.groovy.ast.ClassNode decode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingContext org.codehaus.groovy.control.ErrorCollector pushErrorCollector()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void storeType(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.util.Map&lt;org.codehaus.groovy.ast.expr.VariableExpression,org.codehaus.groovy.ast.ClassNode&gt; popAssignmentTracking(java.util.Map&lt;org.codehaus.groovy.ast.expr.VariableExpression,java.util.List&lt;org.codehaus.groovy.ast.ClassNode&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean checkCompatibleAssignmentTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext secondPassExpressions'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addAssignmentError(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.Receiver org.codehaus.groovy.transform.stc.Receiver&lt;T&gt; make(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.GenericsType fullyResolve(org.codehaus.groovy.ast.GenericsType, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.GenericsType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor CURRENT_SIGNATURE_PROTOCOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode makeDynamic(org.codehaus.groovy.ast.expr.MethodCall, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension boolean existsProperty(org.codehaus.groovy.ast.expr.PropertyExpression, boolean, org.codehaus.groovy.ast.ClassCodeVisitorSupport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport ArrayList_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addNoMatchingMethodError(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.DefaultTypeCheckingExtension handlers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport DGM_METHOD_NODE_COMPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension boolean argTypesMatches(org.codehaus.groovy.ast.expr.MethodCall, java.lang.Class...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker DYNAMIC_RESOLUTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean checkCompatibleAssignmentTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor ERROR_COLLECTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SignatureCodec java.lang.String encode(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean hasRHSIncompleteGenericTypeInfo(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension void addStaticTypeError(java.lang.String, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.Set&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsForClassNode(java.lang.ClassLoader, org.codehaus.groovy.ast.ClassNode, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void checkForbiddenSpreadArgument(org.codehaus.groovy.ast.expr.ArgumentListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsByNameAndArguments(java.lang.ClassLoader, org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode[] getTypeCheckingAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingContext void pushEnclosingMethodCall(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode[] getArgumentTypes(org.codehaus.groovy.ast.expr.ArgumentListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.Set&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsForClassNode(org.codehaus.groovy.ast.ClassNode, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getOriginalDeclarationType(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor.VariableExpressionTypeMemoizer void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SharedVariableCollector void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode[] extractTypesFromParameters(org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitBitwiseNegationExpression(org.codehaus.groovy.ast.expr.BitwiseNegationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferMapExpressionType(org.codehaus.groovy.ast.expr.MapExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode[] getArgumentTypes(org.codehaus.groovy.ast.expr.ArgumentListExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsByNameAndArguments(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[], java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension.TypeCheckingScope scopeExit(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitCastExpression(org.codehaus.groovy.ast.expr.CastExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode parameterizedType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode makeDynamic(org.codehaus.groovy.ast.expr.MethodCall)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.DefaultTypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleAmbiguousMethods(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.Variable findTargetVariable(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode storeInferredReturnType(org.codehaus.groovy.ast.ASTNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleAmbiguousMethods(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitClosureExpression(org.codehaus.groovy.ast.expr.ClosureExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SignatureCodecVersion1 org.codehaus.groovy.ast.ClassNode decode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport Matcher_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode parameterizedType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addUnsupportedPreOrPostfixExpressionError(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.ClassNode fullyResolveType(org.codehaus.groovy.ast.ClassNode, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.GenericsType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addNoMatchingMethodError(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean shouldSkipMethodNode(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext enclosingBinaryExpressions'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingContext.EnclosingClosure java.util.List&lt;org.codehaus.groovy.ast.ClassNode&gt; getReturnTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean isUsingUncheckedGenerics(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean existsProperty(org.codehaus.groovy.ast.expr.PropertyExpression, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor StaticTypeCheckingVisitor(org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addCategoryMethodCallError(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker SUPER_MOP_METHOD_REQUIRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.DefaultTypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.Set&lt;org.codehaus.groovy.ast.ClassNode&gt; collectAllInterfaces(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport EXTENSION_METHOD_CACHE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.DefaultTypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferReturnTypeGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitConstructorOrMethod(org.codehaus.groovy.ast.MethodNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker INFERRED_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.Set&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsForClassNode(java.lang.ClassLoader, org.codehaus.groovy.ast.ClassNode, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addAmbiguousErrorMessage(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, java.lang.String, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferLoopElementType(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitUnaryPlusExpression(org.codehaus.groovy.ast.expr.UnaryPlusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferReturnTypeGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.GenericsType[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void checkGroovyStyleConstructor(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addAssignmentError(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitStaticMethodCallExpression(org.codehaus.groovy.ast.expr.StaticMethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode checkReturnType(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport.TypeCheckingDSL java.lang.Object getProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.MethodNode findMethodOrFail(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitCaseStatement(org.codehaus.groovy.ast.stmt.CaseStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension void makeDynamic(org.codehaus.groovy.ast.expr.VariableExpression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsByNameAndArguments(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[], java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addAmbiguousErrorMessage(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, java.lang.String, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor GENERATED_EMPTY_STATEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.MethodNode getTargetMethod(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SignatureCodecVersion1 java.lang.String encode(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker CLOSURE_ARGUMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker PV_METHODS_ACCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext enclosingClosures'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitTryCatchFinally(org.codehaus.groovy.ast.stmt.TryCatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean isBeingCompiled(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findMethodsWithGenerated(org.codehaus.groovy.ast.ClassNode, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitMethodCallArguments(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.ArgumentListExpression, boolean, org.codehaus.groovy.ast.MethodNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void saveVariableExpressionMetadata(java.util.Set&lt;org.codehaus.groovy.ast.expr.VariableExpression&gt;, java.util.Map&lt;org.codehaus.groovy.ast.expr.VariableExpression,org.codehaus.groovy.util.ListHashMap&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean checkCast(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode getType(org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean checkCompatibleAssignmentTypes(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findMethodsWithGenerated(org.codehaus.groovy.ast.ClassNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitForLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension boolean argTypeMatches(org.codehaus.groovy.ast.ClassNode[], int, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean isUsingGenericsOrIsArrayUsingGenerics(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker PV_FIELDS_ACCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker DECLARATION_INFERRED_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension.TypeCheckingScope newScope(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.GenericsType fullyResolve(org.codehaus.groovy.ast.GenericsType, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.GenericsType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferMapExpressionType(org.codehaus.groovy.ast.expr.MapExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void addError(java.lang.String, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean typeCheckMethodsWithGenericsOrFail(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker IMPLICIT_RECEIVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension.TypeCheckingScope newScope(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker READONLY_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension boolean firstArgTypesMatches(org.codehaus.groovy.ast.expr.MethodCall, java.lang.Class...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport Collection_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.ClassNode isTraitSelf(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getInferredReturnType(org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void typeCheckClosureCall(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.Parameter[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleMissingMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.expr.MethodCall) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode[] getArgumentTypes(org.codehaus.groovy.ast.expr.ArgumentListExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor returnAdder'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode[] getArgumentTypes(org.codehaus.groovy.ast.expr.ArgumentListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitPrefixExpression(org.codehaus.groovy.ast.expr.PrefixExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitWhileLoop(org.codehaus.groovy.ast.stmt.WhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport.TypeCheckingDSL java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsByNameAndArguments(java.lang.ClassLoader, org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[], java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension org.codehaus.groovy.ast.ClassNode buildListType(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension void makeDynamic(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport void findDGMMethodsForClassNode(org.codehaus.groovy.ast.ClassNode, java.lang.String, java.util.TreeSet&lt;org.codehaus.groovy.ast.MethodNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode makeDynamic(org.codehaus.groovy.ast.expr.MethodCall, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void pushInstanceOfTypeInfo(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension AbstractTypeCheckingExtension(org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SignatureCodec org.codehaus.groovy.ast.ClassNode decode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.Parameter[] parameterizeArguments(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.MethodNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitUnaryMinusExpression(org.codehaus.groovy.ast.expr.UnaryMinusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension void pushEnclosingMethodCall(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension java.util.Set&lt;org.codehaus.groovy.ast.MethodNode&gt; getGeneratedMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.GroovyTypeCheckingExtensionSupport GroovyTypeCheckingExtensionSupport(org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor, java.lang.String, org.codehaus.groovy.control.CompilationUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension R withTypeChecker(groovy.lang.Closure&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsByNameAndArguments(java.lang.ClassLoader, org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode[], java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.util.Set&lt;org.codehaus.groovy.ast.MethodNode&gt; findDGMMethodsForClassNode(org.codehaus.groovy.ast.ClassNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean missesGenericsTypes(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode[] extractTypesFromParameters(org.codehaus.groovy.ast.Parameter[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor java.util.List&lt;org.codehaus.groovy.transform.stc.Receiver&lt;java.lang.String&gt;&gt; makeOwnerList(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension boolean existsProperty(org.codehaus.groovy.ast.expr.PropertyExpression, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void pushInstanceOfTypeInfo(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.DefaultTypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleAmbiguousMethods(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext reportedErrors'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport org.codehaus.groovy.ast.GenericsType fullyResolve(org.codehaus.groovy.ast.GenericsType, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.GenericsType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.TypeCheckingExtension java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; handleAmbiguousMethods(java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt;, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension void makeDynamic(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport java.lang.Object evaluateExpression(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.control.CompilerConfiguration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.ast.MethodNode makeDynamic(org.codehaus.groovy.ast.expr.MethodCall) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.TypeCheckingContext enclosingMethods'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor boolean existsProperty(org.codehaus.groovy.ast.expr.PropertyExpression, boolean, org.codehaus.groovy.ast.ClassCodeVisitorSupport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker INITIAL_EXPRESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.stc.StaticTypesMarker INFERRED_RETURN_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.SignatureCodecVersion1 org.codehaus.groovy.ast.ClassNode decode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingSupport boolean isClassClassNodeWrappingConcreteType(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor void visitReturnStatement(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode getResultType(org.codehaus.groovy.ast.ClassNode, int, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.BinaryExpression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor.SetterInfo hasSetter(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor org.codehaus.groovy.ast.ClassNode inferListExpressionType(org.codehaus.groovy.ast.expr.ListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension org.codehaus.groovy.transform.stc.AbstractTypeCheckingExtension.TypeCheckingScope newScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

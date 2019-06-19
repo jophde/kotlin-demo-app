@@ -1,0 +1,23 @@
+<root>
+    <item
+        name='groovyx.gpars.activeobject.ActiveObjectRegistry groovyx.gpars.activeobject.ActiveObjectRegistry getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.activeobject.InternalActor METHOD_NAME_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.activeobject.InternalActor groovyx.gpars.activeobject.InternalActor create(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.activeobject.InternalActor void onMessage(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.activeobject.ActiveObject INTERNAL_ACTIVE_OBJECT_ACTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.activeobject.ActiveObjectASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

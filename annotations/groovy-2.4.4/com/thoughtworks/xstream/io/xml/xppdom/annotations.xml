@@ -1,0 +1,22 @@
+<root>
+    <item
+        name='com.thoughtworks.xstream.io.xml.xppdom.Xpp3DomBuilder com.thoughtworks.xstream.io.xml.xppdom.Xpp3Dom build(java.io.Reader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.xppdom.XppDomComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.xppdom.XppDomComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.xppdom.XppDom void addChild(com.thoughtworks.xstream.io.xml.xppdom.XppDom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.io.xml.xppdom.XppDom com.thoughtworks.xstream.io.xml.xppdom.XppDom build(org.xmlpull.v1.XmlPullParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

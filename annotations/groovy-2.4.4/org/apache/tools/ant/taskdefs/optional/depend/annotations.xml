@@ -1,0 +1,34 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.ClassFileUtils java.lang.String convertSlashName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.ClassFile java.util.Vector&lt;java.lang.String&gt; getClassRefs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.AntAnalyzer void determineDependencies(java.util.Vector&lt;java.io.File&gt;, java.util.Vector&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.Depend void scanDir(java.io.File, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.DirectoryIterator DirectoryIterator(java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.AntAnalyzer void determineDependencies(java.util.Vector&lt;java.io.File&gt;, java.util.Vector&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.ClassFileUtils java.lang.String convertDotName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.Depend org.apache.tools.ant.types.Path createClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

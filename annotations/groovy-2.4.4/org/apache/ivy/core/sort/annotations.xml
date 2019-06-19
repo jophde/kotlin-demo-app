@@ -1,0 +1,84 @@
+<root>
+    <item
+        name='org.apache.ivy.core.sort.WarningNonMatchingVersionReporter void reportNonMatchingVersion(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.WarningNonMatchingVersionReporter void reportNonMatchingVersion(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.sort.SortOptions DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortOptions org.apache.ivy.core.sort.SortOptions setNonMatchingVersionReporter(org.apache.ivy.core.sort.NonMatchingVersionReporter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine java.util.List&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt; sortModuleDescriptors(java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;, org.apache.ivy.core.sort.SortOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.sort.SortOptions SILENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SilentNonMatchingVersionReporter void reportNonMatchingVersion(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine java.util.List&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt; sortModuleDescriptors(java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;, org.apache.ivy.core.sort.SortOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.ModuleDescriptorSorter ModuleDescriptorSorter(java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;, org.apache.ivy.plugins.version.VersionMatcher, org.apache.ivy.core.sort.NonMatchingVersionReporter, org.apache.ivy.plugins.circular.CircularDependencyStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SilentNonMatchingVersionReporter void reportNonMatchingVersion(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine java.util.List&lt;org.apache.ivy.core.resolve.IvyNode&gt; sortNodes(java.util.Collection&lt;org.apache.ivy.core.resolve.IvyNode&gt;, org.apache.ivy.core.sort.SortOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortOptions org.apache.ivy.core.sort.SortOptions setUseCircularDependencyStrategy(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.ModuleDescriptorSorter java.util.List&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt; sortModuleDescriptors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine SortEngine(org.apache.ivy.core.sort.SortEngineSettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.NonMatchingVersionReporter void reportNonMatchingVersion(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.NonMatchingVersionReporter void reportNonMatchingVersion(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine java.util.List&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt; sortModuleDescriptors(java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;, org.apache.ivy.core.sort.SortOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine java.util.List&lt;org.apache.ivy.core.resolve.IvyNode&gt; sortNodes(java.util.Collection&lt;org.apache.ivy.core.resolve.IvyNode&gt;, org.apache.ivy.core.sort.SortOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.sort.SortEngine java.util.List&lt;org.apache.ivy.core.resolve.IvyNode&gt; sortNodes(java.util.Collection&lt;org.apache.ivy.core.resolve.IvyNode&gt;, org.apache.ivy.core.sort.SortOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

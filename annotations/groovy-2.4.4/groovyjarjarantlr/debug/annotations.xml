@@ -1,0 +1,51 @@
+<root>
+    <item
+        name='groovyjarjarantlr.debug.LLkDebuggingParser void match(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.InputBufferEventSupport void fireEvent(int, groovyjarjarantlr.debug.ListenerBase) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.ParserEventSupport void fireEvent(int, groovyjarjarantlr.debug.ListenerBase) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.debug.DebuggingCharScanner void match(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.DebuggingCharScanner void reportError(groovyjarjarantlr.MismatchedCharException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.DebuggingCharScanner void match(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.ParserEventSupport void fireReportError(java.lang.Exception) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.ParseTreeDebugParser void match(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.LLkDebuggingParser void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.debug.InputBufferEventSupport void refresh(java.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.debug.ParserEventSupport void refresh(java.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

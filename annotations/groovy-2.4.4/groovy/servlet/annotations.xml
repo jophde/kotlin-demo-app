@@ -1,0 +1,152 @@
+<root>
+    <item name='groovy.servlet.TemplateServlet groovy.text.Template getTemplate(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object get(javax.servlet.ServletRequest, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void putAt(javax.servlet.http.HttpSession, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.TemplateServlet groovy.text.Template getTemplate(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.GroovyServlet groovy.util.GroovyScriptEngine createGroovyScriptEngine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.TemplateServlet void init(javax.servlet.ServletConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.TemplateServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void set(javax.servlet.ServletRequest, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.TemplateServlet groovy.text.TemplateEngine initTemplateEngine(javax.servlet.ServletConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object get(javax.servlet.ServletContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.GroovyServlet void init(javax.servlet.ServletConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet CONTENT_TYPE_TEXT_HTML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletBinding void setVariable(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.AbstractHttpServlet java.lang.String getScriptUri(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.AbstractHttpServlet java.io.File getScriptUriAsFile(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object getAt(javax.servlet.ServletContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletBinding ServletBinding(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, javax.servlet.ServletContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void putAt(javax.servlet.jsp.PageContext, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.GroovyServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void set(javax.servlet.ServletContext, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet INC_REQUEST_URI'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object getAt(javax.servlet.ServletRequest, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.ServletBinding java.lang.Object getVariable(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object get(javax.servlet.http.HttpSession, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet INC_PATH_INFO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void set(javax.servlet.jsp.PageContext, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.TemplateServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object get(javax.servlet.jsp.PageContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void set(javax.servlet.http.HttpSession, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet INIT_PARAM_RESOURCE_NAME_REGEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet INC_SERVLET_PATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet INIT_PARAM_RESOURCE_NAME_REGEX_FLAGS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.AbstractHttpServlet java.lang.String removeNamePrefix(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.TemplateServlet groovy.text.Template getTemplate(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object getAt(javax.servlet.jsp.PageContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void putAt(javax.servlet.ServletContext, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory void putAt(javax.servlet.ServletRequest, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.TemplateServlet groovy.text.Template getTemplate(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.GroovyServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.servlet.AbstractHttpServlet void init(javax.servlet.ServletConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.servlet.ServletCategory java.lang.Object getAt(javax.servlet.http.HttpSession, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

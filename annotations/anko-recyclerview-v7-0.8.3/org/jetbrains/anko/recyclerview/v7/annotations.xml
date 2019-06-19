@@ -1,0 +1,185 @@
+<root>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7._RecyclerView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7._RecyclerView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ListenersKt void onScrollListener(android.support.v7.widget.RecyclerView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnScrollListener,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7._RecyclerView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnChildAttachStateChangeListener void onChildViewDetachedFromWindow(kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7LayoutsKt kotlin.jvm.functions.Function1 access$getDefaultInit$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ListenersKt void onScrollListener(android.support.v7.widget.RecyclerView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnScrollListener,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ListenersKt void onChildAttachStateChangeListener(android.support.v7.widget.RecyclerView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnChildAttachStateChangeListener,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnScrollListener void onScrolled(kotlin.jvm.functions.Function3&lt;? super android.support.v7.widget.RecyclerView,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnChildAttachStateChangeListener void onChildViewAttachedToWindow(kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnItemTouchListener void onInterceptTouchEvent(kotlin.jvm.functions.Function2&lt;? super android.support.v7.widget.RecyclerView,? super android.view.MotionEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnItemTouchListener void onRequestDisallowInterceptTouchEvent(kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7...Anko.Factories.RecyclerviewV7ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.recyclerview.v7._RecyclerView&gt; getRECYCLER_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7._RecyclerView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ListenersKt void onChildAttachStateChangeListener(android.support.v7.widget.RecyclerView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnChildAttachStateChangeListener,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ListenersKt void onItemTouchListener(android.support.v7.widget.RecyclerView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnItemTouchListener,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7._RecyclerView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7._RecyclerView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7...Anko.Factories.RecyclerviewV7ViewGroup INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.RecyclerView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnItemTouchListener void onTouchEvent(kotlin.jvm.functions.Function2&lt;? super android.support.v7.widget.RecyclerView,? super android.view.MotionEvent,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ListenersKt void onItemTouchListener(android.support.v7.widget.RecyclerView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnItemTouchListener,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.__RecyclerView_OnScrollListener void onScrollStateChanged(kotlin.jvm.functions.Function2&lt;? super android.support.v7.widget.RecyclerView,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7.RecyclerviewV7ViewsKt android.support.v7.widget.RecyclerView recyclerView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView android.view.View lparams$default(org.jetbrains.anko.recyclerview.v7._RecyclerView, android.view.View, android.support.v7.widget.RecyclerView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.recyclerview.v7._RecyclerView _RecyclerView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

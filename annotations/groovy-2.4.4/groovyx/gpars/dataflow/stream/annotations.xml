@@ -1,0 +1,542 @@
+<root>
+    <item
+        name='groovyx.gpars.dataflow.stream.SyncDataflowStream groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; createNewStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void whenBound(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter java.util.List&lt;groovyx.gpars.dataflow.DataflowVariable&lt;T&gt;&gt; allUnprocessedDFVs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore StreamCore(groovyx.gpars.dataflow.DataflowVariable&lt;T&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; or(groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void wheneverBound(groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void into(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void split(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void whenBound(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void into(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; leftShift(groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void separate(groovyx.gpars.group.PGroup, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&lt;?&gt;&gt;, groovy.lang.Closure&lt;java.util.List&lt;java.lang.Object&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void whenBound(groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStream groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; createNewStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; or(groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamWriteAdapter groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt; leftShift(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void whenBound(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.dataflow.stream.StreamCore rest'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; generate(T, groovy.lang.Closure, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void separate(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&lt;?&gt;&gt;, groovy.lang.Closure&lt;java.util.List&lt;java.lang.Object&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.stream.StreamCore void wheneverBound(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; generate(T, groovy.lang.Closure, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovy.lang.Closure&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.stream.StreamCore java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.FList groovyx.gpars.dataflow.stream.FList&lt;java.lang.Object&gt; map(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void whenBound(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void split(groovyx.gpars.group.PGroup, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void getValAsync(java.lang.Object, groovyx.gpars.actor.impl.MessageStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void whenBound(groovyx.gpars.actor.impl.MessageStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.scheduler.Pool, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; createNewStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; apply(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void getValAsync(groovyx.gpars.actor.impl.MessageStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.StreamCore&lt;T&gt; apply(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void binaryChoice(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void wheneverBound(groovyx.gpars.actor.impl.MessageStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamWriteAdapter groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt; leftShift(groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.SyncDataflowStream SyncDataflowStream(int, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamWriteAdapter groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt; leftShift(groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void choice(groovyx.gpars.group.PGroup, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;&gt;, groovy.lang.Closure&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter T getVal(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.scheduler.Pool, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.scheduler.Pool, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.group.PGroup, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.FList&lt;T&gt; filter(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.FList&lt;java.lang.Object&gt; map(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.scheduler.Pool, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.FList groovyx.gpars.dataflow.stream.FList&lt;T&gt; filter(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.StreamCore groovyx.gpars.dataflow.stream.FList&lt;T&gt; filter(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; rightShift(groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.stream.DataflowStream DataflowStream(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void split(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.FList groovyx.gpars.dataflow.stream.FList&lt;T&gt; filter(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; chainWith(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void split(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void choice(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;&gt;, groovy.lang.Closure&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; rightShift(groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;V&gt; merge(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.util.List&lt;groovyx.gpars.dataflow.DataflowReadChannel&lt;java.lang.Object&gt;&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; tap(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter void binaryChoice(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;T&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.Promise&lt;V&gt; then(groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.stream.DataflowStreamReadAdapter groovyx.gpars.dataflow.DataflowReadChannel&lt;T&gt; filter(groovyx.gpars.scheduler.Pool, groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

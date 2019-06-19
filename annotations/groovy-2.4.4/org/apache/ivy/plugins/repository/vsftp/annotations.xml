@@ -1,0 +1,54 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository java.util.regex.Pattern getExpectedUploadMessage(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository org.apache.ivy.plugins.repository.Resource getInitResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository void get(java.lang.String, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpResource org.apache.ivy.plugins.repository.Resource clone(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository void get(java.lang.String, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository org.apache.ivy.plugins.repository.Resource getResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository void put(java.io.File, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository java.util.regex.Pattern getExpectedDownloadMessage(java.lang.String, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository java.util.List list(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository void sendCommand(java.lang.String, java.util.regex.Pattern) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository org.apache.ivy.plugins.repository.Resource lslToResource(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.repository.vsftp.VsftpRepository void sendCommand(java.lang.String, java.util.regex.Pattern, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

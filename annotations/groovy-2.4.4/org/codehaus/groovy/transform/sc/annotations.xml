@@ -1,0 +1,141 @@
+<root>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor StaticCompilationVisitor(org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompileTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompileTransformation org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor newVisitor(org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitSpreadExpression(org.codehaus.groovy.ast.expr.SpreadExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.TemporaryVariableExpression void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor org.codehaus.groovy.ast.ClassNode[] getTypeCheckingAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.TemporaryVariableExpression void remove(org.codehaus.groovy.classgen.asm.WriterController) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys PRIVATE_BRIDGE_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys COMPONENT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor boolean existsProperty(org.codehaus.groovy.ast.expr.PropertyExpression, boolean, org.codehaus.groovy.ast.ClassCodeVisitorSupport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.TemporaryVariableExpression org.codehaus.groovy.ast.expr.Expression transformExpression(org.codehaus.groovy.ast.expr.ExpressionTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.ListOfExpressionsExpression org.codehaus.groovy.ast.expr.Expression transformExpression(org.codehaus.groovy.ast.expr.ExpressionTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys RECEIVER_OF_DYNAMIC_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitMethodCallExpression(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor boolean isStaticallyCompiled(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys PROPERTY_OWNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys PRIVATE_FIELDS_ACCESSORS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitForLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.TemporaryVariableExpression org.codehaus.groovy.ast.expr.Expression transformExpression(org.codehaus.groovy.ast.expr.ExpressionTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys BINARY_EXP_TARGET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.ListOfExpressionsExpression org.codehaus.groovy.ast.expr.Expression transformExpression(org.codehaus.groovy.ast.expr.ExpressionTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor ARRAYLIST_CONSTRUCTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompileTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.ListOfExpressionsExpression void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor org.codehaus.groovy.ast.MethodNode findMethodOrFail(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.ClassNode...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompilationVisitor void visitPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.transform.sc.StaticCompilationMetadataKeys STATIC_COMPILE_NODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.transform.sc.StaticCompileTransformation org.codehaus.groovy.transform.stc.StaticTypeCheckingVisitor newVisitor(org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

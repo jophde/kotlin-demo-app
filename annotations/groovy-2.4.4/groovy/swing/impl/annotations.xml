@@ -1,0 +1,11 @@
+<root>
+    <item name='groovy.swing.impl.TableLayoutCell java.awt.GridBagConstraints createConstraints()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.impl.TableLayout void addCell(groovy.swing.impl.TableLayoutCell) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.impl.TableLayoutRow void addCell(groovy.swing.impl.TableLayoutCell) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

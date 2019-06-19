@@ -1,0 +1,92 @@
+<root>
+    <item name='groovyx.gpars.serial.WithSerialId java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.serial.WithSerialId java.lang.Class&lt;T&gt; getRemoteClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialContext void finalizeHandle(groovyx.gpars.serial.SerialHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.serial.SerialHandles void add(groovyx.gpars.serial.SerialHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.serial.SerialContext void write(groovyx.gpars.serial.SerialMsg) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialHandles void remove(groovyx.gpars.serial.SerialHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.RemoteHandle groovyx.gpars.serial.WithSerialId createObject(groovyx.gpars.serial.SerialContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.serial.WithSerialId groovyx.gpars.serial.RemoteHandle createRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.WithSerialId groovyx.gpars.serial.RemoteHandle createRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.WithSerialId groovyx.gpars.serial.RemoteHandle createRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialHandles void finalizeHandle(groovyx.gpars.serial.SerialHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.serial.RemoteHandle java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialMsg void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialHandles groovyx.gpars.serial.SerialContext getSerialHost(java.util.UUID, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.serial.SerialContext void add(groovyx.gpars.serial.SerialHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialContext void remove(groovyx.gpars.serial.SerialHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.DefaultRemoteHandle groovyx.gpars.serial.WithSerialId createObject(groovyx.gpars.serial.SerialContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialHandle.RemoteSerialHandle.ReleaseHandle void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.serial.SerialHandle groovyx.gpars.serial.SerialHandle create(groovyx.gpars.serial.WithSerialId, java.util.UUID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

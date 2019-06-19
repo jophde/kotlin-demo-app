@@ -1,0 +1,22 @@
+<root>
+    <item
+        name='org.codehaus.groovy.runtime.powerassert.SourceText SourceText(org.codehaus.groovy.ast.stmt.AssertStatement, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.powerassert.SourceTextNotAvailableException SourceTextNotAvailableException(org.codehaus.groovy.ast.stmt.AssertStatement, org.codehaus.groovy.control.SourceUnit, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.powerassert.SourceTextNotAvailableException SourceTextNotAvailableException(org.codehaus.groovy.ast.stmt.AssertStatement, org.codehaus.groovy.control.SourceUnit, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.powerassert.AssertionRenderer java.lang.String render(java.lang.String, org.codehaus.groovy.runtime.powerassert.ValueRecorder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.powerassert.ValueRecorder java.util.List&lt;org.codehaus.groovy.runtime.powerassert.Value&gt; getValues()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

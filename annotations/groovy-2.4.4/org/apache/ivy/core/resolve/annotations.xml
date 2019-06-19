@@ -1,0 +1,576 @@
+<root>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions ResolveOptions(org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Set getResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.resolve.ResolvedModuleRevision findModule(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setUseCacheOnly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getPendingConflicts(java.lang.String, org.apache.ivy.core.module.id.ModuleId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode VisitNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.VisitNode, java.lang.String, java.lang.String, org.apache.ivy.core.resolve.IvyNodeUsage) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void blacklist(org.apache.ivy.core.resolve.IvyNodeBlacklist) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Set getResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.lang.String[] getRequiredConfigurations(org.apache.ivy.core.resolve.IvyNode, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getAllEvictingConflictManagers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void addCaller(java.lang.String, org.apache.ivy.core.resolve.IvyNode, java.lang.String, java.lang.String, java.lang.String[], org.apache.ivy.core.module.descriptor.DependencyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.resolve.ResolvedModuleRevision findModule(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage void blacklist(org.apache.ivy.core.resolve.IvyNodeBlacklist) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode VisitNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.VisitNode, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.resolve.ResolveData java.util.Collection getNodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setResolveMode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.resolve.IvyNode[] getDependencies(java.net.URL, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.lang.String[] getRequiredConfigurations(org.apache.ivy.core.resolve.IvyNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage java.util.Set addAndGetConfigurations(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage void setRequiredConfs(org.apache.ivy.core.resolve.IvyNode, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setDownload(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage java.util.Collection getRequiredConfigurations(org.apache.ivy.core.resolve.IvyNode, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode VisitNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.VisitNode, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Set getResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData getEvictionDataInRoot(java.lang.String, org.apache.ivy.core.resolve.VisitNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage void updateDataFrom(java.util.Collection, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.resolve.ResolveOptions RESOLVEMODE_DYNAMIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void markEvicted(org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setOutputReport(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitData java.util.List getVisitNodes(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage void setRequiredConfs(org.apache.ivy.core.resolve.IvyNode, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeUsage java.util.Collection getRequiredConfigurations(org.apache.ivy.core.resolve.IvyNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Set getResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData getEvictionDataInRoot(java.lang.String, org.apache.ivy.core.resolve.IvyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode org.apache.ivy.core.resolve.VisitNode getRoot(org.apache.ivy.core.resolve.VisitNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction IvyNodeEviction(org.apache.ivy.core.resolve.IvyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitData void addVisitNode(org.apache.ivy.core.resolve.VisitNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData getEvictionDataInRoot(java.lang.String, org.apache.ivy.core.resolve.VisitNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode void markEvicted(org.apache.ivy.core.resolve.VisitNode, org.apache.ivy.plugins.conflict.ConflictManager, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode org.apache.ivy.core.resolve.VisitNode getRoot(org.apache.ivy.core.resolve.VisitNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setRefresh(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveData void register(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.VisitNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void markEvicted(org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Set getResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.cache.ArtifactOrigin, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setConfs(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setTransitive(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode IvyNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.module.descriptor.DependencyDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.resolve.IvyNode[] getDependencies(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions, org.apache.ivy.core.report.ResolveReport) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getAllEvictingConflictManagers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.resolve.IvyNode java.util.Set getRootModuleConfigurationsSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setCheckIfChanged(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngineSettings org.apache.ivy.plugins.conflict.ConflictManager getConflictManager(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveData ResolveData(org.apache.ivy.core.resolve.ResolveData, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setResolveId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine void outputReport(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData getEvictionDataInRoot(java.lang.String, org.apache.ivy.core.resolve.IvyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine void downloadArtifacts(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.util.filter.Filter, org.apache.ivy.core.resolve.DownloadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.util.Collection getDependencies(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setPendingConflicts(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setValidate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeCallers void addCaller(java.lang.String, org.apache.ivy.core.resolve.IvyNode, java.lang.String, java.lang.String, java.lang.String[], org.apache.ivy.core.module.descriptor.DependencyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode IvyNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getPendingConflicts(java.lang.String, org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode org.apache.ivy.core.resolve.IvyNode getRealNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setDate(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngineSettings java.lang.String getResolverName(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.cache.ArtifactOrigin locate(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode boolean doesCallersExclude(java.lang.String, org.apache.ivy.core.module.descriptor.Artifact, java.util.Stack) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, org.apache.ivy.core.resolve.ResolveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getPendingConflicts(java.lang.String, org.apache.ivy.core.module.id.ModuleId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.resolve.IvyNode int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setPendingConflicts(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.lang.String[] getRequiredConfigurations(org.apache.ivy.core.resolve.VisitNode, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getPendingConflicts(java.lang.String, org.apache.ivy.core.module.id.ModuleId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode VisitNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.VisitNode, java.lang.String, java.lang.String, org.apache.ivy.core.resolve.IvyNodeUsage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode IvyNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setRevision(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions java.lang.String getDefaultResolveId(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine void outputReport(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setPendingConflicts(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getPendingConflicts(java.lang.String, org.apache.ivy.core.module.id.ModuleId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions java.lang.String getDefaultResolveId(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode VisitNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.VisitNode, java.lang.String, java.lang.String, org.apache.ivy.core.resolve.IvyNodeUsage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.resolve.ResolveOptions RESOLVEMODES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode java.lang.String[] getRequiredConfigurations(org.apache.ivy.core.resolve.VisitNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Set getResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveOptions org.apache.ivy.core.resolve.ResolveOptions setArtifactFilter(org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode void markEvicted(org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode IvyNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setEvictedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getDependencies(java.lang.String, java.lang.String[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode org.apache.ivy.core.resolve.IvyNode getRealNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getResolvedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode IvyNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.module.descriptor.DependencyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode void setPendingConflicts(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction java.util.Collection getEvictedRevisions(org.apache.ivy.core.module.id.ModuleId, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNodeEviction void setResolvedNodes(org.apache.ivy.core.module.id.ModuleId, java.lang.String, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getPendingConflicts(java.lang.String, org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.VisitNode VisitNode(org.apache.ivy.core.resolve.ResolveData, org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.VisitNode, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveData void register(org.apache.ivy.core.resolve.VisitNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.ResolveEngine org.apache.ivy.core.resolve.IvyNode[] getDependencies(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions, org.apache.ivy.core.report.ResolveReport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.resolve.ResolveOptions RESOLVEMODE_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.resolve.IvyNode java.util.Collection getDependencies(java.lang.String, java.lang.String[], java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

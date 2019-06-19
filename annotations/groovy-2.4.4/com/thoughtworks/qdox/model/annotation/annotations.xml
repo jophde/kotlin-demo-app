@@ -1,0 +1,738 @@
+<root>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationAnd java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationQuery java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationCast(com.thoughtworks.qdox.model.annotation.AnnotationCast) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationGreaterThan(com.thoughtworks.qdox.model.annotation.AnnotationGreaterThan) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationCast(com.thoughtworks.qdox.model.annotation.AnnotationCast) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationGreaterThan(com.thoughtworks.qdox.model.annotation.AnnotationGreaterThan) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationValueList java.lang.Object getParameterValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationConstant(com.thoughtworks.qdox.model.annotation.AnnotationConstant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationExclusiveOr(com.thoughtworks.qdox.model.annotation.AnnotationExclusiveOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationValueList(com.thoughtworks.qdox.model.annotation.AnnotationValueList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationTypeRef java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotation(com.thoughtworks.qdox.model.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationLogicalNot(com.thoughtworks.qdox.model.annotation.AnnotationLogicalNot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationGreaterEquals(com.thoughtworks.qdox.model.annotation.AnnotationGreaterEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationMinusSign(com.thoughtworks.qdox.model.annotation.AnnotationMinusSign) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationDivide(com.thoughtworks.qdox.model.annotation.AnnotationDivide) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationValueList(com.thoughtworks.qdox.model.annotation.AnnotationValueList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationGreaterEquals java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationRemainder java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationCast(com.thoughtworks.qdox.model.annotation.AnnotationCast)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationExclusiveOr(com.thoughtworks.qdox.model.annotation.AnnotationExclusiveOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationFieldRef AnnotationFieldRef(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationConstant(com.thoughtworks.qdox.model.annotation.AnnotationConstant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationMultiply(com.thoughtworks.qdox.model.annotation.AnnotationMultiply)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationSubtract(com.thoughtworks.qdox.model.annotation.AnnotationSubtract) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotation(com.thoughtworks.qdox.model.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationLogicalNot(com.thoughtworks.qdox.model.annotation.AnnotationLogicalNot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationUnsignedShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationUnsignedShiftRight) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationNot java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationExclusiveOr(com.thoughtworks.qdox.model.annotation.AnnotationExclusiveOr)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationValueList(com.thoughtworks.qdox.model.annotation.AnnotationValueList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationFieldRef java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationPlusSign(com.thoughtworks.qdox.model.annotation.AnnotationPlusSign) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationLogicalAnd(com.thoughtworks.qdox.model.annotation.AnnotationLogicalAnd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationMultiply(com.thoughtworks.qdox.model.annotation.AnnotationMultiply) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationUnsignedShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationUnsignedShiftRight)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationValue java.lang.Object getParameterValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationDivide(com.thoughtworks.qdox.model.annotation.AnnotationDivide)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationLogicalAnd(com.thoughtworks.qdox.model.annotation.AnnotationLogicalAnd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationMultiply(com.thoughtworks.qdox.model.annotation.AnnotationMultiply) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationNotEquals(com.thoughtworks.qdox.model.annotation.AnnotationNotEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationValueList(com.thoughtworks.qdox.model.annotation.AnnotationValueList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationEquals(com.thoughtworks.qdox.model.annotation.AnnotationEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationDivide java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationLessEquals(com.thoughtworks.qdox.model.annotation.AnnotationLessEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationNotEquals java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationNotEquals(com.thoughtworks.qdox.model.annotation.AnnotationNotEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationCast java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationPlusSign java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationUnsignedShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationUnsignedShiftRight) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationGreaterEquals(com.thoughtworks.qdox.model.annotation.AnnotationGreaterEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationMinusSign(com.thoughtworks.qdox.model.annotation.AnnotationMinusSign) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationGreaterEquals(com.thoughtworks.qdox.model.annotation.AnnotationGreaterEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationMinusSign(com.thoughtworks.qdox.model.annotation.AnnotationMinusSign) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationExclusiveOr(com.thoughtworks.qdox.model.annotation.AnnotationExclusiveOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationFieldRef(com.thoughtworks.qdox.model.annotation.AnnotationFieldRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationAnd(com.thoughtworks.qdox.model.annotation.AnnotationAnd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationLessEquals(com.thoughtworks.qdox.model.annotation.AnnotationLessEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationParenExpression(com.thoughtworks.qdox.model.annotation.AnnotationParenExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationDivide(com.thoughtworks.qdox.model.annotation.AnnotationDivide) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationLogicalNot(com.thoughtworks.qdox.model.annotation.AnnotationLogicalNot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationTypeRef(com.thoughtworks.qdox.model.annotation.AnnotationTypeRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationLogicalOr(com.thoughtworks.qdox.model.annotation.AnnotationLogicalOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationPlusSign(com.thoughtworks.qdox.model.annotation.AnnotationPlusSign) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationAnd(com.thoughtworks.qdox.model.annotation.AnnotationAnd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationAdd(com.thoughtworks.qdox.model.annotation.AnnotationAdd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationParenExpression java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationOr(com.thoughtworks.qdox.model.annotation.AnnotationOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationAnd(com.thoughtworks.qdox.model.annotation.AnnotationAnd)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationPlusSign(com.thoughtworks.qdox.model.annotation.AnnotationPlusSign)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationLogicalAnd(com.thoughtworks.qdox.model.annotation.AnnotationLogicalAnd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationMinusSign(com.thoughtworks.qdox.model.annotation.AnnotationMinusSign)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationAnd(com.thoughtworks.qdox.model.annotation.AnnotationAnd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationOr(com.thoughtworks.qdox.model.annotation.AnnotationOr)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationLogicalOr(com.thoughtworks.qdox.model.annotation.AnnotationLogicalOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationShiftRight) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationRemainder(com.thoughtworks.qdox.model.annotation.AnnotationRemainder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationLessThan(com.thoughtworks.qdox.model.annotation.AnnotationLessThan) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationNot(com.thoughtworks.qdox.model.annotation.AnnotationNot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationFieldRef java.lang.Object getParameterValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationShiftLeft java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationQuery(com.thoughtworks.qdox.model.annotation.AnnotationQuery) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationLessEquals(com.thoughtworks.qdox.model.annotation.AnnotationLessEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationShiftLeft(com.thoughtworks.qdox.model.annotation.AnnotationShiftLeft) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationQuery(com.thoughtworks.qdox.model.annotation.AnnotationQuery) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationMultiply java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationAdd java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationFieldRef(com.thoughtworks.qdox.model.annotation.AnnotationFieldRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationRemainder(com.thoughtworks.qdox.model.annotation.AnnotationRemainder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationNot(com.thoughtworks.qdox.model.annotation.AnnotationNot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationParenExpression(com.thoughtworks.qdox.model.annotation.AnnotationParenExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationNotEquals(com.thoughtworks.qdox.model.annotation.AnnotationNotEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationEquals(com.thoughtworks.qdox.model.annotation.AnnotationEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationRemainder(com.thoughtworks.qdox.model.annotation.AnnotationRemainder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationLogicalAnd java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationOr java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationFieldRef java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationFieldRef java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationLogicalOr(com.thoughtworks.qdox.model.annotation.AnnotationLogicalOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationLessThan(com.thoughtworks.qdox.model.annotation.AnnotationLessThan) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationEquals java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationNot(com.thoughtworks.qdox.model.annotation.AnnotationNot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationExclusiveOr java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationGreaterThan java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationLessThan java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationLogicalOr java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationMinusSign java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationLessThan(com.thoughtworks.qdox.model.annotation.AnnotationLessThan) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationOr(com.thoughtworks.qdox.model.annotation.AnnotationOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.util.List getListValue(com.thoughtworks.qdox.model.Annotation, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationTypeRef(com.thoughtworks.qdox.model.annotation.AnnotationTypeRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationNot(com.thoughtworks.qdox.model.annotation.AnnotationNot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationAdd(com.thoughtworks.qdox.model.annotation.AnnotationAdd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationPlusSign(com.thoughtworks.qdox.model.annotation.AnnotationPlusSign) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationSubtract(com.thoughtworks.qdox.model.annotation.AnnotationSubtract) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationSubtract(com.thoughtworks.qdox.model.annotation.AnnotationSubtract) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationValue java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationShiftLeft(com.thoughtworks.qdox.model.annotation.AnnotationShiftLeft) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationSubtract java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationDivide(com.thoughtworks.qdox.model.annotation.AnnotationDivide) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationParenExpression(com.thoughtworks.qdox.model.annotation.AnnotationParenExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationQuery(com.thoughtworks.qdox.model.annotation.AnnotationQuery) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationRemainder(com.thoughtworks.qdox.model.annotation.AnnotationRemainder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationConstant(com.thoughtworks.qdox.model.annotation.AnnotationConstant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationSubtract(com.thoughtworks.qdox.model.annotation.AnnotationSubtract)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationFieldRef(com.thoughtworks.qdox.model.annotation.AnnotationFieldRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationShiftRight) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationGreaterThan(com.thoughtworks.qdox.model.annotation.AnnotationGreaterThan) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationShiftLeft(com.thoughtworks.qdox.model.annotation.AnnotationShiftLeft) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationUnsignedShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationUnsignedShiftRight) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationConstant java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationEquals(com.thoughtworks.qdox.model.annotation.AnnotationEquals) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationShiftLeft(com.thoughtworks.qdox.model.annotation.AnnotationShiftLeft)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationShiftRight) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationCast(com.thoughtworks.qdox.model.annotation.AnnotationCast) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationVisitor java.lang.Object visitAnnotationOr(com.thoughtworks.qdox.model.annotation.AnnotationOr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationUnsignedShiftRight java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotation(com.thoughtworks.qdox.model.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationValueList java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationMultiply(com.thoughtworks.qdox.model.annotation.AnnotationMultiply) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object visitAnnotationShiftRight(com.thoughtworks.qdox.model.annotation.AnnotationShiftRight)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.EvaluatingVisitor java.lang.Object getValue(com.thoughtworks.qdox.model.Annotation, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationShiftRight java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationLogicalNot java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationAdd(com.thoughtworks.qdox.model.annotation.AnnotationAdd) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.AnnotationLessEquals java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.annotation.RecursiveAnnotationVisitor java.lang.Object visitAnnotationTypeRef(com.thoughtworks.qdox.model.annotation.AnnotationTypeRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

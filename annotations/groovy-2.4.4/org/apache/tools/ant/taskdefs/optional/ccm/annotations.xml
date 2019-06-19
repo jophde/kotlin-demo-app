@@ -1,0 +1,61 @@
+<root>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus COMMAND_CHECKOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask FLAG_TASK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMReconfigure FLAG_VERBOSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus COMMAND_DEFAULT_TASK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask FLAG_RESOLVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMReconfigure FLAG_RECURSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus COMMAND_CREATE_TASK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus int run(org.apache.tools.ant.types.Commandline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus int run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.ExecuteStreamHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCheckinDefault DEFAULT_TASK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus COMMAND_CHECKIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMReconfigure FLAG_PROJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCheck FLAG_COMMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask FLAG_RELEASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask FLAG_COMMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCheck FLAG_TASK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask FLAG_PLATFORM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.CCMCreateTask FLAG_SUBSYSTEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ccm.Continuus COMMAND_RECONFIGURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

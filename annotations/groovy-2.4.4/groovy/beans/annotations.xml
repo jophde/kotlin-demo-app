@@ -1,0 +1,135 @@
+<root>
+    <item
+        name='groovy.beans.BindableASTTransformation boolean needsPropertyChangeSupport(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation void createSetterMethod(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode, java.lang.String, org.codehaus.groovy.ast.stmt.Statement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation boolean needsVetoableChangeSupport(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation org.codehaus.groovy.ast.stmt.Statement createSetStatement(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.ListenerListASTTransformation java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.ListenerListASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation boolean hasBindableAnnotation(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation void addPropertyChangeSupport(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation void createSetterMethod(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode, java.lang.String, org.codehaus.groovy.ast.stmt.Statement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.beans.DefaultPropertyWriter INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.beans.DefaultPropertyAccessor INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation void addVetoableChangeSupport(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation org.codehaus.groovy.ast.stmt.Statement createBindableStatement(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation org.codehaus.groovy.ast.stmt.Statement createConstrainedStatement(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.beans.DefaultPropertyReader INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation boolean hasVetoableAnnotation(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation void createSetterMethod(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode, java.lang.String, org.codehaus.groovy.ast.stmt.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation org.codehaus.groovy.ast.stmt.Statement createBindableStatement(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.VetoableASTTransformation org.codehaus.groovy.ast.stmt.Statement createConstrainedStatement(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.beans.ListenerListASTTransformation java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.ListenerListASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.ListenerListASTTransformation java.lang.Object getProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.beans.BindableASTTransformation void createSetterMethod(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode, java.lang.String, org.codehaus.groovy.ast.stmt.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

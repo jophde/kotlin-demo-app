@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.ivy.osgi.updatesite.xml.UpdateSiteDigestParser org.apache.ivy.osgi.updatesite.UpdateSiteDescriptor parse(java.io.InputStream, org.apache.ivy.osgi.updatesite.xml.UpdateSite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

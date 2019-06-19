@@ -1,0 +1,14 @@
+<root>
+    <item
+        name='com.thoughtworks.qdox.model.util.TagParser java.lang.String[] parseWords(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.util.TagParser java.util.Map parseNamedParameters(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.util.TagParser java.lang.String[] parseParameters(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

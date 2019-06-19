@@ -1,0 +1,228 @@
+<root>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void loop(int, groovy.lang.Closure, java.lang.Runnable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.ReactiveActor ReactiveActor(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.AbstractLoopingActor groovyx.gpars.actor.Actor start()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.AbstractLoopingActor groovyx.gpars.actor.Actor terminate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.RemoteActor.StopActorMsg void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.actor.DefaultActor void react(long, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor void join(groovyx.gpars.actor.impl.MessageStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor.RemoteActor groovyx.gpars.actor.Actor terminate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void loop(groovy.lang.Closure, java.lang.Runnable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void react(groovy.time.Duration, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor groovyx.gpars.actor.ActorMessage createActorMessage(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.RemoteActor groovyx.gpars.actor.impl.MessageStream send(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.BlockingActor void receive(groovy.time.Duration, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.DefaultActor void loop(int, java.lang.Runnable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.BlockingActor void receive(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void react(long, java.util.concurrent.TimeUnit, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.MyRemoteHandle MyRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext, groovyx.gpars.dataflow.expression.DataflowExpression&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor CANNOT_SEND_REPLIES_NO_SENDER_HAS_BEEN_REGISTERED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor groovyx.gpars.actor.Actor start()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.actor.Actor START_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor TERMINATE_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.DefaultActor void react(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor void join(groovy.time.BaseDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.BlockingActor void receive(groovy.time.Duration, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DynamicDispatchActor groovyx.gpars.actor.DynamicDispatchActor become(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void react(long, java.util.concurrent.TimeUnit, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.MyRemoteHandle MyRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext, groovyx.gpars.dataflow.expression.DataflowExpression&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor STOP_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor groovyx.gpars.serial.RemoteHandle createRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.AbstractLoopingActor groovyx.gpars.actor.impl.MessageStream send(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actors defaultActorPGroup'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.BlockingActor AN_ACTOR_CAN_ONLY_RECEIVE_ONE_MESSAGE_AT_A_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.BlockingActor void receive(long, java.util.concurrent.TimeUnit, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.AbstractLoopingActor groovyx.gpars.actor.Actor silentStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor void setParallelGroup(groovyx.gpars.group.PGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.RemoteActor.TerminateActorMsg void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor groovyx.gpars.serial.RemoteHandle createRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.StaticDispatchActor void onMessage(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void loop(groovy.lang.Closure, groovy.lang.Closure, java.lang.Runnable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.MyRemoteHandle groovyx.gpars.serial.WithSerialId createObject(groovyx.gpars.serial.SerialContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor.RemoteActor groovyx.gpars.actor.Actor stop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor TIMEOUT_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor groovyx.gpars.serial.RemoteHandle createRemoteHandle(groovyx.gpars.serial.SerialHandle, groovyx.gpars.serial.SerialContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.DefaultActor groovyx.gpars.actor.Actor start()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor groovyx.gpars.dataflow.Promise&lt;java.lang.Object&gt; sendAndPromise(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.AbstractLoopingActor groovyx.gpars.actor.Actor stop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.AbstractLoopingActor void setParallelGroup(groovyx.gpars.group.PGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.Actor.RemoteActor groovyx.gpars.actor.impl.MessageStream send(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor TIMEOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor groovyx.gpars.actor.Actor stop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.actor.DefaultActor void react(groovy.time.Duration, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.BlockingActor void receive(long, java.util.concurrent.TimeUnit, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor ACTOR_HAS_ALREADY_BEEN_STARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.Actor groovyx.gpars.actor.Actor terminate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.actor.ActorMessage groovyx.gpars.actor.ActorMessage build(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.AbstractLoopingActor groovyx.gpars.actor.impl.MessageStream send(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.actor.DefaultActor void loop(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

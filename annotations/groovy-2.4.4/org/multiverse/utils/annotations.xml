@@ -1,0 +1,21 @@
+<root>
+    <item
+        name='org.multiverse.utils.StandardThreadFactory java.lang.Thread newThread(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.utils.StandardThreadFactory java.lang.ThreadGroup getThreadGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.utils.StandardThreadFactory StandardThreadFactory(int, java.lang.ThreadGroup) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.utils.StandardThreadFactory java.lang.Thread newThread(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.utils.StandardThreadFactory StandardThreadFactory(int, java.lang.ThreadGroup, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='com.beust.jcommander.defaultprovider.PropertyFileDefaultProvider java.lang.String getDefaultValueFor(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.defaultprovider.PropertyFileDefaultProvider DEFAULT_FILE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

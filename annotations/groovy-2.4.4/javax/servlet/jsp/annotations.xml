@@ -1,0 +1,41 @@
+<root>
+    <item name='javax.servlet.jsp.JspException JspException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext REQUEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext RESPONSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext APPLICATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext SESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.JspTagException JspTagException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext javax.servlet.jsp.ErrorData getErrorData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext OUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.SkipPageException SkipPageException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext PAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext CONFIG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.PageContext PAGECONTEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

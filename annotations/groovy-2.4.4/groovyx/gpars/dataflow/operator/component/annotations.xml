@@ -1,0 +1,14 @@
+<root>
+    <item
+        name='groovyx.gpars.dataflow.operator.component.GracefulShutdownListener void registered(groovyx.gpars.dataflow.operator.DataflowProcessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.component.GracefulShutdownListener GracefulShutdownListener(groovyx.gpars.dataflow.operator.component.OperatorStateMonitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.component.GracefulShutdownMonitor groovyx.gpars.dataflow.Promise&lt;java.lang.Boolean&gt; shutdownNetwork()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,145 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter java.lang.String getStubClassSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.SunRmic ERROR_RMIC_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.SunRmic ERROR_NO_RMIC_ON_CLASSPATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic java.lang.String getStubClassSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter org.apache.tools.ant.types.Commandline setupRmicCommand()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory ERROR_NOT_RMIC_ADAPTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter void logAndAddFilesToCompile(org.apache.tools.ant.types.Commandline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter STUB_OPTION_COMPAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.ForkingSunRmic java.lang.String getExecutableName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter RMI_STUB_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.ForkingSunRmic COMPILER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter STUB_1_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter java.lang.String getSkelClassSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic WLRMIC_CLASSNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter org.apache.tools.ant.types.Commandline setupRmicCommand(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic UNSUPPORTED_STUB_OPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter RMI_TIE_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter STUB_OPTION_1_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter org.apache.tools.ant.types.Path getCompileClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.KaffeRmic COMPILER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter STUB_COMPAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic java.lang.String getSkelClassSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic WL_RMI_SKEL_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter org.apache.tools.ant.types.Path getClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter RMI_SKEL_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic WL_RMI_STUB_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter java.lang.String getTieClassSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.XNewRmic COMPILER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic COMPILER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory ERROR_UNKNOWN_COMPILER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory org.apache.tools.ant.taskdefs.rmic.RmicAdapter getRmic(java.lang.String, org.apache.tools.ant.Task, org.apache.tools.ant.types.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic ERROR_WLRMIC_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.SunRmic COMPILER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.WLRmic ERROR_NO_WLRMIC_ON_CLASSPATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.RmicAdapter org.apache.tools.ant.types.Path getClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.SunRmic RMIC_EXECUTABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.SunRmic RMIC_CLASSNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory org.apache.tools.ant.taskdefs.rmic.RmicAdapter getRmic(java.lang.String, org.apache.tools.ant.Task) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter STUB_1_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter java.lang.String[] filterJvmCompilerArgs(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter STUB_OPTION_1_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory DEFAULT_COMPILER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

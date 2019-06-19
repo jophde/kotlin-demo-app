@@ -1,0 +1,53 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.gse.StringSetMap java.lang.Object get(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.StringSetMap StringSetMap(org.codehaus.groovy.tools.gse.StringSetMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitCatchStatement(org.codehaus.groovy.ast.stmt.CatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitAnnotations(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitClassExpression(org.codehaus.groovy.ast.expr.ClassExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.StringSetMap java.util.Set&lt;java.lang.String&gt; get(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitArrayExpression(org.codehaus.groovy.ast.expr.ArrayExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.gse.DependencyTracker void visitCastExpression(org.codehaus.groovy.ast.expr.CastExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

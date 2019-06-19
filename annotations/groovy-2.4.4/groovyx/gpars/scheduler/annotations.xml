@@ -1,0 +1,20 @@
+<root>
+    <item name='groovyx.gpars.scheduler.FJPool pool'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.scheduler.FJPool FJPool(jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.scheduler.Scheduler java.lang.Runnable loop(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.scheduler.Pool POOL_SIZE_MUST_BE_A_POSITIVE_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.scheduler.Pool UNCAUGHT_EXCEPTION_OCCURRED_IN_GPARS_POOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.scheduler.FJPool jsr166y.ForkJoinPool getForkJoinPool()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

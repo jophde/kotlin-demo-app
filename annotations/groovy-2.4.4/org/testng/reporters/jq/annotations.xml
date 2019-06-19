@@ -1,0 +1,285 @@
+<root>
+    <item
+        name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getNavigatorLink(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.INavigatorPanel java.lang.String getNavigatorLink(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.jq.BasePanel C'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Main void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.SuitePanel void generate(org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.IgnoredMethodsPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.util.List&lt;java.lang.String&gt; getGroups(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.IgnoredMethodsPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.util.List&lt;org.testng.ITestResult&gt; getAllTestResults(org.testng.ISuite, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.GroupPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.BasePanel S'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.ReporterPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestNgXmlPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.INavigatorPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.util.List&lt;java.lang.String&gt; getMethodsInGroup(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.TestPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.util.List&lt;org.testng.ITestResult&gt; getAllTestResults(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ReporterPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestNgXmlPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.lang.String getTestResultName(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.GroupPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TimesPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TimesPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestNgXmlPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.TestPanel java.lang.String getClassName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.BaseMultiSuitePanel void generate(org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.IgnoredMethodsPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TimesPanel java.lang.String getNavigatorLink(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ResultsByClass java.util.List&lt;java.lang.Class&lt;?&gt;&gt; getClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ReporterPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.BannerPanel void generate(org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestNgXmlPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.GroupPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TimesPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.GroupPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getHeader(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.IgnoredMethodsPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.TestPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.jq.BasePanel java.lang.String suiteToTag(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.IgnoredMethodsPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.jq.TimesPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.BasePanel D'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.util.List&lt;org.testng.ITestResult&gt; getAllTestResults(org.testng.ISuite, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.ChronologicalPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.IPanel void generate(org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.jq.TimesPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.Model java.util.List&lt;org.testng.ITestResult&gt; getAllTestResults(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.Model java.lang.String getStatusForSuite(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ReporterPanel java.lang.String getNavigatorLink(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.IgnoredMethodsPanel java.lang.String getNavigatorLink(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.INavigatorPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.jq.NavigatorPanel void generate(org.testng.reporters.XMLStringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.TestNgXmlPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ReporterPanel java.lang.String getNavigatorLink(org.testng.ISuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.GroupPanel java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.jq.ReporterPanel java.lang.String getContent(org.testng.ISuite, org.testng.reporters.XMLStringBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.jq.TestPanel java.lang.String getHeader(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

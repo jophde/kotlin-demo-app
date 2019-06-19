@@ -1,0 +1,8 @@
+<root>
+    <item name='rx.singles.BlockingSingle java.util.concurrent.Future&lt;T&gt; toFuture()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.singles.BlockingSingle rx.singles.BlockingSingle&lt;T&gt; from(rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

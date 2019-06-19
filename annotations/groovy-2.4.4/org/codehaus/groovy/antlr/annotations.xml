@@ -1,0 +1,693 @@
+<root>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement switchStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression listExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression specialConstructorCallExpression(groovyjarjarantlr.collections.AST, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.lang.String identifier(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.ClosureExpression closureExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression spreadExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode type(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.ConstantExpression decimalExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.ConstantExpression decimalExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression declarationExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.MapEntryExpression mapEntryExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression indexExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression indexExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode makeType(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression expression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression spreadExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression unaryMinusExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin int modifiers(groovyjarjarantlr.collections.AST, java.util.List&lt;org.codehaus.groovy.ast.AnnotationNode&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement statementList(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode makeType(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression methodPointerExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.Parameter parameter(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression specialConstructorCallExpression(groovyjarjarantlr.collections.AST, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression instanceofExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression anonymousInnerClassDef(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void fieldDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement statementListNoChild(groovyjarjarantlr.collections.AST, groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement assertStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression ternaryExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression listExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.ASTParserException ASTParserException(org.codehaus.groovy.antlr.ASTRuntimeException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression unaryMinusExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement assertStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.Parameter parameter(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin boolean addArgumentExpression(groovyjarjarantlr.collections.AST, java.util.List&lt;org.codehaus.groovy.ast.expr.Expression&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression castExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.LexerFrame void actionPerformed(java.awt.event.ActionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.ClosureExpression closureExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression anonymousInnerClassDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void assertTypeNotNull(org.codehaus.groovy.ast.ClassNode, groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.BooleanExpression booleanExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void dumpTree(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.util.List&lt;org.codehaus.groovy.ast.stmt.CatchStatement&gt; catchStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression binaryExpression(int, groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression instanceofExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.GroovySourceAST void initialize(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement tryStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression methodCallExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin boolean isPrimitiveTypeLiteral(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression mapExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement statementList(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.EnumHelper org.codehaus.groovy.ast.ClassNode makeEnumNode(java.lang.String, int, org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void assertNodeType(int, groovyjarjarantlr.collections.AST) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void methodDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement synchronizedStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression dynamicMemberExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression expressionList(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.antlr.GroovySourceAST void setLast(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression gstring(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement labelledStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement returnStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.util.List&lt;org.codehaus.groovy.ast.stmt.CatchStatement&gt; catchStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement variableDef(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void dump(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode type(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression dynamicMemberExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.util.List arraySizeExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.ConstantExpression integerExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode buildName(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement forStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression declarationExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void enumDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.lang.String qualifiedName(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.MapEntryExpression mapEntryExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression mapExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.ASTParserException ASTParserException(java.lang.String, org.codehaus.groovy.antlr.ASTRuntimeException) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement variableDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.EnumHelper org.codehaus.groovy.ast.FieldNode addEnumConstant(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement forStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression gstring(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.util.List arraySizeExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement labelledStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression methodCallExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.BooleanExpression booleanExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void enumConstantDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.ConstantExpression integerExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression rangeExpression(groovyjarjarantlr.collections.AST, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode[] interfaces(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement ifStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement returnStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement statement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.syntax.Reduction parseCST(org.codehaus.groovy.control.SourceUnit, java.io.Reader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression unaryPlusExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void constructorDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression binaryExpression(int, groovyjarjarantlr.collections.AST) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode buildName(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.syntax.Token makeToken(int, groovyjarjarantlr.collections.AST) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression variableExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression dotExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.GroovySourceAST void initialize(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement whileStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression constructorCallExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression expression(groovyjarjarantlr.collections.AST, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression variableExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.AnnotationNode annotation(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression spreadMapExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void innerClassDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression unaryPlusExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression expression(groovyjarjarantlr.collections.AST, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void classDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode[] interfaces(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression arguments(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.lang.String getFirstChildText(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression constructorCallExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement tryStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement breakStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPluginFactory org.codehaus.groovy.control.ParserPlugin createParserPlugin()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.EnumHelper org.codehaus.groovy.ast.FieldNode addEnumConstant(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.AnnotationNode annotation(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression rangeExpression(groovyjarjarantlr.collections.AST, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement synchronizedStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void packageDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement throwStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression literalExpression(groovyjarjarantlr.collections.AST, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.Parameter[] parameters(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression blockExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression literalExpression(groovyjarjarantlr.collections.AST, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression spreadMapExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement whileStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement throwStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void interfaceDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin java.lang.String label(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression methodPointerExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement continueStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void innerInterfaceDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression prefixExpression(groovyjarjarantlr.collections.AST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void throwsList(groovyjarjarantlr.collections.AST, java.util.List&lt;org.codehaus.groovy.ast.ClassNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement breakStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void objectInit(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void importDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void configureAST(org.codehaus.groovy.ast.ASTNode, groovyjarjarantlr.collections.AST) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression postfixExpression(groovyjarjarantlr.collections.AST, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.GroovySourceAST GroovySourceAST(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression castExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression ternaryExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression blockExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement continueStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void transformCSTIntoAST(org.codehaus.groovy.control.SourceUnit, java.io.Reader, org.codehaus.groovy.antlr.SourceBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode makeTypeWithArguments(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void objectBlock(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin boolean addArgumentExpression(groovyjarjarantlr.collections.AST, java.util.List&lt;org.codehaus.groovy.ast.expr.Expression&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.GroovySourceAST java.util.List&lt;org.codehaus.groovy.antlr.GroovySourceAST&gt; childrenOfType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.GenericsType[] makeGenericsType(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement methodCall(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.ClassNode makeTypeWithArguments(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void throwsList(groovyjarjarantlr.collections.AST, java.util.List&lt;org.codehaus.groovy.ast.ClassNode&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void annotationDef(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement statement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement switchStatement(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression postfixExpression(groovyjarjarantlr.collections.AST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression expressionSwitch(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void configureAST(org.codehaus.groovy.ast.ASTNode, groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression expression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression asExpression(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.syntax.Token makeToken(int, groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression prefixExpression(groovyjarjarantlr.collections.AST, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement caseStatements(groovyjarjarantlr.collections.AST, java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement caseStatements(groovyjarjarantlr.collections.AST, java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement ifStatement(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.stmt.Statement methodCall(groovyjarjarantlr.collections.AST)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression asExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin org.codehaus.groovy.ast.expr.Expression dotExpression(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.AntlrParserPlugin void staticInit(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

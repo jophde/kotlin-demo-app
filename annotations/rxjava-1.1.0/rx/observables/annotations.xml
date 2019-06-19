@@ -1,0 +1,106 @@
+<root>
+    <item name='rx.observables.BlockingObservable java.lang.Iterable&lt;T&gt; mostRecent(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.BlockingObservable java.util.concurrent.Future&lt;T&gt; toFuture()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.SyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateful(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Func2&lt;? super S,? super rx.Observer&lt;? super T&gt;,? extends S&gt;, rx.functions.Action1&lt;? super S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.BlockingObservable void subscribe(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.AsyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createSingleState(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Action3&lt;? super S,java.lang.Long,? super rx.Observer&lt;rx.Observable&lt;? extends T&gt;&gt;&gt;, rx.functions.Action1&lt;? super S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.BlockingObservable void subscribe(rx.Observer&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.BlockingObservable java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.SyncOnSubscribe void call(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.SyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createSingleState(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Action2&lt;? super S,? super rx.Observer&lt;? super T&gt;&gt;, rx.functions.Action1&lt;? super S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.AsyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createSingleState(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Action3&lt;? super S,java.lang.Long,? super rx.Observer&lt;rx.Observable&lt;? extends T&gt;&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.AsyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateless(rx.functions.Action2&lt;java.lang.Long,? super rx.Observer&lt;rx.Observable&lt;? extends T&gt;&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.SyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateless(rx.functions.Action1&lt;? super rx.Observer&lt;? super T&gt;&gt;, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.SyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateful(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Func2&lt;? super S,? super rx.Observer&lt;? super T&gt;,? extends S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.BlockingObservable java.lang.Iterable&lt;T&gt; toIterable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.BlockingObservable rx.observables.BlockingObservable&lt;T&gt; from(rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.BlockingObservable java.lang.Iterable&lt;T&gt; next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.GroupedObservable rx.observables.GroupedObservable&lt;K,T&gt; create(K, rx.Observable.OnSubscribe&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.SyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateless(rx.functions.Action1&lt;? super rx.Observer&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.SyncOnSubscribe void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.SyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createSingleState(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Action2&lt;? super S,? super rx.Observer&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.AsyncOnSubscribe void call(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.AsyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateful(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Func3&lt;? super S,java.lang.Long,? super rx.Observer&lt;rx.Observable&lt;? extends T&gt;&gt;,? extends S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.AsyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateful(rx.functions.Func0&lt;? extends S&gt;, rx.functions.Func3&lt;? super S,java.lang.Long,? super rx.Observer&lt;rx.Observable&lt;? extends T&gt;&gt;,? extends S&gt;, rx.functions.Action1&lt;? super S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observables.AsyncOnSubscribe void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.AsyncOnSubscribe rx.Observable.OnSubscribe&lt;T&gt; createStateless(rx.functions.Action2&lt;java.lang.Long,? super rx.Observer&lt;rx.Observable&lt;? extends T&gt;&gt;&gt;, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.ConnectableObservable void connect(rx.functions.Action1&lt;? super rx.Subscription&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.observables.BlockingObservable java.lang.Iterable&lt;T&gt; latest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observables.GroupedObservable rx.observables.GroupedObservable&lt;K,T&gt; from(K, rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

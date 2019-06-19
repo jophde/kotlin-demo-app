@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='org.testng.internal.collections.Pair org.testng.internal.collections.Pair&lt;A,B&gt; of(A, B)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.collections.Pair org.testng.internal.collections.Pair&lt;A,B&gt; create(A, B)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

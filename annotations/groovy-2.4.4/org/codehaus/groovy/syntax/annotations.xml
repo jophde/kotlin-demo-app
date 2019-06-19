@@ -1,0 +1,127 @@
+<root>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newInteger(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Token NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token dup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newString(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.CSTNode void write(java.io.PrintWriter, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newIdentifier(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newPlaceholder(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Reduction asReduction(org.codehaus.groovy.syntax.CSTNode, org.codehaus.groovy.syntax.CSTNode, org.codehaus.groovy.syntax.CSTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.CSTNode get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newSymbol(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.CSTNode org.codehaus.groovy.syntax.Reduction asReduction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Types void makePrefix(org.codehaus.groovy.syntax.CSTNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Reduction asReduction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Reduction asReduction(org.codehaus.groovy.syntax.CSTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Token EOF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Reduction EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.CSTNode org.codehaus.groovy.syntax.CSTNode setMeaning(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Reduction org.codehaus.groovy.syntax.Reduction newContainer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.ASTHelper org.codehaus.groovy.ast.PackageNode setPackage(java.lang.String, java.util.List&lt;org.codehaus.groovy.ast.AnnotationNode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.CSTNode int getMeaningAs(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token getRoot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newSymbol(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Token newDecimal(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.Numbers java.lang.Number parseDecimal(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.CSTNode void write(java.io.PrintWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.CSTNode void write(java.io.PrintWriter, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Types void makePostfix(org.codehaus.groovy.syntax.CSTNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.CSTNode void addChildrenOf(org.codehaus.groovy.syntax.CSTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.CSTNode boolean isAllOf(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.syntax.CSTNode boolean isOneOf(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.CSTNode setMeaning(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Token org.codehaus.groovy.syntax.Reduction asReduction(org.codehaus.groovy.syntax.CSTNode, org.codehaus.groovy.syntax.CSTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.syntax.Reduction org.codehaus.groovy.syntax.Reduction asReduction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

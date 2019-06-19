@@ -1,0 +1,174 @@
+<root>
+    <item name='rx.observers.SafeSubscriber void onNext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.observers.TestSubscriber void onNext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber TestSubscriber(rx.Subscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.Observers rx.Observer&lt;T&gt; empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber TestSubscriber(rx.Observer&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.SerializedObserver void onNext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(rx.Observer&lt;T&gt;, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(rx.Observer&lt;T&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestObserver void onNext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; wrap(rx.Subscriber&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber void assertError(java.lang.Class&lt;? extends java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(rx.Observer&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(rx.Subscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.SerializedSubscriber void onNext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(rx.Observer&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; from(rx.Observer&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestObserver void assertReceivedOnNext(java.util.List&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.TestSubscriber rx.observers.TestSubscriber&lt;T&gt; create(rx.Subscriber&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Subscribers rx.Subscriber&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber void assertError(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber TestSubscriber(rx.Observer&lt;T&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.observers.Observers rx.Observer&lt;T&gt; create(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.observers.TestSubscriber void assertReceivedOnNext(java.util.List&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='org.apache.tools.ant.attribute.BaseIfAttribute java.util.Map getParams(org.apache.tools.ant.UnknownElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.attribute.BaseIfAttribute java.util.Map getParams(org.apache.tools.ant.UnknownElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

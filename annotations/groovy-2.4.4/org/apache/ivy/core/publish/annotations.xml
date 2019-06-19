@@ -1,0 +1,82 @@
+<root>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Collection, java.lang.String, org.apache.ivy.core.publish.PublishOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setOverwrite(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Collection, java.lang.String, org.apache.ivy.core.publish.PublishOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.util.Collection, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.publish.PublishOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.util.Collection, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.publish.PublishOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setSrcIvyPattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setValidate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.util.Collection, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.publish.PublishOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setPubbranch(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.util.Collection, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.publish.PublishOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setPubrevision(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setExtraArtifacts(org.apache.ivy.core.module.descriptor.Artifact[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setPubdate(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishEngine java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Collection, java.lang.String, org.apache.ivy.core.publish.PublishOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setConfs(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setMerge(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setUpdate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setHaltOnMissing(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.publish.PublishOptions org.apache.ivy.core.publish.PublishOptions setWarnOnMissing(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

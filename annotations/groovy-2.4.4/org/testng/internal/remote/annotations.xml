@@ -1,0 +1,9 @@
+<root>
+    <item name='org.testng.internal.remote.SlavePool void addSlaves(java.net.Socket[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.remote.SlavePool void returnSlave(org.testng.remote.ConnectionInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

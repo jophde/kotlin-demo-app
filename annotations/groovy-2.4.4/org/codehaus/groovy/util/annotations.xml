@@ -1,0 +1,415 @@
+<root>
+    <item
+        name='org.codehaus.groovy.util.FastArray void addAll(org.codehaus.groovy.util.FastArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedDoubleKeyMap org.codehaus.groovy.util.AbstractConcurrentMapBase.Segment createSegment(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceManager org.codehaus.groovy.util.ReferenceManager createIdlingManager(java.lang.ref.ReferenceQueue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap boolean checkEquals(org.codehaus.groovy.util.TripleKeyHashMap.Entry, java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap void remove(K1, K2) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedReference ManagedReference(org.codehaus.groovy.util.ReferenceBundle, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceManager org.codehaus.groovy.util.ReferenceBundle getDefaultWeakBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.TripleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap V get(K1, K2) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap.Entry&lt;K1,K2,V&gt; getOrPut(K1, K2, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedDoubleKeyMap org.codehaus.groovy.util.AbstractConcurrentMapBase.Segment createSegment(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap.Entry&lt;K1,K2,V&gt; getOrPut(K1, K2, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap java.lang.Object get(java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap org.codehaus.groovy.util.ManagedConcurrentMap.Segment&lt;K,V&gt; createSegment(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap org.codehaus.groovy.util.DoubleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.Entry remove(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.AbstractConcurrentMapBase org.codehaus.groovy.util.AbstractConcurrentMapBase.Segment createSegment(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap void put(K1, K2, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap org.codehaus.groovy.util.ManagedConcurrentMap.Segment&lt;K,V&gt; createSegment(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceType org.codehaus.groovy.util.Reference&lt;T,V&gt; createReference(T, V, java.lang.ref.ReferenceQueue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentMapBase segments'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap.EntryWithValue EntryWithValue(org.codehaus.groovy.util.ReferenceBundle, org.codehaus.groovy.util.ManagedConcurrentMap.Segment, K, int, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.AbstractConcurrentMapBase org.codehaus.groovy.util.AbstractConcurrentMapBase.Segment createSegment(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap java.lang.Object get(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ManagedLinkedList java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ComplexKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.EntryIterator getEntrySetIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap.Entry getOrPut(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap.Entry getOrPut(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceManager org.codehaus.groovy.util.ReferenceBundle getDefaultSoftBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap org.codehaus.groovy.util.DoubleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap org.codehaus.groovy.util.AbstractConcurrentMapBase.Segment createSegment(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap org.codehaus.groovy.util.DoubleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap.Entry getOrPutEntry(org.codehaus.groovy.util.SingleKeyHashMap.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceBundle org.codehaus.groovy.util.ReferenceBundle getSoftBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.Entry remove(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.StringUtil java.lang.Object getProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap.Entry Entry(org.codehaus.groovy.util.ReferenceBundle, org.codehaus.groovy.util.ManagedConcurrentMap.Segment, K, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.FastArray void addAll(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap void put(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceBundle org.codehaus.groovy.util.ReferenceBundle getPhantomBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap java.lang.Object get(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap.Entry getOrPutEntry(org.codehaus.groovy.util.SingleKeyHashMap.Entry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ManagedDoubleKeyMap.Entry V getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap.Copier java.lang.Object copy(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap org.codehaus.groovy.util.DoubleKeyHashMap.Entry createEntry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap java.lang.Object get(java.lang.Object, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.FastArray FastArray(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap void remove(K1, K2) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap.Segment org.codehaus.groovy.util.AbstractConcurrentMap.Entry&lt;K,V&gt; createEntry(K, int, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.AbstractConcurrentMap.Segment org.codehaus.groovy.util.AbstractConcurrentMap.Entry&lt;K,V&gt; createEntry(K, int, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap.Segment Segment(org.codehaus.groovy.util.ReferenceBundle, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap java.lang.Object get(java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ManagedConcurrentMap.Entry V getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap copy(org.codehaus.groovy.util.SingleKeyHashMap, org.codehaus.groovy.util.SingleKeyHashMap, org.codehaus.groovy.util.SingleKeyHashMap.Copier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap copy(org.codehaus.groovy.util.SingleKeyHashMap, org.codehaus.groovy.util.SingleKeyHashMap, org.codehaus.groovy.util.SingleKeyHashMap.Copier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.SingleKeyHashMap boolean containsKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ListHashMap void putAll(java.util.Map&lt;? extends K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedDoubleKeyMap.Entry Entry(org.codehaus.groovy.util.ReferenceBundle, K1, K2, int, org.codehaus.groovy.util.ManagedDoubleKeyMap.Segment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ReferenceType HARD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap.Entry putCopyOfUnexisting(org.codehaus.groovy.util.SingleKeyHashMap.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentMapBase java.util.Collection values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentMapBase.Entry V getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.util.ReferenceType SOFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.FastArray org.codehaus.groovy.util.FastArray copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.Entry remove(java.lang.Object, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap copy(org.codehaus.groovy.util.SingleKeyHashMap, org.codehaus.groovy.util.SingleKeyHashMap, org.codehaus.groovy.util.SingleKeyHashMap.Copier) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.Entry remove(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedReference ManagedReference(org.codehaus.groovy.util.ReferenceType, org.codehaus.groovy.util.ReferenceManager, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.StringUtil java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.util.ManagedConcurrentMap.Segment bundle'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.TripleKeyHashMap.Entry createEntry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ReleaseInfo java.lang.String getVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ReferenceType PHANTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceBundle org.codehaus.groovy.util.ReferenceBundle getHardBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ReleaseInfo java.util.Properties getAllProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceManager org.codehaus.groovy.util.ReferenceManager createThresholdedIdlingManager(java.lang.ref.ReferenceQueue, org.codehaus.groovy.util.ReferenceManager, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceManager org.codehaus.groovy.util.ReferenceManager createThreadedManager(java.lang.ref.ReferenceQueue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceBundle org.codehaus.groovy.util.ReferenceBundle getWeakBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ComplexKeyHashMap.EntryIterator org.codehaus.groovy.util.ComplexKeyHashMap.Entry next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap org.codehaus.groovy.util.AbstractConcurrentMapBase.Segment createSegment(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ReferenceManager org.codehaus.groovy.util.ReferenceManager createCallBackedManager(java.lang.ref.ReferenceQueue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ReferenceManager java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.TripleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap void put(K1, K2, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedConcurrentMap ManagedConcurrentMap(org.codehaus.groovy.util.ReferenceBundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.StringUtil java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.SingleKeyHashMap org.codehaus.groovy.util.SingleKeyHashMap.Entry putCopyOfUnexisting(org.codehaus.groovy.util.SingleKeyHashMap.Entry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.DoubleKeyHashMap boolean checkEquals(org.codehaus.groovy.util.ComplexKeyHashMap.Entry, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.FastArray FastArray(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.Entry remove(java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.TripleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.FastArray EMPTY_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.TripleKeyHashMap.Entry getOrPut(java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.ManagedDoubleKeyMap org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap.Segment&lt;K1,K2,V&gt; createSegment(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap V get(K1, K2) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.ReferenceType WEAK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap org.codehaus.groovy.util.AbstractConcurrentDoubleKeyMap.Entry&lt;K1,K2,V&gt; getOrPut(K1, K2, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.util.SingleKeyHashMap java.lang.Object get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.util.TripleKeyHashMap org.codehaus.groovy.util.ComplexKeyHashMap.Entry remove(java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

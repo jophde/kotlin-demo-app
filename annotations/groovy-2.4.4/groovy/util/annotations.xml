@@ -1,0 +1,86 @@
+<root>
+    <item
+        name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parse(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlNodePrinter.NamespaceContext NamespaceContext(groovy.util.XmlNodePrinter, groovy.util.XmlNodePrinter.NamespaceContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlNodePrinter void printName(groovy.util.Node, groovy.util.XmlNodePrinter.NamespaceContext, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parse(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlNodePrinter XmlNodePrinter(groovy.util.IndentPrinter, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlParser groovy.util.Node createNode(groovy.util.Node, java.lang.Object, java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlSlurper XmlSlurper(javax.xml.parsers.SAXParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlNodePrinter void print(groovy.util.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlParser groovy.util.Node parse(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parse(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parse(org.xml.sax.InputSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlParser XmlParser(javax.xml.parsers.SAXParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult getDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlNodePrinter out'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlNodePrinter void print(groovy.util.Node, groovy.util.XmlNodePrinter.NamespaceContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parseText(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlNodePrinter void printList(java.util.List, groovy.util.XmlNodePrinter.NamespaceContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlSlurper groovy.util.slurpersupport.GPathResult parse(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.util.XmlNodePrinter XmlNodePrinter(groovy.util.IndentPrinter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.util.XmlParser void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

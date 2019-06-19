@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='org.apache.tools.ant.types.spi.Service void addConfiguredProvider(org.apache.tools.ant.types.spi.Provider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.types.spi.Service java.io.InputStream getAsStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

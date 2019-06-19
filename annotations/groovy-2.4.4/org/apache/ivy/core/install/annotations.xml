@@ -1,0 +1,46 @@
+<root>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setConfs(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setInstallOriginalMetadata(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setArtifactFilter(org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setValidate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setMatcherName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setTransitive(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallEngine org.apache.ivy.core.report.ResolveReport install(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, org.apache.ivy.core.install.InstallOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallEngine org.apache.ivy.core.report.ResolveReport install(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, org.apache.ivy.core.install.InstallOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallOptions org.apache.ivy.core.install.InstallOptions setOverwrite(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.install.InstallEngineSettings org.apache.ivy.plugins.matcher.PatternMatcher getMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

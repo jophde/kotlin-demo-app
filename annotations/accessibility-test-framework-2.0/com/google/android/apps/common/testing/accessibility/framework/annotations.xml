@@ -1,0 +1,221 @@
+<root>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType WARNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnViewHierarchy(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultDescriptor java.lang.String describeResult(com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.DuplicateSpeakableTextViewHierarchyCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnViewHierarchy(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoHierarchyCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.EditableContentDescInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfo(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset NO_CHECKS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.TextContrastViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.ClickableSpanViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset java.util.Set&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityEventCheck&gt; getEventChecksForPreset(com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultDescriptor java.lang.String describeInfo(android.view.accessibility.AccessibilityNodeInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewHierarchyCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnViewHierarchy(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.TouchTargetSizeViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.EditableContentDescViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset PRERELEASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.SpeakableTextPresentViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.DuplicateClickableBoundsViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnViewHierarchy(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.DuplicateClickableBoundsInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType NOT_RUN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AnnouncementEventCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityEventCheckResult&gt; runCheckOnEvent(android.view.accessibility.AccessibilityEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.RedundantContentDescInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;T&gt; getResultsForType(java.lang.Iterable&lt;T&gt;, com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType INFO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.TextContrastViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType SUPPRESSED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.DuplicateClickableBoundsInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfo(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset java.util.Set&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewHierarchyCheck&gt; getViewChecksForPreset(com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoHierarchyCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.RedundantContentDescViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnViewHierarchy(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;T&gt; getResultsForCheck(java.lang.Iterable&lt;T&gt;, java.lang.Class&lt;? extends com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheck&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.ClickableSpanViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset VERSION_2_0_CHECKS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.SpeakableTextPresentViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.TouchTargetSizeInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfo(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityEventCheckResult void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.EditableContentDescViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.TouchTargetSizeViewCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; runCheckOnView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityEventCheckResult CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;T&gt; getResultsForType(java.lang.Iterable&lt;T&gt;, com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.SpeakableTextPresentInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfo(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset java.util.Set&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoHierarchyCheck&gt; getInfoChecksForPreset(com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; getResultsForInfo(java.lang.Iterable&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt;, android.view.accessibility.AccessibilityNodeInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;T&gt; getResultsForCheck(java.lang.Iterable&lt;T&gt;, java.lang.Class&lt;? extends com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheck&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset VERSION_1_0_CHECKS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; getResultsForView(java.lang.Iterable&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt;, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt; getResultsForView(java.lang.Iterable&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt;, android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckPreset LATEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckMetadata METADATA_KEY_SCREEN_CAPTURE_BITMAP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; getResultsForInfo(java.lang.Iterable&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt;, android.view.accessibility.AccessibilityNodeInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.ClickableSpanInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfo(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.RedundantContentDescInfoCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityInfoCheckResult&gt; runCheckOnInfoHierarchy(android.view.accessibility.AccessibilityNodeInfo, android.content.Context, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.AccessibilityEventCheck java.util.List&lt;com.google.android.apps.common.testing.accessibility.framework.AccessibilityEventCheckResult&gt; runCheckOnEvent(android.view.accessibility.AccessibilityEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

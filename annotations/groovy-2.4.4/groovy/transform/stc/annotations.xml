@@ -1,0 +1,190 @@
+<root>
+    <item
+        name='groovy.transform.stc.ClosureSignatureHint org.codehaus.groovy.ast.ClassNode pickGenericType(org.codehaus.groovy.ast.MethodNode, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.MapEntryOrKeyValue java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.SimpleType org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.ThirdParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.ClosureSignatureHint java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.SecondParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.ClosureSignatureHint java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.PickAnyArgumentHint org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.SingleSignatureClosureHint java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.FirstParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.ClosureSignatureHint org.codehaus.groovy.ast.ClassNode pickGenericType(org.codehaus.groovy.ast.ClassNode, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.FromAbstractTypeMethods java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.IncorrectTypeHintException IncorrectTypeHintException(org.codehaus.groovy.ast.MethodNode, java.lang.Throwable, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.PickAnyArgumentHint org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.ThirdParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.FromString java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.SingleSignatureClosureHint org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.ClosureSignatureHint org.codehaus.groovy.ast.ClassNode findClassNode(org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.SecondParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.SimpleType org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.SimpleType org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.FromString java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.SingleSignatureClosureHint org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.IncorrectTypeHintException IncorrectTypeHintException(org.codehaus.groovy.ast.MethodNode, java.lang.Throwable, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.IncorrectTypeHintException IncorrectTypeHintException(org.codehaus.groovy.ast.MethodNode, java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.FirstParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.PickAnyArgumentHint org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.ThirdParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.transform.stc.SecondParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.FirstParam.Component org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.FromAbstractTypeMethods java.util.List&lt;org.codehaus.groovy.ast.ClassNode[]&gt; getClosureSignatures(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, java.lang.String[], org.codehaus.groovy.ast.ASTNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.transform.stc.SingleSignatureClosureHint org.codehaus.groovy.ast.ClassNode[] getParameterTypes(org.codehaus.groovy.ast.MethodNode, java.lang.String[], org.codehaus.groovy.control.SourceUnit, org.codehaus.groovy.control.CompilationUnit, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,26 @@
+<root>
+    <item name='okhttp3.logging.HttpLoggingInterceptor.Level BASIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor.Logger DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor okhttp3.logging.HttpLoggingInterceptor setLevel(okhttp3.logging.HttpLoggingInterceptor.Level)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor.Level BODY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor okhttp3.Response intercept(okhttp3.Interceptor.Chain) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor.Level NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor okhttp3.logging.HttpLoggingInterceptor setLevel(okhttp3.logging.HttpLoggingInterceptor.Level) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.logging.HttpLoggingInterceptor.Level HEADERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

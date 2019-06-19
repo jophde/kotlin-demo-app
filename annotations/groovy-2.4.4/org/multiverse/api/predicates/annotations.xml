@@ -1,0 +1,103 @@
+<root>
+    <item
+        name='org.multiverse.api.predicates.BooleanPredicate boolean evaluate(java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.Predicates org.multiverse.api.predicates.Predicate&lt;E&gt; newIsNullPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.Predicate boolean evaluate(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.IntPredicate org.multiverse.api.predicates.IntPredicate newLargerThanPredicate(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.LongPredicate org.multiverse.api.predicates.LongPredicate newSmallerThanOrEqualsPredicate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.BooleanPredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.LongPredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.IntPredicate org.multiverse.api.predicates.IntPredicate newLargerThanOrEqualsPredicate(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.IntPredicate org.multiverse.api.predicates.IntPredicate newNotEqualsPredicate(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.LongPredicate org.multiverse.api.predicates.LongPredicate newEqualsPredicate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.IntPredicate boolean evaluate(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.BooleanPredicate org.multiverse.api.predicates.BooleanPredicate newNotEqualsPredicate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.DoublePredicate boolean evaluate(java.lang.Double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.IntPredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.BooleanPredicate org.multiverse.api.predicates.BooleanPredicate newEqualsPredicate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.IntPredicate org.multiverse.api.predicates.IntPredicate newEqualsPredicate(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.LongPredicate org.multiverse.api.predicates.LongPredicate newNotEqualsPredicate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.LongPredicate org.multiverse.api.predicates.LongPredicate newLargerThanPredicate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.LongPredicate boolean evaluate(java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.Predicates org.multiverse.api.predicates.Predicate&lt;E&gt; newIsNotNullPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.IntPredicate org.multiverse.api.predicates.IntPredicate newSmallerThanPredicate(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.predicates.DoublePredicate boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.LongPredicate org.multiverse.api.predicates.LongPredicate newLargerThanOrEqualsPredicate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.LongPredicate org.multiverse.api.predicates.LongPredicate newSmallerThanPredicate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.IntPredicate org.multiverse.api.predicates.IntPredicate newSmallerThanOrEqualsPredicate(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.predicates.DoublePredicate org.multiverse.api.predicates.DoublePredicate newEqualsPredicate(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

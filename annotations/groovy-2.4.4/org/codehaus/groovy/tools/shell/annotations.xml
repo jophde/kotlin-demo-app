@@ -1,0 +1,57 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.shell.PatchedCandidateListCompletionHandler boolean complete(jline.console.ConsoleReader, java.util.List&lt;java.lang.CharSequence&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.PatchedCandidateListCompletionHandler boolean complete(jline.console.ConsoleReader, java.util.List&lt;java.lang.CharSequence&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.Groovysh METACLASS_COMPLETION_PREFIX_LENGTH_PREFERENCE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Groovysh AUTOINDENT_PREFERENCE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Command java.lang.String getUsage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Groovysh INTERPRETER_MODE_PREFERENCE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Interpreter java.lang.String getSCRIPT_FILENAME()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Groovysh COLORS_PREFERENCE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Groovysh groovy.lang.Closure getDefaultErrorHook()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.Groovysh COLLECTED_BOUND_VARS_MAP_VARNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.Groovysh groovy.lang.Closure getDefaultResultHook()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.RigidParser java.lang.String getSCRIPT_FILENAME()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.shell.CommandSupport java.lang.String getUsage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.shell.PatchedConsoleReader void access$0(org.codehaus.groovy.tools.shell.PatchedConsoleReader, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

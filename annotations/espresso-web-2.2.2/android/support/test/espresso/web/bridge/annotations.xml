@@ -1,0 +1,17 @@
+<root>
+    <item name='android.support.test.espresso.web.bridge.Conduit java.lang.StringBuilder wrapScriptInConduit(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.bridge.Conduit java.lang.StringBuilder wrapScriptInConduit(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.bridge.Conduit android.support.test.espresso.web.deps.guava.util.concurrent.ListenableFuture&lt;java.lang.String&gt; getResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.bridge.Conduit java.lang.String wrapScriptInConduit(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.bridge.JavaScriptBridge android.support.test.espresso.web.bridge.Conduit makeConduit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

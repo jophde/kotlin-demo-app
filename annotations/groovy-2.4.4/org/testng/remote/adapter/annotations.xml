@@ -1,0 +1,31 @@
+<root>
+    <item name='org.testng.remote.adapter.IMasterAdapter void init(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.remote.adapter.DefaultWorkerAdapter SLAVE_PORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.adapter.DefaultWorkerAdapter void init(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.adapter.DefaultMastertAdapter void init(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.adapter.IWorkerAdapter void init(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.remote.adapter.RemoteResultListener void onResult(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.adapter.DefaultMastertAdapter HOSTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

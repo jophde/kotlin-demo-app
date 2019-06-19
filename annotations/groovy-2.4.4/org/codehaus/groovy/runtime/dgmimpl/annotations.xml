@@ -1,0 +1,135 @@
+<root>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMetaMethod.NumberNumberCallSite NumberNumberCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMetaMethod.NumberNumberCallSite NumberNumberCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

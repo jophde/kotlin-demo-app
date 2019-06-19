@@ -1,0 +1,55 @@
+<root>
+    <item
+        name='org.apache.tools.ant.input.DefaultInputHandler java.lang.String getPrompt(org.apache.tools.ant.input.InputRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.MultipleChoiceInputRequest MultipleChoiceInputRequest(java.lang.String, java.util.Vector&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.DefaultInputHandler void handleInput(org.apache.tools.ant.input.InputRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.MultipleChoiceInputRequest MultipleChoiceInputRequest(java.lang.String, java.util.Vector&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.GreedyInputHandler void handleInput(org.apache.tools.ant.input.InputRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.input.InputRequest java.lang.String getPrompt()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.InputHandler void handleInput(org.apache.tools.ant.input.InputRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.MultipleChoiceInputRequest java.util.Vector&lt;java.lang.String&gt; getChoices()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.SecureInputHandler void handleInput(org.apache.tools.ant.input.InputRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.input.PropertyFileInputHandler FILE_NAME_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.PropertyFileInputHandler void handleInput(org.apache.tools.ant.input.InputRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.input.DefaultInputHandler java.io.InputStream getInputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.input.InputRequest InputRequest(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

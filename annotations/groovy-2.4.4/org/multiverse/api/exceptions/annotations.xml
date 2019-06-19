@@ -1,0 +1,15 @@
+<root>
+    <item
+        name='org.multiverse.api.exceptions.TxnMandatoryException TxnMandatoryException(java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.exceptions.RetryError INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.exceptions.SpeculativeConfigurationError INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.exceptions.ReadWriteConflict INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

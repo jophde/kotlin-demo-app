@@ -1,0 +1,203 @@
+<root>
+    <item
+        name='groovy.xml.NamespaceBuilderSupport groovy.xml.NamespaceBuilderSupport namespace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.XmlUtil java.lang.String serialize(groovy.util.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.NamespaceBuilderSupport java.lang.Object getName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport newInstance(groovy.util.BuilderSupport, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport namespace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.MarkupBuilderHelper void yield(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport declareNamespace(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport newInstance(groovy.util.BuilderSupport, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.DOMBuilder groovy.xml.DOMBuilder newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.XmlUtil javax.xml.parsers.SAXParser newSAXParser(java.lang.String, javax.xml.transform.Source...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.Namespace groovy.xml.QName get(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.DOMBuilder void setParent(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport newInstance(groovy.util.BuilderSupport)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.NamespaceBuilderSupport java.lang.Object getName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.XmlUtil void serialize(groovy.util.Node, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.Namespace Namespace(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.XmlUtil javax.xml.parsers.SAXParser newSAXParser(java.lang.String, boolean, boolean, javax.xml.transform.Source...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.MarkupBuilderHelper void pi(java.util.Map&lt;java.lang.String,java.util.Map&lt;java.lang.String,java.lang.Object&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.MarkupBuilder groovy.xml.MarkupBuilderHelper getMkp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.DOMBuilder groovy.xml.DOMBuilder newInstance(boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder void appendNamespaceAttributes(org.w3c.dom.Element, java.util.Map&lt;java.lang.Object,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.StreamingMarkupBuilder java.lang.Object getQt()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.MarkupBuilderHelper void yieldUnescaped(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.Namespace Namespace(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.Namespace Namespace(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.MarkupBuilder java.lang.Object createNode(java.lang.Object, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.XmlUtil void serialize(groovy.util.Node, java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.StreamingDOMBuilder java.lang.Object bind(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.StreamingSAXBuilder java.lang.Object bind(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport newInstance(java.util.Map, groovy.util.BuilderSupport)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilderSupport groovy.xml.NamespaceBuilderSupport namespace(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.xml.SAXBuilder void nodeCompleted(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilder groovy.xml.NamespaceBuilderSupport namespace(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.DOMBuilder java.lang.Object createNode(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.SAXBuilder void doStartElement(java.lang.Object, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.MarkupBuilder java.lang.Object createNode(java.lang.Object, java.util.Map, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.xml.NamespaceBuilderSupport groovy.xml.NamespaceBuilderSupport declareNamespace(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

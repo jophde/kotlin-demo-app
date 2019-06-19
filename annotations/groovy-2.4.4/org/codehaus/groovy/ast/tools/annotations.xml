@@ -1,0 +1,638 @@
+<root>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.FieldExpression fieldX(org.codehaus.groovy.ast.ClassNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression attrX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ifS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.MethodNode correctToGenericsSpec(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.MethodNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.StaticMethodCallExpression callX(org.codehaus.groovy.ast.ClassNode, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.CastExpression castX(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression getterX(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression notNullX(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ArgumentListExpression args(java.util.List&lt;org.codehaus.groovy.ast.expr.Expression&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.WideningCategories org.codehaus.groovy.ast.ClassNode lowestUpperBound(java.util.List&lt;org.codehaus.groovy.ast.ClassNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ConstructorCallExpression ctorX(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression hasEqualPropertyX(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils OR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.FieldNode&gt; getSuperNonPropertyFields(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.WideningCategories.LowestUpperBoundClassNode LowestUpperBoundClassNode(java.lang.String, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ClassExpression classX(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode nonGeneric(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression hasEqualPropertyX(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils LT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils CMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression getterX(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode nonGeneric(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression propX(org.codehaus.groovy.ast.expr.Expression, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.MethodNode correctToGenericsSpec(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.MethodNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.VariableExpression varX(java.lang.String, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt; addMethodGenerics(org.codehaus.groovy.ast.MethodNode, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement assignS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression sameX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafeWithGenerics(java.lang.Class, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.BlockStatement block(org.codehaus.groovy.ast.stmt.Statement...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ctorSuperS(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement stmt(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression hasSamePropertyX(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafeWithGenerics(java.lang.Class, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callX(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callThisX(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression isInstanceOfX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpecRecurse(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ClassExpression classX(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.Parameter[] params(org.codehaus.groovy.ast.Parameter...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.CastExpression castX(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.lang.String makeDescriptorWithoutReturnType(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ctorSuperS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt; createGenericsSpec(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.FieldNode&gt; getInstanceNonPropertyFields(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.VariableExpression varX(org.codehaus.groovy.ast.Variable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpecRecurse(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.FieldNode&gt; getInstanceNonPropertyFields(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression hasSamePropertyX(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.VariableExpression varX(org.codehaus.groovy.ast.Variable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ArgumentListExpression args(org.codehaus.groovy.ast.Parameter[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.BlockStatement block(org.codehaus.groovy.ast.stmt.Statement...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.MethodNode&gt; getAllMethods(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafe0(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.GenericsType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode parameterizeInterfaceGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.PropertyNode&gt; getAllProperties(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.FieldExpression fieldX(org.codehaus.groovy.ast.ClassNode, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.GenericsType[] alignGenericTypes(org.codehaus.groovy.ast.GenericsType[], org.codehaus.groovy.ast.GenericsType[], org.codehaus.groovy.ast.GenericsType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement stmt(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callSuperX(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ConstructorCallExpression ctorX(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils AND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ClosureExpression closureX(org.codehaus.groovy.ast.stmt.Statement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.lang.String getGetterName(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode parameterizeInterfaceGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.Parameter[] cloneParams(org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils boolean hasDeclaredMethod(org.codehaus.groovy.ast.ClassNode, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression neX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression cmpX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.GenericsType&gt; extractPlaceholders(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ArgumentListExpression args(org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression propX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode parameterizeType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement returnS(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ClosureExpression closureX(org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.stmt.Statement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement safeExpression(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpec(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression hasEqualFieldX(org.codehaus.groovy.ast.FieldNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode newClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression isZeroX(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt; createGenericsSpec(org.codehaus.groovy.ast.ClassNode, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression eqX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafe0(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.GenericsType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.FieldExpression fieldX(org.codehaus.groovy.ast.FieldNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils void copyAnnotatedNodeAnnotations(org.codehaus.groovy.ast.AnnotatedNode, java.util.List&lt;org.codehaus.groovy.ast.AnnotationNode&gt;, java.util.List&lt;org.codehaus.groovy.ast.AnnotationNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ctorThisS(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.StaticMethodCallExpression callX(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.ClosureUtils java.lang.String convertClosureToSource(org.codehaus.groovy.control.io.ReaderSource, org.codehaus.groovy.ast.expr.ClosureExpression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.BlockStatement block(org.codehaus.groovy.ast.VariableScope, org.codehaus.groovy.ast.stmt.Statement...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.GenericsType buildWildcardType(org.codehaus.groovy.ast.ClassNode...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.FieldNode&gt; getSuperPropertyFields(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils EQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callSuperX(java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ArgumentListExpression args(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression plusX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode parameterizeType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.ClosureUtils java.lang.String convertClosureToSource(org.codehaus.groovy.control.io.ReaderSource, org.codehaus.groovy.ast.expr.ClosureExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafeWithGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.GenericsType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression ltX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.WideningCategories.LowestUpperBoundClassNode org.codehaus.groovy.ast.ClassNode getPlainNodeReference()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression equalsNullX(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression hasSameFieldX(org.codehaus.groovy.ast.FieldNode, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.Parameter param(org.codehaus.groovy.ast.ClassNode, java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement safeExpression(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.BlockStatement block(org.codehaus.groovy.ast.VariableScope, org.codehaus.groovy.ast.stmt.Statement...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.Set&lt;org.codehaus.groovy.ast.ClassNode&gt; getInterfacesAndSuperInterfaces(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.VariableExpression varX(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ifElseS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.stmt.Statement, org.codehaus.groovy.ast.stmt.Statement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt; createGenericsSpec(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ArgumentListExpression args(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.FieldNode&gt; getInstancePropertyFields(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression orX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.Set&lt;org.codehaus.groovy.ast.ClassNode&gt; getInterfacesAndSuperInterfaces(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression andX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement declS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.Parameter param(org.codehaus.groovy.ast.ClassNode, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.PropertyNode&gt; getInstanceProperties(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.WideningCategories boolean implementsInterfaceOrSubclassOf(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression isTrueX(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafe(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callX(org.codehaus.groovy.ast.expr.Expression, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression findArg(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression hasSameFieldX(org.codehaus.groovy.ast.FieldNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement safeExpression(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpec(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BooleanExpression isOneX(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement createConstructorStatementDefault(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.FieldNode&gt; getInstancePropertyFields(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ifS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.stmt.Statement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt; createGenericsSpec(org.codehaus.groovy.ast.ClassNode, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ctorThisS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpecRecurse(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.ClassNode, java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement ifS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GenericsUtils EMPTY_GENERICS_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode newClass(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ConstantExpression constX(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression getterX(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.PropertyNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ConstantExpression constX(java.lang.Object, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement declS(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression hasClassX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.TernaryExpression ternaryX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.ArgumentListExpression args(org.codehaus.groovy.ast.expr.Expression...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode makeClassSafeWithGenerics(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.GenericsType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement createConstructorStatementDefault(org.codehaus.groovy.ast.FieldNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.ast.tools.GeneralUtils NE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.NotExpression notX(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpec(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.GenericsType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils boolean isOrImplements(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.WideningCategories.LowestUpperBoundClassNode LowestUpperBoundClassNode(java.lang.String, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.WideningCategories boolean implementsInterfaceOrSubclassOf(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.MethodCallExpression callThisX(java.lang.String, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.BinaryExpression hasEqualFieldX(org.codehaus.groovy.ast.FieldNode, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils java.util.List&lt;org.codehaus.groovy.ast.PropertyNode&gt; getInstanceProperties(org.codehaus.groovy.ast.ClassNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.stmt.Statement returnS(org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils org.codehaus.groovy.ast.ClassNode correctToGenericsSpecRecurse(java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;, org.codehaus.groovy.ast.ClassNode, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.Parameter[] cloneParams(org.codehaus.groovy.ast.Parameter[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression indexX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GeneralUtils org.codehaus.groovy.ast.expr.Expression assignX(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.ast.tools.GenericsUtils java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt; addMethodGenerics(org.codehaus.groovy.ast.MethodNode, java.util.Map&lt;java.lang.String,org.codehaus.groovy.ast.ClassNode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,17 @@
+<root>
+    <item name='groovy.swing.SwingBuilder DELEGATE_PROPERTY_OBJECT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.SwingBuilder groovy.swing.SwingBuilder doLater(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.SwingBuilder groovy.swing.SwingBuilder edt(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.SwingBuilder groovy.swing.SwingBuilder doOutside(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.SwingBuilder DEFAULT_DELEGATE_PROPERTY_OBJECT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

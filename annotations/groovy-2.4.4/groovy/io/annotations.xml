@@ -1,0 +1,26 @@
+<root>
+    <item name='groovy.io.FileVisitResult CONTINUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.FileVisitResult SKIP_SIBLINGS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.FileVisitResult TERMINATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.LineColumnReader int read(char[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.FileType DIRECTORIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.FileType FILES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.FileVisitResult SKIP_SUBTREE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.io.FileType ANY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

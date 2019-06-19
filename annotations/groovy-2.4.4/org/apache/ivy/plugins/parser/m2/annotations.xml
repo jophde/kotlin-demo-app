@@ -1,0 +1,259 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.io.File, org.apache.ivy.plugins.parser.m2.PomWriterOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setArtifactPackaging(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void addDependency(org.apache.ivy.core.module.descriptor.DependencyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.List getDependencyManagements(org.apache.ivy.core.module.descriptor.ModuleDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setExtraDependencies(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions.ConfigurationScopeMapping boolean isOptional(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setTemplate(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void addPlugin(org.apache.ivy.plugins.parser.m2.PomDependencyMgt) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyData PomDependencyData(org.apache.ivy.plugins.parser.m2.PomReader, org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setArtifactName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void addExtraInfos(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.List getPlugins(org.apache.ivy.core.module.descriptor.ModuleDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyMgtElement PomDependencyMgtElement(org.apache.ivy.plugins.parser.m2.PomReader, org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyMgtElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.List getDependencyManagements(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setMapping(org.apache.ivy.plugins.parser.m2.PomWriterOptions.ConfigurationScopeMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder PomModuleDescriptorBuilder(org.apache.ivy.plugins.parser.ModuleDescriptorParser, org.apache.ivy.plugins.repository.Resource, org.apache.ivy.plugins.parser.ParserSettings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomReader java.util.List getPlugins()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions.ConfigurationScopeMapping java.lang.String getScope(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void addDependency(org.apache.ivy.plugins.repository.Resource, org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.io.File, org.apache.ivy.plugins.parser.m2.PomWriterOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.List getPlugins(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder org.apache.ivy.core.module.descriptor.Artifact getSourceArtifact()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomReader java.lang.String getHomePage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomDependencyMgt java.util.List getExcludedModules()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomReader PomReader(java.net.URL, org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder org.apache.ivy.core.module.descriptor.Artifact getSrcArtifact()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.PomModuleDescriptor void addDependencyManagement(org.apache.ivy.plugins.parser.m2.PomDependencyMgt) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser boolean accept(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder MAVEN2_CONFIGURATIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void setLicenses(org.apache.ivy.core.module.descriptor.License[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setLicenseHeader(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setPrintIvyInfo(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.Map getDependencyManagementMap(org.apache.ivy.core.module.descriptor.ModuleDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.PomModuleDescriptor java.util.Map getDependencyManagementMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.Map getDependencyManagementMap(org.apache.ivy.core.module.descriptor.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setConfs(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void addDependencyMgt(org.apache.ivy.plugins.parser.m2.PomDependencyMgt) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.Map extractPomProperties(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder org.apache.ivy.core.module.descriptor.ModuleDescriptor getModuleDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomReader java.util.Map getPomProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.Map extractPomProperties(java.util.List&lt;org.apache.ivy.core.module.descriptor.ExtraInfoHolder&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomWriterOptions org.apache.ivy.plugins.parser.m2.PomWriterOptions setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.Map extractPomProperties(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomReader java.lang.String getPackaging()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriter void write(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.io.File, org.apache.ivy.plugins.parser.m2.PomWriterOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void addExtraInfos(java.util.List&lt;org.apache.ivy.core.module.descriptor.ExtraInfoHolder&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder java.util.Map extractPomProperties(java.util.List&lt;org.apache.ivy.core.module.descriptor.ExtraInfoHolder&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomReader java.util.List getDependencies()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder org.apache.ivy.core.module.descriptor.Artifact getJavadocArtifact()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder void setModuleRevId(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.m2.PomReader java.util.List getDependencyMgt()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyMgtElement java.util.List getExcludedModules()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

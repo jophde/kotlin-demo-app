@@ -1,0 +1,44 @@
+<root>
+    <item
+        name='org.testng.xml.dom.DomXmlParser org.testng.xml.XmlSuite parse2(java.lang.String, java.io.InputStream, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.dom.Reflect java.lang.String toCapitalizedCamelCase(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.dom.Reflect java.util.List&lt;org.testng.internal.collections.Pair&lt;java.lang.reflect.Method,org.testng.xml.dom.Wrapper&gt;&gt; findMethodsWithAnnotation(java.lang.Class&lt;?&gt;, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.dom.DomUtil java.util.Iterator&lt;org.w3c.dom.Node&gt; findChildren(org.w3c.dom.Node, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.dom.Wrapper Wrapper(java.lang.annotation.Annotation, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.dom.XDom void populateChildren(org.w3c.dom.Node, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.dom.DomUtil.NodeProcessor void process(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.xml.dom.Wrapper java.util.List&lt;java.lang.Object[]&gt; getParameters(org.w3c.dom.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.dom.Reflect java.util.List&lt;org.testng.internal.collections.Pair&lt;java.lang.reflect.Method,org.testng.xml.dom.Wrapper&gt;&gt; findMethodsWithAnnotation(java.lang.Class&lt;?&gt;, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.dom.DomUtil void populate(org.testng.xml.XmlSuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

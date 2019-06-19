@@ -1,0 +1,41 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.BuiltFileResource org.apache.ivy.plugins.repository.Resource clone(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.PackagerCacheEntry org.apache.ivy.plugins.resolver.util.ResolvedResource getBuiltArtifact(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.PackagerCacheEntry void build(org.apache.ivy.plugins.repository.Resource, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.packager.BuiltFileResource BUILT_ARTIFACT_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.BuiltFileResource BuiltFileResource(java.io.File, org.apache.ivy.core.module.descriptor.Artifact) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.PackagerCacheEntry org.apache.ivy.plugins.resolver.util.ResolvedResource getBuiltArtifact(org.apache.ivy.core.module.descriptor.Artifact)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.PackagerResolver java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.PackagerCacheEntry void saveFile(java.lang.String, java.io.InputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.BuiltFileResource java.io.InputStream openStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.packager.PackagerResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findArtifactRef(org.apache.ivy.core.module.descriptor.Artifact, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

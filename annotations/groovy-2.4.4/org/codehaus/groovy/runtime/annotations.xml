@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.codehaus.groovy.runtime.XmlGroovyMethods java.util.Iterator&lt;org.w3c.dom.Node&gt; iterator(org.w3c.dom.NodeList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

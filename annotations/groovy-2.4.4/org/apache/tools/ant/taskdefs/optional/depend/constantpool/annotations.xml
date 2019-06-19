@@ -1,0 +1,162 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.IntegerCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.InvokeDynamicCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.InterfaceMethodRefCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.FieldRefCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool int addEntry(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodRefCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.NameAndTypeCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.StringCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodRefCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodTypeCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ClassCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry readEntry(java.io.DataInputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry readEntry(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodTypeCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.FloatCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_getStatic'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ClassCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_getField'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_putStatic'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.FieldRefCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_invokeStatic'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_invokeSpecial'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.DoubleCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_invokeInterface'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_putField'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.NameAndTypeCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_invokeVirtual'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.InvokeDynamicCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.InterfaceMethodRefCPInfo void resolve(org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.Utf8CPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.LongCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo.ReferenceKind REF_newInvokeSpecial'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.depend.constantpool.StringCPInfo void read(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

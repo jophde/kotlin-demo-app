@@ -1,0 +1,64 @@
+<root>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn FatMonoGammaTxn(org.multiverse.stms.gamma.transactions.GammaTxnConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal locate(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal getRefTranlocal(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn FatVariableLengthGammaTxn(org.multiverse.stms.gamma.transactions.GammaTxnConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn FatMonoGammaTxn(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn tranlocal'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal locate(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn FatVariableLengthGammaTxn(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal getRefTranlocal(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal locate(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn FatFixedLengthGammaTxn(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn listenersArray'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal getRefTranlocal(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn FatFixedLengthGammaTxn(org.multiverse.stms.gamma.transactions.GammaTxnConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

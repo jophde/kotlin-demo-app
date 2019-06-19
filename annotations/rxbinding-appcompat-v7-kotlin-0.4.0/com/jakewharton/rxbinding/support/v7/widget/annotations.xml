@@ -1,0 +1,32 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxSearchViewKt rx.Observable&lt;com.jakewharton.rxbinding.support.v7.widget.SearchViewQueryTextEvent&gt; queryTextChangeEvents(android.support.v7.widget.SearchView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxToolbarKt.navigationClicks.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxPopupMenuKt rx.Observable&lt;android.view.MenuItem&gt; itemClicks(android.support.v7.widget.PopupMenu)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxPopupMenuKt.dismisses.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxActionMenuViewKt rx.Observable&lt;android.view.MenuItem&gt; itemClicks(android.support.v7.widget.ActionMenuView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxPopupMenuKt rx.Observable&lt;kotlin.Unit&gt; dismisses(android.support.v7.widget.PopupMenu)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxSearchViewKt rx.Observable&lt;java.lang.CharSequence&gt; queryTextChanges(android.support.v7.widget.SearchView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxToolbarKt rx.Observable&lt;android.view.MenuItem&gt; itemClicks(android.support.v7.widget.Toolbar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxToolbarKt rx.Observable&lt;kotlin.Unit&gt; navigationClicks(android.support.v7.widget.Toolbar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v7.widget.RxSearchViewKt rx.functions.Action1&lt;? super java.lang.CharSequence&gt; query(android.support.v7.widget.SearchView, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

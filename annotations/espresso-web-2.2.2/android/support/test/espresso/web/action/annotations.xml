@@ -1,0 +1,17 @@
+<root>
+    <item name='android.support.test.espresso.web.action.AtomAction void perform(android.support.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.action.AtomAction java.util.concurrent.Future&lt;E&gt; getFuture()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.action.AtomAction AtomAction(android.support.test.espresso.web.model.Atom&lt;E&gt;, android.support.test.espresso.web.model.WindowReference, android.support.test.espresso.web.model.ElementReference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.action.EnableJavascriptAction java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.web.action.EnableJavascriptAction void perform(android.support.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

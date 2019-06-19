@@ -1,0 +1,38 @@
+<root>
+    <item
+        name='com.thoughtworks.qdox.JavaClassContext void add(com.thoughtworks.qdox.model.JavaPackage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder com.thoughtworks.qdox.model.JavaSource addSource(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder com.thoughtworks.qdox.model.JavaSource addSource(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaClassContext void add(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder com.thoughtworks.qdox.model.JavaSource addSource(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder com.thoughtworks.qdox.model.JavaSource addSource(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder com.thoughtworks.qdox.model.JavaSource addSource(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder com.thoughtworks.qdox.model.JavaSource addSource(java.io.Reader, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.JavaDocBuilder java.util.List search(com.thoughtworks.qdox.Searcher)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

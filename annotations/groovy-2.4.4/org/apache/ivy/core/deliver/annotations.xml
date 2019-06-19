@@ -1,0 +1,74 @@
+<root>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions newInstance(org.apache.ivy.core.settings.IvySettings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setResolveId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setGenerateRevConstraint(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setMerge(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setPubdate(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions newInstance(org.apache.ivy.core.settings.IvySettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setReplaceForcedRevisions(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setValidate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DefaultPublishingDRResolver java.lang.String resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverEngine void deliver(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, org.apache.ivy.core.deliver.DeliverOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setPdrResolver(org.apache.ivy.core.deliver.PublishingDependencyRevisionResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setPubBranch(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverEngine void deliver(java.lang.String, java.lang.String, org.apache.ivy.core.deliver.DeliverOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setConfs(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.PublishingDependencyRevisionResolver java.lang.String resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.deliver.DeliverOptions org.apache.ivy.core.deliver.DeliverOptions setResolveDynamicRevisions(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,241 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings java.io.File resolveFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings org.apache.ivy.core.RelativeUrlResolver getRelativeUrlResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser java.util.Date getDefaultPubDate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings java.util.Map substitute(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser void error(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser boolean accept(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings org.apache.ivy.plugins.namespace.Namespace getContextNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings java.util.Map substitute(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings java.lang.String getDefaultBranch(org.apache.ivy.core.module.id.ModuleId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry boolean accept(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser void fatalError(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.parser.ModuleDescriptorParser java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser void warning(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser void setResource(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ParserSettings org.apache.ivy.plugins.matcher.PatternMatcher getMatcher(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser void parseDepsConfs(java.lang.String[], org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser void parseDepsConfs(java.lang.String[], org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.parser.ModuleDescriptorParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

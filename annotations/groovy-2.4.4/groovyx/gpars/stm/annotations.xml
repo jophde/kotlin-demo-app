@@ -1,0 +1,72 @@
+<root>
+    <item name='groovyx.gpars.stm.GParsStm T atomic(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.stm.GParsStm double atomicWithDouble(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm int atomicWithInt(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm int atomicWithInt(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm T atomic(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm T atomic(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm void atomicWithVoid(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm void atomicWithVoid(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.stm.GParsStm boolean atomicWithBoolean(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm double atomicWithDouble(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm double atomicWithDouble(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.stm.GParsStm int atomicWithInt(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.stm.GParsStm long atomicWithLong(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm org.multiverse.api.TxnExecutor createTxnExecutor(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.stm.GParsStm void atomicWithVoid(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm boolean atomicWithBoolean(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm long atomicWithLong(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm boolean atomicWithBoolean(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.stm.GParsStm long atomicWithLong(org.multiverse.api.TxnExecutor, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

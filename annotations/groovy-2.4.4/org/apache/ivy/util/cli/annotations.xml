@@ -1,0 +1,49 @@
+<root>
+    <item
+        name='org.apache.ivy.util.cli.OptionBuilder org.apache.ivy.util.cli.OptionBuilder arg(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.OptionBuilder org.apache.ivy.util.cli.OptionBuilder deprecated()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.CommandLineParser org.apache.ivy.util.cli.CommandLine parse(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.CommandLineParser org.apache.ivy.util.cli.CommandLine parse(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.CommandLineParser void printHelp(java.io.PrintWriter, int, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.OptionBuilder org.apache.ivy.util.cli.OptionBuilder description(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.CommandLineParser org.apache.ivy.util.cli.CommandLineParser addCategory(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.OptionBuilder org.apache.ivy.util.cli.OptionBuilder countArgs(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.CommandLineParser org.apache.ivy.util.cli.CommandLineParser addOption(org.apache.ivy.util.cli.Option) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.CommandLineParser org.apache.ivy.util.cli.CommandLineParser addOption(org.apache.ivy.util.cli.Option)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.util.cli.OptionBuilder org.apache.ivy.util.cli.Option create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.util.cli.OptionBuilder org.apache.ivy.util.cli.OptionBuilder required(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

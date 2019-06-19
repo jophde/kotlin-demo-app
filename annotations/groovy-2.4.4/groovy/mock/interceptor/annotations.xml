@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='groovy.mock.interceptor.MockProxyMetaClass groovy.mock.interceptor.MockProxyMetaClass make(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.mock.interceptor.MockProxyMetaClass groovy.mock.interceptor.MockProxyMetaClass make(java.lang.Class, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

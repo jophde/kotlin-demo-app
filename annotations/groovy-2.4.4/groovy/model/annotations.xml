@@ -1,0 +1,25 @@
+<root>
+    <item
+        name='groovy.model.DefaultTableModel groovy.model.DefaultTableColumn addClosureColumn(java.lang.Object, groovy.lang.Closure, groovy.lang.Closure, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.model.DefaultTableModel groovy.model.DefaultTableColumn addColumn(java.lang.Object, groovy.model.ValueModel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.model.DefaultTableModel groovy.model.DefaultTableColumn addPropertyColumn(java.lang.Object, java.lang.String, java.lang.Class, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.model.DefaultTableModel void addColumn(groovy.model.DefaultTableColumn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.model.DefaultTableModel groovy.model.DefaultTableColumn addPropertyColumn(java.lang.Object, java.lang.String, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.model.DefaultTableModel groovy.model.DefaultTableColumn addColumn(java.lang.Object, java.lang.Object, groovy.model.ValueModel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

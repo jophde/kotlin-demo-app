@@ -1,0 +1,79 @@
+<root>
+    <item name='org.codehaus.groovy.tools.xml.DomToGroovy void print(org.w3c.dom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void printElement(org.w3c.dom.Element, java.util.Map, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void defineNamespace(java.util.Map, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void defineNamespace(java.util.Map, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy java.lang.String escapeQuote(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void printComment(org.w3c.dom.Comment, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void printText(org.w3c.dom.Text, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy boolean mixedContent(org.w3c.dom.NodeList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy java.lang.String getLocalName(org.w3c.dom.Node) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy boolean printAttributeWithoutPrefix(org.w3c.dom.Attr, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.xml.DomToGroovy void printQuoted(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void printPI(org.w3c.dom.ProcessingInstruction, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy boolean printAttributes(org.w3c.dom.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void printChildren(org.w3c.dom.Node, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy java.util.Map defineNamespaces(org.w3c.dom.Element, java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void printAttributeWithPrefix(org.w3c.dom.Attr, java.lang.StringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.xml.DomToGroovy void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy void print(org.w3c.dom.Node, java.util.Map, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy java.lang.String getAttributeValue(org.w3c.dom.Attr) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.xml.DomToGroovy java.lang.String getTextNodeData(org.w3c.dom.Text) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

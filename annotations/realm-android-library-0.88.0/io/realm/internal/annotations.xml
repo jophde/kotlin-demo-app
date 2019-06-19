@@ -1,0 +1,932 @@
+<root>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table boolean isMetaTable(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView java.util.Date getDate(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery isEmpty(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addColumn(io.realm.RealmFieldType, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView getSortedView(long, io.realm.Sort) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addColumn(io.realm.RealmFieldType, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.RealmFieldType getColumnType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery endGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableSchema io.realm.internal.TableSchema getSubtableSchema(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView.PivotType MIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableQuery where()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow get(io.realm.internal.Context, io.realm.internal.Table, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addColumnLink(io.realm.RealmFieldType, java.lang.String, io.realm.internal.Table) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllDate(long, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow getFromRow(io.realm.internal.UncheckedRow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.InvalidRow long getColumnIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableOrView.PivotType COUNT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.InvalidRow INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableQuery where()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery tableview(io.realm.internal.TableView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery isNotEmpty(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table java.util.Date getDate(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SubtableSchema void renameColumn(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView long findFirstString(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Util java.lang.Class&lt;? extends io.realm.RealmObject&gt; getOriginalModelClass(java.lang.Class&lt;? extends io.realm.RealmObject&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.RealmFieldType getColumnType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table METADATA_TABLE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addColumnLink(io.realm.RealmFieldType, java.lang.String, io.realm.internal.Table) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery isNotNull(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Group io.realm.internal.Table getTable(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Mixed io.realm.RealmFieldType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup SharedGroup(java.lang.String, io.realm.internal.SharedGroup.Durability, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long findFirstString(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow UncheckedRow(io.realm.internal.Context, io.realm.internal.Table, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_IOFailed'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_UnsupportedOperation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThan(long[], float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.Table pivot(long, long, io.realm.internal.TableOrView.PivotType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllDate(long, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThanOrEqual(long[], java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery subtable(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThanOrEqual(long[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow void setDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.Table pivot(long, long, io.realm.internal.TableOrView.PivotType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableView void sort(long, io.realm.Sort) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Version boolean hasFeature(io.realm.internal.Version.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row void setMixed(long, io.realm.internal.Mixed) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableView void setDate(long, long, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addColumnLink(io.realm.RealmFieldType, java.lang.String, io.realm.internal.Table) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_NoSuchField'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView getSortedView(long[], io.realm.Sort[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Group Group(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row long getColumnIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table long addColumn(io.realm.RealmFieldType, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row io.realm.RealmFieldType getMixedType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView getSortedView(long, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery group()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery tableview(io.realm.internal.TableView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllFloat(long, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_IllegalArgument'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Group io.realm.internal.Table getTable(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_RowInvalid'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableView findAll(long, long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllFloat(long, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView void sort(java.util.List&lt;java.lang.Long&gt;, io.realm.Sort[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllDouble(long, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util java.lang.Class&lt;? extends io.realm.RealmObject&gt; getOriginalModelClass(java.lang.Class&lt;? extends io.realm.RealmObject&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThanOrEqual(long[], java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow long getColumnIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThanOrEqual(long[], double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.NativeObjectReference NativeObjectReference(io.realm.internal.NativeObject, java.lang.ref.ReferenceQueue&lt;? super io.realm.internal.NativeObject&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.LinkView io.realm.internal.Table getTargetTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThan(long[], java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllString(long, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableView findAll()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.RealmProxyMediator void checkClass(java.lang.Class&lt;? extends io.realm.RealmObject&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup.VersionID int compareTo(io.realm.internal.SharedGroup.VersionID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_FileAccessError'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.Table getTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow get(io.realm.internal.Context, io.realm.internal.LinkView, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery boolean[] getNativeSortOrderValues(io.realm.Sort[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllLong(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView long findFirstDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery beginsWith(long[], java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long getColumnIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.CheckedRow getCheckedRow(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup io.realm.internal.ReadTransaction beginRead()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.InvalidRow void setDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.Table getSubtable(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_OutOfMemory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table void setMixed(long, long, io.realm.internal.Mixed) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow get(io.realm.internal.Context, io.realm.internal.LinkView, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.RealmFieldType getMixedType(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow getFromRow(io.realm.internal.UncheckedRow)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView long findFirstDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Version.Feature Feature_Debug'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery endsWith(long[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.Table pivot(long, long, io.realm.internal.TableOrView.PivotType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowPointer(io.realm.internal.Context, io.realm.internal.Table, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow java.util.Date getDate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllBoolean(long, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_FatalError'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SubtableSchema io.realm.internal.TableSchema getSubtableSchema(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table boolean hasSameSchema(io.realm.internal.Table) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery or()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableSchema void renameColumn(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.Table getSubtable(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery between(long[], java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableSchema getSubtableSchema(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.RealmProxyMediator io.realm.exceptions.RealmException getMissingProxyClassException(java.lang.Class&lt;? extends io.realm.RealmObject&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery not()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableQuery where()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.RealmProxyMediator E copyOrUpdate(io.realm.Realm, E, boolean, java.util.Map&lt;io.realm.RealmObject,io.realm.internal.RealmObjectProxy&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableView importHandoverTableView(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThanOrEqual(long[], double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableSpec io.realm.internal.TableSpec addSubtableColumn(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.CheckedRow convertToChecked()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addColumn(io.realm.RealmFieldType, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Mixed io.realm.internal.Mixed mixedValue(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.LinkView io.realm.internal.UncheckedRow getUncheckedRow(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_BadVersion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow get(io.realm.internal.Context, io.realm.internal.Table, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowIndex(io.realm.internal.Context, io.realm.internal.LinkView, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThanOrEqual(long[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup io.realm.internal.SharedGroup.VersionID getVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery endsWith(long[], java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_ClassNotFound'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroupManager SharedGroupManager(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView void setDate(long, long, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.RealmFieldType getMixedType(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery between(long[], double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table void renameColumn(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery contains(long[], java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row void setDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.LinkView LinkView(io.realm.internal.Context, io.realm.internal.Table, long, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery contains(long[], java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThanOrEqual(long[], java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery beginsWith(long[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery isNull(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row java.util.Date getDate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.UncheckedRow getUncheckedRowByPointer(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery endsWith(long[], java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_RuntimeError'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery between(long[], float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.Table pivot(long, long, io.realm.internal.TableOrView.PivotType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup io.realm.internal.ImplicitTransaction beginImplicitTransaction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.Table pivot(long, long, io.realm.internal.TableOrView.PivotType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.ColumnInfo long getValidColumnIndex(java.lang.String, io.realm.internal.Table, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThan(long[], float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowIndex(io.realm.internal.Context, io.realm.internal.Table, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView.PivotType MAX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableSpec void addColumn(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row EMPTY_ROW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.ImplicitTransaction void advanceRead(io.realm.internal.SharedGroup.VersionID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.UncheckedRow getUncheckedRow(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SubtableSchema io.realm.internal.SubtableSchema getSubtableSchema(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SubtableSchema long addColumn(io.realm.RealmFieldType, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table void setDate(long, long, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroupManager void advanceRead(io.realm.internal.SharedGroup.VersionID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Group Group(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllBoolean(long, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup.Durability FULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_TableInvalid'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery between(long[], long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView.PivotType SUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery endSubtable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView java.util.Date getDate(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long findFirstDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_EncryptionNotSupported'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.RealmFieldType getMixedType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThan(long[], double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SubtableSchema long addColumn(io.realm.RealmFieldType, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllLong(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery between(long[], java.util.Date, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThanOrEqual(long[], float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableSchema long addColumn(io.realm.RealmFieldType, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllString(long, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.InvalidRow void setMixed(long, io.realm.internal.Mixed) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllLong(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.LinkView io.realm.internal.TableQuery where()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_CrossTableLink'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllDate(long, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView getDistinctView(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.ColumnInfo long getValidColumnIndex(java.lang.String, io.realm.internal.Table, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Version.Feature Feature_Replication'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery between(long[], java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThan(long[], java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Group Group(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThanOrEqual(long[], java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableSchema long addColumn(io.realm.RealmFieldType, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.UncheckedRow void setMixed(long, io.realm.internal.Mixed) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllFloat(long, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow get(io.realm.internal.Context, io.realm.internal.LinkView, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Group void writeToFile(java.io.File, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long add(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery boolean[] getNativeSortOrderValues(io.realm.Sort[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.Table getTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableSpec void addColumn(io.realm.RealmFieldType, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.RealmProxyMediator E createDetachedCopy(E, int, java.util.Map&lt;io.realm.RealmObject,io.realm.internal.RealmObjectProxy.CacheData&lt;io.realm.RealmObject&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery long findAllSortedWithHandover(long, long, long, long, io.realm.Sort) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView.PivotType AVG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup.VersionID int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_FileNotFound'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView long findFirstString(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.LinkView getLinkList(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.LinkView io.realm.internal.CheckedRow getCheckedRow(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup.Durability MEM_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView void sort(java.util.List&lt;java.lang.Long&gt;, io.realm.Sort[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery equalTo(long[], float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView void setMixed(long, long, io.realm.internal.Mixed) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table io.realm.RealmFieldType getMixedType(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.Table getLinkTarget(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.CheckedRow io.realm.internal.CheckedRow get(io.realm.internal.Context, io.realm.internal.Table, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.Table pivot(long, long, io.realm.internal.TableOrView.PivotType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllString(long, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView void setMixed(long, long, io.realm.internal.Mixed) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery contains(long[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row io.realm.internal.LinkView getLinkList(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThanOrEqual(long[], float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThan(long[], double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThan(long[], java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery beginsWith(long[], java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThan(long[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView long getColumnIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.Table getSubtable(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.RealmFieldType getColumnType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_NoSuchMethod'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table java.util.Date minimumDate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowIndex(io.realm.internal.Context, io.realm.internal.Table, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow.UncheckedRowNativeObjectReference UncheckedRowNativeObjectReference(io.realm.internal.NativeObject, java.lang.ref.ReferenceQueue&lt;? super io.realm.internal.NativeObject&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowIndex(io.realm.internal.Context, io.realm.internal.LinkView, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView long getColumnIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Util.Testcase Exception_IndexOutOfBounds'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery lessThan(long[], java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery notEqualTo(long[], java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView findAllBoolean(long, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroupManager io.realm.internal.SharedGroup.VersionID getVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView void distinct(java.util.List&lt;java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery long findAllMultiSortedWithHandover(long, long, long, long[], io.realm.Sort[]) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowPointer(io.realm.internal.Context, io.realm.internal.Table, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowIndex(io.realm.internal.Context, io.realm.internal.LinkView, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Row io.realm.RealmFieldType getColumnType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllDouble(long, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.internal.UncheckedRow getByRowIndex(io.realm.internal.Context, io.realm.internal.Table, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableQuery io.realm.internal.TableQuery greaterThan(long[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.UncheckedRow io.realm.RealmFieldType getColumnType(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllDouble(long, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table STRING_DEFAULT_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Mixed Mixed(io.realm.RealmFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table long addEmptyRowWithPrimaryKey(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Mixed io.realm.internal.Mixed mixedValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView getSortedView(long[], io.realm.Sort[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableOrView io.realm.internal.TableView findAllDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.Table io.realm.internal.TableView getSortedView(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.SharedGroup io.realm.internal.WriteTransaction beginWrite()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.TableView io.realm.internal.TableView findAllDate(long, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.Table java.util.Date maximumDate(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

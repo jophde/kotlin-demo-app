@@ -1,0 +1,98 @@
+<root>
+    <item
+        name='groovyx.gpars.util.PAUtils groovy.lang.Closure&lt;T&gt; buildClosureForMaps(groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils groovy.lang.Closure&lt;T&gt; buildClosureForMaps(groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.lang.String[] createArray(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Map.Entry&lt;K,V&gt;[] createArray(java.util.Map&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Collection&lt;T&gt; createCollection(java.lang.Iterable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils groovy.lang.Closure&lt;T&gt; buildClosureForMapsWithIndex(groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Map&lt;K,V&gt; buildResultMap(java.util.Collection&lt;java.util.Map.Entry&lt;K,V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Collection&lt;T&gt; createCollection(java.util.Iterator&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.ASTUtils void addError(java.lang.String, org.codehaus.groovy.ast.ASTNode, org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.util.EnhancedRWLock void withWriteLock(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.util.PAUtils java.lang.String[] createArray(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Collection&lt;T&gt; createCollection(java.util.Iterator&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.AsyncFunASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Comparator&lt;java.lang.Object&gt; createComparator(groovy.lang.Closure&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils groovy.lang.Closure&lt;T&gt; buildClosureForMapsWithIndex(groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.util.EnhancedSemaphore void withSemaphore(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils void evaluateArguments(groovyx.gpars.scheduler.Pool, java.lang.Object[], int, java.util.List&lt;java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowVariable&lt;java.lang.Object&gt;, groovy.lang.Closure&lt;T&gt;, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils groovy.lang.Closure&lt;java.lang.Object&gt; createGroupByClosure(groovy.lang.Closure&lt;K&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.util.List&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.util.EnhancedRWLock void withReadLock(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.ASTUtils void addError(java.lang.String, org.codehaus.groovy.ast.ASTNode, org.codehaus.groovy.control.SourceUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils groovy.lang.Closure&lt;java.lang.Object&gt; createGroupByClosure(groovy.lang.Closure&lt;K&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.util.List&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Map&lt;K,V&gt; buildResultMap(java.util.Collection&lt;java.util.Map.Entry&lt;K,V&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Comparator&lt;java.lang.Object&gt; createComparator(groovy.lang.Closure&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Collection&lt;T&gt; createCollection(java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.util.PAUtils java.util.Map.Entry&lt;K,V&gt;[] createArray(java.util.Map&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

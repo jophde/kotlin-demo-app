@@ -1,0 +1,245 @@
+<root>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasClassName(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasPackage(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasClassName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasSchemeSpecificPart(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasData(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasFlags(int...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasEntry(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasEntry(java.lang.String, org.hamcrest.Matcher&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasCategories(org.hamcrest.Matcher&lt;? extends java.lang.Iterable&lt;? super java.lang.String&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasCategories(org.hamcrest.Matcher&lt;? extends java.lang.Iterable&lt;? super java.lang.String&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithValue(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasPackageName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasComponent(android.content.ComponentName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasCategories(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtraWithKey(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtraWithKey(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasClassName(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasComponent(org.hamcrest.Matcher&lt;android.content.ComponentName&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasFlags(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtra(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasData(org.hamcrest.Matcher&lt;android.net.Uri&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasData(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasScheme(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasHost(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasPath(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtra(java.lang.String, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasValue(org.hamcrest.Matcher&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasHost(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasPath(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithValue(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithValue(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasKey(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; anyIntent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtras(org.hamcrest.Matcher&lt;android.os.Bundle&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasPackageName(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasPackage(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithName(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasSchemeSpecificPart(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasShortClassName(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasValue(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasShortClassName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasAction(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; isInternal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasKey(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasType(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithName(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasPackage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasPackage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtraWithKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasEntry(java.lang.String, org.hamcrest.Matcher&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasEntry(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasPath(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasHost(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasType(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasSchemeSpecificPart(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasMyPackageName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtra(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasAction(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasParamWithValue(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasSchemeSpecificPart(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; toPackage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtras(org.hamcrest.Matcher&lt;android.os.Bundle&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasPackageName(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasFlag(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.ComponentNameMatchers org.hamcrest.Matcher&lt;android.content.ComponentName&gt; hasShortClassName(org.hamcrest.Matcher&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasComponent(org.hamcrest.Matcher&lt;android.content.ComponentName&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasEntry(java.lang.String, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasComponent(android.content.ComponentName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; toPackage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasScheme(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasValue(org.hamcrest.Matcher&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.BundleMatchers org.hamcrest.Matcher&lt;android.os.Bundle&gt; hasEntry(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasAction(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasExtra(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasComponent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasData(org.hamcrest.Matcher&lt;android.net.Uri&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.IntentMatchers org.hamcrest.Matcher&lt;android.content.Intent&gt; hasFlags(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.intent.matcher.UriMatchers org.hamcrest.Matcher&lt;android.net.Uri&gt; hasScheme(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

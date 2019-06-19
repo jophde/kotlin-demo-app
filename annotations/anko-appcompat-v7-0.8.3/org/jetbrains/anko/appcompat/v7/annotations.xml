@@ -1,0 +1,830 @@
+<root>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.Button,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SearchView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.Spinner,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.widget.Spinner,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.RatingBar tintedRatingBar(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.RatingBar,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.Button,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.RatingBar tintedRatingBar(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._Toolbar,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onClose(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.TextView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.RadioButton tintedRadioButton(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.RadioButton,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.__SearchView_OnSuggestionListener void onSuggestionClick(kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onClose(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.RadioButton&gt; getTINTED_RADIO_BUTTON()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckedTextView tintedCheckedTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckedTextView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat _LinearLayoutCompat(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.MultiAutoCompleteTextView tintedMultiAutoCompleteTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.MultiAutoCompleteTextView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SwitchCompat switchCompat(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SwitchCompat,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.appcompat.v7._LinearLayoutCompat&gt; getLINEAR_LAYOUT_COMPAT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onSearchClick(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.Button,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.widget.Spinner,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.AutoCompleteTextView&gt; getTINTED_AUTO_COMPLETE_TEXT_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, int, boolean, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._ActionMenuView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onQueryTextListener(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7.__SearchView_OnQueryTextListener,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SwitchCompat switchCompat(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SwitchCompat,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onSearchClick(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.__SearchView_OnSuggestionListener void onSuggestionSelect(kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SearchView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7PropertiesKt void setLogoResource(android.support.v7.widget.Toolbar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.RadioButton tintedRadioButton(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.RadioButton,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.EditText&gt; getTINTED_EDIT_TEXT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SearchView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onQueryTextFocusChange(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function2&lt;? super android.view.View,? super java.lang.Boolean,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.Button,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.RatingBar tintedRatingBar(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.RatingBar,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.EditText,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SearchView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.widget.Spinner,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.RadioButton tintedRadioButton(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.TextView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7ViewGroup INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onQueryTextFocusChange(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function2&lt;? super android.view.View,? super java.lang.Boolean,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._Toolbar,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.Spinner&gt; getTINTED_SPINNER()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._LinearLayoutCompat,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.CheckBox&gt; getTINTED_CHECK_BOX()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.MultiAutoCompleteTextView tintedMultiAutoCompleteTextView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7PropertiesKt void setNavigationContentDescriptionResource(android.support.v7.widget.Toolbar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView _ActionMenuView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._LinearLayoutCompat,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._LinearLayoutCompat,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, java.lang.CharSequence, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, int, boolean, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.TextView,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.EditText,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._ActionMenuView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7PropertiesKt void setSubtitleResource(android.support.v7.widget.Toolbar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._Toolbar,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.TextView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.app.ActionBar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, java.lang.CharSequence, boolean, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.Button&gt; getTINTED_BUTTON()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7LayoutsKt kotlin.jvm.functions.Function1 access$getDefaultInit$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.appcompat.v7._ActionMenuView&gt; getACTION_MENU_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.appcompat.v7._Toolbar&gt; getTOOLBAR()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.AutoCompleteTextView tintedAutoCompleteTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.AutoCompleteTextView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onMenuItemClick(android.support.v7.widget.ActionMenuView, kotlin.jvm.functions.Function1&lt;? super android.view.MenuItem,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.__SearchView_OnQueryTextListener void onQueryTextChange(kotlin.jvm.functions.Function1&lt;? super java.lang.String,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onMenuItemClick(android.support.v7.widget.Toolbar, kotlin.jvm.functions.Function1&lt;? super android.view.MenuItem,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SwitchCompat switchCompat(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.TextView,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SearchView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.widget.Spinner,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.TextView&gt; getTINTED_TEXT_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onSuggestionListener(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7.__SearchView_OnSuggestionListener,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.EditText,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.MultiAutoCompleteTextView tintedMultiAutoCompleteTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.MultiAutoCompleteTextView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onMenuItemClick(android.support.v7.widget.ActionMenuView, kotlin.jvm.functions.Function1&lt;? super android.view.MenuItem,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onMenuItemClick(android.support.v7.widget.Toolbar, kotlin.jvm.functions.Function1&lt;? super android.view.MenuItem,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar _Toolbar(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.EditText,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.AutoCompleteTextView tintedAutoCompleteTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.AutoCompleteTextView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.Button,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.EditText,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._ActionMenuView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onSuggestionListener(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7.__SearchView_OnSuggestionListener,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.TextView tintedTextView(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.TextView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.AutoCompleteTextView tintedAutoCompleteTextView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckedTextView tintedCheckedTextView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckedTextView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.RatingBar&gt; getTINTED_RATING_BAR()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.CheckedTextView&gt; getTINTED_CHECKED_TEXT_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.widget.MultiAutoCompleteTextView&gt; getTINTED_MULTI_AUTO_COMPLETE_TEXT_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._LinearLayoutCompat,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7PropertiesKt void setLogoDescriptionResource(android.support.v7.widget.Toolbar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ListenersKt void onQueryTextListener(android.support.v7.widget.SearchView, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7.__SearchView_OnQueryTextListener,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, int, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._LinearLayoutCompat,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._Toolbar,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._ActionMenuView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.__SearchView_OnQueryTextListener void onQueryTextSubmit(kotlin.jvm.functions.Function1&lt;? super java.lang.String,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._ActionMenuView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.Button,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._LinearLayoutCompat,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.widget.Spinner,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.support.v7.widget.LinearLayoutCompat.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.ActionMenuView actionMenuView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._ActionMenuView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7PropertiesKt void setNavigationIconResource(android.support.v7.widget.Toolbar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Button tintedButton(android.view.ViewManager, java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._Toolbar,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7PropertiesKt void setTitleResource(android.support.v7.widget.Toolbar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.EditText tintedEditText(android.view.ViewManager, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super android.widget.EditText,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._ActionMenuView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.SearchView searchView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.SearchView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.Spinner tintedSpinner(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar T lparams(T, android.support.v7.widget.Toolbar.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.Toolbar.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, java.lang.CharSequence, boolean, kotlin.jvm.functions.Function1&lt;? super android.widget.CheckBox,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v7.widget.SearchView&gt; getSEARCH_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.LinearLayoutCompat linearLayoutCompat(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckedTextView tintedCheckedTextView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7...Anko.Factories.AppcompatV7View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v7.widget.SwitchCompat&gt; getSWITCH_COMPAT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._LinearLayoutCompat, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.widget.CheckBox tintedCheckBox(android.view.ViewManager, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._Toolbar android.view.View lparams$default(org.jetbrains.anko.appcompat.v7._Toolbar, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._LinearLayoutCompat T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.LinearLayoutCompat.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatV7ViewsKt android.support.v7.widget.Toolbar toolbar(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.appcompat.v7._Toolbar,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7._ActionMenuView T lparams(T, android.support.v7.widget.ActionMenuView.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v7.widget.ActionMenuView.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

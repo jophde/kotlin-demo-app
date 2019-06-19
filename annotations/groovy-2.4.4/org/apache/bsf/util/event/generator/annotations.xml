@@ -1,0 +1,84 @@
+<root>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility short byteArrayToShort(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.Bytecode byte[] addRef(byte, byte[], short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility int byteArrayToInt(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.Bytecode byte[] addInteger(byte[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.Bytecode byte[] addUtf8(byte[], java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility byte[] addBytes(byte[], short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.ByteUtility long byteArrayToLong(byte[], byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.Bytecode byte[] addMethodRef(byte[], short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility long byteArrayToLong(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.Bytecode byte[] addNameAndType(byte[], short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.Bytecode byte[] addRef(byte, byte[], short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility byte[] addBytes(byte[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.ByteUtility long byteArrayToLong(byte[], byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.Bytecode byte[] addInterfaceMethodRef(byte[], short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility byte[] addBytes(byte[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.Bytecode byte[] addFieldRef(byte[], short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.Bytecode byte[] addString(byte[], short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.Bytecode byte[] addClass(byte[], short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility byte[] addBytes(byte[], byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility float byteArrayToFloat(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.ByteUtility double byteArrayToDouble(byte[], byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.event.generator.ByteUtility double byteArrayToDouble(byte[], byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.ByteUtility double byteArrayToDouble(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.event.generator.Bytecode byte[] addLong(byte[], long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

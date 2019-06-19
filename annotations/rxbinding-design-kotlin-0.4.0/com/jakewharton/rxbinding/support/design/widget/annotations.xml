@@ -1,0 +1,41 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTabLayoutKt rx.functions.Action1&lt;? super java.lang.Integer&gt; select(android.support.design.widget.TabLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxSwipeDismissBehaviorKt rx.Observable&lt;android.view.View&gt; dismisses(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayoutKt rx.functions.Action1&lt;? super java.lang.Integer&gt; hintRes(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayoutKt rx.functions.Action1&lt;? super java.lang.CharSequence&gt; error(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayoutKt rx.functions.Action1&lt;? super java.lang.Integer&gt; errorRes(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxSnackbarKt rx.Observable&lt;java.lang.Integer&gt; dismisses(android.support.design.widget.Snackbar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayoutKt rx.functions.Action1&lt;? super java.lang.CharSequence&gt; hint(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxNavigationViewKt rx.Observable&lt;android.view.MenuItem&gt; itemSelections(android.support.design.widget.NavigationView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayoutKt rx.functions.Action1&lt;? super java.lang.Boolean&gt; counterEnabled(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTabLayoutKt rx.Observable&lt;com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent&gt; selectionEvents(android.support.design.widget.TabLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayoutKt rx.functions.Action1&lt;? super java.lang.Integer&gt; counterMaxLength(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxAppBarLayoutKt rx.Observable&lt;java.lang.Integer&gt; offsetChanges(android.support.design.widget.AppBarLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTabLayoutKt rx.Observable&lt;android.support.design.widget.TabLayout.Tab&gt; selections(android.support.design.widget.TabLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

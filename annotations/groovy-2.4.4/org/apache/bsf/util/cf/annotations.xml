@@ -1,0 +1,11 @@
+<root>
+    <item name='org.apache.bsf.util.cf.CFDriver void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.cf.CodeFormatter DEFAULT_DELIM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.cf.CodeFormatter DEFAULT_S_DELIM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='groovyx.gpars.forkjoin.ForkJoinUtils T runForkJoin(jsr166y.ForkJoinPool, java.lang.Object...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.forkjoin.ForkJoinUtils T runForkJoin(jsr166y.ForkJoinPool, jsr166y.ForkJoinTask&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.forkjoin.ForkJoinUtils T runForkJoin(jsr166y.ForkJoinPool, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.forkjoin.AbstractForkJoinWorker void forkOffChild(groovyx.gpars.forkjoin.AbstractForkJoinWorker&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,29 @@
+<root>
+    <item name='okhttp3.internal.tls.RealTrustRootIndex java.security.cert.X509Certificate findByIssuerAndSignature(java.security.cert.X509Certificate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.internal.tls.TrustRootIndex java.security.cert.X509Certificate findByIssuerAndSignature(java.security.cert.X509Certificate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='okhttp3.internal.tls.RealTrustRootIndex RealTrustRootIndex(java.security.cert.X509Certificate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.internal.tls.OkHostnameVerifier INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.internal.tls.OkHostnameVerifier java.util.List&lt;java.lang.String&gt; allSubjectAltNames(java.security.cert.X509Certificate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='okhttp3.internal.tls.AndroidTrustRootIndex java.security.cert.X509Certificate findByIssuerAndSignature(java.security.cert.X509Certificate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='okhttp3.internal.tls.CertificateChainCleaner java.util.List&lt;java.security.cert.Certificate&gt; clean(java.util.List&lt;java.security.cert.Certificate&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

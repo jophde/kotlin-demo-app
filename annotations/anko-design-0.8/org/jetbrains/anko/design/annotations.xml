@@ -1,0 +1,1271 @@
+<root>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TabLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView FLOATING_ACTION_BUTTON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup TEXT_INPUT_LAYOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CollapsingToolbarLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout _TextInputLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.ScrimInsetsFrameLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.design._TextInputLayout&gt; getTEXT_INPUT_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TabLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TabLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TextInputLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView NAVIGATION_MENU_ITEM_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CoordinatorLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TextInputLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TabLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignListenersKt void onOffsetChanged(android.support.design.widget.AppBarLayout, kotlin.jvm.functions.Function2&lt;? super android.support.design.widget.AppBarLayout,? super java.lang.Integer,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._AppBarLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TextInputLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView NAVIGATION_MENU_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.FloatingActionButton floatingActionButton(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.FloatingActionButton,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignListenersKt void onOffsetChanged(android.support.design.widget.AppBarLayout, kotlin.jvm.functions.Function2&lt;? super android.support.design.widget.AppBarLayout,? super java.lang.Integer,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout _CoordinatorLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignView kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.design.internal.ScrimInsetsFrameLayout&gt; getSCRIM_INSETS_FRAME_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.__ViewGroup_OnHierarchyChangeListener void onChildViewAdded(kotlin.jvm.functions.Function2&lt;? super android.view.View,? super android.view.View,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.FloatingActionButton floatingActionButton(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.FloatingActionButton,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._AppBarLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.__TabLayout_OnTabSelectedListener void onTabReselected(kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.TabLayout.Tab,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignListenersKt void onTabSelectedListener(android.support.design.widget.TabLayout, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design.__TabLayout_OnTabSelectedListener,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuItemView navigationMenuItemView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuItemView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._AppBarLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TextInputLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout _CollapsingToolbarLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView NAVIGATION_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TextInputLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CoordinatorLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuItemView navigationMenuItemView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CoordinatorLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TabLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.ScrimInsetsFrameLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignView kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.design.internal.NavigationMenuView&gt; getNAVIGATION_MENU_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.NavigationView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.design._CollapsingToolbarLayout&gt; getCOLLAPSING_TOOLBAR_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignListenersKt void onTabSelectedListener(android.support.design.widget.TabLayout, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design.__TabLayout_OnTabSelectedListener,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CollapsingToolbarLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.design._TabLayout&gt; getTAB_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CoordinatorLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.ScrimInsetsFrameLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.NavigationView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design._AppBarLayout _AppBarLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup COLLAPSING_TOOLBAR_LAYOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.ScrimInsetsFrameLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.NavigationView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design._TabLayout _TabLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.design._CoordinatorLayout&gt; getCOORDINATOR_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CollapsingToolbarLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.NavigationView,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CollapsingToolbarLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, int, int, float, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CoordinatorLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.__TabLayout_OnTabSelectedListener void onTabSelected(kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.TabLayout.Tab,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CollapsingToolbarLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.support.design.widget.CoordinatorLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.NavigationView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignView kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.design.widget.NavigationView&gt; getNAVIGATION_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignView kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.design.internal.NavigationMenuItemView&gt; getNAVIGATION_MENU_ITEM_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TabLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._AppBarLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._AppBarLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, int, int, float, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TabLayout tabLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuItemView navigationMenuItemView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuItemView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.FloatingActionButton floatingActionButton(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup APP_BAR_LAYOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.TextInputLayout textInputLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._TextInputLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignListenersKt void onHierarchyChangeListener(android.support.design.widget.CoordinatorLayout, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design.__ViewGroup_OnHierarchyChangeListener,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.AppBarLayout appBarLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._AppBarLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.ScrimInsetsFrameLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.NavigationMenuView navigationMenuView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.NavigationMenuView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CoordinatorLayout coordinatorLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CoordinatorLayout,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout android.view.View lparams$default(org.jetbrains.anko.design._TabLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.__TabLayout_OnTabSelectedListener void onTabUnselected(kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.TabLayout.Tab,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup COORDINATOR_LAYOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.design.internal.ScrimInsetsFrameLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CollapsingToolbarLayout android.view.View lparams$default(org.jetbrains.anko.design._CollapsingToolbarLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignView SCRIM_INSETS_FRAME_LAYOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.internal.ScrimInsetsFrameLayout scrimInsetsFrameLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.LinearLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.CollapsingToolbarLayout collapsingToolbarLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design._CollapsingToolbarLayout,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout android.view.View lparams$default(org.jetbrains.anko.design._AppBarLayout, android.view.View, android.support.design.widget.AppBarLayout.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignListenersKt void onHierarchyChangeListener(android.support.design.widget.CoordinatorLayout, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.design.__ViewGroup_OnHierarchyChangeListener,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignView kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.design.widget.FloatingActionButton&gt; getFLOATING_ACTION_BUTTON()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup TAB_LAYOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.__ViewGroup_OnHierarchyChangeListener void onChildViewRemoved(kotlin.jvm.functions.Function2&lt;? super android.view.View,? super android.view.View,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout android.view.View lparams$default(org.jetbrains.anko.design._CoordinatorLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design...Anko.Factories.DesignViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.design._AppBarLayout&gt; getAPP_BAR_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design.DesignViewsKt android.support.design.widget.NavigationView navigationView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.NavigationView,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._CoordinatorLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.CoordinatorLayout.LayoutParams,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TabLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._TextInputLayout android.view.View lparams$default(org.jetbrains.anko.design._TextInputLayout, android.view.View, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.design._AppBarLayout T lparams(T, android.widget.LinearLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.design.widget.AppBarLayout.LayoutParams,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

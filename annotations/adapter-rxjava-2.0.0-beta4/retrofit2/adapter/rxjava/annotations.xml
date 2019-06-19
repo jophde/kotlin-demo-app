@@ -1,0 +1,23 @@
+<root>
+    <item name='retrofit2.adapter.rxjava.HttpException retrofit2.Response&lt;?&gt; response()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit2.adapter.rxjava.RxJavaCallAdapterFactory retrofit2.adapter.rxjava.RxJavaCallAdapterFactory create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit2.adapter.rxjava.Result retrofit2.adapter.rxjava.Result&lt;T&gt; error(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit2.adapter.rxjava.Result retrofit2.adapter.rxjava.Result&lt;T&gt; error(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit2.adapter.rxjava.HttpException HttpException(retrofit2.Response&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit2.adapter.rxjava.Result retrofit2.adapter.rxjava.Result&lt;T&gt; response(retrofit2.Response&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit2.adapter.rxjava.Result retrofit2.adapter.rxjava.Result&lt;T&gt; response(retrofit2.Response&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

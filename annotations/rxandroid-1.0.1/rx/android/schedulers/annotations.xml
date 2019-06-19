@@ -1,0 +1,16 @@
+<root>
+    <item
+        name='rx.android.schedulers.HandlerScheduler rx.android.schedulers.HandlerScheduler from(android.os.Handler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.schedulers.HandlerScheduler rx.Scheduler.Worker createWorker()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.android.schedulers.HandlerScheduler rx.android.schedulers.HandlerScheduler from(android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.schedulers.AndroidSchedulers rx.Scheduler mainThread()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

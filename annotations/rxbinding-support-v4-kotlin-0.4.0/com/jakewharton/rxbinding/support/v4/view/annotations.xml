@@ -1,0 +1,14 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.v4.view.RxMenuItemCompatKt rx.Observable&lt;com.jakewharton.rxbinding.view.MenuItemActionViewEvent&gt; actionViewEvents(android.view.MenuItem, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.view.MenuItemActionViewEvent,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.view.RxMenuItemCompatKt rx.Observable&lt;com.jakewharton.rxbinding.view.MenuItemActionViewEvent&gt; actionViewEvents(android.view.MenuItem, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.view.MenuItemActionViewEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.view.RxMenuItemCompatKt rx.Observable&lt;com.jakewharton.rxbinding.view.MenuItemActionViewEvent&gt; actionViewEvents(android.view.MenuItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.v4.view.RxViewPagerKt rx.Observable&lt;java.lang.Integer&gt; pageSelections(android.support.v4.view.ViewPager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

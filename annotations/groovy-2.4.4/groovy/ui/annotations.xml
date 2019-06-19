@@ -1,0 +1,11 @@
+<root>
+    <item name='groovy.ui.Console java.lang.String getDEFAULT_SCRIPT_NAME_START()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.Console java.lang.Object compileFinishNormal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.ConsoleSupport void addStylesToDocument(javax.swing.JTextPane) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

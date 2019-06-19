@@ -1,0 +1,11 @@
+<root>
+    <item name='org.apache.tools.bzip2.CBZip2OutputStream void write(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.bzip2.CBZip2InputStream int read(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.bzip2.BZip2Constants rNums'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

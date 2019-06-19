@@ -1,0 +1,218 @@
+<root>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshaller java.lang.String createReference(com.thoughtworks.xstream.io.path.Path, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceMarshaller.ReferencedImplicitElementException ReferencedImplicitElementException(java.lang.Object, com.thoughtworks.xstream.io.path.Path) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeUnmarshaller java.lang.Object convert(java.lang.Object, java.lang.Class, com.thoughtworks.xstream.converters.Converter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshaller void convertAnother(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshaller void convert(java.lang.Object, com.thoughtworks.xstream.converters.Converter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller java.lang.Object getReferenceKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshaller void convertAnother(java.lang.Object, com.thoughtworks.xstream.converters.Converter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceMarshaller void convert(java.lang.Object, com.thoughtworks.xstream.converters.Converter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshaller ReferenceByIdMarshaller(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper, com.thoughtworks.xstream.core.ReferenceByIdMarshaller.IDGenerator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathUnmarshaller ReferenceByXPathUnmarshaller(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceMarshaller.ReferencedImplicitElementException ReferencedImplicitElementException(java.lang.Object, com.thoughtworks.xstream.io.path.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathUnmarshaller java.lang.Object getReferenceKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.DefaultConverterLookup com.thoughtworks.xstream.converters.Converter lookupConverterForType(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathMarshaller java.lang.String createReference(com.thoughtworks.xstream.io.path.Path, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller java.lang.Object getReferenceKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdUnmarshaller java.lang.Object getReferenceKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshaller void convert(java.lang.Object, com.thoughtworks.xstream.converters.Converter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceMarshaller AbstractReferenceMarshaller(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller java.lang.Object convert(java.lang.Object, java.lang.Class, com.thoughtworks.xstream.converters.Converter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathMarshaller ReferenceByXPathMarshaller(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByXPathUnmarshaller java.lang.Object getReferenceKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshallingStrategy com.thoughtworks.xstream.core.TreeUnmarshaller createUnmarshallingContext(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceMarshaller void convert(java.lang.Object, com.thoughtworks.xstream.converters.Converter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.AbstractReferenceMarshaller java.lang.String createReference(com.thoughtworks.xstream.io.path.Path, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.ReferenceByIdMarshaller ReferenceByIdMarshaller(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.xstream.core.TreeMarshallingStrategy com.thoughtworks.xstream.core.TreeMarshaller createMarshallingContext(com.thoughtworks.xstream.io.HierarchicalStreamWriter, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

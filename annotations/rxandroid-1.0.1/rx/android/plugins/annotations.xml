@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='rx.android.plugins.RxAndroidPlugins rx.android.plugins.RxAndroidPlugins getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.android.plugins.RxAndroidSchedulersHook rx.android.plugins.RxAndroidSchedulersHook getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

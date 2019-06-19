@@ -1,0 +1,26 @@
+<root>
+    <item name='com.thoughtworks.xstream.security.AnyTypePermission ANY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.ArrayTypePermission ARRAYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.NoTypePermission NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.InterfaceTypePermission INTERFACES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.PrimitiveTypePermission PRIMITIVES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.NullPermission NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.CGLIBProxyTypePermission PROXIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.xstream.security.ProxyTypePermission PROXIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

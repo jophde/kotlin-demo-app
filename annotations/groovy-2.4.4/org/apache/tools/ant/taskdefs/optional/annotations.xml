@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.ANTLR void setOutputdirectory(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.ANTLR void setTarget(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

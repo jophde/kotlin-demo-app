@@ -1,0 +1,374 @@
+<root>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor boolean execute(org.multiverse.api.callables.TxnBooleanCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor E execute(org.multiverse.api.callables.TxnCallable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor int executeChecked(org.multiverse.api.callables.TxnIntCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock double execute(org.multiverse.api.callables.TxnDoubleCallable, org.multiverse.api.callables.TxnDoubleCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStmUtils org.multiverse.stms.gamma.transactions.GammaTxn asGammaTxn(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor int execute(org.multiverse.api.callables.TxnIntCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm globalConflictCounter'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.GammaTxnRefFactoryBuilder getTxRefFactoryBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaObjectPool void putListenersArray(org.multiverse.stms.gamma.Listeners[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.transactions.GammaTxn newDefaultTxn()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor long execute(org.multiverse.api.callables.TxnLongCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock void execute(org.multiverse.api.callables.TxnVoidCallable, org.multiverse.api.callables.TxnVoidCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm defaultConfig'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock long executeChecked(org.multiverse.api.callables.TxnLongCallable, org.multiverse.api.callables.TxnLongCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaObjectPool void putTranlocalArray(org.multiverse.stms.gamma.transactionalobjects.Tranlocal[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.GlobalConflictCounter getGlobalConflictCounter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor E executeChecked(org.multiverse.api.callables.TxnCallable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock boolean executeChecked(org.multiverse.api.callables.TxnBooleanCallable, org.multiverse.api.callables.TxnBooleanCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock void executeChecked(org.multiverse.api.callables.TxnVoidCallable, org.multiverse.api.callables.TxnVoidCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock E executeChecked(org.multiverse.api.callables.TxnCallable&lt;E&gt;, org.multiverse.api.callables.TxnCallable&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock int execute(org.multiverse.api.callables.TxnIntCallable, org.multiverse.api.callables.TxnIntCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor void executeChecked(org.multiverse.api.callables.TxnVoidCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.GammaTxnRefFactory getDefaultRefFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaObjectPool void putCallableNode(org.multiverse.stms.gamma.transactionalobjects.CallableNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor boolean executeChecked(org.multiverse.api.callables.TxnBooleanCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor long executeChecked(org.multiverse.api.callables.TxnLongCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm org.multiverse.api.OrElseBlock newOrElseBlock()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.ThreadLocalGammaObjectPool threadlocal'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm defaultOrElseBlock'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaTxnRefFactory org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean newTxnBoolean(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock double execute(org.multiverse.api.callables.TxnDoubleCallable, org.multiverse.api.callables.TxnDoubleCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.Listeners void openAll(org.multiverse.stms.gamma.GammaObjectPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor FatGammaTxnExecutor(org.multiverse.stms.gamma.transactions.GammaTxnFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaObjectPool void putListeners(org.multiverse.stms.gamma.Listeners) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaTxnRefFactory org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble newTxnDouble(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.multiverse.stms.gamma.AbstractGammaTxnExecutor txnFactory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock long executeChecked(org.multiverse.api.callables.TxnLongCallable, org.multiverse.api.callables.TxnLongCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.api.collections.TxnCollectionsFactory getDefaultTxnCollectionFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaObjectPool void putArrayList(java.util.ArrayList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.api.references.TxnRefFactoryBuilder getTxRefFactoryBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder newTxnFactoryBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock boolean executeChecked(org.multiverse.api.callables.TxnBooleanCallable, org.multiverse.api.callables.TxnBooleanCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaTxnRefFactoryBuilder org.multiverse.stms.gamma.GammaTxnRefFactory build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock E executeChecked(org.multiverse.api.callables.TxnCallable&lt;E&gt;, org.multiverse.api.callables.TxnCallable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.api.references.TxnRefFactory getDefaultRefFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor double execute(org.multiverse.api.callables.TxnDoubleCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock int execute(org.multiverse.api.callables.TxnIntCallable, org.multiverse.api.callables.TxnIntCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm defaultTransactionalCollectionFactory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaTxnRefFactory org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong newTxnLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor void executeChecked(org.multiverse.api.callables.TxnVoidCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor double executeChecked(org.multiverse.api.callables.TxnDoubleCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm defaultRefFactory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock boolean execute(org.multiverse.api.callables.TxnBooleanCallable, org.multiverse.api.callables.TxnBooleanCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock E execute(org.multiverse.api.callables.TxnCallable&lt;E&gt;, org.multiverse.api.callables.TxnCallable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock double executeChecked(org.multiverse.api.callables.TxnDoubleCallable, org.multiverse.api.callables.TxnDoubleCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock long execute(org.multiverse.api.callables.TxnLongCallable, org.multiverse.api.callables.TxnLongCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaObjectPool org.multiverse.stms.gamma.transactionalobjects.Tranlocal take(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaTxnRefFactory org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef&lt;E&gt; newTxnRef(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor int executeChecked(org.multiverse.api.callables.TxnIntCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.api.TxnFactoryBuilder newTxnFactoryBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.GammaStm createFast()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor LeanGammaTxnExecutor(org.multiverse.stms.gamma.transactions.GammaTxnFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor long execute(org.multiverse.api.callables.TxnLongCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor void execute(org.multiverse.api.callables.TxnVoidCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock int executeChecked(org.multiverse.api.callables.TxnIntCallable, org.multiverse.api.callables.TxnIntCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.AbstractGammaTxnExecutor AbstractGammaTxnExecutor(org.multiverse.stms.gamma.transactions.GammaTxnFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaObjectPool org.multiverse.stms.gamma.transactionalobjects.Tranlocal take(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm refFactoryBuilder'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaTxnRefFactory org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger newTxnInteger(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor int execute(org.multiverse.api.callables.TxnIntCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor boolean executeChecked(org.multiverse.api.callables.TxnBooleanCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor boolean execute(org.multiverse.api.callables.TxnBooleanCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor long executeChecked(org.multiverse.api.callables.TxnLongCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock void execute(org.multiverse.api.callables.TxnVoidCallable, org.multiverse.api.callables.TxnVoidCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock long execute(org.multiverse.api.callables.TxnLongCallable, org.multiverse.api.callables.TxnLongCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock double executeChecked(org.multiverse.api.callables.TxnDoubleCallable, org.multiverse.api.callables.TxnDoubleCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor double execute(org.multiverse.api.callables.TxnDoubleCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStmUtils org.multiverse.stms.gamma.transactions.GammaTxn getRequiredThreadLocalGammaTxn()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor E execute(org.multiverse.api.callables.TxnCallable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock boolean execute(org.multiverse.api.callables.TxnBooleanCallable, org.multiverse.api.callables.TxnBooleanCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock E execute(org.multiverse.api.callables.TxnCallable&lt;E&gt;, org.multiverse.api.callables.TxnCallable&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm GammaStm(org.multiverse.stms.gamma.GammaStmConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.LeanGammaTxnExecutor void execute(org.multiverse.api.callables.TxnVoidCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStm org.multiverse.stms.gamma.GammaOrElseBlock newOrElseBlock()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock void executeChecked(org.multiverse.api.callables.TxnVoidCallable, org.multiverse.api.callables.TxnVoidCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor double executeChecked(org.multiverse.api.callables.TxnDoubleCallable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaOrElseBlock int executeChecked(org.multiverse.api.callables.TxnIntCallable, org.multiverse.api.callables.TxnIntCallable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.GammaStmUtils org.multiverse.stms.gamma.transactions.GammaTxn asGammaTxn(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.FatGammaTxnExecutor E executeChecked(org.multiverse.api.callables.TxnCallable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.GammaStm org.multiverse.api.Txn newDefaultTxn()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

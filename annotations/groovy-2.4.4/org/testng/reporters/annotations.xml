@@ -1,0 +1,660 @@
+<root>
+    <item name='org.testng.reporters.XMLConstants ATTR_ERRORS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.Files void copyFile(java.io.InputStream, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants TESTSUITES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_PARAM_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; getSkippedConfigurationResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_FINISHED_AT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.VerboseReporter void onConfigurationFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_PARAMS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.VerboseReporter void onConfigurationSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLUtils void xmlRequired(org.testng.reporters.IBuffer, java.lang.String, java.lang.String, java.lang.String, java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.FailedReporter void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.Buffer org.testng.reporters.IBuffer create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitReportReporter void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitXMLReporter void onConfigurationSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; getFailedTestResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2 void writeReporterMessages(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLReporter void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.EmailableReporter2.TestResult RESULT_COMPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_IS_NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLStringBuffer void addComment(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLSuiteResultWriter void addTestMethodParams(org.testng.reporters.XMLStringBuffer, org.testng.ITestResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.EmailableReporter void endHtml(java.io.PrintWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_SHORT_STACKTRACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter METHODS_CHRONOLOGICAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_LINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitXMLReporter void onConfigurationFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.JUnitXMLReporter void onFinish(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter REPORTER_OUTPUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; getSkippedTestResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_IS_CONFIG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.SuiteResult SuiteResult(org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_SUITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.FailedReporter void onFinish(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.XMLReporter void addDurationAttributes(org.testng.reporters.XMLReporterConfig, java.util.Properties, java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_HOSTNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporter FILE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants SYSTEM_OUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitReportReporter java.lang.String getTestName(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void onTestSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_FAILURES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; getPassedTestResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_PARAM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants TESTCASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void log(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter void generateMethodDetailReport(java.util.List&lt;org.testng.ISuite&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter METHODS_NOT_RUN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void onTestFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_DURATION_MS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TEST_PASSED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter METHODS_ALPHABETICAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.FailedReporter void generateFailureSuite(org.testng.xml.XmlSuite, org.testng.ISuite, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLReporter void addDurationAttributes(org.testng.reporters.XMLReporterConfig, java.util.Properties, java.util.Date, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.TestHTMLReporter void onStart(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.DotTestListener void onTestFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_DEPENDS_ON_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter CLASSES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitXMLReporter void generateReport(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.JUnitXMLReporter void onTestSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void onStart(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; groupResults(java.util.Set&lt;org.testng.ITestResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter AFTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.JUnitXMLReporter void onTestFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TEST_SKIPPED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.DotTestListener void onTestSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_DATA_PROVIDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants PROPERTIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitXMLReporter void onTestFailedButWithinSuccessPercentage(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateTable(java.lang.StringBuffer, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.lang.String, java.util.Comparator&lt;org.testng.ITestResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; groupResults(java.util.Set&lt;org.testng.ITestResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.DotTestListener void onTestSkipped(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.FailedReporter void generateFailureSuite(org.testng.xml.XmlSuite, org.testng.ISuite, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLReporter void addDurationAttributes(org.testng.reporters.XMLReporterConfig, java.util.Properties, java.util.Date, java.util.Date) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter void generateSuiteSummaryReport(java.util.List&lt;org.testng.ISuite&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_METHOD_SIG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.SuiteResult java.util.List&lt;org.testng.reporters.EmailableReporter2.TestResult&gt; getTestResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.VerboseReporter void onTestFailedButWithinSuccessPercentage(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLSuiteResultWriter void writeSuiteResult(org.testng.reporters.XMLStringBuffer, org.testng.ISuiteResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.IBuffer org.testng.reporters.IBuffer append(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.JUnitXMLReporter void onTestSkipped(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter GROUPS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.FileStringBuffer org.testng.reporters.FileStringBuffer append(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void onTestSkipped(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter void generateMethodSummaryReport(java.util.List&lt;org.testng.ISuite&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitXMLReporter void beforeConfiguration(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLConstants SYSTEM_ERR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants TESTSUITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_TEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.lang.String formatGroups(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2 java.io.PrintWriter createWriter(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.FileStringBuffer org.testng.reporters.FileStringBuffer append(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter BEFORE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_REPORTER_OUTPUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLSuiteResultWriter void writeSuiteResult(org.testng.reporters.XMLStringBuffer, org.testng.ISuiteResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2 void writeStackTrace(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLUtils void xmlOpen(org.testng.reporters.IBuffer, java.lang.String, java.lang.String, java.util.Properties, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.FileStringBuffer org.testng.reporters.IBuffer append(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.IBuffer org.testng.reporters.IBuffer append(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_CLASSNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_GROUPS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.FileStringBuffer org.testng.reporters.IBuffer append(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult java.util.List&lt;org.testng.reporters.EmailableReporter2.ClassResult&gt; getFailedConfigurationResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_TESTNG_RESULTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_TESTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.SuiteHTMLReporter TESTNG_XML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.HtmlHelper java.io.File generateStylesheet(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateTable(java.lang.StringBuffer, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.lang.String, java.util.Comparator&lt;org.testng.ITestResult&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_DEPENDS_ON_GROUPS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.JUnitXMLReporter void onStart(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_GROUPS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.Files void writeFile(java.lang.String, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void onTestStart(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2 void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.TestHTMLReporter void generateLog(org.testng.ITestContext, java.lang.String, java.lang.String, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;, java.util.Collection&lt;org.testng.ITestResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_TEST_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter java.io.PrintWriter createWriter(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.TestHTMLReporter void onFinish(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.TextReporter void onFinish(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.XMLUtils void xmlClose(org.testng.reporters.IBuffer, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter void generateExceptionReport(java.lang.Throwable, org.testng.ITestNGMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_DESC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JqReporter void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.JUnitXMLReporter void onTestStart(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.reporters.VerboseReporter void onConfigurationSkip(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter void onFinish(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TEST_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.XMLUtils void xmlOpen(org.testng.reporters.IBuffer, java.lang.String, java.lang.String, java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.EmailableReporter void startHtml(java.io.PrintWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.EmailableReporter2.TestResult TestResult(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.VerboseReporter void beforeConfiguration(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_ATTRIBUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.VerboseReporter LISTENER_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.Files void copyFile(java.io.InputStream, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.SuiteHTMLReporter void generateReport(java.util.List&lt;org.testng.xml.XmlSuite&gt;, java.util.List&lt;org.testng.ISuite&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_STARTED_AT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig TAG_FULL_STACKTRACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitReportReporter java.lang.String getFileName(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.FailedReporter TESTNG_FAILED_XML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.reporters.JUnitXMLReporter void onConfigurationSkip(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.reporters.XMLReporterConfig ATTR_TEST_INSTANCE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.reporters.XMLConstants ATTR_TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,401 @@
+<root>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.MethodDescriptor MethodDescriptor(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyChangeSupport PropertyChangeSupport(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyEditorSupport PropertyEditorSupport(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate boolean mutatesTo(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyChangeListener void propertyChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Introspector com.googlecode.openbeans.BeanInfo getBeanInfo(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.VetoableChangeListenerProxy void vetoableChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.XMLEncoder void writeStatement(com.googlecode.openbeans.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler EventHandler(java.lang.Object, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate com.googlecode.openbeans.Expression instantiate(java.lang.Object, com.googlecode.openbeans.Encoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.IndexedPropertyDescriptor IndexedPropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.VetoableChangeSupport void fireVetoableChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Encoder void setPersistenceDelegate(java.lang.Class&lt;?&gt;, com.googlecode.openbeans.PersistenceDelegate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.openbeans.Introspector java.lang.String[] getBeanInfoSearchPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Beans java.lang.Object instantiate(java.lang.ClassLoader, java.lang.String, com.googlecode.openbeans.beancontext.BeanContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Introspector com.googlecode.openbeans.BeanInfo getBeanInfo(java.lang.Class&lt;?&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyDescriptor PropertyDescriptor(java.lang.String, java.lang.reflect.Method, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyEditorManager com.googlecode.openbeans.PropertyEditor findEditor(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Encoder com.googlecode.openbeans.PersistenceDelegate getPersistenceDelegate(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyDescriptor PropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.IndexedPropertyDescriptor IndexedPropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyDescriptor PropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate void writeObject(java.lang.Object, com.googlecode.openbeans.Encoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.IndexedPropertyDescriptor IndexedPropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Encoder void setPersistenceDelegate(java.lang.Class&lt;?&gt;, com.googlecode.openbeans.PersistenceDelegate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate com.googlecode.openbeans.Expression instantiate(java.lang.Object, com.googlecode.openbeans.Encoder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.openbeans.BeanDescriptor BeanDescriptor(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.ExceptionListener void exceptionThrown(java.lang.Exception) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.VetoableChangeSupport VetoableChangeSupport(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Introspector com.googlecode.openbeans.BeanInfo getBeanInfo(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Encoder void writeExpression(com.googlecode.openbeans.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.XMLEncoder void writeExpression(com.googlecode.openbeans.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.openbeans.DesignMode PROPERTYNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyChangeSupport void firePropertyChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.openbeans.PropertyEditor void setAsText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyEditorManager void registerEditor(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate com.googlecode.openbeans.Expression instantiate(java.lang.Object, com.googlecode.openbeans.Encoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyChangeListenerProxy void propertyChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyDescriptor PropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.IndexedPropertyDescriptor IndexedPropertyDescriptor(java.lang.String, java.lang.reflect.Method, java.lang.reflect.Method, java.lang.reflect.Method, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.MethodDescriptor MethodDescriptor(java.lang.reflect.Method, com.googlecode.openbeans.ParameterDescriptor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.IndexedPropertyDescriptor IndexedPropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.BeanDescriptor BeanDescriptor(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Beans boolean isInstanceOf(java.lang.Object, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PropertyDescriptor PropertyDescriptor(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate void writeObject(java.lang.Object, com.googlecode.openbeans.Encoder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.FeatureDescriptor void setValue(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.openbeans.PropertyEditorSupport void setAsText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.PersistenceDelegate boolean mutatesTo(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler T create(java.lang.Class&lt;T&gt;, java.lang.Object, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String[], java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Beans java.lang.Object instantiate(java.lang.ClassLoader, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Encoder void writeStatement(com.googlecode.openbeans.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Introspector void flushFromCaches(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.VetoableChangeListener void vetoableChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.Beans java.lang.Object instantiate(java.lang.ClassLoader, java.lang.String, com.googlecode.openbeans.beancontext.BeanContext, com.googlecode.openbeans.AppletInitializer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventHandler EventHandler(java.lang.Object, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.FeatureDescriptor void setValue(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.DefaultPersistenceDelegate void initialize(java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Object, com.googlecode.openbeans.Encoder) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.EventSetDescriptor EventSetDescriptor(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator setThrowExceptionForErrors(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator setResultDescriptor(com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator setSuppressingResultMatcher(org.hamcrest.Matcher&lt;? super com.google.android.apps.common.testing.accessibility.framework.AccessibilityViewCheckResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator com.google.android.apps.common.testing.accessibility.framework.integrations.espresso.AccessibilityValidator setRunChecksFromRootView(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

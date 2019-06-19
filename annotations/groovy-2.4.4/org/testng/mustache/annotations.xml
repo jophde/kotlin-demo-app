@@ -1,0 +1,9 @@
+<root>
+    <item name='org.testng.mustache.Model org.testng.mustache.Value resolveValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.mustache.Mustache java.lang.String run(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

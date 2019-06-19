@@ -1,0 +1,91 @@
+<root>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_11'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_21'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_13'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_23'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_15'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.actions.cpp.ActionLexer void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_25'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_17'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_19'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_20'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_22'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_24'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_26'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_14'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_16'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_18'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.actions.cpp.ActionLexer _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

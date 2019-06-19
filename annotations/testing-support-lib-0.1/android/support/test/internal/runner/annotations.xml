@@ -1,0 +1,41 @@
+<root>
+    <item name='android.support.test.internal.runner.TestRequestBuilder SMALL_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.internal.runner.ClassPathScanner.ClassNameFilter boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.internal.runner.TestRequestBuilder MEDIUM_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.internal.runner.ClassPathScanner.ExternalClassNameFilter boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.internal.runner.ClassPathScanner.ExcludePackageNameFilter boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.internal.runner.ClassPathScanner.ChainedClassNameFilter boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.internal.runner.ClassPathScanner.InclusivePackageNameFilter boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.internal.runner.TestRequestBuilder android.support.test.internal.runner.TestRequest build(android.app.Instrumentation, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.internal.runner.ClassPathScanner.AcceptAllFilter boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.internal.runner.TestRequestBuilder LARGE_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

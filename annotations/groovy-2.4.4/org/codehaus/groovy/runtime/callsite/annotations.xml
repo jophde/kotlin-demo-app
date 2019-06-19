@@ -1,0 +1,856 @@
+<root>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteClassLoader CallSiteClassLoader(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genStaticMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite org.codehaus.groovy.runtime.callsite.CallSite createGetPropertySite(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaClassSite java.lang.Object callCurrent(groovy.lang.GroovyObject, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite AbstractCallSite(org.codehaus.groovy.runtime.callsite.CallSite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PerInstancePojoMetaClassSite PerInstancePojoMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, org.codehaus.groovy.reflection.ClassInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrapNoCoerce PogoMetaMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite java.lang.Object callCurrent(groovy.lang.GroovyObject, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorMetaMethodSite ConstructorMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePojoPropertySite GetEffectivePojoPropertySite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrapNoCoerce PogoCachedMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteAwareMetaMethod org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrap PojoMetaMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator void genCallWithFixedParams(groovyjarjarasm.asm.ClassWriter, java.lang.String, java.lang.String, org.codehaus.groovy.reflection.CachedMethod, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSite PojoCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteAwareMetaMethod org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite org.codehaus.groovy.runtime.callsite.CallSite acceptGetProperty(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrap StaticMetaMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[], java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaClassGetPropertySite org.codehaus.groovy.runtime.callsite.CallSite acceptGetProperty(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSite PogoCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrapNoCoerce PogoCachedMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genStaticMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaClassGetPropertySite PogoMetaClassGetPropertySite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaClassSite StaticMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite org.codehaus.groovy.runtime.callsite.CallSite createGroovyObjectGetPropertySite(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.ConstructorSiteNoUnwrap ConstructorSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.MetaMethodSite MetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite org.codehaus.groovy.runtime.callsite.CallSite createGroovyObjectGetPropertySite(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePogoFieldSite GetEffectivePogoFieldSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass, org.codehaus.groovy.reflection.CachedField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrap PojoMetaMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePogoFieldSite org.codehaus.groovy.runtime.callsite.CallSite acceptGroovyObjectGetProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteArray java.lang.Object defaultCallStatic(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Class, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.MetaClassConstructorSite MetaClassConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSite PojoCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSite PogoCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrap StaticMetaMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrapNoCoerce PogoCachedMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrap PogoMetaMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoInterceptableSite PogoInterceptableSite(org.codehaus.groovy.runtime.callsite.CallSite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaClassSite StaticMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite PojoMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite ConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genPogoMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite org.codehaus.groovy.runtime.callsite.CallSite acceptGroovyObjectGetProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.ConstructorSiteNoUnwrap ConstructorSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator java.lang.reflect.Constructor compilePogoMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSite PojoCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.MetaClassConstructorSite MetaClassConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite java.lang.Object callCurrent(groovy.lang.GroovyObject, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaClassGetPropertySite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite ConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createPogoMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite PojoMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genPogoMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genPojoMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePojoPropertySite GetEffectivePojoPropertySite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genPojoMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSite java.lang.Object callCurrent(groovy.lang.GroovyObject, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.NullCallSite NullCallSite(org.codehaus.groovy.runtime.callsite.CallSite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.runtime.callsite.CallSiteArray array'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteAwareMetaMethod org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePogoFieldSite GetEffectivePogoFieldSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass, org.codehaus.groovy.reflection.CachedField) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoInterceptableSite java.lang.Object callCurrent(groovy.lang.GroovyObject, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite PogoMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrapNoCoerce PojoCachedMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite org.codehaus.groovy.runtime.callsite.ConstructorSite createConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[], java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createNonAwareCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrap PogoCachedMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genPogoMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite java.lang.Object callCurrent(groovy.lang.GroovyObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite org.codehaus.groovy.runtime.callsite.ConstructorSite createConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[], java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrap PojoCachedMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrapNoCoerce PojoMetaMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genPojoMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaClassSite PogoMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteArray java.lang.Object defaultCallCurrent(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.GroovyObject, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorMetaClassSite ConstructorMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.NoParamSite NoParamSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrapNoCoerce PojoCachedMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrap PogoCachedMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator void genCallXxxWithArray(groovyjarjarasm.asm.ClassWriter, java.lang.String, java.lang.String, org.codehaus.groovy.reflection.CachedMethod, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrap PogoMetaMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite org.codehaus.groovy.runtime.callsite.ConstructorSite createConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[], java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite PogoMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createNonAwareCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteArray java.lang.Object defaultCall(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[], java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoGetPropertySite org.codehaus.groovy.runtime.callsite.CallSite acceptGroovyObjectGetProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoMetaMethodSiteNoUnwrapNoCoerce PojoMetaMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.BooleanClosureWrapper BooleanClosureWrapper(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaClassGetPropertySite org.codehaus.groovy.runtime.callsite.CallSite acceptGroovyObjectGetProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createPojoMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.ConstructorSiteNoUnwrapNoCoerce ConstructorSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteArray CallSiteArray(java.lang.Class, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePojoPropertySite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite org.codehaus.groovy.runtime.callsite.CallSite acceptGroovyObjectGetProperty(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite org.codehaus.groovy.runtime.callsite.ConstructorSite createConstructorSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[], java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.NullCallSite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator java.lang.reflect.Constructor compileStaticMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator java.lang.reflect.Constructor compilePojoMethod(org.codehaus.groovy.reflection.CachedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaClassSite PojoMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite StaticMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator void genCallXxxWithArray(groovyjarjarasm.asm.ClassWriter, java.lang.String, java.lang.String, org.codehaus.groovy.reflection.CachedMethod, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrapNoCoerce StaticMetaMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoInterceptableSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteArray java.lang.Object defaultCallConstructor(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrap PojoCachedMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrapNoCoerce PojoCachedMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSite PogoCachedMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.AbstractCallSite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.ConstructorSiteNoUnwrapNoCoerce ConstructorSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaClassGetPropertySite PojoMetaClassGetPropertySite(org.codehaus.groovy.runtime.callsite.CallSite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.GetEffectivePogoFieldSite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoGetPropertySite PogoGetPropertySite(org.codehaus.groovy.runtime.callsite.CallSite, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrapNoCoerce java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.NoParamSiteInnerClass NoParamSiteInnerClass(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.MetaClassSite MetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrap java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.runtime.callsite.CallSiteArray NOPARAM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaClassGetPropertySite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteGenerator byte[] genStaticMetaMethodSite(org.codehaus.groovy.reflection.CachedMethod, groovyjarjarasm.asm.ClassWriter, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite.StaticMetaMethodSiteNoUnwrapNoCoerce StaticMetaMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite StaticMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteAwareMetaMethod org.codehaus.groovy.runtime.callsite.CallSite createPojoCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object, java.lang.Object[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaClassSite PojoMetaClassSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoCachedMethodSiteNoUnwrap PogoCachedMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createNonAwareCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.PogoMetaMethodSiteNoUnwrapNoCoerce PogoMetaMethodSiteNoUnwrapNoCoerce(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSiteNoUnwrap PojoCachedMethodSiteNoUnwrap(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorMetaMethodSite ConstructorMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createNonAwareCallSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSiteArray java.lang.Object defaultCallCurrent(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.GroovyObject, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.StaticMetaMethodSite org.codehaus.groovy.runtime.callsite.CallSite createStaticMetaMethodSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, groovy.lang.MetaMethod, java.lang.Class[], java.lang.Object[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.PojoCachedMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite java.lang.Object invoke(java.lang.Object, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.CallSite java.lang.Object callCurrent(groovy.lang.GroovyObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.PogoGetPropertySite java.lang.Object getProperty(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.NoParamSiteInnerClass NoParamSiteInnerClass(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.callsite.ConstructorSite.NoParamSite NoParamSite(org.codehaus.groovy.runtime.callsite.CallSite, groovy.lang.MetaClassImpl, org.codehaus.groovy.reflection.CachedConstructor, java.lang.Class[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

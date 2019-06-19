@@ -1,0 +1,330 @@
+<root>
+    <item
+        name='com.thoughtworks.qdox.model.DocletTagFactory com.thoughtworks.qdox.model.DocletTag createDocletTag(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethodDelegate com.thoughtworks.qdox.model.Type[] getParameterTypes(boolean, com.thoughtworks.qdox.model.JavaClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder void addMethod(com.thoughtworks.qdox.parser.structs.MethodDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.Annotation java.util.Map getNamedParameterMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethodDelegate boolean signatureMatches(java.lang.String, com.thoughtworks.qdox.model.Type[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaSource void addClass(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaClass int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass com.thoughtworks.qdox.model.JavaClass getInnerClassByName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod void writeBody(com.thoughtworks.qdox.model.IndentBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type createUnresolved(com.thoughtworks.qdox.parser.structs.TypeDef, int, com.thoughtworks.qdox.model.JavaClassParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethodDelegate com.thoughtworks.qdox.model.Type[] getParameterTypes(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.Type EMPTY_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaSource java.io.File getFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.DocletTagFactory com.thoughtworks.qdox.model.DocletTag createDocletTag(java.lang.String, java.lang.String, com.thoughtworks.qdox.model.AbstractBaseJavaEntity, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type createUnresolved(com.thoughtworks.qdox.parser.structs.TypeDef, int, com.thoughtworks.qdox.model.JavaClassParent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type int getTypeVariableIndex(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaParameter boolean equals(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type createUnresolved(com.thoughtworks.qdox.parser.structs.TypeDef, com.thoughtworks.qdox.model.JavaClassParent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethodDelegate com.thoughtworks.qdox.model.Type[] getParameterTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.DefaultDocletTagFactory com.thoughtworks.qdox.model.DocletTag createDocletTag(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.AbstractJavaEntity void writeBody(com.thoughtworks.qdox.model.IndentBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type resolve(com.thoughtworks.qdox.model.JavaClass, com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaMethod int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod void addParameter(com.thoughtworks.qdox.model.JavaParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type java.lang.String getResolvedValue(com.thoughtworks.qdox.model.TypeVariable[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.TypeVariable com.thoughtworks.qdox.model.TypeVariable createUnresolved(com.thoughtworks.qdox.parser.structs.TypeVariableDef, com.thoughtworks.qdox.model.JavaClassParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type createUnresolved(com.thoughtworks.qdox.parser.structs.TypeDef, com.thoughtworks.qdox.model.JavaClassParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass void addClass(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaField int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass com.thoughtworks.qdox.model.JavaClass getNestedClassByName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.TypeVariable EMPTY_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.DefaultDocletTagFactory com.thoughtworks.qdox.model.DocletTag createDocletTag(java.lang.String, java.lang.String, com.thoughtworks.qdox.model.AbstractBaseJavaEntity, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod boolean signatureMatches(java.lang.String, com.thoughtworks.qdox.model.Type[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod boolean signatureMatches(java.lang.String, com.thoughtworks.qdox.model.Type[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type resolve(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod void writeBody(com.thoughtworks.qdox.model.IndentBuffer, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod com.thoughtworks.qdox.model.Type[] getParameterTypes(boolean, com.thoughtworks.qdox.model.JavaClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.Annotation java.lang.Object getParameterValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder void endMethod(com.thoughtworks.qdox.parser.structs.MethodDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type Type(java.lang.String, com.thoughtworks.qdox.parser.structs.TypeDef, int, com.thoughtworks.qdox.model.JavaClassParent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.AbstractJavaEntity void setTags(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type com.thoughtworks.qdox.model.Type createUnresolved(java.lang.String, int, com.thoughtworks.qdox.model.JavaClassParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaParameter EMPTY_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaSource com.thoughtworks.qdox.model.JavaSource getParentSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass com.thoughtworks.qdox.model.JavaClass[] getImplementedInterfaces()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClassParent void addClass(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod com.thoughtworks.qdox.model.Type[] getParameterTypes(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.Type VOID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaMethodDelegate void setTags(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Annotation void setProperty(java.lang.String, com.thoughtworks.qdox.model.annotation.AnnotationValue) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.WildcardType WildcardType(com.thoughtworks.qdox.parser.structs.WildcardTypeDef, com.thoughtworks.qdox.model.JavaClassParent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass void setJavaClassContext(com.thoughtworks.qdox.JavaClassContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder void addField(com.thoughtworks.qdox.parser.structs.FieldDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClassParent com.thoughtworks.qdox.model.JavaSource getParentSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethod com.thoughtworks.qdox.model.Type[] getParameterTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass void writeBody(com.thoughtworks.qdox.model.IndentBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder void beginClass(com.thoughtworks.qdox.parser.structs.ClassDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaPackage void addClass(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder void addPackage(com.thoughtworks.qdox.parser.structs.PackageDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder com.thoughtworks.qdox.model.JavaSource getSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Annotation java.lang.Object accept(com.thoughtworks.qdox.model.annotation.AnnotationVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClassParent com.thoughtworks.qdox.model.JavaClass getNestedClassByName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaSource void setFile(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type java.lang.String getGenericValue(com.thoughtworks.qdox.model.TypeVariable[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.Type java.lang.String getResolvedGenericValue(com.thoughtworks.qdox.model.TypeVariable[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass boolean isA(com.thoughtworks.qdox.model.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass void addField(com.thoughtworks.qdox.model.JavaField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaClass void addMethod(com.thoughtworks.qdox.model.JavaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.TypeVariable com.thoughtworks.qdox.model.TypeVariable createUnresolved(com.thoughtworks.qdox.parser.structs.TypeVariableDef, com.thoughtworks.qdox.model.JavaClassParent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.JavaMethodDelegate int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.ModelBuilder void addParameter(com.thoughtworks.qdox.parser.structs.FieldDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.WildcardType WildcardType(com.thoughtworks.qdox.parser.structs.WildcardTypeDef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethodDelegate boolean signatureMatches(java.lang.String, com.thoughtworks.qdox.model.Type[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.thoughtworks.qdox.model.Annotation java.util.Map getPropertyMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaSource com.thoughtworks.qdox.model.JavaClass getNestedClassByName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaField void writeBody(com.thoughtworks.qdox.model.IndentBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.JavaMethodDelegate void addParameter(com.thoughtworks.qdox.model.JavaParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.model.TypeVariable TypeVariable(java.lang.String, com.thoughtworks.qdox.parser.structs.TypeVariableDef, com.thoughtworks.qdox.model.JavaClassParent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

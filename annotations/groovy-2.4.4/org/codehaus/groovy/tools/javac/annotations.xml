@@ -1,0 +1,94 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareCompilationUnit JavaAwareCompilationUnit(org.codehaus.groovy.control.CompilerConfiguration, groovy.lang.GroovyClassLoader, groovy.lang.GroovyClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaCompilerFactory org.codehaus.groovy.tools.javac.JavaCompiler createCompiler(org.codehaus.groovy.control.CompilerConfiguration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubGenerator void generateClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubCompilationUnit JavaStubCompilationUnit(org.codehaus.groovy.control.CompilerConfiguration, groovy.lang.GroovyClassLoader, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareResolveVisitor void addError(java.lang.String, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareResolveVisitor void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaCompiler void compile(java.util.List&lt;java.lang.String&gt;, org.codehaus.groovy.control.CompilationUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareCompilationUnit JavaAwareCompilationUnit(org.codehaus.groovy.control.CompilerConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubCompilationUnit JavaStubCompilationUnit(org.codehaus.groovy.control.CompilerConfiguration, groovy.lang.GroovyClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavacJavaCompiler void compile(java.util.List&lt;java.lang.String&gt;, org.codehaus.groovy.control.CompilationUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareCompilationUnit void addSources(java.io.File[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubGenerator JavaStubGenerator(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubCompilationUnit org.codehaus.groovy.control.SourceUnit addSource(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareCompilationUnit JavaAwareCompilationUnit(org.codehaus.groovy.control.CompilerConfiguration, groovy.lang.GroovyClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubGenerator JavaStubGenerator(java.io.File, boolean, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavacCompilerFactory org.codehaus.groovy.tools.javac.JavaCompiler createCompiler(org.codehaus.groovy.control.CompilerConfiguration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubCompilationUnit void configure(org.codehaus.groovy.control.CompilerConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaStubCompilationUnit org.codehaus.groovy.control.SourceUnit addSource(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareCompilationUnit void addSources(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.javac.JavaAwareCompilationUnit void configure(org.codehaus.groovy.control.CompilerConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

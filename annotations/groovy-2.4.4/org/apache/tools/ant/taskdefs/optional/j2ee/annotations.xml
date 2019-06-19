@@ -1,0 +1,56 @@
+<root>
+    <item name='org.apache.tools.ant.taskdefs.optional.j2ee.HotDeploymentTool ACTION_DELETE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.AbstractHotDeploymentTool org.apache.tools.ant.types.Path createClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.j2ee.HotDeploymentTool ACTION_UPDATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.AbstractHotDeploymentTool org.apache.tools.ant.types.Path getClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.GenericHotDeploymentTool org.apache.tools.ant.types.Commandline.Argument createJvmarg()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.j2ee.HotDeploymentTool ACTION_UNDEPLOY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.ServerDeploy void addJonas(org.apache.tools.ant.taskdefs.optional.j2ee.JonasHotDeploymentTool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.j2ee.HotDeploymentTool ACTION_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.j2ee.JonasHotDeploymentTool DEFAULT_ORB'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.ServerDeploy void addGeneric(org.apache.tools.ant.taskdefs.optional.j2ee.GenericHotDeploymentTool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.j2ee.HotDeploymentTool ACTION_DEPLOY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.ServerDeploy void addWeblogic(org.apache.tools.ant.taskdefs.optional.j2ee.WebLogicHotDeploymentTool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.GenericHotDeploymentTool org.apache.tools.ant.types.Commandline.Argument createArg()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.j2ee.JonasHotDeploymentTool org.apache.tools.ant.types.Path getClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

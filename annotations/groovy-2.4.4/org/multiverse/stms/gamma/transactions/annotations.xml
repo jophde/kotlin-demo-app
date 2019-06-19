@@ -1,0 +1,598 @@
+<root>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortCommuteOnCommuteDetected(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortLocateOnBadStatus(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortRetryOnBadStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortOpenForConstructionOnBadStatus(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setReadTrackingEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setBackoffPolicy(org.multiverse.api.BackoffPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.ReadonlyException abortOpenForConstructionOnReadonly(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.ReadonlyException abortOpenForWriteOnReadonly(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig addPermanentListener(org.multiverse.api.lifecycle.TxnListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setTimeoutNs(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortOpenForReadOnNonRefTypeDetected(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortPrepareOnBadStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortOnRichmanConflictScanDetected()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setBackoffPolicy(org.multiverse.api.BackoffPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig addPermanentListener(org.multiverse.api.lifecycle.TxnListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setReadLockMode(org.multiverse.api.LockMode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.TxnExecutionException abortOnOpenForConstructionWhileEvaluatingCommute(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setReadonly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setMaxRetries(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setPropagationLevel(org.multiverse.api.PropagationLevel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.TxnExecutionException abortOnOpenForReadWhileEvaluatingCommute(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setFat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn void copyForSpeculativeFailure(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.RetryError newRetryError()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setFat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortRegisterOnListenerRequired()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.GammaTxn retryListener'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setPropagationLevel(org.multiverse.api.PropagationLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithConstructedObjects()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setTraceLevel(org.multiverse.api.TraceLevel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setInterruptible(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.StmMismatchException abortOpenForReadOnBadStm(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.TxnExecutionException abortOnOpenForCommuteWhileEvaluatingCommute(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithEnsure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setPropagationLevel(org.multiverse.api.PropagationLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setIsolationLevel(org.multiverse.api.IsolationLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortOpenForReadOnBadStatus(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setReadLockMode(org.multiverse.api.LockMode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setSpeculative(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithRichMansConflictScan()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortCommitOnBadStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortCommuteOnBadStatus(org.multiverse.stms.gamma.transactionalobjects.GammaObject, org.multiverse.api.functions.Function)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.TxnStatus getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setTraceLevel(org.multiverse.api.TraceLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithMinimalLength(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.StmMismatchException abortOpenForConstructionOnBadStm(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setReadLockMode(org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.StmMismatchException abortCommuteOnBadStm(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig init()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig GammaTxnConfig(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortOnTransactionTooSmall(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setSpinCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.RetryNotAllowedException abortRetryOnNoBlockingAllowed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn void init(org.multiverse.stms.gamma.transactions.GammaTxnConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setIsolationLevel(org.multiverse.api.IsolationLevel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactory newTransactionFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setFamilyName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setSpeculative(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig GammaTxnConfig(org.multiverse.stms.gamma.GammaStm, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setWriteLockMode(org.multiverse.api.LockMode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setReadonly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithAbortOnly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortEnsureOnEnsureDetected(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn void register(org.multiverse.api.lifecycle.TxnListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.DeadTxnException failAbortOnAlreadyCommitted()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setIsolationLevel(org.multiverse.api.IsolationLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setWriteLockMode(org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setWriteLockMode(org.multiverse.api.LockMode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn java.lang.NullPointerException abortLocateOnNullArgument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.GammaTxnConfig idGenerator'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setFamilyName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.GammaTxnConfig speculativeConfiguration'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortEnsureOnBadStatus(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setBlockingAllowed(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setMaxRetries(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setInterruptible(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortOpenForConstructionRequired(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setTraceLevel(org.multiverse.api.TraceLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal getRefTranlocal(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.GammaTxn pool'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setReadTrackingEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxnConfig getConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.ReadonlyException abortCommuteOnReadonly(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.ReadWriteConflict abortOnReadWriteConflict(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn java.lang.IllegalArgumentException abortOpenForConstructionOnBadReference(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.AbortOnlyException abortCommitOnAbortOnly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxn upgradeAfterSpeculativeFailure(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.stms.gamma.transactions.GammaTxnPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithCommute()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithNonRefType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal locate(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setDirtyCheckEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setFamilyName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithLocks()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setControlFlowErrorsReused(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder addPermanentListener(org.multiverse.api.lifecycle.TxnListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setTimeoutNs(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig GammaTxnConfig(org.multiverse.stms.gamma.GammaStm, org.multiverse.stms.gamma.GammaStmConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setBackoffPolicy(org.multiverse.api.BackoffPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setMaximumPoorMansConflictScanLength(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxn newTxn()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn java.lang.NullPointerException abortCommuteOnNullFunction(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxn upgradeAfterSpeculativeFailure(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.stms.gamma.transactions.GammaTxnPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.GammaTxnExecutor newTxnExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn GammaTxn(org.multiverse.stms.gamma.transactions.GammaTxnConfig, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setSpinCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder setDirtyCheckEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxn newTransaction(org.multiverse.stms.gamma.transactions.GammaTxnPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxn upgradeAfterSpeculativeFailure(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.stms.gamma.transactions.GammaTxnPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn java.lang.NullPointerException abortAcquireOnNullLockMode(org.multiverse.stms.gamma.transactionalobjects.GammaObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.SpeculativeConfigurationError abortOpenForReadOrWriteOnExplicitLockingDetected(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.AbortOnlyException abortPrepareOnAbortOnly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactory org.multiverse.stms.gamma.transactions.GammaTxn newTransaction(org.multiverse.stms.gamma.transactions.GammaTxnPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder org.multiverse.stms.gamma.transactions.GammaTxnFactoryBuilder addPermanentListener(org.multiverse.api.lifecycle.TxnListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig GammaTxnConfig(org.multiverse.stms.gamma.GammaStm, org.multiverse.stms.gamma.GammaStmConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setControlFlowErrorsReused(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxn org.multiverse.api.exceptions.IllegalTxnStateException abortOpenForReadOnNullLockMode(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration org.multiverse.stms.gamma.transactions.SpeculativeGammaConfiguration newWithOrElse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.GammaTxnConfig org.multiverse.stms.gamma.transactions.GammaTxnConfig setBlockingAllowed(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

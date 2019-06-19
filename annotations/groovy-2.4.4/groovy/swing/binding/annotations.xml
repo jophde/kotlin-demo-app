@@ -1,0 +1,106 @@
+<root>
+    <item
+        name='groovy.swing.binding.JListProperties.1 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.JSpinnerProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JScrollBarProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JListProperties.4 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.JSliderProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JComponentProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JListProperties.2 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.JListProperties.5 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.JListProperties.7 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.AbstractButtonProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JListProperties.6 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.JTableProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JComboBoxProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JListSelectedElementBinding JListSelectedElementBinding(org.codehaus.groovy.binding.PropertyBinding, org.codehaus.groovy.binding.TargetBinding, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.AbstractSyntheticBinding void setSourceBinding(org.codehaus.groovy.binding.SourceBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JListProperties.3 org.codehaus.groovy.binding.FullBinding createBinding(org.codehaus.groovy.binding.SourceBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.swing.binding.AbstractSyntheticBinding AbstractSyntheticBinding(org.codehaus.groovy.binding.PropertyBinding, org.codehaus.groovy.binding.TargetBinding, java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JListElementsBinding JListElementsBinding(org.codehaus.groovy.binding.PropertyBinding, org.codehaus.groovy.binding.TargetBinding) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.binding.JTextComponentProperties java.util.Map&lt;java.lang.String,org.codehaus.groovy.binding.TriggerBinding&gt; getSyntheticProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

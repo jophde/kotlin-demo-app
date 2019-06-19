@@ -1,0 +1,173 @@
+<root>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder callbackExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder baseUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder baseUrl(com.squareup.okhttp.HttpUrl)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Call retrofit.Response&lt;T&gt; execute()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder client(com.squareup.okhttp.OkHttpClient)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.CallAdapter&lt;?&gt; nextCallAdapter(retrofit.CallAdapter.Factory, java.lang.reflect.Type, java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.CallAdapter.Factory retrofit.CallAdapter&lt;?&gt; get(java.lang.reflect.Type, java.lang.annotation.Annotation[], retrofit.Retrofit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='retrofit.Response retrofit.Response&lt;T&gt; error(com.squareup.okhttp.ResponseBody, com.squareup.okhttp.Response)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Response retrofit.Response&lt;T&gt; success(T, com.squareup.okhttp.Response) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.CallAdapter&lt;?&gt; callAdapter(java.lang.reflect.Type, java.lang.annotation.Annotation[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.CallAdapter&lt;?&gt; nextCallAdapter(retrofit.CallAdapter.Factory, java.lang.reflect.Type, java.lang.annotation.Annotation[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.Converter&lt;T,com.squareup.okhttp.RequestBody&gt; requestConverter(java.lang.reflect.Type, java.lang.annotation.Annotation[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit T create(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Converter T convert(F) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.Converter&lt;T,com.squareup.okhttp.RequestBody&gt; requestConverter(java.lang.reflect.Type, java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.Converter&lt;com.squareup.okhttp.ResponseBody,T&gt; responseConverter(java.lang.reflect.Type, java.lang.annotation.Annotation[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder baseUrl(retrofit.BaseUrl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.CallAdapter&lt;?&gt; callAdapter(java.lang.reflect.Type, java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Response retrofit.Response&lt;T&gt; error(com.squareup.okhttp.ResponseBody, com.squareup.okhttp.Response) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Call retrofit.Call&lt;T&gt; clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder callbackExecutor(java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder baseUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.CallAdapter T adapt(retrofit.Call&lt;R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='retrofit.Response retrofit.Response&lt;T&gt; error(int, com.squareup.okhttp.ResponseBody)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder baseUrl(retrofit.BaseUrl)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.CallAdapter&lt;?&gt; callAdapter(java.lang.reflect.Type, java.lang.annotation.Annotation[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Response com.squareup.okhttp.Response raw()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder client(com.squareup.okhttp.OkHttpClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.Converter&lt;T,com.squareup.okhttp.RequestBody&gt; requestConverter(java.lang.reflect.Type, java.lang.annotation.Annotation[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.Converter&lt;com.squareup.okhttp.ResponseBody,T&gt; responseConverter(java.lang.reflect.Type, java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.CallAdapter&lt;?&gt; nextCallAdapter(retrofit.CallAdapter.Factory, java.lang.reflect.Type, java.lang.annotation.Annotation[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Response retrofit.Response&lt;T&gt; success(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder addCallAdapterFactory(retrofit.CallAdapter.Factory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder validateEagerly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder addConverterFactory(retrofit.Converter.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder baseUrl(com.squareup.okhttp.HttpUrl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder addConverterFactory(retrofit.Converter.Factory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit.Builder retrofit.Retrofit.Builder addCallAdapterFactory(retrofit.CallAdapter.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Retrofit retrofit.Converter&lt;com.squareup.okhttp.ResponseBody,T&gt; responseConverter(java.lang.reflect.Type, java.lang.annotation.Annotation[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Retrofit.Builder retrofit.Retrofit build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='retrofit.Response retrofit.Response&lt;T&gt; success(T, com.squareup.okhttp.Response)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

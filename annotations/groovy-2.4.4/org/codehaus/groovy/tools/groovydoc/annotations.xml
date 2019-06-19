@@ -1,0 +1,204 @@
+<root>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyDoc java.lang.String getTypeSourceDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyFieldDoc[] fields(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyClassDoc[] innerClasses(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyDocWriter void writeClasses(org.codehaus.groovy.groovydoc.GroovyRootDoc, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyDocTool GroovyDocTool(org.codehaus.groovy.tools.groovydoc.ResourceManager, java.lang.String[], java.lang.String[], java.lang.String[], java.lang.String[], java.util.List&lt;org.codehaus.groovy.tools.groovydoc.LinkArgument&gt;, java.util.Properties) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyFieldDoc[] properties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String replaceAllTags(java.lang.String, java.lang.String, java.lang.String, java.util.regex.Pattern) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc DOCROOT_PATTERN2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyConstructorDoc[] constructors(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyClassDoc superclass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyConstructorDoc[] constructors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyFieldDoc[] enumConstants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc java.lang.String getTypeSourceDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyMethodDoc[] methods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyRootDocBuilder java.util.Map&lt;java.lang.String,org.codehaus.groovy.groovydoc.GroovyClassDoc&gt; getClassDocsFromSingleSource(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String encodeAngleBracketsInTagBody(java.lang.String, java.util.regex.Pattern) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String replaceAllTagsCollated(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.util.regex.Pattern) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc void setRawCommentText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc DOCROOT_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyRootDocBuilder java.util.Map&lt;java.lang.String,org.codehaus.groovy.groovydoc.GroovyClassDoc&gt; getClassDocsFromSingleSource(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyPackageDoc void putAll(java.util.Map&lt;java.lang.String,org.codehaus.groovy.groovydoc.GroovyClassDoc&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDocAssembler SimpleGroovyClassDocAssembler(java.lang.String, java.lang.String, org.codehaus.groovy.antlr.SourceBuffer, java.util.List&lt;org.codehaus.groovy.tools.groovydoc.LinkArgument&gt;, java.util.Properties, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyMethodDoc[] serializationMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.util.List&lt;org.codehaus.groovy.groovydoc.GroovyClassDoc&gt; getParentClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String replaceAllTags(java.lang.String, java.lang.String, java.lang.String, java.util.regex.Pattern, java.util.List&lt;org.codehaus.groovy.tools.groovydoc.LinkArgument&gt;, java.lang.String, org.codehaus.groovy.groovydoc.GroovyRootDoc, org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyFieldDoc[] fields()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyPackageDoc[] importedPackages()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyClassDoc[] innerClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyFieldDoc[] serializableFields()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyRootDoc java.util.Map&lt;java.lang.String,org.codehaus.groovy.groovydoc.GroovyClassDoc&gt; getVisibleClasses(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyDoc int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ArrayClassDocWrapper void setRawCommentText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyDoc void setRawCommentText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyDoc java.lang.String getTypeDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyRootDocBuilder org.codehaus.groovy.groovydoc.GroovyRootDoc getRootDoc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyDocTool org.codehaus.groovy.groovydoc.GroovyRootDoc getRootDoc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String replaceTags(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyMethodDoc[] methods(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyDocWriter void writeClassToOutput(org.codehaus.groovy.groovydoc.GroovyClassDoc, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyDoc java.lang.String calculateFirstSentence(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String encodeSpecialSymbols(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyClassDoc[] interfaces()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.util.Set&lt;org.codehaus.groovy.groovydoc.GroovyClassDoc&gt; getParentInterfaces()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyType[] interfaceTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyRootDocBuilder void buildTree(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.ExternalGroovyClassDoc org.codehaus.groovy.groovydoc.GroovyClassDoc[] importedClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyDocTool void add(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.GroovyDocWriter void writePackages(org.codehaus.groovy.groovydoc.GroovyRootDoc, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.tools.groovydoc.SimpleGroovyClassDoc java.lang.String decodeSpecialSymbols(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

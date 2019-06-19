@@ -1,0 +1,32 @@
+<root>
+    <item name='javax.servlet.jsp.tagext.TagData REQUEST_TIME_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='javax.servlet.jsp.tagext.TagAttributeInfo javax.servlet.jsp.tagext.TagAttributeInfo getIdAttribute(javax.servlet.jsp.tagext.TagAttributeInfo[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='javax.servlet.jsp.tagext.TagAdapter TagAdapter(javax.servlet.jsp.tagext.SimpleTag) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.tagext.TagInfo BODY_CONTENT_EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.tagext.TagAttributeInfo ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='javax.servlet.jsp.tagext.TagExtraInfo javax.servlet.jsp.tagext.VariableInfo[] getVariableInfo(javax.servlet.jsp.tagext.TagData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.tagext.TagInfo BODY_CONTENT_JSP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.tagext.TagInfo BODY_CONTENT_SCRIPTLESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.tagext.TagInfo BODY_CONTENT_TAG_DEPENDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

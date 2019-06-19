@@ -1,0 +1,76 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ResolverHelper org.apache.ivy.plugins.resolver.util.ResolvedResource[] findAll(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ApacheHttpURLLister java.util.List listAll(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ResolverHelper org.apache.ivy.plugins.resolver.util.ResolvedResource[] findAll(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ResolverHelper org.apache.ivy.plugins.resolver.util.ResolvedResource[] findAll(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ResolverHelper org.apache.ivy.plugins.resolver.util.ResolvedResource[] findAll(org.apache.ivy.plugins.repository.Repository, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ApacheHttpURLLister java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.URLLister java.util.List listAll(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.FileURLLister boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ResolverHelper java.lang.String[] listTokenValues(org.apache.ivy.plugins.repository.Repository, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.util.FileURLLister java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ResolverHelper java.lang.String[] listTokenValues(org.apache.ivy.plugins.resolver.util.URLLister, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.resolver.util.URLLister boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.FileURLLister java.util.List listAll(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ApacheHttpURLLister java.util.List listAll(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.ApacheHttpURLLister boolean accept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.resolver.util.URLLister java.util.List listAll(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

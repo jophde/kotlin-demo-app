@@ -1,0 +1,48 @@
+<root>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn LeanFixedLengthGammaTxn(org.multiverse.stms.gamma.transactions.GammaTxnConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn LeanMonoGammaTxn(org.multiverse.stms.gamma.transactions.GammaTxnConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal locate(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal locate(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal getRefTranlocal(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn LeanMonoGammaTxn(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn tranlocal'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn LeanFixedLengthGammaTxn(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn org.multiverse.stms.gamma.transactionalobjects.Tranlocal getRefTranlocal(org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn listenersArray'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

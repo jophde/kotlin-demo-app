@@ -1,0 +1,615 @@
+<root>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;java.lang.Object&gt;&gt; executeInsert(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet void cacheConnection(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter TIME(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void cacheStatements(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.BatchingStatementWrapper int[] executeBatch()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter REF(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql DISTINCT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet groovy.sql.DataSet sort(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter ARRAY(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; rows(groovy.lang.GString, int, int, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql boolean execute(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql INTEGER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlWhereVisitor void visitConstantExpression(org.codehaus.groovy.ast.expr.ConstantExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlWhereVisitor void visitPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.lang.String, java.util.Properties, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.lang.Object&gt; getUpdatedParams(java.util.List&lt;java.lang.Object&gt;, java.util.List&lt;groovy.lang.Tuple&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.lang.String asSql(groovy.lang.GString, java.util.List&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql newInstance(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql.AbstractQueryCommand createQueryCommand(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.Sql newInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void eachRow(groovy.lang.GString, groovy.lang.Closure, int, int, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql STRUCT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; asList(java.lang.String, java.sql.ResultSet, int, int, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;java.lang.Object&gt;&gt; executeInsert(groovy.lang.GString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlWhereVisitor java.lang.String tokenAsSql(org.codehaus.groovy.syntax.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter DECIMAL(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void withInstance(java.lang.String, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.DataSet void add(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql BIGINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql SMALLINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void query(java.lang.String, java.util.Map, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter STRUCT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql newInstance(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql BINARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.lang.String asSql(groovy.lang.GString, java.util.List&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.lang.Object&gt; getUpdatedParams(java.util.List&lt;java.lang.Object&gt;, java.util.List&lt;groovy.lang.Tuple&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter REAL(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; asList(java.lang.String, java.sql.ResultSet, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.BatchingStatementWrapper void processResult(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql BLOB'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter TINYINT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int[] withBatch(int, java.lang.String, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlWhereVisitor void visitReturnStatement(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void call(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter BLOB(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter CLOB(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.DataSet dataSet(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; callWithRows(groovy.lang.GString, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.ExpandedVariable expand(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter BIT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; rows(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter INTEGER(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql LONGVARCHAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;java.lang.Object&gt;&gt; executeInsert(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InOutParameter inout(groovy.sql.InParameter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql TINYINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql VARBINARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql int call(java.lang.String, java.util.List&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int[] withBatch(int, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet DataSet(groovy.sql.Sql, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet groovy.sql.DataSet createView(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.DataSet dataSet(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter OTHER(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet groovy.sql.DataSet findAll(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql newInstance(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;java.lang.Object&gt;&gt; executeInsert(java.lang.String, java.util.List&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; asList(java.lang.String, java.sql.ResultSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int call(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void call(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void execute(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; callWithRows(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void eachRow(groovy.lang.GString, int, int, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.SqlWhereVisitor java.util.List&lt;java.lang.Object&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter BINARY(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter BOOLEAN(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql OTHER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter VARCHAR(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql VARCHAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void query(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.GroovyResultSetExtension void add(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql.AbstractQueryCommand createPreparedQueryCommand(java.lang.String, java.util.List&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; rows(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter DOUBLE(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter NUMERIC(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter FLOAT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int executeUpdate(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter LONGVARCHAR(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void cacheConnection(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; callWithRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int[] withBatch(int, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlOrderByVisitor void visitReturnStatement(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void query(java.lang.String, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter NULL(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql DECIMAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, int, groovy.lang.Closure) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet DataSet(groovy.sql.Sql, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithAllRows(groovy.lang.GString, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int[] withBatch(java.lang.String, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter BIGINT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql REAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter DISTINCT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void eachRow(groovy.lang.GString, groovy.lang.Closure, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.ResultSetOutParameter resultSet(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithAllRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int findWhereKeyword(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void query(groovy.lang.GString, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void eachRow(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql Sql(groovy.sql.Sql) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql CHAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter VARBINARY(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.ResultSetMetaDataWrapper java.lang.Object getProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.ResultSetMetaDataWrapper java.lang.Object invokeMethod(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.lang.String, java.lang.String, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter SMALLINT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql Sql(java.sql.Connection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.lang.String, java.util.Properties, java.lang.String, groovy.lang.Closure) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter DATALINK(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.lang.String, java.lang.String, java.lang.String, java.lang.String, groovy.lang.Closure) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int[] withBatch(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.DataSet dataSet(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql java.lang.String nullify(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.GroovyResultSetProxy java.lang.Object invoke(java.lang.Object, java.lang.reflect.Method, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.GroovyRowResult void putAll(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql JAVA_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql newInstance(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.lang.Object&gt; getParameters(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql int[] withBatch(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet int[] withBatch(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql BIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter DATE(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.Sql newInstance(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; callWithRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.lang.Object&gt; getParameters(groovy.lang.GString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql CLOB'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet int[] withBatch(int, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter JAVA_OBJECT(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlWhereVisitor void visitBinaryExpression(org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void query(java.util.Map, java.lang.String, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;java.lang.Object&gt;&gt; executeInsert(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; rows(groovy.lang.GString, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void withTransaction(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql REF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlWhereVisitor void visitBooleanExpression(org.codehaus.groovy.ast.expr.BooleanExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, int, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;java.lang.Object&gt;&gt; executeInsert(java.lang.String, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter TIMESTAMP(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.SqlWithParams checkForNamedParams(java.lang.String, java.util.List&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.SqlOrderByVisitor void visitPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter in(int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql DATALINK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet void withTransaction(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithAllRows(groovy.lang.GString, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void call(groovy.lang.GString, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter CHAR(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql groovy.sql.Sql newInstance(java.lang.String, java.util.Properties, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithAllRows(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet DataSet(groovy.sql.Sql, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql LONGVARBINARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.Sql newInstance(java.lang.String, java.util.Properties)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void setParameters(java.util.List&lt;java.lang.Object&gt;, java.sql.PreparedStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.InParameter LONGVARBINARY(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;groovy.sql.GroovyRowResult&gt; executeInsert(groovy.lang.GString, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithAllRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithAllRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.DataSet groovy.sql.DataSet reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql NUMERIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.GroovyRowResult firstRow(groovy.lang.GString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql void withInstance(java.lang.String, java.lang.String, java.lang.String, groovy.lang.Closure) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void call(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.sql.Sql java.util.List&lt;java.util.List&lt;groovy.sql.GroovyRowResult&gt;&gt; callWithRows(java.lang.String, java.util.List&lt;java.lang.Object&gt;, int, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql groovy.sql.OutParameter out(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.sql.Sql void query(groovy.lang.GString, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

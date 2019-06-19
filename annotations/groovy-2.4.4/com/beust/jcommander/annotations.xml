@@ -1,0 +1,133 @@
+<root>
+    <item
+        name='com.beust.jcommander.JCommander java.util.List&lt;com.beust.jcommander.ParameterDescription&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.JCommander void parseWithoutValidation(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander java.util.Map&lt;java.lang.String,com.beust.jcommander.JCommander&gt; getCommands()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander void usage(java.lang.StringBuilder, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander java.lang.Object convertValue(com.beust.jcommander.ParameterDescription, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.ParameterDescription void validateValueParameter(java.lang.Class&lt;? extends com.beust.jcommander.IValueValidator&gt;, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.ParameterDescription ParameterDescription(java.lang.Object, com.beust.jcommander.DynamicParameter, com.beust.jcommander.Parameterized, java.util.ResourceBundle, com.beust.jcommander.JCommander) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.IVariableArity int processVariableArity(java.lang.String, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.beust.jcommander.JCommander JCommander(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.JCommander void usage(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.JCommander void addCommand(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander JCommander(java.lang.Object, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander void usage(java.lang.String, java.lang.StringBuilder, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.FuzzyMap V findInMap(java.util.Map&lt;? extends com.beust.jcommander.FuzzyMap.IKey,V&gt;, com.beust.jcommander.FuzzyMap.IKey, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander void addCommand(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander java.lang.Object convertValue(com.beust.jcommander.Parameterized, java.lang.Class, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.Parameters DEFAULT_OPTION_PREFIXES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.Parameterized java.util.List&lt;com.beust.jcommander.Parameterized&gt; parseArg(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander void addCommand(java.lang.String, java.lang.Object, java.lang.String...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.Parameterized java.util.List&lt;com.beust.jcommander.Parameterized&gt; parseArg(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander JCommander(java.lang.Object, java.util.ResourceBundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.IStringConverter T convert(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander JCommander(java.lang.Object, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.IDefaultProvider java.lang.String getDefaultValueFor(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.beust.jcommander.JCommander void parse(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.JCommander void addObject(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander void addCommand(java.lang.String, java.lang.Object, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.ParameterDescription void validateParameter(com.beust.jcommander.ParameterDescription, java.lang.Class&lt;? extends com.beust.jcommander.IParameterValidator&gt;, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander JCommander(java.lang.Object, java.util.ResourceBundle, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.JCommander DEBUG_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander JCommander(java.lang.Object, java.util.ResourceBundle, java.lang.String...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.JCommander void usage(java.lang.String, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

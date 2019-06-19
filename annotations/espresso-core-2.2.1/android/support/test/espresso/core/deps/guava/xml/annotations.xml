@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='android.support.test.espresso.core.deps.guava.xml.XmlEscapers android.support.test.espresso.core.deps.guava.escape.Escaper xmlAttributeEscaper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.test.espresso.core.deps.guava.xml.XmlEscapers android.support.test.espresso.core.deps.guava.escape.Escaper xmlContentEscaper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

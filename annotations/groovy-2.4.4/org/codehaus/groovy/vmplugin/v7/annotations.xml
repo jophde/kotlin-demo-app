@@ -1,0 +1,156 @@
+<root>
+    <item name='org.codehaus.groovy.vmplugin.v7.IndyInterface.CALL_TYPES CAST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyMath boolean chooseMathMethod(org.codehaus.groovy.vmplugin.v7.Selector, groovy.lang.MetaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.Selector org.codehaus.groovy.vmplugin.v7.Selector getSelector(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, boolean, boolean, boolean, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.vmplugin.v7.IndyInterface.CALL_TYPES INIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.TypeTransformers java.lang.invoke.MethodHandle addTransformer(java.lang.invoke.MethodHandle, int, java.lang.Object, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType, java.lang.String, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapSafe(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.Object selectMethod(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, java.lang.Boolean, java.lang.Boolean, java.lang.Boolean, java.lang.Object, java.lang.Object[]) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyGuardsFiltersAndSignatures java.lang.Object invokeGroovyObjectInvoker(groovy.lang.MissingMethodException, java.lang.Object, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.MethodHandle makeFallBack(java.lang.invoke.MutableCallSite, java.lang.Class&lt;?&gt;, java.lang.String, int, java.lang.invoke.MethodType, boolean, boolean, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.vmplugin.v7.IndyInterface.CALL_TYPES GET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyGuardsFiltersAndSignatures java.lang.Object unwrap(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.vmplugin.v7.IndyInterface.CALL_TYPES SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapCurrent(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapCurrentSafe(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.Java7 java.lang.Object invokeHandle(java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapCurrentSafe(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapCurrent(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapCurrent(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.Selector org.codehaus.groovy.vmplugin.v7.Selector getSelector(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, boolean, boolean, boolean, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapCurrentSafe(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.Object selectMethod(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, java.lang.Boolean, java.lang.Boolean, java.lang.Boolean, java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyGuardsFiltersAndSignatures java.lang.Object setBeanProperties(groovy.lang.MetaClass, java.lang.Object, java.util.Map) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.vmplugin.v7.IndyInterface.CALL_TYPES METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.Object selectMethod(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, java.lang.Boolean, java.lang.Boolean, java.lang.Boolean, java.lang.Object, java.lang.Object[]) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.TypeHelper java.lang.invoke.MethodType replaceWithMoreSpecificType(java.lang.Object[], java.lang.invoke.MethodType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.Object selectMethod(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, java.lang.Boolean, java.lang.Boolean, java.lang.Boolean, java.lang.Object, java.lang.Object[]) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.vmplugin.v7.Selector java.lang.Object getCorrectedReceiver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyGuardsFiltersAndSignatures java.lang.Object invokeGroovyObjectInvoker(groovy.lang.MissingMethodException, java.lang.Object, java.lang.String, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrap(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.Object selectMethod(java.lang.invoke.MutableCallSite, java.lang.Class, java.lang.String, int, java.lang.Boolean, java.lang.Boolean, java.lang.Boolean, java.lang.Object, java.lang.Object[]) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapSafe(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.TypeTransformers java.lang.invoke.MethodHandle applyUnsharpFilter(java.lang.invoke.MethodHandle, int, java.lang.invoke.MethodHandle) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.IndyInterface java.lang.invoke.CallSite bootstrapSafe(java.lang.invoke.MethodHandles.Lookup, java.lang.String, java.lang.invoke.MethodType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.vmplugin.v7.TypeTransformers java.lang.invoke.MethodHandle applyUnsharpFilter(java.lang.invoke.MethodHandle, int, java.lang.invoke.MethodHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

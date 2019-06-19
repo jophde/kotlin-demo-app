@@ -1,0 +1,41 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.JspC org.apache.tools.ant.types.Path createCompilerclasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.WLJspc void scanDir(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.Jasper41Mangler java.lang.String mapJspToJavaName(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.JspC org.apache.tools.ant.types.Path createClasspath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.JspMangler java.lang.String mapJspToJavaName(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.JspC void scanDir(java.io.File, java.io.File, org.apache.tools.ant.taskdefs.optional.jsp.JspMangler, java.lang.String[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.JspNameMangler java.lang.String mapJspToJavaName(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.jsp.JspC java.io.File mapToJavaFile(org.apache.tools.ant.taskdefs.optional.jsp.JspMangler, java.io.File, java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.jsp.JspNameMangler keywords'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

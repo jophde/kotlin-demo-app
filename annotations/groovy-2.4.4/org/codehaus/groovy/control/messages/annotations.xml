@@ -1,0 +1,58 @@
+<root>
+    <item
+        name='org.codehaus.groovy.control.messages.ExceptionMessage void write(java.io.PrintWriter, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.SimpleMessage void write(java.io.PrintWriter, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.WarningMessage void write(java.io.PrintWriter, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.Message org.codehaus.groovy.control.messages.Message create(org.codehaus.groovy.syntax.SyntaxException, org.codehaus.groovy.control.SourceUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.SyntaxErrorMessage SyntaxErrorMessage(org.codehaus.groovy.syntax.SyntaxException, org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.Message org.codehaus.groovy.control.messages.Message create(org.codehaus.groovy.syntax.SyntaxException, org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.SyntaxErrorMessage void write(java.io.PrintWriter, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.LocatedMessage void write(java.io.PrintWriter, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.Message org.codehaus.groovy.control.messages.Message create(java.lang.String, org.codehaus.groovy.control.ProcessingUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.Message org.codehaus.groovy.control.messages.Message create(org.codehaus.groovy.syntax.SyntaxException, org.codehaus.groovy.control.SourceUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.Message void write(java.io.PrintWriter, org.codehaus.groovy.control.Janitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.SyntaxErrorMessage SyntaxErrorMessage(org.codehaus.groovy.syntax.SyntaxException, org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.control.messages.Message org.codehaus.groovy.control.messages.Message create(java.lang.String, java.lang.Object, org.codehaus.groovy.control.ProcessingUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

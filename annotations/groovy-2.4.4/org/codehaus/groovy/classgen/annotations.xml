@@ -1,0 +1,883 @@
+<root>
+    <item
+        name='org.codehaus.groovy.classgen.BytecodeExpression org.codehaus.groovy.ast.expr.Expression transformExpression(org.codehaus.groovy.ast.expr.ExpressionTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitStaticMethodCallExpression(org.codehaus.groovy.ast.expr.StaticMethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitIfElse(org.codehaus.groovy.ast.stmt.IfStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void visitAnnotationExpression(java.lang.String, org.codehaus.groovy.ast.expr.AnnotationConstantExpression, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void setPropertyGetterDispatcher(org.codehaus.groovy.ast.stmt.BlockStatement, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBooleanExpression(org.codehaus.groovy.ast.expr.BooleanExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitObjectInitializerStatements(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.classgen.Verifier SWAP_INIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBlockStatement(org.codehaus.groovy.ast.stmt.BlockStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ReturnAdder void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitForLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitDeclarationExpression(org.codehaus.groovy.ast.expr.DeclarationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.BytecodeExpression org.codehaus.groovy.ast.expr.Expression transformExpression(org.codehaus.groovy.ast.expr.ExpressionTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper boolean isStatic(org.codehaus.groovy.ast.InnerClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator boolean addInnerClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitCaseStatement(org.codehaus.groovy.ast.stmt.CaseStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addDefaultConstructor(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.BytecodeSequence void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitUnaryPlusExpression(org.codehaus.groovy.ast.expr.UnaryPlusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitBinaryExpression(org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addDefaultParameters(org.codehaus.groovy.classgen.Verifier.DefaultArgsAction, org.codehaus.groovy.ast.MethodNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void loadStaticField(org.codehaus.groovy.ast.expr.FieldExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier org.codehaus.groovy.ast.stmt.Statement createSetterBlock(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.FieldNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitConstructorOrMethod(org.codehaus.groovy.ast.MethodNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier org.codehaus.groovy.ast.expr.ConstantExpression transformToPrimitiveConstantIfPossible(org.codehaus.groovy.ast.expr.ConstantExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void visitExpression(java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addConstructor(org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.ConstructorNode, org.codehaus.groovy.ast.stmt.Statement, org.codehaus.groovy.ast.ClassNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void loadInstanceField(org.codehaus.groovy.ast.expr.FieldExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassCompletionVisitor void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitMethodCallExpression(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addDefaultParameterConstructors(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VerifierCodeVisitor void visitFieldExpression(org.codehaus.groovy.ast.expr.FieldExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addDefaultParameters(java.util.List, org.codehaus.groovy.classgen.Verifier.DefaultArgsAction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitCatchStatement(org.codehaus.groovy.ast.stmt.CatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addCovariantMethods(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier org.codehaus.groovy.ast.expr.ConstantExpression transformToPrimitiveConstantIfPossible(org.codehaus.groovy.ast.expr.ConstantExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitAnnotations(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void addError(java.lang.String, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void addError(java.lang.String, org.codehaus.groovy.ast.ASTNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addInitialization(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitTryCatchFinally(org.codehaus.groovy.ast.stmt.TryCatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.genMathModification java.lang.Object getMath(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitNotExpression(org.codehaus.groovy.ast.expr.NotExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitCatchStatement(org.codehaus.groovy.ast.stmt.CatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitGStringExpression(org.codehaus.groovy.ast.expr.GStringExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitArgumentlistExpression(org.codehaus.groovy.ast.expr.ArgumentListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitConstantExpression(org.codehaus.groovy.ast.expr.ConstantExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.EnumCompletionVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitAnnotations(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitClosureListExpression(org.codehaus.groovy.ast.expr.ClosureListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitArrayExpression(org.codehaus.groovy.ast.expr.ArrayExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void loadWrapper(org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitCatchStatement(org.codehaus.groovy.ast.stmt.CatchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor org.codehaus.groovy.ast.AnnotationNode visit(org.codehaus.groovy.ast.AnnotationNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void checkReturnType(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.AsmClassGenerator getField'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VerifierCodeVisitor void visitListExpression(org.codehaus.groovy.ast.expr.ListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.GeneratorContext java.lang.String encodeAsValidClassName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VerifierCodeVisitor void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitDoWhileLoop(org.codehaus.groovy.ast.stmt.DoWhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassGenerator void visitBytecodeSequence(org.codehaus.groovy.classgen.BytecodeSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitDeclarationExpression(org.codehaus.groovy.ast.expr.DeclarationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitAttributeExpression(org.codehaus.groovy.ast.expr.AttributeExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addConstructor(org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.ConstructorNode, org.codehaus.groovy.ast.stmt.Statement, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ReturnAdder void addReturnIfNeeded(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitSpreadExpression(org.codehaus.groovy.ast.expr.SpreadExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier.DefaultArgsAction void call(org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.MethodNode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitClosureExpression(org.codehaus.groovy.ast.expr.ClosureExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBitwiseNegationExpression(org.codehaus.groovy.ast.expr.BitwiseNegationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitThrowStatement(org.codehaus.groovy.ast.stmt.ThrowStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addInitialization(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ConstructorNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addConstructor(org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.ConstructorNode, org.codehaus.groovy.ast.stmt.Statement, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier.DefaultArgsAction void call(org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.MethodNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier java.lang.String capitalize(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitConstantExpression(org.codehaus.groovy.ast.expr.ConstantExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitCastExpression(org.codehaus.groovy.ast.expr.CastExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitAnnotations(org.codehaus.groovy.ast.AnnotatedNode, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitMethodCallExpression(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitClosureExpression(org.codehaus.groovy.ast.expr.ClosureExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VerifierCodeVisitor void visitConstructorCallExpression(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void visitEnumExpression(java.lang.String, org.codehaus.groovy.ast.expr.PropertyExpression, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitTupleExpression(org.codehaus.groovy.ast.expr.TupleExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitConstructorOrMethod(org.codehaus.groovy.ast.MethodNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier.DefaultArgsAction void call(org.codehaus.groovy.ast.expr.ArgumentListExpression, org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitConstructorOrMethod(org.codehaus.groovy.ast.MethodNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void addFieldInit(org.codehaus.groovy.ast.Parameter, org.codehaus.groovy.ast.FieldNode, org.codehaus.groovy.ast.stmt.BlockStatement) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitSwitch(org.codehaus.groovy.ast.stmt.SwitchStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassCompletionVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBinaryExpression(org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitClosureExpression(org.codehaus.groovy.ast.expr.ClosureExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.BytecodeInstruction void visit(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addPropertyMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier org.codehaus.groovy.ast.stmt.Statement createGetterBlock(org.codehaus.groovy.ast.PropertyNode, org.codehaus.groovy.ast.FieldNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.BytecodeExpression void visit(org.codehaus.groovy.ast.GroovyCodeVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void visitEnumExpression(java.lang.String, org.codehaus.groovy.ast.expr.PropertyExpression, org.codehaus.groovy.ast.ClassNode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitExpressionStatement(org.codehaus.groovy.ast.stmt.ExpressionStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitAssertStatement(org.codehaus.groovy.ast.stmt.AssertStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addDefaultParameterMethods(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void visitListExpression(java.lang.String, org.codehaus.groovy.ast.expr.ListExpression, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ExtendedVerifier void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void setPropertySetterDispatcher(org.codehaus.groovy.ast.stmt.BlockStatement, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.Parameter[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void setMethodDispatcherCode(org.codehaus.groovy.ast.stmt.BlockStatement, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.Parameter[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addReturnIfNeeded(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitMethodPointerExpression(org.codehaus.groovy.ast.expr.MethodPointerExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VerifierCodeVisitor void assertValidIdentifier(java.lang.String, java.lang.String, org.codehaus.groovy.ast.ASTNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.BytecodeExpression void visit(groovyjarjarasm.asm.MethodVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitGenericType(org.codehaus.groovy.ast.GenericsType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitIfElse(org.codehaus.groovy.ast.stmt.IfStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitForLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitBlockStatement(org.codehaus.groovy.ast.stmt.BlockStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitFieldExpression(org.codehaus.groovy.ast.expr.FieldExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.Verifier __TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitDeclarationExpression(org.codehaus.groovy.ast.expr.DeclarationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void visitConstantExpression(java.lang.String, org.codehaus.groovy.ast.expr.ConstantExpression, org.codehaus.groovy.ast.ClassNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBytecodeExpression(org.codehaus.groovy.classgen.BytecodeExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitMethodCallExpression(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.AsmClassGenerator getGroovyObjectField'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitGStringExpression(org.codehaus.groovy.ast.expr.GStringExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void addFieldInit(org.codehaus.groovy.ast.Parameter, org.codehaus.groovy.ast.FieldNode, org.codehaus.groovy.ast.stmt.BlockStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.Verifier STATIC_METACLASS_BOOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitStatement(org.codehaus.groovy.ast.stmt.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBreakStatement(org.codehaus.groovy.ast.stmt.BreakStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.classgen.Verifier __TIMESTAMP__'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitBytecodeSequence(org.codehaus.groovy.classgen.BytecodeSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitAnnotations(org.codehaus.groovy.ast.AnnotatedNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitPostfixExpression(org.codehaus.groovy.ast.expr.PostfixExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.BytecodeExpression NOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitSynchronizedStatement(org.codehaus.groovy.ast.stmt.SynchronizedStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitRangeExpression(org.codehaus.groovy.ast.expr.RangeExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addGroovyObjectInterfaceAndMethods(org.codehaus.groovy.ast.ClassNode, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitUnaryMinusExpression(org.codehaus.groovy.ast.expr.UnaryMinusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.EnumCompletionVisitor void addMapConstructors(org.codehaus.groovy.ast.ClassNode, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitReturnStatement(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AnnotationVisitor void checkCircularReference(org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitTernaryExpression(org.codehaus.groovy.ast.expr.TernaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.Verifier long getTimestamp(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void despreadList(java.util.List, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitWhileLoop(org.codehaus.groovy.ast.stmt.WhileStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.ExtendedVerifier JVM_ERROR_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitClassExpression(org.codehaus.groovy.ast.expr.ClassExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VerifierCodeVisitor void visitForLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.AsmClassGenerator setProperty'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.EnumVisitor void visitClass(org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addMethod(org.codehaus.groovy.ast.ClassNode, boolean, java.lang.String, int, org.codehaus.groovy.ast.ClassNode, org.codehaus.groovy.ast.Parameter[], org.codehaus.groovy.ast.ClassNode[], org.codehaus.groovy.ast.stmt.Statement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.genDgmMath java.lang.Object getMath(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitMapEntryExpression(org.codehaus.groovy.ast.expr.MapEntryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.Verifier void addFieldInitialization(java.util.List, java.util.List, org.codehaus.groovy.ast.FieldNode, boolean, java.util.List, java.util.Set) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void setPropertyGetterDispatcher(org.codehaus.groovy.ast.stmt.BlockStatement, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.Parameter[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitListExpression(org.codehaus.groovy.ast.expr.ListExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitMethod(org.codehaus.groovy.ast.MethodNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ClassCompletionVerifier void visitDeclarationExpression(org.codehaus.groovy.ast.expr.DeclarationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitSpreadMapExpression(org.codehaus.groovy.ast.expr.SpreadMapExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitMapExpression(org.codehaus.groovy.ast.expr.MapExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitProperty(org.codehaus.groovy.ast.PropertyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void setPropertySetterDispatcher(org.codehaus.groovy.ast.stmt.BlockStatement, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitPropertyExpression(org.codehaus.groovy.ast.expr.PropertyExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.Verifier INITIAL_EXPRESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitVariableExpression(org.codehaus.groovy.ast.expr.VariableExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitPrefixExpression(org.codehaus.groovy.ast.expr.PrefixExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.ReturnAdder.ReturnStatementListener void returnStatementAdded(org.codehaus.groovy.ast.stmt.ReturnStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitor void visitField(org.codehaus.groovy.ast.FieldNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitFieldExpression(org.codehaus.groovy.ast.expr.FieldExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.InnerClassVisitorHelper void setMethodDispatcherCode(org.codehaus.groovy.ast.stmt.BlockStatement, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.Parameter[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.VariableScopeVisitor void visitBinaryExpression(org.codehaus.groovy.ast.expr.BinaryExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitConstructor(org.codehaus.groovy.ast.ConstructorNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.AsmClassGenerator void visitContinueStatement(org.codehaus.groovy.ast.stmt.ContinueStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.DummyClassGenerator void visitParameters(org.codehaus.groovy.ast.ASTNode, org.codehaus.groovy.ast.Parameter[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

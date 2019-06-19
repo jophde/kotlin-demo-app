@@ -1,0 +1,26 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.resolvers.AntResolver java.io.File resolve(org.apache.tools.ant.taskdefs.optional.extension.Extension, org.apache.tools.ant.Project) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.resolvers.LocationResolver java.io.File resolve(org.apache.tools.ant.taskdefs.optional.extension.Extension, org.apache.tools.ant.Project) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.resolvers.LocationResolver java.io.File resolve(org.apache.tools.ant.taskdefs.optional.extension.Extension, org.apache.tools.ant.Project)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.resolvers.URLResolver java.io.File resolve(org.apache.tools.ant.taskdefs.optional.extension.Extension, org.apache.tools.ant.Project) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

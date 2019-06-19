@@ -1,0 +1,61 @@
+<root>
+    <item
+        name='org.apache.ivy.core.event.publish.StartArtifactPublishEvent StartArtifactPublishEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.StartArtifactPublishEvent StartArtifactPublishEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.publish.EndArtifactPublishEvent STATUS_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.StartArtifactPublishEvent StartArtifactPublishEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.publish.PublishEvent java.io.File getData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.PublishEvent org.apache.ivy.plugins.resolver.DependencyResolver getResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.publish.EndArtifactPublishEvent STATUS_SUCCESSFUL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.PublishEvent PublishEvent(java.lang.String, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.PublishEvent PublishEvent(java.lang.String, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.PublishEvent PublishEvent(java.lang.String, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.publish.StartArtifactPublishEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.EndArtifactPublishEvent EndArtifactPublishEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.EndArtifactPublishEvent EndArtifactPublishEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.PublishEvent org.apache.ivy.core.module.descriptor.Artifact getArtifact()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.publish.EndArtifactPublishEvent EndArtifactPublishEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.publish.EndArtifactPublishEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

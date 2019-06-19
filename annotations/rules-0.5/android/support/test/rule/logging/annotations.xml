@@ -1,0 +1,47 @@
+<root>
+    <item name='android.support.test.rule.logging.LoggingBaseRule org.junit.runners.model.Statement apply(org.junit.runners.model.Statement, org.junit.runner.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils java.io.File getTestRunDir()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils LOGGING_SUB_DIR_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils void assertFileContentStartsWith(java.lang.String, java.io.File, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils void assertEmptyFile(java.lang.String, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.LogLogcatRule java.lang.String getDefaultLogFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils java.io.File getTestFile(java.lang.String, java.lang.String, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.LogLogcatRule java.io.File dumpLogcat(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils void printFileToLogcat(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils java.io.File getTestRunFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils void writeProcessOutputToFile(java.lang.Process, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.LogBatteryInformationRule java.lang.String getDefaultLogFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.RuleLoggingUtils java.io.File getTestDir(java.lang.String, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.AtraceLogger void atraceStart(java.util.Set&lt;java.lang.String&gt;, int, int, java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.logging.AtraceLogger void atraceStart(java.util.Set&lt;java.lang.String&gt;, int, int, java.io.File, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

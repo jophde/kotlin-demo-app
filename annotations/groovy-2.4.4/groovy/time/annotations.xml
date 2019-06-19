@@ -1,0 +1,347 @@
+<root>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeDuration groovy.time.Duration minus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.Duration plus(groovy.time.TimeDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getSecond(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getWeek(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.Duration getDaylightSavingsOffset(groovy.time.BaseDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getSecond(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDuration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDuration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.BaseDuration.From getFrom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getMinutes(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDuration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getMonth(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.BaseDuration int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.Duration getDaylightSavingsOffset(groovy.time.BaseDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getMonth(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getMinute(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getWeek(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeDuration groovy.time.Duration plus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration getMilliseconds(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.Duration getDaylightSavingsOffset(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getMinutes(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getDays(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getYears(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getHours(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.Duration plus(groovy.time.TimeDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.TimeDatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration getMillisecond(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory java.util.Date plus(java.util.Date, groovy.time.BaseDuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getWeeks(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.TimeDuration minus(groovy.time.TimeDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.DatumDependentDuration groovy.time.BaseDuration.From getFrom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getDay(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration minus(java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration getMilliseconds(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration minus(java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.TimeDatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.TimeDuration minus(groovy.time.TimeDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getHour(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getYear(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.DatumDependentDuration java.util.Date getAgo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.Duration minus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.TimeDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.Duration groovy.time.TimeDatumDependentDuration minus(groovy.time.TimeDatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getMonths(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getHour(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory java.util.Date minus(java.util.Date, groovy.time.BaseDuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getYear(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.Duration plus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.DatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.TimeDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.BaseDuration java.util.Date getAgo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getSeconds(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.BaseDuration groovy.time.BaseDuration.From getFrom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getHours(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeDuration groovy.time.BaseDuration.From getFrom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.Duration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getYears(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getSeconds(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration minus(java.util.Date, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.Duration groovy.time.TimeDatumDependentDuration minus(groovy.time.TimeDatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.Duration plus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.TimeDuration getMinute(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.Duration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDuration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.BaseDuration.From java.util.Date getNow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovy.time.TimeDatumDependentDuration groovy.time.BaseDuration.From getFrom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getDays(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration java.util.Date getAgo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeDatumDependentDuration groovy.time.DatumDependentDuration minus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.Duration groovy.time.Duration minus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.Duration groovy.time.DatumDependentDuration plus(groovy.time.DatumDependentDuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.BaseDuration int compareTo(groovy.time.BaseDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeDuration groovy.time.Duration plus(groovy.time.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getDay(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeDuration groovy.time.Duration minus(groovy.time.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.Duration groovy.time.DatumDependentDuration minus(groovy.time.DatumDependentDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.time.TimeCategory groovy.time.Duration getWeeks(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.DatumDependentDuration getMonths(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.TimeDuration getMillisecond(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.time.TimeCategory groovy.time.Duration getRelativeDaylightSavingsOffset(java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

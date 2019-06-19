@@ -1,0 +1,145 @@
+<root>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesCallSiteWriter void makeCallSite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesUnaryExpressionHelper void writeNotExpression(org.codehaus.groovy.ast.expr.NotExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesClosureWriter org.codehaus.groovy.ast.ClassNode createClosureClass(org.codehaus.groovy.ast.expr.ClosureExpression, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesBinaryExpressionMultiTypeDispatcher void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesUnaryExpressionHelper void writeUnaryPlus(org.codehaus.groovy.ast.expr.UnaryPlusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesBinaryExpressionMultiTypeDispatcher void evaluateEqual(org.codehaus.groovy.ast.expr.BinaryExpression, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesBinaryExpressionMultiTypeDispatcher void writePostOrPrefixMethod(int, java.lang.String, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesStatementWriter void writeForInLoop(org.codehaus.groovy.ast.stmt.ForStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.classgen.asm.sc.StaticCompilationMopWriter FACTORY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticInvocationWriter void loadArguments(java.util.List&lt;org.codehaus.groovy.ast.expr.Expression&gt;, org.codehaus.groovy.ast.Parameter[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesCallSiteWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesCallSiteWriter void makeSingleArgumentCall(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticPropertyAccessHelper org.codehaus.groovy.ast.expr.Expression transformToSetterCall(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean, org.codehaus.groovy.ast.expr.Expression) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesUnaryExpressionHelper void writeUnaryMinus(org.codehaus.groovy.ast.expr.UnaryMinusExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesWriterControllerFactoryImpl org.codehaus.groovy.classgen.asm.WriterController makeController(org.codehaus.groovy.classgen.asm.WriterController)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticInvocationWriter void writeInvokeConstructor(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticPropertyAccessHelper org.codehaus.groovy.ast.expr.Expression transformToSetterCall(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean, org.codehaus.groovy.ast.expr.Expression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesCallSiteWriter void makeCallSite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, org.codehaus.groovy.ast.expr.Expression, boolean, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticInvocationWriter void writeSpecialConstructorCall(org.codehaus.groovy.ast.expr.ConstructorCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticInvocationWriter void makeCall(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.classgen.asm.MethodCallerMultiAdapter, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesCallSiteWriter void makeGroovyObjectGetPropertySite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesClosureWriter org.codehaus.groovy.ast.ClassNode createClosureClass(org.codehaus.groovy.ast.expr.ClosureExpression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesCallSiteWriter void makeGetPropertySite(org.codehaus.groovy.ast.expr.Expression, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesUnaryExpressionHelper void writeBitwiseNegate(org.codehaus.groovy.ast.expr.BitwiseNegationExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticInvocationWriter void writeInvokeMethod(org.codehaus.groovy.ast.expr.MethodCallExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticInvocationWriter boolean tryBridgeMethod(org.codehaus.groovy.ast.MethodNode, org.codehaus.groovy.ast.expr.Expression, boolean, org.codehaus.groovy.ast.expr.TupleExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesWriterController void init(org.codehaus.groovy.classgen.AsmClassGenerator, org.codehaus.groovy.classgen.GeneratorContext, groovyjarjarasm.asm.ClassVisitor, org.codehaus.groovy.ast.ClassNode) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesBinaryExpressionMultiTypeDispatcher void assignToArray(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.expr.Expression) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesStatementWriter void writeBlockStatement(org.codehaus.groovy.ast.stmt.BlockStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.classgen.asm.sc.StaticTypesTypeChooser org.codehaus.groovy.ast.ClassNode resolveType(org.codehaus.groovy.ast.expr.Expression, org.codehaus.groovy.ast.ClassNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

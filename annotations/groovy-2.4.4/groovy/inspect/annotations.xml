@@ -1,0 +1,75 @@
+<root>
+    <item name='groovy.inspect.Inspector JAVA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector GROOVY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector NOT_APPLICABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.inspect.Inspector.MemberComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] fieldInfo(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector void print(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.inspect.Inspector.MemberComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] methodInfo(groovy.lang.MetaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] fieldInfo(groovy.lang.PropertyValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] methodInfo(groovy.lang.MetaMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.Object[] getPropertyInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.Object[] getMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] fieldInfo(groovy.lang.PropertyValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] methodInfo(java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] getClassProps()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] withoutNulls(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.inspect.Inspector java.lang.String[] methodInfo(java.lang.reflect.Constructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] fieldInfo(java.lang.reflect.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.Object[] getPublicFields()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.inspect.Inspector java.lang.String[] methodInfo(java.lang.reflect.Constructor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] withoutNulls(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.Object[] getMetaMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.inspect.Inspector java.lang.String[] methodInfo(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

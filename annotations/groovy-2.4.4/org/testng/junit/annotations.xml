@@ -1,0 +1,191 @@
+<root>
+    <item
+        name='org.testng.junit.JUnit3TestMethod JUnit3TestMethod(org.testng.junit.JUnitTestClass, junit.framework.Test) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterGroupsConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeTestConfigurationMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestRunner junit.framework.TestResult doRun(junit.framework.Test)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeTestMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeClassMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestRunner junit.framework.Test getTest(java.lang.Class, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterSuiteMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterTestConfigurationMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnitTestClass org.testng.ITestNGMethod[] getBeforeSuiteMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeGroupsConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestClass org.testng.ITestNGMethod[] getBeforeTestConfigurationMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterTestConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.junit.JUnitTestRunner junit.framework.TestResult createTestResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnit4TestMethod JUnit4TestMethod(org.testng.junit.JUnitTestClass, org.junit.runner.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnit4TestClass JUnit4TestClass(org.junit.runner.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterClassMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.junit.JUnitTestClass org.testng.ITestNGMethod[] getAfterGroupsMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnit4TestRecognizer boolean isTest(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeSuiteMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeGroupsConfigurationMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnitTestClass org.testng.ITestNGMethod[] getAfterSuiteMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestClass org.testng.ITestNGMethod[] getBeforeGroupsMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnit4TestMethod java.lang.Object[] getInstances()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnit3TestRecognizer boolean isTest(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.junit.JUnit3TestClass JUnit3TestClass(junit.framework.Test) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterSuiteMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeSuiteMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeClassMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnitTestRunner SUITE_METHODNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterClassMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterGroupsConfigurationMethods(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getBeforeTestConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestMethod JUnitTestMethod(org.testng.junit.JUnitTestClass, java.lang.reflect.Method, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestRunner junit.framework.TestResult doRun(junit.framework.Test) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnit4TestMethod JUnit4TestMethod(org.testng.junit.JUnitTestClass, org.junit.runner.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitTestClass org.testng.ITestNGMethod[] getAfterTestConfigurationMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.junit.JUnitTestClass JUnitTestClass(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.junit.JUnitMethodFinder org.testng.ITestNGMethod[] getAfterTestMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

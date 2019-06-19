@@ -1,0 +1,93 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'realm-android'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+    }
+
+    defaultConfig {
+        applicationId "com.optimizely.app"
+        targetSdkVersion target_sdk_ver
+        minSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+        androidTest.java.srcDirs += 'src/androidTest/kotlin'
+    }
+    dexOptions {
+        javaMaxHeapSize "2048M"
+    }
+}
+
+kapt {
+    generateStubs = true
+}
+
+dependencies {
+    // automatically added dependencies when project was created
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    // Kotlin dependencies including Anko
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compile "org.jetbrains.kotlin:kotlin-reflect:${kotlin_version}"
+    // Anko's DSL dependencies
+    compile "org.jetbrains.anko:anko-common:$anko_ver"
+    compile "org.jetbrains.anko:anko-sdk$target_sdk_ver:$anko_ver"
+    compile "org.jetbrains.anko:anko-support-v4:$anko_ver"
+    compile "org.jetbrains.anko:anko-recyclerview-v7:$anko_ver"
+    compile "org.jetbrains.anko:anko-cardview-v7:$anko_ver"
+    compile "org.jetbrains.anko:anko-design:$anko_ver"
+    // Dagger 2 dependencies
+    compile "com.google.dagger:dagger:$dagger_ver"
+    kapt "com.google.dagger:dagger-compiler:$dagger_ver"
+    compile 'org.glassfish:javax.annotation:3.1.1-b02'
+    // Android basic dependencies
+    compile "com.android.support:recyclerview-v7:$android_support_ver"
+    compile "com.android.support:cardview-v7:$android_support_ver"
+    compile "com.android.support:design:$android_support_ver"
+    compile "com.android.support:palette-v7:$android_support_ver"
+    // Networking dependencies
+    compile "com.squareup.retrofit2:retrofit:$retrofit_ver"
+    compile "com.squareup.retrofit2:converter-gson:$retrofit_ver"
+    compile "com.squareup.retrofit2:adapter-rxjava:$retrofit_ver"
+    compile "com.squareup.picasso:picasso:$picasso_ver"
+    compile "com.squareup.okhttp3:logging-interceptor:$okhttp_ver"
+    // Rx dependencies
+    compile "io.reactivex:rxjava:$rxjava_ver"
+    compile "io.reactivex:rxandroid:$rxandroid_ver"
+    compile "io.reactivex:rxkotlin:$rxkotlin_ver"
+    // RxBinding dependencies
+    compile "com.jakewharton.rxbinding:rxbinding:${rxbinding_ver}"
+    compile "com.jakewharton.rxbinding:rxbinding-support-v4:${rxbinding_ver}"
+    compile "com.jakewharton.rxbinding:rxbinding-design:${rxbinding_ver}"
+    compile "com.jakewharton.rxbinding:rxbinding-recyclerview-v7:${rxbinding_ver}"
+    // RxBinding Kotlin dependencies
+    compile "com.jakewharton.rxbinding:rxbinding-kotlin:${rxbinding_ver}"
+    compile "com.jakewharton.rxbinding:rxbinding-support-v4-kotlin:${rxbinding_ver}"
+    compile "com.jakewharton.rxbinding:rxbinding-design-kotlin:${rxbinding_ver}"
+    compile "com.jakewharton.rxbinding:rxbinding-recyclerview-v7-kotlin:${rxbinding_ver}"
+    // Realm dependencies
+    compile "io.realm:realm-android-library:${realm_ver}"
+    compile "io.realm:realm-annotations:${realm_ver}"
+    // Misc dependencies
+    compile "org.apache.directory.studio:org.apache.commons.codec:${commons_codec_ver}"
+    // Test dependencies
+    androidTestCompile "commons-io:commons-io:${commons_io_ver}"
+    androidTestCompile "com.android.support.test:testing-support-lib:${testing_support_lib_ver}"
+    androidTestCompile "com.android.support.test.espresso:espresso-core:${espresso_ver}"
+    androidTestCompile "com.android.support:support-annotations:$android_support_ver"
+}

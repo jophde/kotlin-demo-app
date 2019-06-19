@@ -1,0 +1,981 @@
+<root>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef long getLong(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void await(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E alterAndGet(org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void increment(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef long setLong(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode, long, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.LockMode atomicGetLockMode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.GammaTxn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void increment(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.IntFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger GammaTxnInteger(org.multiverse.stms.gamma.GammaStm, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef GammaTxnRef(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long atomicGetAndAlter(org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef java.lang.Object setObject(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode, java.lang.Object, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.BooleanFunction, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alterAndGet(org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.Function) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean setAndLock(org.multiverse.api.Txn, boolean, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean atomicGetAndAlter(org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double set(org.multiverse.api.Txn, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void await(org.multiverse.api.Txn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.DoubleFunction, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double atomicGetAndAlter(org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong GammaTxnLong(org.multiverse.stms.gamma.GammaStm, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong GammaTxnLong(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.LongFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void await(org.multiverse.api.Txn, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int alterAndGet(org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndLock(org.multiverse.api.Txn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.IntFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndSet(org.multiverse.api.Txn, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.BooleanFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.BooleanFunction, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble void await(org.multiverse.api.Txn, org.multiverse.api.predicates.DoublePredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E setAndLock(org.multiverse.api.Txn, E, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void acquire(org.multiverse.api.Txn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndLock(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndAlter(org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean GammaTxnBoolean(org.multiverse.stms.gamma.GammaStm, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef long getLong(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int atomicAlterAndGet(org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean void await(org.multiverse.api.Txn, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double incrementAndGet(org.multiverse.api.Txn, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble void await(org.multiverse.api.Txn, org.multiverse.api.predicates.DoublePredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void commute(org.multiverse.api.Txn, org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.BooleanFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndSet(org.multiverse.api.Txn, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void decrement(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger GammaTxnInteger(org.multiverse.stms.gamma.transactions.GammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void await(org.multiverse.api.Txn, org.multiverse.api.predicates.LongPredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean get(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long setAndLock(org.multiverse.api.Txn, long, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E awaitNotNullAndGet(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble void commute(org.multiverse.api.Txn, org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void releaseAfterReading(org.multiverse.stms.gamma.transactionalobjects.Tranlocal, org.multiverse.stms.gamma.GammaObjectPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int set(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef BaseGammaTxnRef(org.multiverse.stms.gamma.GammaStm, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.Tranlocal void addCommutingFunction(org.multiverse.stms.gamma.GammaObjectPool, org.multiverse.api.functions.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alterAndGet(org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.DoubleFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong GammaTxnLong(org.multiverse.stms.gamma.transactions.GammaTxn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble void await(org.multiverse.api.predicates.DoublePredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble GammaTxnDouble(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean void await(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.predicates.BooleanPredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndIncrement(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void ensure(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.Listeners leanCommit(org.multiverse.stms.gamma.transactionalobjects.Tranlocal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger GammaTxnInteger(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void await(org.multiverse.api.Txn, org.multiverse.api.predicates.LongPredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn, org.multiverse.api.functions.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef int registerChangeListener(org.multiverse.api.blocking.RetryLatch, org.multiverse.stms.gamma.transactionalobjects.Tranlocal, org.multiverse.stms.gamma.GammaObjectPool, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.LockMode getLockMode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndIncrement(org.multiverse.api.Txn, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void acquire(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef java.lang.Object setObject(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndLock(org.multiverse.api.Txn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.LongFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean atomicAlterAndGet(org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.DoubleFunction, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.Function&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E atomicGetAndAlter(org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble GammaTxnDouble(org.multiverse.stms.gamma.GammaStm, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long set(org.multiverse.api.Txn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn, org.multiverse.api.functions.Function) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject AbstractGammaObject(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.BooleanFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndAlter(org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble GammaTxnDouble(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaObject org.multiverse.api.Lock getLock()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int setAndLock(org.multiverse.api.Txn, int, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef GammaTxnRef(org.multiverse.stms.gamma.GammaStm, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void await(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.predicates.Predicate&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.Function&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void acquire(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble GammaTxnDouble(org.multiverse.stms.gamma.transactions.GammaTxn, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndLock(org.multiverse.api.Txn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef boolean prepare(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.stms.gamma.transactionalobjects.Tranlocal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger GammaTxnInteger(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndAlter(org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndSetAndLock(org.multiverse.api.Txn, double, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void await(org.multiverse.api.Txn, org.multiverse.api.predicates.Predicate&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean void await(org.multiverse.api.Txn, org.multiverse.api.predicates.BooleanPredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void commute(org.multiverse.api.Txn, org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void increment(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef GammaTxnRef(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.LockMode getLockMode(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean void await(org.multiverse.api.predicates.BooleanPredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void await(org.multiverse.api.predicates.IntPredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void await(org.multiverse.api.Txn, org.multiverse.api.predicates.Predicate&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void decrement(org.multiverse.api.Txn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef boolean isNull(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void decrement(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E set(org.multiverse.api.Txn, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble void await(org.multiverse.api.Txn, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double get(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef GammaTxnRef(org.multiverse.stms.gamma.transactions.GammaTxn, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.IntFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void decrement(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void await(org.multiverse.api.predicates.LongPredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean GammaTxnBoolean(org.multiverse.stms.gamma.transactions.GammaTxn, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef boolean flattenCommute(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.stms.gamma.transactionalobjects.Tranlocal, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndSetAndLock(org.multiverse.api.Txn, int, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef boolean hasReadConflict(org.multiverse.stms.gamma.transactionalobjects.Tranlocal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void await(org.multiverse.api.predicates.Predicate&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn, org.multiverse.api.functions.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndSetAndLock(org.multiverse.api.Txn, long, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean GammaTxnBoolean(org.multiverse.stms.gamma.transactions.GammaTxn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.LockMode getLockMode(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject stm'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.Lock getLock()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.LockMode getLockMode(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong GammaTxnLong(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForRead(org.multiverse.stms.gamma.transactions.GammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean void commute(org.multiverse.api.Txn, org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void releaseAfterUpdate(org.multiverse.stms.gamma.transactionalobjects.Tranlocal, org.multiverse.stms.gamma.GammaObjectPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndAlter(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.DoubleFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.GammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.api.LockMode getLockMode(org.multiverse.stms.gamma.transactions.GammaTxn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn, org.multiverse.api.functions.Function) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndLock(org.multiverse.api.Txn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.lean.LeanFixedLengthGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndSetAndLock(org.multiverse.api.Txn, boolean, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void commute(org.multiverse.api.Txn, org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int incrementAndGet(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean void await(org.multiverse.api.Txn, org.multiverse.api.predicates.BooleanPredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long atomicAlterAndGet(org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.LongFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.GammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.AbstractGammaObject org.multiverse.stms.gamma.GammaStm getStm()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.fat.FatFixedLengthGammaTxn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndAlter(org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double atomicAlterAndGet(org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef boolean tryLockAndCheckConflict(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.stms.gamma.transactionalobjects.Tranlocal, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void await(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.predicates.LongPredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble void await(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.predicates.DoublePredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef java.lang.Object getObject(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.DoubleFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void await(org.multiverse.api.Txn, org.multiverse.api.predicates.IntPredicate) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.fat.FatMonoGammaTxn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long incrementAndGet(org.multiverse.api.Txn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndLock(org.multiverse.api.Txn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void acquire(org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.Function&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndSetAndLock(org.multiverse.api.Txn, E, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.LongFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.Function&lt;E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForConstruction(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long get(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void ensure(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef java.lang.Object getObject(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long alterAndGet(org.multiverse.api.functions.LongFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int atomicGetAndAlter(org.multiverse.api.functions.IntFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean set(org.multiverse.api.Txn, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void releaseAfterFailure(org.multiverse.stms.gamma.transactionalobjects.Tranlocal, org.multiverse.stms.gamma.GammaObjectPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double setAndLock(org.multiverse.api.Txn, double, org.multiverse.api.LockMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void acquire(org.multiverse.api.Txn, org.multiverse.api.LockMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean getAndAlter(org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong long getAndSet(org.multiverse.api.Txn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.IntFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.BooleanFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndSet(org.multiverse.api.Txn, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef void awaitNull(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void await(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.predicates.IntPredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn, org.multiverse.api.functions.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E atomicAlterAndGet(org.multiverse.api.functions.Function&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef long setLong(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.LockMode, long, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnRef E get(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean boolean alterAndGet(org.multiverse.api.Txn, org.multiverse.api.functions.BooleanFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double getAndAlter(org.multiverse.api.Txn, org.multiverse.api.functions.DoubleFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnDouble double alterAndGet(org.multiverse.stms.gamma.transactions.GammaTxn, org.multiverse.api.functions.DoubleFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int get(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnLong void increment(org.multiverse.api.Txn, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.Listeners commit(org.multiverse.stms.gamma.transactionalobjects.Tranlocal, org.multiverse.stms.gamma.GammaObjectPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef org.multiverse.stms.gamma.transactionalobjects.Tranlocal openForWrite(org.multiverse.stms.gamma.transactions.lean.LeanMonoGammaTxn, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger void await(org.multiverse.api.Txn, org.multiverse.api.predicates.IntPredicate) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnInteger int getAndSet(org.multiverse.api.Txn, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaTxnBoolean GammaTxnBoolean(org.multiverse.stms.gamma.GammaStm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.BaseGammaTxnRef void openForCommute(org.multiverse.stms.gamma.transactions.fat.FatVariableLengthGammaTxn, org.multiverse.api.functions.Function) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.stms.gamma.transactionalobjects.GammaObject org.multiverse.stms.gamma.GammaStm getStm()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

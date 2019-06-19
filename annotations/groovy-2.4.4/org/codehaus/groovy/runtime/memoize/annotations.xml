@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='org.codehaus.groovy.runtime.memoize.Memoize groovy.lang.Closure&lt;V&gt; buildMemoizeFunction(org.codehaus.groovy.runtime.memoize.MemoizeCache&lt;java.lang.Object,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.memoize.Memoize groovy.lang.Closure&lt;V&gt; buildSoftReferenceMemoizeFunction(int, org.codehaus.groovy.runtime.memoize.MemoizeCache&lt;java.lang.Object,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.memoize.Memoize groovy.lang.Closure&lt;V&gt; buildSoftReferenceMemoizeFunction(int, org.codehaus.groovy.runtime.memoize.MemoizeCache&lt;java.lang.Object,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.memoize.Memoize groovy.lang.Closure&lt;V&gt; buildMemoizeFunction(org.codehaus.groovy.runtime.memoize.MemoizeCache&lt;java.lang.Object,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,98 @@
+<root>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitTypeArgument(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitParameterType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitTypeArgument(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitInterface()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitSuperclass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitExceptionType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitInterfaceBound()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitInterface()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitExceptionType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitParameterType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitClassBound()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureReader void acceptType(groovyjarjarasm.asm.signature.SignatureVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitArrayType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter void visitInnerClassType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureReader void accept(groovyjarjarasm.asm.signature.SignatureVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitClassBound()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitInterfaceBound()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor groovyjarjarasm.asm.signature.SignatureVisitor visitSuperclass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureVisitor void visitInnerClassType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitArrayType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarasm.asm.signature.SignatureWriter groovyjarjarasm.asm.signature.SignatureVisitor visitReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

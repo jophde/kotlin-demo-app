@@ -1,0 +1,364 @@
+<root>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.module.id.ModuleRevisionId[] listModules(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.lang.String, java.lang.String, java.lang.String, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.io.File, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport install(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, org.apache.ivy.core.install.InstallOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.util.Collection, java.lang.String, java.lang.String, java.lang.String, java.util.Date, org.apache.ivy.core.module.descriptor.Artifact[], boolean, boolean, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy14 java.util.List sortModuleDescriptors(java.util.Collection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy14 java.util.List sortNodes(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.search.ModuleEntry[] listModuleEntries(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, java.lang.String, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport install(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, org.apache.ivy.core.install.InstallOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.retrieve.RetrieveReport retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.retrieve.RetrieveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy int retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.plugins.resolver.DependencyResolver, java.util.Collection, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact[], boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.lang.String, java.lang.String, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.module.id.ModuleId[] listModules(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean, java.io.File, java.util.Date, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.resolve.ResolvedModuleRevision findModule(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ArtifactDownloadReport download(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy void configure(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, java.lang.String, java.lang.String[], java.io.File, java.util.Date, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy14 java.util.List sortModuleDescriptors(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.lang.String, java.lang.String, java.lang.String, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.lang.String, java.lang.String, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.List sortModuleDescriptors(java.util.Collection, org.apache.ivy.core.sort.SortOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Map determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleId, java.lang.String[], java.io.File, java.lang.String, java.lang.String, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean, java.io.File, java.util.Date, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport install(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter, java.io.File, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.retrieve.RetrieveReport retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.retrieve.RetrieveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy14 void configure(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.Ivy newInstance(org.apache.ivy.core.settings.IvySettings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Collection, java.lang.String, org.apache.ivy.core.publish.PublishOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.retrieve.RetrieveReport retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.retrieve.RetrieveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, java.lang.String, java.lang.String[], java.io.File, java.util.Date, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.module.id.ModuleRevisionId[] listModules(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean, java.io.File, java.util.Date, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy java.lang.Object execute(org.apache.ivy.Ivy.IvyCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.plugins.resolver.DependencyResolver, java.util.Collection, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact[], boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.List sortModuleDescriptors(java.util.Collection, org.apache.ivy.core.sort.SortOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.search.ModuleEntry[] listModuleEntries(org.apache.ivy.core.search.OrganisationEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.search.RevisionEntry[] listRevisionEntries(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Map determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleId, java.lang.String[], java.io.File, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.util.Date, org.apache.ivy.core.module.descriptor.Artifact[], boolean, boolean, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, org.apache.ivy.core.resolve.ResolveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, java.lang.String, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.net.URL, java.lang.String, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy DATE_FORMAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Collection, java.lang.String, org.apache.ivy.core.publish.PublishOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy14 void configure(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.resolve.IvyNode[] getDependencies(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, org.apache.ivy.core.report.ResolveReport, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.List sortNodes(java.util.Collection, org.apache.ivy.core.sort.SortOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.List sortModuleDescriptors(java.util.Collection, org.apache.ivy.core.sort.SortOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.util.Collection, java.lang.String, org.apache.ivy.core.publish.PublishOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.module.id.ModuleId[] listModules(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.matcher.PatternMatcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy int retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.util.Date, org.apache.ivy.core.module.descriptor.Artifact[], boolean, boolean, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy void deliver(java.lang.String, java.lang.String, org.apache.ivy.core.deliver.DeliverOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy void deliver(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.lang.String, org.apache.ivy.core.deliver.DeliverOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy org.apache.ivy.Ivy newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.io.File, org.apache.ivy.core.resolve.ResolveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.plugins.resolver.DependencyResolver, java.util.Collection, java.lang.String, org.apache.ivy.core.module.descriptor.Artifact[], boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.resolve.IvyNode[] getDependencies(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, org.apache.ivy.core.report.ResolveReport, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], boolean, boolean, java.io.File, java.util.Date, boolean, boolean, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.resolve.ResolvedModuleRevision findModule(org.apache.ivy.core.module.id.ModuleRevisionId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy void configure(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 java.util.Collection publish(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, java.io.File, java.util.Collection, java.lang.String, java.lang.String, java.lang.String, java.util.Date, org.apache.ivy.core.module.descriptor.Artifact[], boolean, boolean, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy14 java.util.List sortNodes(java.util.Collection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolveOptions, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy org.apache.ivy.core.report.ResolveReport resolve(java.io.File, org.apache.ivy.core.resolve.ResolveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.List sortNodes(java.util.Collection, org.apache.ivy.core.sort.SortOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy java.util.List sortNodes(java.util.Collection, org.apache.ivy.core.sort.SortOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.report.ResolveReport resolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], java.io.File, java.util.Date, boolean, boolean, boolean, org.apache.ivy.util.filter.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.Ivy14 org.apache.ivy.core.search.RevisionEntry[] listRevisionEntries(org.apache.ivy.core.search.ModuleEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.Ivy java.lang.String getIvyHomeURL()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

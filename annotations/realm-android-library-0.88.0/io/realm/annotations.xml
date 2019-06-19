@@ -1,0 +1,1019 @@
+<root>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createDynamicQuery(io.realm.DynamicRealm, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder rxFactory(io.realm.rx.RxObservableFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm E copyFromRealm(E, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addField(java.lang.String, java.lang.Class&lt;?&gt;, io.realm.FieldAttribute...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; contains(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm java.util.List&lt;E&gt; copyToRealmOrUpdate(java.lang.Iterable&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema io.realm.RealmObjectSchema rename(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; endsWith(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmResults&lt;E&gt; distinct(java.lang.String, java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema setNullable(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isNull(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void sort(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; distinct(java.lang.Class&lt;E&gt;, java.lang.String, java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema java.util.Set&lt;io.realm.RealmObjectSchema&gt; getAll()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType INTEGER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; distinct(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; endsWith(java.lang.String, java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; distinct(java.lang.Class&lt;E&gt;, java.lang.String, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmQuery&lt;io.realm.DynamicRealmObject&gt; where(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmFieldType getFieldType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; contains(java.lang.String, java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm void executeTransaction(io.realm.Realm.Transaction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder Builder(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; endsWith(java.lang.String, java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addRealmObjectField(java.lang.String, io.realm.RealmObjectSchema) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm void migrateRealm(io.realm.RealmConfiguration, io.realm.RealmMigration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema java.util.Set&lt;java.lang.String&gt; getFieldNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; distinctAsync(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm void writeCopyTo(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String, io.realm.Sort) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmQuery&lt;E&gt; where(java.lang.Class&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema setNullable(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.FieldAttribute INDEXED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; allObjectsSorted(java.lang.Class&lt;E&gt;, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.DynamicRealm getInstance(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; contains(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema io.realm.RealmObjectSchema rename(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String[], io.realm.Sort[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema setClassName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType UNSUPPORTED_MIXED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults E get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; distinctAsync(java.lang.Class&lt;E&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createQueryFromResult(io.realm.RealmResults&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery E findFirstAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmFieldType getFieldType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema io.realm.RealmObjectSchema rename(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema io.realm.RealmObjectSchema create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList E set(int, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; allObjectsSorted(java.lang.String, java.lang.String[], io.realm.Sort[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList java.lang.Object set(int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmResults&lt;E&gt; distinct(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; distinct(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Sort ASCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addRealmObjectField(java.lang.String, io.realm.RealmObjectSchema)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm E copyToRealmOrUpdate(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.DynamicRealmObject createObject(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.HandlerController weakChangeListeners'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void sort(java.lang.String, io.realm.Sort) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmResults&lt;E&gt; distinctAsync(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addIndex(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; beginsWith(java.lang.String, java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnSuccess) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration DEFAULT_REALM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList void add(int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; allObjectsSorted(java.lang.Class&lt;E&gt;, java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; distinct(java.lang.Class&lt;E&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema io.realm.RealmObjectSchema get(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.FieldAttribute REQUIRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.HandlerController changeListeners'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void addChangeListener(io.realm.RealmChangeListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; beginsWith(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.String, io.realm.Case) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void sort(java.lang.String, io.realm.Sort) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createDynamicQuery(io.realm.DynamicRealm, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmQuery&lt;E&gt; where()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; distinctAsync(java.lang.Class&lt;E&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder name(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealmObject void setList(java.lang.String, io.realm.RealmList&lt;? extends io.realm.RealmObject&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm java.util.List&lt;E&gt; copyFromRealm(java.lang.Iterable&lt;E&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnSuccess) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmBaseAdapter RealmBaseAdapter(android.content.Context, io.realm.RealmResults&lt;T&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema boolean isRequired(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmResults&lt;E&gt; distinct(java.lang.String, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.Realm getInstance(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.DynamicRealmObject createObject(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addPrimaryKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addRealmObjectField(java.lang.String, io.realm.RealmObjectSchema) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm void executeTransaction(io.realm.DynamicRealm.Transaction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealmObject DynamicRealmObject(io.realm.RealmObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Sort DESCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm E copyFromRealm(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addField(java.lang.String, java.lang.Class&lt;?&gt;, io.realm.FieldAttribute...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; allObjects(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm DEFAULT_REALM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType io.realm.RealmFieldType fromNativeValue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm boolean deleteRealm(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder Builder(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder migration(io.realm.RealmMigration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; allObjects(java.lang.Class&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isEmpty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm E copyToRealm(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnSuccess, io.realm.Realm.Transaction.OnError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createQueryFromList(io.realm.RealmList&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, long, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, float, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createQuery(io.realm.Realm, java.lang.Class&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; distinctAsync(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; allObjectsSorted(java.lang.Class&lt;E&gt;, java.lang.String[], io.realm.Sort[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isNotEmpty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema removeIndex(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; allObjectsSorted(java.lang.String, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType UNSUPPORTED_TABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String[], io.realm.Sort[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createQuery(io.realm.Realm, java.lang.Class&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList boolean add(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; beginsWith(java.lang.String, java.lang.String, io.realm.Case) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder setModules(java.lang.Object, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; distinct(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm void writeEncryptedCopyTo(java.io.File, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList io.realm.RealmQuery&lt;E&gt; where()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransaction(io.realm.Realm.Transaction, io.realm.Realm.Transaction.Callback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults E first()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createQueryFromResult(io.realm.RealmResults&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList RealmList(E...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.String, io.realm.Case)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String[], io.realm.Sort[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; endGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; distinct(java.lang.String, java.lang.String, java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAll()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm java.util.List&lt;E&gt; copyToRealm(java.lang.Iterable&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList void add(int, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema setRequired(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm java.util.List&lt;E&gt; copyFromRealm(java.lang.Iterable&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void sort(java.lang.String[], io.realm.Sort[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema transform(io.realm.RealmObjectSchema.Function)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addRealmListField(java.lang.String, io.realm.RealmObjectSchema) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; allObjectsSorted(java.lang.String, java.lang.String, io.realm.Sort) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealmObject java.lang.String[] getFieldNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; distinct(java.lang.String, java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm void setDefaultConfiguration(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isNotEmpty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder encryptionKey(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmList boolean add(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema removeField(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm void writeEncryptedCopyTo(java.io.File, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void sort(java.lang.String[], io.realm.Sort[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder inMemory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; distinct(java.lang.String, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; distinct(java.lang.String, java.lang.String, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults void removeChangeListener(io.realm.RealmChangeListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Case SENSITIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; beginGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema renameField(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isNotNull(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; allObjectsSorted(java.lang.String, java.lang.String, io.realm.Sort) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; beginsWith(java.lang.String, java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; distinct(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnError) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema renameField(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; beginsWith(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder name(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransaction(io.realm.Realm.Transaction, io.realm.Realm.Transaction.Callback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, java.util.Date, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm boolean compactRealm(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; contains(java.lang.String, java.lang.String, io.realm.Case) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; createQueryFromList(io.realm.RealmList&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder encryptionKey(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String[], io.realm.Sort[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isEmpty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addRealmListField(java.lang.String, io.realm.RealmObjectSchema)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isNotNull(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder deleteRealmIfMigrationNeeded()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema setRequired(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm void writeCopyTo(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.Realm getInstance(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; allObjectsSorted(java.lang.String, java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThanOrEqualTo(java.lang.String, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; allObjectsSorted(java.lang.Class&lt;E&gt;, java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema removeField(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema setClassName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; isNull(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults E last()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addRealmListField(java.lang.String, io.realm.RealmObjectSchema) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema removeIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema renameField(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Case INSENSITIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealmObject io.realm.RealmList&lt;io.realm.DynamicRealmObject&gt; getList(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObject void removeChangeListener(io.realm.RealmChangeListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema boolean hasIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmResults&lt;E&gt; distinct(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; distinct(java.lang.Class&lt;E&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema io.realm.RealmObjectSchema create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; not()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; endsWith(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema boolean isNullable(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThanOrEqualTo(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType BINARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnSuccess, io.realm.Realm.Transaction.OnError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm void migrateRealm(io.realm.RealmConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addIndex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; contains(java.lang.String, java.lang.String, io.realm.Case) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, java.util.Date, java.util.Date) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.String, io.realm.Case) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder migration(io.realm.RealmMigration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String, io.realm.Sort) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema removePrimaryKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmSchema void remove(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmResults&lt;E&gt; allObjectsSorted(java.lang.Class&lt;E&gt;, java.lang.String, io.realm.Sort) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; distinctAsync(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.FieldAttribute PRIMARY_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.DynamicRealm io.realm.RealmResults&lt;io.realm.DynamicRealmObject&gt; distinctAsync(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String[], io.realm.Sort[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmResults io.realm.RealmResults&lt;E&gt; distinctAsync(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmFieldType STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String[], io.realm.Sort[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; or()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema io.realm.RealmObjectSchema addPrimaryKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort, java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSorted(java.lang.String, io.realm.Sort) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObject void addChangeListener(io.realm.RealmChangeListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; greaterThan(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; lessThan(java.lang.String, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; endsWith(java.lang.String, java.lang.String, io.realm.Case) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmObjectSchema boolean hasField(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; equalTo(java.lang.String, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmResults&lt;E&gt; findAllSortedAsync(java.lang.String, io.realm.Sort)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; notEqualTo(java.lang.String, java.lang.Double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmQuery io.realm.RealmQuery&lt;E&gt; between(java.lang.String, double, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.Realm io.realm.RealmAsyncTask executeTransactionAsync(io.realm.Realm.Transaction, io.realm.Realm.Transaction.OnSuccess)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.RealmConfiguration.Builder io.realm.RealmConfiguration.Builder schemaVersion(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

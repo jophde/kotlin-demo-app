@@ -1,0 +1,2588 @@
+<root>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V put(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongOp compoundOp(groovyx.gpars.extra166y.Ops.LongToDouble, groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.LongGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelArray&lt;U&gt; all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithBounds groovyx.gpars.extra166y.ParallelArrayWithBounds&lt;T&gt; cumulate(groovyx.gpars.extra166y.Ops.Reducer&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter withIndexedFilter(groovyx.gpars.extra166y.Ops.IntAndDoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryIntPredicate intInequalityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;U&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongGenerator longRandom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet boolean contains(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithBounds cumulate(groovyx.gpars.extra166y.Ops.Reducer, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray addAll(long[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArray&lt;T&gt; allNonidenticalElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap STRONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray cumulateSum()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongReducer longMaxReducer(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongOp compoundOp(groovyx.gpars.extra166y.Ops.LongOp, groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongPredicate notPredicate(groovyx.gpars.extra166y.Ops.LongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap V computeIfAbsent(K, groovyx.gpars.extra166y.CustomConcurrentHashMap.MappingFunction&lt;? super K,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToLong&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super T&gt;, groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.Generator&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray addAll(groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;KeyType,java.lang.Integer&gt; newIntValueMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super KeyType&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndObjectToObject&lt;? super T,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter withFilter(groovyx.gpars.extra166y.Ops.LongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleToObject&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.DoubleToLong, groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleReducer naturalDoubleMinReducer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createFromCopy(int, double[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray cumulate(groovyx.gpars.extra166y.Ops.DoubleReducer, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.IntGenerator intRandom(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap boolean containsValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap V computeIfAbsent(K, groovyx.gpars.extra166y.CustomConcurrentHashMap.MappingFunction&lt;? super K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray.SummaryStatistics summary(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleReducer doubleAdder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createEmpty(int, java.lang.Class&lt;? super T&gt;, jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping java.lang.Iterable&lt;java.lang.Long&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; sort(java.util.Comparator&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongGenerator longRandom(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray.SummaryStatistics summary(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createFromCopy(T[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArray&lt;U&gt; all(java.lang.Class&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray java.util.Iterator&lt;java.lang.Long&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; withFilter(groovyx.gpars.extra166y.Ops.Predicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;U&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArray&lt;T&gt; allUniqueElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength weak'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelArray&lt;U&gt; all(java.lang.Class&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds cumulate(groovyx.gpars.extra166y.Ops.DoubleReducer, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray sort(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryPredicate&lt;java.lang.Object,java.lang.Object&gt; inequalityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleGenerator doubleRandom(double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap CustomConcurrentHashMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super K&gt;, groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super V&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToLong, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToLong, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Reducer&lt;T&gt; naturalMaxReducer(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToDouble&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; create(int, java.lang.Class&lt;? super T&gt;, jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createFromCopy(double[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createEmpty(int, jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.DoubleGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithBounds cumulate(groovyx.gpars.extra166y.Ops.LongReducer, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelArray.SummaryStatistics&lt;U&gt; summary(java.util.Comparator&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap CustomConcurrentHashMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super K&gt;, groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super V&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray.SummaryStatistics summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.ParallelArray java.util.List&lt;T&gt; asList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;java.lang.Integer,ValueType&gt; newIntKeyMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super ValueType&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongReducer longMinReducer(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongToDouble compoundOp(groovyx.gpars.extra166y.Ops.LongToDouble, groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelArray.SummaryStatistics&lt;U&gt; summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleToObject&lt;V&gt; compoundOp(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends T&gt;, groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToLong&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongPredicate andPredicate(groovyx.gpars.extra166y.Ops.LongPredicate, groovyx.gpars.extra166y.Ops.LongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToDouble&lt;? super T&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;T,T,T&gt;, T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap CustomConcurrentHashMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super K&gt;, groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super V&gt;, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V put(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps java.util.Comparator&lt;java.lang.Object&gt; castedComparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.IntGenerator intRandom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp, groovyx.gpars.extra166y.ParallelArrayWithMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.Ops.Predicate boolean op(A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter withIndexedFilter(groovyx.gpars.extra166y.Ops.IntAndLongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToLong&lt;? super U,? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToDouble&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap CustomConcurrentHashMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super K&gt;, groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super V&gt;, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryLongPredicate longInequalityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.Ops.ObjectToLong long op(A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;U&gt; withMapping(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; removeAll(groovyx.gpars.extra166y.Ops.Predicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createUsingHandoff(double[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray create(int, jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet boolean add(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V putIfAbsent(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createUsingHandoff(long[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.DoubleGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;T&gt; andPredicate(groovyx.gpars.extra166y.Ops.Predicate&lt;S&gt;, groovyx.gpars.extra166y.Ops.Predicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithValue(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToDouble, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createUsingHandoff(double[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray.SummaryStatistics summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithBounds groovyx.gpars.extra166y.ParallelLongArrayWithBounds cumulateSum()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds cumulateSum()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; removeConsecutiveDuplicates()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithBounds cumulateSum()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithBounds sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray create(int, jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createEmpty(int, jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends U&gt;, groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToLong&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArray&lt;U&gt; all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongReducer naturalLongMaxReducer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray removeAll(groovyx.gpars.extra166y.Ops.LongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithBounds groovyx.gpars.extra166y.ParallelLongArrayWithBounds sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryPredicate&lt;java.lang.Object,java.lang.Object&gt; identityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createUsingHandoff(long[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet KeySet(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super K&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super T,? super V,? extends T&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithValue(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,W&gt; withMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super U,? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;java.lang.Integer,ValueType&gt; newIntKeyMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super ValueType&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;T&gt; notPredicate(groovyx.gpars.extra166y.Ops.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleGenerator doubleRandom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelArray&lt;U&gt; all(java.lang.Class&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createEmpty(int, java.lang.Class&lt;? super T&gt;, jsr166y.ForkJoinPool) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleReducer doubleMinReducer(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createUsingHandoff(double[], jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryPredicate&lt;java.lang.Object,java.lang.Object&gt; equalityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V putIfAbsent(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createUsingHandoff(long[], jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet KeySet(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super K&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelArray&lt;U&gt; all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping java.lang.Iterable&lt;java.lang.Double&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray addAll(groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryPredicate&lt;java.lang.Object,java.lang.Object&gt; nonidentityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super T,? super V,? extends T&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;java.lang.Integer,ValueType&gt; newIntKeyMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super ValueType&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToObject&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArray.SummaryStatistics&lt;U&gt; summary(java.util.Comparator&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithValue(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.Op)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Reducer&lt;java.lang.Object&gt; castedMinReducer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray.SummaryStatistics summary(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;U&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping java.lang.Iterable&lt;java.lang.Long&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithBounds sort(java.util.Comparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToLong, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryDoublePredicate doubleEqualityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap boolean replace(K, V, V) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.ParallelArray jsr166y.ForkJoinPool defaultExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping java.lang.Iterable&lt;java.lang.Double&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.Op&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleOp compoundOp(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends T&gt;, groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToDouble&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;java.lang.Object&gt; isNonNullPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super U,? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray ParallelArray(jsr166y.ForkJoinPool, T[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds sort(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToLong&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,U&gt; withMapping(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.ParallelLongArray jsr166y.ForkJoinPool defaultExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithBounds withBounds(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; create(int, java.lang.Class&lt;? super T&gt;, jsr166y.ForkJoinPool) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleToLong compoundOp(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends T&gt;, groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createFromCopy(int, long[], jsr166y.ForkJoinPool) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryDoublePredicate doubleInequalityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; addAll(groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;V,T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithValue(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray create(int, jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Op&lt;T,V&gt; compoundOp(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super T&gt;, groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleComparator naturalDoubleComparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongOp compoundOp(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends T&gt;, groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray ParallelArray(jsr166y.ForkJoinPool, T[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToObject&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.ObjectToLong&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends U&gt;, groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter withFilter(groovyx.gpars.extra166y.Ops.DoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleReducer naturalDoubleMaxReducer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithValue(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArray allUniqueElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;U&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createFromCopy(int, long[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongPredicate orPredicate(groovyx.gpars.extra166y.Ops.LongPredicate, groovyx.gpars.extra166y.Ops.LongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongToObject&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.LongOp, groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray cumulate(groovyx.gpars.extra166y.Ops.LongReducer, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp, groovyx.gpars.extra166y.ParallelArrayWithMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToLong&lt;? super T,? super U&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,U&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap V compute(K, groovyx.gpars.extra166y.CustomConcurrentHashMap.RemappingFunction&lt;? super K,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createFromCopy(int, double[], jsr166y.ForkJoinPool) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;T,T,T&gt;, T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super U,? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter withIndexedFilter(groovyx.gpars.extra166y.Ops.IntAndLongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithBounds groovyx.gpars.extra166y.ParallelArrayWithBounds&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createFromCopy(int, long[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithBounds sort(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,U&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToObject&lt;? super T,? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence int hash(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping java.lang.Iterable&lt;U&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToDouble, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super T,? super V,? extends T&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToObject&lt;? super U,? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToLong&lt;? super U,? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToObject&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.Op&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryIntPredicate intEqualityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.ParallelDoubleArray jsr166y.ForkJoinPool defaultExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray java.util.Iterator&lt;java.lang.Double&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray addAll(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap V compute(K, groovyx.gpars.extra166y.CustomConcurrentHashMap.RemappingFunction&lt;? super K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithBounds groovyx.gpars.extra166y.ParallelArrayWithBounds&lt;T&gt; withBounds(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.Generator&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray addAll(groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongToDouble compoundOp(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends T&gt;, groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.LongGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap boolean replace(K, V, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter withFilter(groovyx.gpars.extra166y.Ops.LongPredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoublePredicate orPredicate(groovyx.gpars.extra166y.Ops.DoublePredicate, groovyx.gpars.extra166y.Ops.DoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Reducer&lt;java.lang.Object&gt; castedMaxReducer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createEmpty(int, jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleOp compoundOp(groovyx.gpars.extra166y.Ops.DoubleOp, groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds cumulate(groovyx.gpars.extra166y.Ops.DoubleReducer, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleOp compoundOp(groovyx.gpars.extra166y.Ops.DoubleToLong, groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToLong&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createFromCopy(T[], jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap boolean replace(K, V, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithBounds&lt;T&gt; withBounds(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToDouble&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createFromCopy(int, double[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createFromCopy(double[], jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V remove(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToDouble&lt;? super U,? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createFromCopy(T[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToObject&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createUsingHandoff(T[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArray allUniqueElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.IntGenerator intRandom(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;java.lang.Integer,java.lang.Integer&gt; newIntKeyIntValueMap(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArray.SummaryStatistics&lt;U&gt; summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,U&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping java.lang.Iterable&lt;java.lang.Long&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongGenerator longRandom(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.BinaryOp&lt;? super T,? super U,? extends V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,U&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray.SummaryStatistics summary(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V replace(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;java.lang.Object&gt; isNullPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; withFilter(groovyx.gpars.extra166y.Ops.Predicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createFromCopy(long[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToDouble&lt;? super U,? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap V replace(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; addAll(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds withBounds(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet K intern(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap java.util.Set&lt;java.util.Map.Entry&lt;K,V&gt;&gt; entrySet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToDouble&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping java.lang.Iterable&lt;U&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.Ops.Op R op(A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleToObject&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.DoubleOp, groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray removeConsecutiveDuplicates()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToDouble&lt;? super U,? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;T&gt; orPredicate(groovyx.gpars.extra166y.Ops.Predicate&lt;S&gt;, groovyx.gpars.extra166y.Ops.Predicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Reducer&lt;T&gt; maxReducer(java.util.Comparator&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; withIndexedFilter(groovyx.gpars.extra166y.Ops.IntAndObjectPredicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongComparator naturalLongComparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap boolean containsKey(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray cumulateSum()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray.SummaryStatistics summary(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap SOFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToObject&lt;? super U,? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray removeAll(groovyx.gpars.extra166y.Ops.DoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet boolean remove(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToDouble&lt;? super T&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;KeyType,java.lang.Integer&gt; newIntValueMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super KeyType&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; addAll(groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;V,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Op&lt;T,V&gt; compoundOp(groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends U&gt;, groovyx.gpars.extra166y.Ops.Op&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray addAll(double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap EQUALS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; cumulate(groovyx.gpars.extra166y.Ops.Reducer&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray create(int, jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.IntReducer intAdder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToDouble&lt;? super T,? super U&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,U&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithBounds groovyx.gpars.extra166y.ParallelLongArrayWithBounds sort(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToLong&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;java.lang.Object&gt; isAssignablePredicate(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray java.util.List&lt;java.lang.Long&gt; asList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray.SummaryStatistics summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap java.util.Collection&lt;V&gt; values()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createFromCopy(int, T[], jsr166y.ForkJoinPool) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.ParallelArray java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray addAll(groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToObject&lt;? super U,? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.Ops.BinaryOp R op(A, B) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; withIndexedFilter(groovyx.gpars.extra166y.Ops.IntAndObjectPredicate&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap java.util.Set&lt;K&gt; keySet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap boolean remove(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.ObjectToLong&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super T&gt;, groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToObject&lt;? super T,? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndObjectToLong&lt;? super U,? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray java.util.List&lt;java.lang.Double&gt; asList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping java.lang.Iterable&lt;U&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndObjectToObject&lt;? super T,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.Ops.BinaryPredicate boolean op(A, B) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,U&gt; withMapping(groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToDouble&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createEmpty(int, jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createFromCopy(int, T[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter withFilter(groovyx.gpars.extra166y.Ops.DoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithValue(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelArray.SummaryStatistics&lt;U&gt; summary(java.util.Comparator&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithBounds groovyx.gpars.extra166y.ParallelLongArrayWithBounds withBounds(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap WEAK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;U&gt; withMapping(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray removeConsecutiveDuplicates()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToLong&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleToLong compoundOp(groovyx.gpars.extra166y.Ops.DoubleOp, groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray.SummaryStatistics summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleToLong compoundOp(groovyx.gpars.extra166y.Ops.DoubleToLong, groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToLong&lt;? super T&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongToDouble compoundOp(groovyx.gpars.extra166y.Ops.LongOp, groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.Ops.ObjectToDouble double op(A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToDouble&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createFromCopy(long[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleGenerator doubleRandom(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;W&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Reducer&lt;T&gt; minReducer(java.util.Comparator&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; removeNulls()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds withBounds(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToDouble, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithValue(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoublePredicate notPredicate(groovyx.gpars.extra166y.Ops.DoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithBounds groovyx.gpars.extra166y.ParallelArrayWithBounds&lt;T&gt; sort(java.util.Comparator&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray createFromCopy(long[], jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.DoubleGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter withIndexedFilter(groovyx.gpars.extra166y.Ops.IntAndDoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray createFromCopy(double[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoublePredicate andPredicate(groovyx.gpars.extra166y.Ops.DoublePredicate, groovyx.gpars.extra166y.Ops.DoublePredicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToObject&lt;? extends V&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithFilter groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.LongGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithMappedIndex(groovyx.gpars.extra166y.Ops.IntAndObjectToObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray ParallelLongArray(jsr166y.ForkJoinPool, long[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createUsingHandoff(T[], jsr166y.ForkJoinPool) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength strong'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Predicate&lt;java.lang.Object&gt; instanceofPredicate(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToLong&lt;? super T&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds cumulateSum()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongToObject&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.LongToDouble, groovyx.gpars.extra166y.Ops.DoubleToObject&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.BinaryLongPredicate longEqualityPredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Reducer&lt;T&gt; naturalMinReducer(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray addAll(double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToObject&lt;? super U,? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithBounds sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet java.util.Iterator&lt;K&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; addAll(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength soft'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryLongOp, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createUsingHandoff(T[], jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds sort(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds groovyx.gpars.extra166y.ParallelDoubleArrayWithBounds sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray.SummaryStatistics summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.DoubleAndLongToDouble, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToDouble, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence boolean equal(K, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithFilter replaceWithGeneratedValue(groovyx.gpars.extra166y.Ops.Generator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithValue(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray.SummaryStatistics summary(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.ObjectAndDoubleToDouble&lt;? super U&gt;, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongReducer longAdder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.DoubleToLong)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap.KeySet K intern(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToObject&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithLongMapping&lt;T&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToDouble&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToObject&lt;? super T,? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithFilter groovyx.gpars.extra166y.ParallelArrayWithFilter&lt;T&gt; replaceWithMapping(groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndDoubleToLong, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,V&gt; withMapping(groovyx.gpars.extra166y.Ops.ObjectAndLongToObject&lt;? super U,? extends V&gt;, groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.extra166y.CustomConcurrentHashMap IDENTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithMapping groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;V&gt; withMapping(groovyx.gpars.extra166y.Ops.Op&lt;? super U,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray ParallelDoubleArray(jsr166y.ForkJoinPool, double[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToLong&lt;? super V&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;W,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.BinaryDoubleOp, groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping java.lang.Iterable&lt;java.lang.Double&gt; sequentially()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap groovyx.gpars.extra166y.CustomConcurrentHashMap&lt;KeyType,java.lang.Integer&gt; newIntValueMap(groovyx.gpars.extra166y.CustomConcurrentHashMap.Strength, groovyx.gpars.extra166y.CustomConcurrentHashMap.Equivalence&lt;? super KeyType&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArray sort(groovyx.gpars.extra166y.Ops.LongComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelDoubleArray.SummaryStatistics summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping&lt;U&gt; withMapping(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps java.util.Comparator&lt;T&gt; naturalComparator(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArray groovyx.gpars.extra166y.ParallelArray&lt;T&gt; createFromCopy(int, T[], jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelArray.SummaryStatistics&lt;U&gt; summary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithMapping&lt;U&gt; withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndLongToObject&lt;? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndDoubleToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.ObjectToDouble&lt;? super T&gt;, groovyx.gpars.extra166y.Ops.DoubleOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArrayWithDoubleMapping withMapping(groovyx.gpars.extra166y.Ops.LongToDouble)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongReducer naturalLongMinReducer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.ObjectToLong&lt;T&gt; compoundOp(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super T&gt;, groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping groovyx.gpars.extra166y.ParallelLongArray all()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray ParallelLongArray(jsr166y.ForkJoinPool, long[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CustomConcurrentHashMap void putAll(java.util.Map&lt;? extends K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelArrayWithLongMapping groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;T,W&gt; withMapping(groovyx.gpars.extra166y.Ops.LongAndObjectToObject&lt;? super V,? extends W&gt;, groovyx.gpars.extra166y.ParallelArrayWithMapping&lt;X,V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.Op&lt;T,V&gt; compoundOp(groovyx.gpars.extra166y.Ops.ObjectToLong&lt;? super T&gt;, groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.DoubleReducer doubleMaxReducer(groovyx.gpars.extra166y.Ops.DoubleComparator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.CommonOps groovyx.gpars.extra166y.Ops.LongToObject&lt;V&gt; compoundOp(groovyx.gpars.extra166y.Ops.LongToObject&lt;? extends T&gt;, groovyx.gpars.extra166y.Ops.Op&lt;? super T,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray ParallelDoubleArray(jsr166y.ForkJoinPool, double[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArrayWithBounds groovyx.gpars.extra166y.ParallelLongArrayWithBounds cumulate(groovyx.gpars.extra166y.Ops.LongReducer, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArrayWithMapping groovyx.gpars.extra166y.ParallelDoubleArrayWithLongMapping withIndexedMapping(groovyx.gpars.extra166y.Ops.IntAndObjectToLong&lt;? super U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelLongArray groovyx.gpars.extra166y.ParallelLongArrayWithFilter replaceWithMapping(groovyx.gpars.extra166y.Ops.LongOp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.extra166y.ParallelDoubleArray groovyx.gpars.extra166y.ParallelDoubleArray replaceWithValue(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

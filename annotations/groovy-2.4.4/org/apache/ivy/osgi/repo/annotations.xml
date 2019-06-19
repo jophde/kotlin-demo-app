@@ -1,0 +1,249 @@
+<root>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] findBundle(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData, java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AggregatedRepoDescriptor java.util.Set&lt;java.lang.String&gt; getCapabilities()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.net.URI buildBundleURI(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RepositoryManifestIterable java.util.List listBundleFiles(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.repo.AbstractOSGiResolver FAILING_REPO_DESCRIPTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractFSManifestIterable java.io.InputStream getInputStream(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractFSManifestIterable java.net.URI buildBundleURI(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.repo.AbstractFSManifestIterable java.net.URI buildBundleURI(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.util.List listBundleFiles(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver.RequirementStrategy org.apache.ivy.osgi.repo.AbstractOSGiResolver.RequirementStrategy valueOf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.util.List&lt;java.io.File&gt; listBundleFiles(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractFSManifestIterable java.util.List&lt;T&gt; listDirs(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findArtifactRef(org.apache.ivy.core.module.descriptor.Artifact, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.repository.Resource getResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver long get(org.apache.ivy.plugins.repository.Resource, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AggregatedRepoDescriptor java.util.Set&lt;org.apache.ivy.osgi.repo.ModuleDescriptorWrapper&gt; findModules(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] findBundle(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData, java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.net.URI buildBundleURI(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.io.InputStream getInputStream(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RepositoryManifestIterable java.util.List listDirs(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource findIvyFileRef(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AggregatedRepoDescriptor java.util.Set&lt;java.lang.String&gt; getCapabilityValues(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RepoDescriptor java.util.Iterator&lt;org.apache.ivy.osgi.repo.ModuleDescriptorWrapper&gt; getModules()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.util.List&lt;java.io.File&gt; listDirs(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RepoDescriptor java.util.Set&lt;java.lang.String&gt; getCapabilityValues(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.net.URI buildBundleURI(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.ResolverManifestIterable java.util.Iterator&lt;org.apache.ivy.osgi.repo.ManifestAndLocation&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.ArtifactReportManifestIterable java.util.Iterator&lt;org.apache.ivy.osgi.repo.ManifestAndLocation&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.ArtifactReportManifestIterable ArtifactReportManifestIterable(java.util.List&lt;org.apache.ivy.core.report.ArtifactDownloadReport&gt;, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver long get(org.apache.ivy.plugins.repository.Resource, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractFSManifestIterable java.util.List&lt;T&gt; listBundleFiles(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.repo.FSManifestIterable NON_BUNDLE_DIRS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RelativeURLRepository org.apache.ivy.plugins.repository.Resource getResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] findCapability(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData, java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AggregatedRepoDescriptor java.util.Iterator&lt;org.apache.ivy.osgi.repo.ModuleDescriptorWrapper&gt; getModules()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.util.List listDirs(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RepositoryManifestIterable java.net.URI buildBundleURI(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.repo.FSManifestIterable DEFAULT_BUNLDE_FILTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.BundleRepoDescriptor void populate(java.util.Iterator&lt;org.apache.ivy.osgi.repo.ManifestAndLocation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver org.apache.ivy.plugins.resolver.util.ResolvedResource[] findCapability(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.resolve.ResolveData, java.util.Collection&lt;org.apache.ivy.core.module.descriptor.ModuleDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractFSManifestIterable java.util.Iterator&lt;org.apache.ivy.osgi.repo.ManifestAndLocation&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.EditableRepoDescriptor void addBundle(org.apache.ivy.osgi.core.BundleInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver void publish(org.apache.ivy.core.module.descriptor.Artifact, java.io.File, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.repo.FSManifestIterable DEFAULT_DIR_FILTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver void setRequirementStrategy(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.io.InputStream getInputStream(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.RepoDescriptor java.util.Set&lt;java.lang.String&gt; getCapabilities()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.AbstractOSGiResolver void checkModuleDescriptorRevision(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.repo.FSManifestIterable java.net.URI buildBundleURI(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

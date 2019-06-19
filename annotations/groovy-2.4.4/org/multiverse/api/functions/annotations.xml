@@ -1,0 +1,94 @@
+<root>
+    <item
+        name='org.multiverse.api.functions.BooleanFunction java.lang.Object call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.IntFunction decIntFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.DoubleFunction identityDoubleFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.Function identityFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.BooleanFunction identityBooleanFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.IntFunction identityIntFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.BooleanFunction java.lang.Boolean call(java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.LongFunction decLongFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.DoubleFunction incDoubleFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.DoubleFunction java.lang.Object call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.LongFunction incLongFunction(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.functions.IncIntFunction INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.LongFunction incLongFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.IntFunction java.lang.Integer call(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.functions.IntFunction java.lang.Object call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.DoubleFunction java.lang.Double call(java.lang.Double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.BooleanFunction inverseBooleanFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.IntFunction incIntFunction(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.LongFunction identityLongFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.functions.LongFunction java.lang.Long call(java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.Functions org.multiverse.api.functions.IntFunction incIntFunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.api.functions.LongFunction java.lang.Object call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.functions.Function E call(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

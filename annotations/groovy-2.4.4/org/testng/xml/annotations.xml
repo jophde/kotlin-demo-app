@@ -1,0 +1,146 @@
+<root>
+    <item name='org.testng.xml.Parser DEPRECATED_TESTNG_DTD_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.IPostProcessor java.util.Collection&lt;org.testng.xml.XmlSuite&gt; process(java.util.Collection&lt;org.testng.xml.XmlSuite&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.xml.TestNGContentHandler void startElement(java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlUtils void setProperty(java.util.Properties, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.SuiteGenerator org.testng.xml.LaunchSuite createProxiedXmlSuite(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlClass java.lang.String listToString(java.util.List&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlUtils void dumpParameters(org.testng.reporters.XMLStringBuffer, java.util.Map&lt;java.lang.String,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlTest java.util.Map&lt;java.lang.String,java.lang.String&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.Parser TESTNG_DTD_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite CONTINUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite SKIP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlClass XmlClass(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlInclude java.util.Map&lt;java.lang.String,java.lang.String&gt; getAllParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlSuite java.util.Map&lt;java.lang.String,java.lang.String&gt; getAllParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlClass java.util.Map&lt;java.lang.String,java.lang.String&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlTest java.util.Map&lt;java.lang.String,java.lang.String&gt; getAllParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite PARALLEL_CLASSES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.Parser DEFAULT_FILENAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite PARALLEL_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite PARALLEL_NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.IPostProcessor java.util.Collection&lt;org.testng.xml.XmlSuite&gt; process(java.util.Collection&lt;org.testng.xml.XmlSuite&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.xml.XmlClass XmlClass(java.lang.Class, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlTest java.util.List&lt;java.lang.String&gt; getExcludedGroups()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite PARALLEL_TESTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlInclude java.util.Map&lt;java.lang.String,java.lang.String&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.SuiteGenerator org.testng.xml.LaunchSuite createCustomizedSuite(java.lang.String, java.util.Collection&lt;java.lang.String&gt;, java.util.Collection&lt;java.lang.String&gt;, java.util.Collection&lt;java.lang.String&gt;, java.util.Collection&lt;java.lang.String&gt;, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.SuiteGenerator org.testng.xml.LaunchSuite createSuite(java.lang.String, java.util.Collection&lt;java.lang.String&gt;, java.util.Map&lt;java.lang.String,java.util.Collection&lt;java.lang.String&gt;&gt;, java.util.Collection&lt;java.lang.String&gt;, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlClass java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlClass java.util.Map&lt;java.lang.String,java.lang.String&gt; getAllParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlTest java.util.List&lt;java.lang.Integer&gt; getInvocationNumbers(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.Parser java.util.List&lt;org.testng.xml.XmlSuite&gt; parseToList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlSuite PARALLEL_INSTANCES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.xml.XmlSuite java.util.Collection&lt;java.lang.String&gt; getPackageNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.LaunchSuite java.io.File save(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.xml.Parser TESTNG_DTD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlTest java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.xml.XmlTest java.util.List&lt;java.lang.String&gt; getIncludedGroups()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

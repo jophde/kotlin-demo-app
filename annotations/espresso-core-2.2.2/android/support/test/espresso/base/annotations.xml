@@ -1,0 +1,203 @@
+<root>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideLifecycleMonitorFactory android.support.test.runner.lifecycle.ActivityLifecycleMonitor get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule android.support.test.espresso.base.AsyncTaskPoolMonitor provideCompatAsyncTaskMonitor(android.support.test.espresso.base.ThreadPoolExecutorExtractor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideMainLooperFactory android.os.Looper get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.IdlingResourceRegistry_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.IdlingResourceRegistry&gt; create(javax.inject.Provider&lt;android.os.Looper&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideCompatAsyncTaskMonitorFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.AsyncTaskPoolMonitor&gt; create(android.support.test.espresso.base.BaseLayerModule, javax.inject.Provider&lt;android.support.test.espresso.base.ThreadPoolExecutorExtractor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideMainThreadExecutorFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideActiveRootListerFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.ActiveRootLister&gt; create(android.support.test.espresso.base.BaseLayerModule, javax.inject.Provider&lt;android.support.test.espresso.base.RootsOracle&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideFailureHanderFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule.FailureHandlerHolder_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.BaseLayerModule.FailureHandlerHolder&gt; create(javax.inject.Provider&lt;android.support.test.espresso.FailureHandler&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideActiveRootListerFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.DefaultFailureHandler DefaultFailureHandler(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootsOracle_Factory android.support.test.espresso.base.RootsOracle get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideEventInjectorFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideSdkAsyncTaskMonitorFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.AsyncTaskPoolMonitor&gt; create(android.support.test.espresso.base.BaseLayerModule, javax.inject.Provider&lt;android.support.test.espresso.base.ThreadPoolExecutorExtractor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootViewPicker_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideLifecycleMonitorFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideMainLooperFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.os.Looper&gt; create(android.support.test.espresso.base.BaseLayerModule)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideRecyclerFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.Recycler&gt; create(android.support.test.espresso.base.BaseLayerModule)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.UiControllerModule_ProvideUiControllerFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule android.support.test.espresso.base.Recycler provideRecycler()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideLifecycleMonitorFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.runner.lifecycle.ActivityLifecycleMonitor&gt; create(android.support.test.espresso.base.BaseLayerModule)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule android.support.test.espresso.base.EventInjector provideEventInjector()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.IdlingResourceRegistry_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideTargetContextFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.content.Context&gt; create(android.support.test.espresso.base.BaseLayerModule)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ActiveRootLister java.util.List&lt;android.support.test.espresso.Root&gt; listActiveRoots()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideEventInjectorFactory android.support.test.espresso.base.EventInjector get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.UiControllerModule_ProvideUiControllerFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.UiController&gt; create(android.support.test.espresso.base.UiControllerModule, javax.inject.Provider&lt;android.support.test.espresso.base.UiControllerImpl&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideMainThreadExecutorFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;java.util.concurrent.Executor&gt; create(android.support.test.espresso.base.BaseLayerModule, javax.inject.Provider&lt;android.os.Looper&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideTargetContextFactory android.content.Context get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.IdlingResourceRegistry_Factory android.support.test.espresso.base.IdlingResourceRegistry get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.UiControllerImpl_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule.FailureHandlerHolder_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideEventInjectorFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.EventInjector&gt; create(android.support.test.espresso.base.BaseLayerModule)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootViewPicker java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideTargetContextFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ViewFinderImpl_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.ViewFinderImpl&gt; create(javax.inject.Provider&lt;org.hamcrest.Matcher&lt;android.view.View&gt;&gt;, javax.inject.Provider&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootsOracle_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ThreadPoolExecutorExtractor_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.ThreadPoolExecutorExtractor&gt; create(javax.inject.Provider&lt;android.os.Looper&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.IdlingResourceRegistry void registerLooper(android.os.Looper, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.UiControllerModule_ProvideUiControllerFactory android.support.test.espresso.UiController get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule android.support.test.espresso.base.AsyncTaskPoolMonitor provideSdkAsyncTaskMonitor(android.support.test.espresso.base.ThreadPoolExecutorExtractor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideMainLooperFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideActiveRootListerFactory android.support.test.espresso.base.ActiveRootLister get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideRecyclerFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ViewFinderImpl_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootsOracle_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.RootsOracle&gt; create(javax.inject.Provider&lt;android.os.Looper&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule java.util.concurrent.Executor provideMainThreadExecutor(android.os.Looper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.UiControllerImpl_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.UiControllerImpl&gt; create(javax.inject.Provider&lt;android.support.test.espresso.base.EventInjector&gt;, javax.inject.Provider&lt;android.support.test.espresso.base.AsyncTaskPoolMonitor&gt;, javax.inject.Provider&lt;android.support.test.espresso.base.AsyncTaskPoolMonitor&gt;, javax.inject.Provider&lt;android.support.test.espresso.base.IdlingResourceRegistry&gt;, javax.inject.Provider&lt;android.os.Looper&gt;, javax.inject.Provider&lt;android.support.test.espresso.base.Recycler&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideFailureHanderFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.FailureHandler&gt; create(android.support.test.espresso.base.BaseLayerModule)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootViewPicker_Factory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.base.RootViewPicker&gt; create(javax.inject.Provider&lt;android.support.test.espresso.base.ActiveRootLister&gt;, javax.inject.Provider&lt;android.support.test.espresso.UiController&gt;, javax.inject.Provider&lt;android.support.test.runner.lifecycle.ActivityLifecycleMonitor&gt;, javax.inject.Provider&lt;java.util.concurrent.atomic.AtomicReference&lt;org.hamcrest.Matcher&lt;android.support.test.espresso.Root&gt;&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideSdkAsyncTaskMonitorFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule android.support.test.espresso.base.AsyncTaskPoolMonitor provideSdkAsyncTaskMonitor(android.support.test.espresso.base.ThreadPoolExecutorExtractor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideFailureHandlerFactory android.support.test.espresso.core.deps.dagger.internal.Factory&lt;android.support.test.espresso.FailureHandler&gt; create(android.support.test.espresso.base.BaseLayerModule, javax.inject.Provider&lt;android.support.test.espresso.base.BaseLayerModule.FailureHandlerHolder&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ThreadPoolExecutorExtractor_Factory android.support.test.espresso.base.ThreadPoolExecutorExtractor get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.UiControllerImpl_Factory android.support.test.espresso.base.UiControllerImpl get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ViewFinderImpl_Factory android.support.test.espresso.base.ViewFinderImpl get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule.FailureHandlerHolder_Factory android.support.test.espresso.base.BaseLayerModule.FailureHandlerHolder get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideFailureHandlerFactory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideFailureHandlerFactory android.support.test.espresso.FailureHandler get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.ThreadPoolExecutorExtractor_Factory java.lang.Object get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideSdkAsyncTaskMonitorFactory android.support.test.espresso.base.AsyncTaskPoolMonitor get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideMainThreadExecutorFactory java.util.concurrent.Executor get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideRecyclerFactory android.support.test.espresso.base.Recycler get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.BaseLayerModule_ProvideFailureHanderFactory android.support.test.espresso.FailureHandler get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootViewPicker_Factory android.support.test.espresso.base.RootViewPicker get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.base.RootViewPicker android.view.View get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

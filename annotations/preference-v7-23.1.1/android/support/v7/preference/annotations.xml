@@ -1,0 +1,348 @@
+<root>
+    <item
+        name='android.support.v7.preference.CheckBoxPreference CheckBoxPreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat boolean onPreferenceTreeClick(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.SwitchPreferenceCompat SwitchPreferenceCompat(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter void onBindViewHolder(android.support.v7.widget.RecyclerView.ViewHolder, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreference EditTextPreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.SwitchPreferenceCompat void onBindViewHolder(android.support.v7.preference.PreferenceViewHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter void onBindViewHolder(android.support.v7.preference.PreferenceViewHolder, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager android.support.v7.preference.PreferenceScreen inflateFromResource(android.content.Context, int, android.support.v7.preference.PreferenceScreen)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.TwoStatePreference java.lang.Object onGetDefaultValue(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference void onBindViewHolder(android.support.v7.preference.PreferenceViewHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceCategory PreferenceCategory(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.PreferenceFragmentCompat ARG_PREFERENCE_ROOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat android.support.v7.widget.RecyclerView onCreateRecyclerView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.SwitchPreferenceCompat SwitchPreferenceCompat(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference void onAttachedToHierarchy(android.support.v7.preference.PreferenceManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreferenceDialogFragmentCompat void onBindDialogView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat android.support.v7.widget.RecyclerView.Adapter onCreateAdapter(android.support.v7.preference.PreferenceScreen)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreference java.lang.Object onGetDefaultValue(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference int compareTo(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.TwoStatePreference TwoStatePreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroup PreferenceGroup(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.SwitchPreferenceCompat SwitchPreferenceCompat(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat android.support.v7.widget.RecyclerView.LayoutManager onCreateLayoutManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreference EditTextPreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreference ListPreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference Preference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter android.support.v7.preference.PreferenceViewHolder onCreateViewHolder(android.view.ViewGroup, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager void setDefaultValues(android.content.Context, java.lang.String, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.TwoStatePreference void syncSummaryView(android.support.v7.preference.PreferenceViewHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceCategory boolean onPrepareAddPreference(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference Preference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceCategory PreferenceCategory(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceScreen PreferenceScreen(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreference ListPreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager void setDefaultValues(android.content.Context, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.DialogPreference DialogPreference(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter android.support.v7.preference.PreferenceViewHolder onCreateViewHolder(android.view.ViewGroup, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceCategory PreferenceCategory(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager android.support.v7.preference.PreferenceScreen createPreferenceScreen(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceDialogFragmentCompat void onBindDialogView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreference EditTextPreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.DialogPreference DialogPreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.Preference.BaseSavedState CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.Preference int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.Preference Preference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreferenceDialogFragmentCompat void onPrepareDialogBuilder(android.support.v7.app.AlertDialog.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.PreferenceManager KEY_HAS_SET_DEFAULT_VALUES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter void onPreferenceVisibilityChange(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager.OnPreferenceTreeClickListener boolean onPreferenceTreeClick(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreferenceDialogFragmentCompat android.support.v7.preference.EditTextPreferenceDialogFragmentCompat newInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.preference.PreferenceDialogFragmentCompat ARG_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroup PreferenceGroup(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroup boolean onPrepareAddPreference(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter android.support.v7.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreference ListPreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.CheckBoxPreference CheckBoxPreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroup boolean removePreference(android.support.v7.preference.Preference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.TwoStatePreference TwoStatePreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.CheckBoxPreference CheckBoxPreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.CheckBoxPreference void onBindViewHolder(android.support.v7.preference.PreferenceViewHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager android.support.v7.preference.PreferenceScreen createPreferenceScreen(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference Preference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceCategory PreferenceCategory(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager android.content.SharedPreferences getDefaultSharedPreferences(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceDialogFragmentCompat void onPrepareDialogBuilder(android.support.v7.app.AlertDialog.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceFragmentCompat android.support.v7.widget.RecyclerView onCreateRecyclerView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.DialogPreference DialogPreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreference java.lang.Object onGetDefaultValue(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.SwitchPreferenceCompat SwitchPreferenceCompat(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.TwoStatePreference TwoStatePreference(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.TwoStatePreference TwoStatePreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.EditTextPreference EditTextPreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreference ListPreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.ListPreferenceDialogFragmentCompat android.support.v7.preference.ListPreferenceDialogFragmentCompat newInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceManager PreferenceManager(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.DialogPreference DialogPreference(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.Preference java.lang.Object onGetDefaultValue(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='android.support.v7.preference.CheckBoxPreference CheckBoxPreference(android.content.Context, android.util.AttributeSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroupAdapter android.support.v7.widget.RecyclerView.ViewHolder onCreateViewHolder(android.view.ViewGroup, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='android.support.v7.preference.PreferenceGroup PreferenceGroup(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,54 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.circular.AbstractLogCircularDependencyStrategy void logCircularDependency(org.apache.ivy.core.module.id.ModuleRevisionId[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.CircularDependencyException CircularDependencyException(org.apache.ivy.core.module.id.ModuleRevisionId[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.ErrorCircularDependencyStrategy org.apache.ivy.plugins.circular.CircularDependencyStrategy getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.IgnoreCircularDependencyStrategy org.apache.ivy.plugins.circular.CircularDependencyStrategy getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.WarnCircularDependencyStrategy void logCircularDependency(org.apache.ivy.core.module.id.ModuleRevisionId[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.CircularDependencyHelper java.lang.String formatMessageFromDescriptors(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.IgnoreCircularDependencyStrategy void logCircularDependency(org.apache.ivy.core.module.id.ModuleRevisionId[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.CircularDependencyHelper java.lang.String formatMessage(org.apache.ivy.core.module.id.ModuleRevisionId[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.WarnCircularDependencyStrategy org.apache.ivy.plugins.circular.CircularDependencyStrategy getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.CircularDependencyHelper java.lang.String formatMessage(org.apache.ivy.core.module.descriptor.ModuleDescriptor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.CircularDependencyHelper org.apache.ivy.core.module.id.ModuleRevisionId[] toMrids(org.apache.ivy.core.module.descriptor.ModuleDescriptor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.circular.CircularDependencyHelper org.apache.ivy.core.module.id.ModuleRevisionId[] toMrids(org.apache.ivy.core.module.descriptor.ModuleDescriptor[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

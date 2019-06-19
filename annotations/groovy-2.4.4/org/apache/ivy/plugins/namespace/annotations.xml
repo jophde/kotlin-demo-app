@@ -1,0 +1,49 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.descriptor.DependencyDescriptor transform(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.NamespaceTransformer, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.namespace.Namespace SYSTEM_NAMESPACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.descriptor.Artifact transform(org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.plugins.namespace.NamespaceTransformer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.descriptor.DependencyDescriptor toSystem(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.Namespace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.report.MetadataArtifactDownloadReport transform(org.apache.ivy.core.report.MetadataArtifactDownloadReport, org.apache.ivy.plugins.namespace.NamespaceTransformer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.descriptor.DependencyDescriptor transform(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.NamespaceTransformer, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper java.lang.String transformOrganisation(java.lang.String, org.apache.ivy.plugins.namespace.NamespaceTransformer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.descriptor.ModuleDescriptor toSystem(org.apache.ivy.core.module.descriptor.ModuleDescriptor, org.apache.ivy.plugins.namespace.Namespace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.id.ArtifactId transform(org.apache.ivy.core.module.id.ArtifactId, org.apache.ivy.plugins.namespace.NamespaceTransformer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.id.ModuleId transform(org.apache.ivy.core.module.id.ModuleId, org.apache.ivy.plugins.namespace.NamespaceTransformer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.resolve.ResolvedModuleRevision toSystem(org.apache.ivy.core.resolve.ResolvedModuleRevision, org.apache.ivy.plugins.namespace.Namespace) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.namespace.NameSpaceHelper org.apache.ivy.core.module.descriptor.DependencyDescriptor transform(org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.plugins.namespace.NamespaceTransformer, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

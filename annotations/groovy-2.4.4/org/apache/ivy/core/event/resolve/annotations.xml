@@ -1,0 +1,42 @@
+<root>
+    <item
+        name='org.apache.ivy.core.event.resolve.EndResolveDependencyEvent EndResolveDependencyEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolvedModuleRevision, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.resolve.EndResolveDependencyEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.resolve.EndResolveEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.resolve.EndResolveDependencyEvent EndResolveDependencyEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.resolve.ResolvedModuleRevision, long) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.resolve.EndResolveEvent EndResolveEvent(org.apache.ivy.core.module.descriptor.ModuleDescriptor, java.lang.String[], org.apache.ivy.core.report.ResolveReport) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.resolve.StartResolveDependencyEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.resolve.StartResolveEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.resolve.ResolveDependencyEvent ResolveDependencyEvent(java.lang.String, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.resolve.StartResolveDependencyEvent StartResolveDependencyEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.resolve.ResolveDependencyEvent ResolveDependencyEvent(java.lang.String, org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.resolve.StartResolveDependencyEvent StartResolveDependencyEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.DependencyDescriptor, org.apache.ivy.core.module.id.ModuleRevisionId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

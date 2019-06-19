@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.trigger.LogTrigger void progress(org.apache.ivy.core.event.IvyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

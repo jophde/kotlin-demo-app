@@ -1,0 +1,122 @@
+<root>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.SunNative2Ascii void setup(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.optional.Native2Ascii) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii void addFiles(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent, java.io.File, java.io.File) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.SunNative2Ascii void setup(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.optional.Native2Ascii) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii void addFiles(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent, java.io.File, java.io.File) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.KaffeNative2Ascii void setup(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.optional.Native2Ascii) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii void addFiles(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent, java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.KaffeNative2Ascii void setup(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.optional.Native2Ascii) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.Native2AsciiAdapterFactory java.lang.String getDefault()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii boolean convert(org.apache.tools.ant.taskdefs.optional.Native2Ascii, java.io.File, java.io.File) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii void setup(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.optional.Native2Ascii) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii boolean run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii void setup(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.taskdefs.optional.Native2Ascii) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii boolean run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii boolean convert(org.apache.tools.ant.taskdefs.optional.Native2Ascii, java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.DefaultNative2Ascii boolean convert(org.apache.tools.ant.taskdefs.optional.Native2Ascii, java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.KaffeNative2Ascii IMPLEMENTATION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.SunNative2Ascii boolean run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.SunNative2Ascii IMPLEMENTATION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.SunNative2Ascii boolean run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.KaffeNative2Ascii boolean run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.KaffeNative2Ascii boolean run(org.apache.tools.ant.types.Commandline, org.apache.tools.ant.ProjectComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.Native2AsciiAdapter boolean convert(org.apache.tools.ant.taskdefs.optional.Native2Ascii, java.io.File, java.io.File) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.Native2AsciiAdapter boolean convert(org.apache.tools.ant.taskdefs.optional.Native2Ascii, java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.native2ascii.Native2AsciiAdapter boolean convert(org.apache.tools.ant.taskdefs.optional.Native2Ascii, java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

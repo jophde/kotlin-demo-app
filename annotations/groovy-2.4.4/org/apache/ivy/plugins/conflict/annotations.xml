@@ -1,0 +1,82 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.conflict.ConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.FixedConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.LatestConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.AbstractConflictManager void handleAllBlacklistedRevisions(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.RegexpConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.AbstractConflictManager void setSettings(org.apache.ivy.core.settings.IvySettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.StrictConflictException StrictConflictException(org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.IvyNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.LatestCompatibleConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.StrictConflictException StrictConflictException(org.apache.ivy.core.resolve.IvyNode, org.apache.ivy.core.resolve.IvyNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.ConflictManager void handleAllBlacklistedRevisions(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.LatestConflictManager org.apache.ivy.plugins.latest.ArtifactInfo[] toArtifactInfo(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.NoConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.FixedConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.LatestCompatibleConflictManager void handleAllBlacklistedRevisions(org.apache.ivy.core.module.descriptor.DependencyDescriptor, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.conflict.StrictConflictManager java.util.Collection resolveConflicts(org.apache.ivy.core.resolve.IvyNode, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

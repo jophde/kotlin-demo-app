@@ -1,0 +1,70 @@
+<root>
+    <item name='org.codehaus.groovy.runtime.m12n.PropertiesModuleFactory MODULE_NAME_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner.ExtensionModuleListener void onModule(org.codehaus.groovy.runtime.m12n.ExtensionModule) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.ExtensionModuleRegistry java.util.List&lt;org.codehaus.groovy.runtime.m12n.ExtensionModule&gt; getModules()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule MODULE_STATIC_CLASSES_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.ExtensionModule java.util.List&lt;groovy.lang.MetaMethod&gt; getMetaMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner MODULE_META_INF_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule newModule(java.util.Properties, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.StandardPropertiesModuleFactory org.codehaus.groovy.runtime.m12n.ExtensionModule newModule(java.util.Properties, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule MODULE_INSTANCE_CLASSES_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.StandardPropertiesModuleFactory MODULE_FACTORY_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.SimpleExtensionModule java.util.List&lt;groovy.lang.MetaMethod&gt; getMetaMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner void scanExtensionModuleFromProperties(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.codehaus.groovy.runtime.m12n.PropertiesModuleFactory MODULE_VERSION_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.PropertiesModuleFactory org.codehaus.groovy.runtime.m12n.ExtensionModule newModule(java.util.Properties, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule newModule(java.util.Properties, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,88 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.report.LogReportOutputter void output(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.LogReportOutputter void output(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportWriter void output(org.apache.ivy.core.report.ConfigurationResolveReport, java.lang.String[], java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportWriter void output(org.apache.ivy.core.report.ConfigurationResolveReport, java.lang.String[], java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.report.LogReportOutputter java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.ReportOutputter void output(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportWriter void output(org.apache.ivy.core.report.ConfigurationResolveReport, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.report.ReportOutputter CONSOLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.ReportOutputter void output(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportOutputter void output(org.apache.ivy.core.report.ConfigurationResolveReport, java.lang.String, java.lang.String[], org.apache.ivy.core.cache.ResolutionCacheManager) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportOutputter void output(org.apache.ivy.core.report.ConfigurationResolveReport, java.lang.String, java.lang.String[], org.apache.ivy.core.cache.ResolutionCacheManager) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportOutputter void output(org.apache.ivy.core.report.ConfigurationResolveReport, java.lang.String, java.lang.String[], org.apache.ivy.core.cache.ResolutionCacheManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportOutputter void output(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.XmlReportOutputter void output(org.apache.ivy.core.report.ResolveReport, org.apache.ivy.core.cache.ResolutionCacheManager, org.apache.ivy.core.resolve.ResolveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.report.XmlReportParser void parse(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.report.ReportOutputter java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.plugins.report.ReportOutputter XML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.plugins.report.XmlReportOutputter java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.report.LogReportOutputter void output(org.apache.ivy.core.report.ConfigurationResolveReport) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

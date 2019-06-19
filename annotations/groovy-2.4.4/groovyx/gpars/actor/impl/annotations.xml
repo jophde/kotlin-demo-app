@@ -1,0 +1,100 @@
+<root>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream.RemoteMessageStream groovyx.gpars.actor.impl.MessageStream send(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.Actor start()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor java.lang.Object receive(groovy.time.BaseDuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor void setParallelGroup(groovyx.gpars.group.PGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.actor.impl.ActorException TERMINATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream.RemoteMessageStream groovyx.gpars.actor.impl.MessageStream send(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.Actor stop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.DDAClosure groovy.lang.Closure createDDAClosure(groovyx.gpars.actor.DynamicDispatchActor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream groovyx.gpars.actor.impl.MessageStream send(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.ActorMessage takeMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.impl.MessageStream send(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.impl.MessageStream send(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SDAClosure groovy.lang.Closure createSDAClosure(groovyx.gpars.actor.StaticDispatchActor&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream java.lang.Class&lt;groovyx.gpars.actor.impl.MessageStream.RemoteMessageStream&gt; getRemoteClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.actor.impl.ActorException STOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.ActorMessage takeMessage(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.Actor terminate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream java.lang.Object sendAndWait(T, groovy.time.Duration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream java.lang.Object sendAndWait(T, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.SequentialProcessingActor groovyx.gpars.actor.impl.SequentialProcessingActor start()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.actor.impl.MessageStream.SendTo void execute(groovyx.gpars.remote.RemoteConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,330 @@
+<root>
+    <item
+        name='org.multiverse.collections.NaiveTxnStack boolean offer(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList void putLast(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.AbstractTxnMap stm'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E getLast(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.AbstractTxnMap AbstractTxnMap(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnQueue newQueue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnStack newStack()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList void addFirst(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList void putLast(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList E removeFirst(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection AbstractTxnCollection(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList boolean offerFirst(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnMap void putAll(java.util.Map&lt;? extends K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E getFirst(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E remove()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection boolean addAll(org.multiverse.api.Txn, java.util.Collection&lt;? extends E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection boolean addAll(java.util.Collection&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnDeque newDeque()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnLinkedList&lt;E&gt; newQueue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection boolean addAll(org.multiverse.api.collections.TxnCollection&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnLinkedList&lt;E&gt; newLinkedList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory NaiveTxnCollectionFactory(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnSet newHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList boolean offer(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E remove(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnStack boolean add(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList void addLast(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.AbstractTxnCollection stm'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnHashMap&lt;K,V&gt; newHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnLinkedList&lt;E&gt; newQueue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnStack&lt;E&gt; newStack(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList boolean offerFirst(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList void push(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList void put(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.AbstractTxnMap org.multiverse.api.Stm getStm()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection boolean containsAll(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnLinkedList&lt;E&gt; newDeque()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnStack&lt;E&gt; newStack()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection boolean addAll(org.multiverse.api.Txn, org.multiverse.api.collections.TxnCollection&lt;? extends E&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnStack org.multiverse.api.collections.TxnIterator&lt;E&gt; iterator(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnDeque newDeque(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E pop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList boolean offerLast(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnStack java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E element()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnHashSet java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList boolean add(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnStack void push(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList void putFirst(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnStack void push(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnList newLinkedList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnStack NaiveTxnStack(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnMap newHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnMap void putAll(org.multiverse.api.Txn, java.util.Map&lt;? extends K,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnHashMap NaiveTxnHashMap(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnStack NaiveTxnStack(org.multiverse.api.Stm, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList boolean offerLast(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E removeLast()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnHashSet&lt;E&gt; newHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E element(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnHashMap java.lang.String toString(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList boolean offer(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.AbstractTxnCollection org.multiverse.api.Stm getStm()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnHashSet boolean add(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E getLast()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList void addLast(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E pop(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.AbstractTxnCollection boolean containsAll(org.multiverse.api.Txn, java.util.Collection&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.collections.NaiveTxnLinkedList&lt;E&gt; newDeque(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.collections.TxnQueue newQueue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnHashSet NaiveTxnHashSet(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList void putFirst(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E removeLast(org.multiverse.api.Txn)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnHashMap V put(org.multiverse.api.Txn, K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList NaiveTxnLinkedList(org.multiverse.api.Stm) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnCollectionFactory org.multiverse.api.Stm getStm()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnHashMap java.lang.String toString(org.multiverse.api.Txn) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList void addFirst(org.multiverse.api.Txn, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.multiverse.collections.NaiveTxnLinkedList NaiveTxnLinkedList(org.multiverse.api.Stm, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E getFirst()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList void put(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList E removeFirst()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.collections.NaiveTxnLinkedList void push(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

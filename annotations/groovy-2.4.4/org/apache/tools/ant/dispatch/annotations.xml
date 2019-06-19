@@ -1,0 +1,14 @@
+<root>
+    <item
+        name='org.apache.tools.ant.dispatch.DispatchTask java.lang.String getActionParameterName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.dispatch.Dispatchable java.lang.String getActionParameterName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

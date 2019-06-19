@@ -1,0 +1,223 @@
+<root>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_NAME_OPTIONAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_USE_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser org.apache.ivy.osgi.core.BundleInfo parseManifest(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser org.apache.ivy.osgi.core.BundleInfo parseManifest(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_NAME_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfo BUNDLE_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfo PACKAGE_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.OSGiManifestParser java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.id.ModuleRevisionId asMrid(java.lang.String, java.lang.String, org.apache.ivy.osgi.util.Version) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfo java.util.Set&lt;org.apache.ivy.osgi.core.BundleCapability&gt; getServices()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ExportPackage java.util.Set&lt;java.lang.String&gt; getUses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.OSGiManifestParser java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfo EXECUTION_ENVIRONMENT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfo java.util.Set&lt;org.apache.ivy.osgi.core.BundleRequirement&gt; getRequires()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter java.util.List&lt;java.lang.String&gt; getConfigurations(org.apache.ivy.osgi.core.BundleInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_NAME_TRANSITIVE_OPTIONAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor toModuleDescriptor(org.apache.ivy.plugins.parser.ModuleDescriptorParser, java.net.URI, org.apache.ivy.osgi.core.BundleInfo, java.util.jar.Manifest, org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_TRANSITIVE_OPTIONAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.osgi.core.OSGiManifestParser getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfo java.util.Set&lt;org.apache.ivy.osgi.core.ExportPackage&gt; getExports()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestHeaderValue void writeParseException(java.io.PrintStream, java.lang.String, java.text.ParseException) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser boolean accept(org.apache.ivy.plugins.repository.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser void toIvyFile(java.io.InputStream, org.apache.ivy.plugins.repository.Resource, java.io.File, org.apache.ivy.core.module.descriptor.ModuleDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.id.ModuleRevisionId asMrid(java.lang.String, java.lang.String, org.apache.ivy.osgi.util.VersionRange) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser org.apache.ivy.osgi.core.BundleInfo parseManifest(java.util.jar.Manifest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider java.util.Map&lt;java.lang.String,org.apache.ivy.osgi.core.ExecutionEnvironmentProfile&gt; loadDefaultProfileList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser org.apache.ivy.osgi.core.BundleInfo parseManifest(java.util.jar.Manifest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfo SERVICE_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfo DEFAULT_VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter CONF_OPTIONAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor toModuleDescriptor(org.apache.ivy.plugins.parser.ModuleDescriptorParser, java.net.URI, org.apache.ivy.osgi.core.BundleInfo, java.util.jar.Manifest, org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.core.BundleInfoAdapter EXTRA_INFO_EXPORT_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser java.lang.String formatLines(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter java.net.URI buildIvyURI(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfo void setExecutionEnvironments(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.Artifact getMetadataArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.plugins.repository.Resource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter java.util.List&lt;java.lang.String&gt; getConfigurations(org.apache.ivy.osgi.core.BundleInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestHeaderValue void writeParseException(java.io.PrintStream, java.lang.String, java.text.ParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor toModuleDescriptor(org.apache.ivy.plugins.parser.ModuleDescriptorParser, java.net.URI, org.apache.ivy.osgi.core.BundleInfo, org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter java.net.URI buildIvyURI(org.apache.ivy.core.module.descriptor.Artifact)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser org.apache.ivy.osgi.core.BundleInfo parseManifest(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.descriptor.DefaultArtifact buildArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.net.URI, java.net.URI, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.descriptor.DefaultArtifact buildArtifact(org.apache.ivy.core.module.id.ModuleRevisionId, java.net.URI, java.net.URI, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfoAdapter org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor toModuleDescriptor(org.apache.ivy.plugins.parser.ModuleDescriptorParser, java.net.URI, org.apache.ivy.osgi.core.BundleInfo, org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.OSGiManifestParser org.apache.ivy.core.module.descriptor.ModuleDescriptor parseDescriptor(org.apache.ivy.plugins.parser.ParserSettings, java.net.URL, org.apache.ivy.plugins.repository.Resource, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.BundleInfo java.util.Set&lt;org.apache.ivy.osgi.core.BundleRequirement&gt; getImports()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.core.ManifestParser org.apache.ivy.osgi.core.BundleInfo parseManifest(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,53 @@
+<root>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.BuilderStep io.realm.internal.async.QueryUpdateTask build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.RealmConfigurationStep io.realm.internal.async.QueryUpdateTask.Builder.UpdateQueryStep realmConfiguration(io.realm.RealmConfiguration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.RealmResultsQueryStep io.realm.internal.async.QueryUpdateTask.Builder.RealmResultsQueryStep add(java.lang.ref.WeakReference&lt;io.realm.RealmResults&lt;? extends io.realm.RealmObject&gt;&gt;, long, io.realm.internal.async.ArgumentsHolder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Result io.realm.internal.async.QueryUpdateTask.Result newRealmObjectResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.UpdateQueryStep io.realm.internal.async.QueryUpdateTask.Builder.HandlerStep addObject(java.lang.ref.WeakReference&lt;? extends io.realm.RealmObject&gt;, long, io.realm.internal.async.ArgumentsHolder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask io.realm.internal.async.QueryUpdateTask.Builder.RealmConfigurationStep newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.RealmResultsQueryStep io.realm.internal.async.QueryUpdateTask.Builder.BuilderStep sendToHandler(android.os.Handler, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.UpdateQueryStep io.realm.internal.async.QueryUpdateTask.Builder.RealmResultsQueryStep add(java.lang.ref.WeakReference&lt;io.realm.RealmResults&lt;? extends io.realm.RealmObject&gt;&gt;, long, io.realm.internal.async.ArgumentsHolder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Result io.realm.internal.async.QueryUpdateTask.Result newRealmResultsResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.async.QueryUpdateTask.Builder.HandlerStep io.realm.internal.async.QueryUpdateTask.Builder.BuilderStep sendToHandler(android.os.Handler, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

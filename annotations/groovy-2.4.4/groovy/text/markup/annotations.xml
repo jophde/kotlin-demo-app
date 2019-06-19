@@ -1,0 +1,180 @@
+<root>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate yieldUnescaped(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTemplate(java.io.Reader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTemplate(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.text.markup.BaseTemplate java.lang.String stringOf(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate java.lang.Object fragment(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.TemplateResolver void configure(java.lang.ClassLoader, groovy.text.markup.TemplateConfiguration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTypeCheckedModelTemplate(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.TemplateConfiguration TemplateConfiguration(groovy.text.markup.TemplateConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTemplateByPath(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.text.markup.DelegatingIndentWriter SPACES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine.TemplateResource groovy.text.markup.MarkupTemplateEngine.TemplateResource withLocale(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTemplate(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTypeCheckedModelTemplate(java.io.Reader, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate yield(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate java.lang.Object methodMissing(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.text.markup.TemplateResolver java.net.URL resolveTemplate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate pi(java.util.Map&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.text.markup.DelegatingIndentWriter TAB'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTemplate(java.io.Reader, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine.DefaultTemplateResolver void configure(java.lang.ClassLoader, groovy.text.markup.TemplateConfiguration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate xmlDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate java.lang.Object layout(java.util.Map, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine org.codehaus.groovy.control.CompilerConfiguration getCompilerConfiguration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine.CachingTemplateResolver java.net.URL resolveTemplate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTypeCheckedModelTemplate(java.io.Reader, java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTypeCheckedModelTemplateByPath(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate comment(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate java.lang.Object layout(java.util.Map, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.lang.Closure contents(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate yieldUnescaped(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine MarkupTemplateEngine(java.lang.ClassLoader, java.io.File, groovy.text.markup.TemplateConfiguration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine.DefaultTemplateResolver java.net.URL resolveTemplate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate yield(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate pi(java.util.Map&lt;?,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine.TemplateResource groovy.text.markup.MarkupTemplateEngine.TemplateResource parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTypeCheckedModelTemplate(java.lang.String, java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.BaseTemplate groovy.text.markup.BaseTemplate comment(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.text.markup.BaseTemplate groovy.lang.Closure contents(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine.CachingTemplateResolver void configure(java.lang.ClassLoader, groovy.text.markup.TemplateConfiguration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTemplate(java.io.Reader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovy.text.markup.MarkupTemplateEngine groovy.text.Template createTypeCheckedModelTemplate(java.net.URL, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

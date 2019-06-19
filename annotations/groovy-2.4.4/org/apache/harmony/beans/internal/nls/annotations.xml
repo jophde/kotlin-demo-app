@@ -1,0 +1,34 @@
+<root>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String getString(java.lang.String, char) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String getString(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String getString(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String getString(java.lang.String, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String format(java.lang.String, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String getString(java.lang.String, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String format(java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.harmony.beans.internal.nls.Messages java.lang.String getString(java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.codehaus.groovy.transform.NotYetImplementedASTTransformation void visit(org.codehaus.groovy.ast.ASTNode[], org.codehaus.groovy.control.SourceUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

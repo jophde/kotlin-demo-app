@@ -1,0 +1,522 @@
+<root>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_RestOfTheChildren(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitNumDouble(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitDynamicMember(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitDynamicMember(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChild_v_RestOfTheChildren(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitEnumConstantDef(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitLiteralNew(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitNumDouble(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitNumInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitNumFloat(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitNumInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitNumFloat(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitMethodCall(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChild_v_RestOfTheChildren_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitNumFloat(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitNumInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitMethodCall(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitEnumConstantDef(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitMethodCall(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitEnumConstantDef(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitLiteralAssert(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitNumDouble(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitDynamicMember(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_SecondChildsChildren_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChild_v_SecondChild_v___LastChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChildsFirstChild_v_RestOfTheChildren(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitNumLong(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void printNewlineAndIndent(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitNumBigDecimal(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_SecondChild(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitMapConstructor(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitNumLong(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstSecondAndThirdChild_v_v_ForthChild(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitNumLong(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChild_2ndv_SecondChild_v___LastChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_RestOfTheChildren_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_SecondChild_v_ThirdChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitIdent(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitMethodCall(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitNumInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitLiteralNew(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitLiteralNew(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitLiteralSynchronized(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitNumFloat(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitNumBigDecimal(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.NodeCollector void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitLiteralSynchronized(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitNumBigInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitNumBigInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitLiteralAssert(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitLiteralAssert(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitNumDouble(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.NodePrinter void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitDynamicMember(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitLiteralAssert(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitEnumConstantDef(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.NodeAsHTMLPrinter void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_RestOfTheChildren_v_LastChild(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitMapConstructor(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitNumBigInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.MindMapPrinter void visitDefault(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitNumBigInt(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitLiteralSynchronized(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitIdent(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitLiteralSynchronized(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitNumBigDecimal(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_FirstChild_v_SecondChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitIdent(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.SourcePrinter void visitLiteralNew(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.CompositeVisitor void visitMapConstructor(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChild_SecondChild_v_ThirdChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitIdent(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitNumBigDecimal(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_SecondChild_v_ThirdChild_v(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.TraversalHelper void accept_v_FirstChildsFirstChild_v_Child2_Child3_v_Child4_v___v_LastChild(org.codehaus.groovy.antlr.GroovySourceAST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.Visitor void visitNumLong(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.codehaus.groovy.antlr.treewalker.VisitorAdapter void visitMapConstructor(org.codehaus.groovy.antlr.GroovySourceAST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

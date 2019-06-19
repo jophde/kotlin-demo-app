@@ -1,0 +1,113 @@
+<root>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setMapper(org.apache.ivy.core.retrieve.FileNameMapper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setArtifactFilter(org.apache.ivy.util.filter.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setMakeSymlinksInMass(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions RetrieveOptions(org.apache.ivy.core.retrieve.RetrieveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine java.util.Map determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine org.apache.ivy.core.retrieve.RetrieveReport retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.retrieve.RetrieveOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.FileNameMapper java.lang.String[] mapFileName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine java.util.Map determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setOverwriteMode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine java.util.Map determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.retrieve.RetrieveOptions OVERWRITEMODE_NEWER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.retrieve.RetrieveOptions OVERWRITEMODE_DIFFERENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setMakeSymlinks(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setResolveId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setSync(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveReport java.util.Collection getUpToDateFiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.retrieve.RetrieveReport java.util.Collection getCopiedFiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine int retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine int retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String, org.apache.ivy.core.retrieve.RetrieveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine org.apache.ivy.core.retrieve.RetrieveReport retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.retrieve.RetrieveOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveReport java.util.Collection getRetrievedFiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setDestArtifactPattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setDestIvyPattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveEngine org.apache.ivy.core.retrieve.RetrieveReport retrieve(org.apache.ivy.core.module.id.ModuleRevisionId, org.apache.ivy.core.retrieve.RetrieveOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.retrieve.RetrieveOptions OVERWRITEMODE_ALWAYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.retrieve.RetrieveOptions OVERWRITEMODE_NEVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setUseOrigin(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.retrieve.RetrieveOptions org.apache.ivy.core.retrieve.RetrieveOptions setConfs(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

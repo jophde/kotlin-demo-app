@@ -1,0 +1,279 @@
+<root>
+    <item name='groovy.ui.text.StructuredSyntaxHandler STYLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor java.awt.print.Printable getPrintable(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler RESOLVE_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ALIGNMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler SPACE_ABOVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter COMMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter DIGIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler STRIKE_THROUGH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler COMPOSED_TEXT_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor FIND_PREVIOUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxResources FIND_NEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter RESERVED_WORD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter SLASHY_QUOTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.GroovyFilter void installAutoTabAction(javax.swing.text.JTextComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter void remove(javax.swing.text.DocumentFilter.FilterBypass, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter HEX_INTEGER_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter SINGLE_QUOTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ALIGN_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler RIGHT_INDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter DECIMAL_INTEGER_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler REGEXP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor AUTO_INDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxDocumentFilter TAB_REPLACEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler TAB_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ALIGN_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler FONT_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxResources PRINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode void putStyle(java.lang.String[], javax.swing.text.Style) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxResources FIND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler SUBSCRIPT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode void removeStyle(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter LEFT_PARENS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler BACKGROUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxResources REDO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter void replace(javax.swing.text.DocumentFilter.FilterBypass, int, int, java.lang.String, javax.swing.text.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxResources REPLACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler SPACE_BELOW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter SLASH_SLASH_COMMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler LEFT_INDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.MultiLineRun MultiLineRun(groovy.ui.text.StructuredSyntaxDocumentFilter, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler FOREGROUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.FindReplaceUtility REPLACE_ALL_ACTION_COMMAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode void putChild(java.lang.String[], groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter OPERATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter QUOTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ALIGN_JUSTIFIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler LINE_SPACING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode void putStyle(java.lang.String, javax.swing.text.Style) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter DECIMAL_FLOATING_POINT_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ICON_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor void processKeyEvent(java.awt.event.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxResources UNDO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter void insertString(javax.swing.text.DocumentFilter.FilterBypass, int, java.lang.String, javax.swing.text.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor FIND_NEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler FONT_FAMILY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode void putChild(java.lang.String[], groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler BOLD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor REPLACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler COMPONENT_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler UNDERLINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler FIRST_LINE_INDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler NAME_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter BINARY_INTEGER_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ALIGN_CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.TextUndoManager void undoableEditHappened(javax.swing.event.UndoableEditEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter OCTAL_INTEGER_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler COMPONENT_ELEMENT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ORIENTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode createLexerNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.FindReplaceUtility FIND_ACTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ICON_ELEMENT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.MultiLineRun MultiLineRun(groovy.ui.text.StructuredSyntaxDocumentFilter, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode void putChild(java.lang.String, groovy.ui.text.StructuredSyntaxDocumentFilter.LexerNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter IDENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.FindReplaceUtility FIND_ACTION_COMMAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.TextEditor FIND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.FindReplaceUtility void registerTextComponent(javax.swing.text.JTextComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter HEXADECIMAL_FLOATING_POINT_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter SLASH_STAR_COMMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler BIDI_LEVEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler MODEL_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler SUPERSCRIPT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.FindReplaceUtility CLOSE_ACTION_COMMAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.ui.text.FindReplaceUtility void unregisterTextComponent(javax.swing.text.JTextComponent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.FindReplaceUtility REPLACE_ACTION_COMMAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.GroovyFilter RESERVED_WORDS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.ui.text.StructuredSyntaxHandler ITALIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

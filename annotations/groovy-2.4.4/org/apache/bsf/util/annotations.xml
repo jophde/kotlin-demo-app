@@ -1,0 +1,204 @@
+<root>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils void setField(java.lang.Object, java.lang.String, org.apache.bsf.util.Bean, org.apache.bsf.util.type.TypeConvertorRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.StringUtils java.io.Reader getContentAsReader(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils org.apache.bsf.util.Bean createBean(java.lang.ClassLoader, java.lang.String, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils org.apache.bsf.util.Bean getProperty(java.lang.Object, java.lang.String, java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils void setField(java.lang.Object, java.lang.String, org.apache.bsf.util.Bean, org.apache.bsf.util.type.TypeConvertorRegistry) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils void setProperty(java.lang.Object, java.lang.String, java.lang.Integer, java.lang.Object, java.lang.Class, org.apache.bsf.util.type.TypeConvertorRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.StringUtils java.io.Reader getContentAsReader(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFFunctions void addEventListener(java.lang.Object, java.lang.String, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils void addEventListenerReturningEventInfos(java.lang.Object, java.lang.String, java.lang.String, org.apache.bsf.BSFEngine, org.apache.bsf.BSFManager, java.lang.String, int, int, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.MethodUtils java.lang.reflect.Method getMethod(java.lang.Object, java.lang.String, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void compileExpr(java.lang.String, int, int, java.lang.Object, org.apache.bsf.util.CodeBuffer) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils void addEventListener(java.lang.Object, java.lang.String, org.apache.bsf.util.event.EventProcessor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.MethodUtils java.lang.reflect.Method getMethod(java.lang.Class, java.lang.String, java.lang.Class[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils org.apache.bsf.util.Bean getProperty(java.lang.Object, java.lang.String, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils java.lang.Object callBeanMethod(java.lang.Object, java.lang.String, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils void addEventListener(java.lang.Object, java.lang.String, java.lang.String, org.apache.bsf.BSFEngine, org.apache.bsf.BSFManager, java.lang.String, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void compileScript(java.lang.String, int, int, java.lang.Object, org.apache.bsf.util.CodeBuffer) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.CodeBuffer void print(java.io.PrintWriter, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void compileApply(java.lang.String, int, int, java.lang.Object, java.util.Vector, java.util.Vector, org.apache.bsf.util.CodeBuffer) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils org.apache.bsf.util.Bean getField(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void undeclareBean(org.apache.bsf.BSFDeclaredBean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl java.lang.Object apply(java.lang.String, int, int, java.lang.Object, java.util.Vector, java.util.Vector) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.bsf.util.CodeBuffer void merge(org.apache.bsf.util.CodeBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFFunctions void addEventListener(java.lang.Object, java.lang.String, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils void addEventListenerReturningEventInfos(java.lang.Object, java.lang.String, java.lang.String, org.apache.bsf.BSFEngine, org.apache.bsf.BSFManager, java.lang.String, int, int, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void compileExpr(java.lang.String, int, int, java.lang.Object, org.apache.bsf.util.CodeBuffer) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils org.apache.bsf.util.Bean createBean(java.lang.ClassLoader, java.lang.String, java.lang.Class[], java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.StringUtils java.lang.String getClassName(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void initialize(org.apache.bsf.BSFManager, java.lang.String, java.util.Vector) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void initialize(org.apache.bsf.BSFManager, java.lang.String, java.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.bsf.util.ObjectRegistry java.lang.Object lookup(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils void addEventListener(java.lang.Object, java.lang.String, org.apache.bsf.util.event.EventProcessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.ReflectionUtils org.apache.bsf.util.Bean getField(java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils java.lang.String getTypeSignatureString(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.StringUtils java.lang.String classNameToVarName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.StringUtils java.lang.String getCommaListFromVector(java.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils void addEventListener(java.lang.Object, java.lang.String, java.lang.String, org.apache.bsf.BSFEngine, org.apache.bsf.BSFManager, java.lang.String, int, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void declareBean(org.apache.bsf.BSFDeclaredBean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void iexec(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.util.EngineUtils java.lang.Class loadClass(org.apache.bsf.BSFManager, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void exec(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.bsf.util.MethodUtils java.lang.reflect.Constructor getConstructor(java.lang.Class, java.lang.Class[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void compileApply(java.lang.String, int, int, java.lang.Object, java.util.Vector, java.util.Vector, org.apache.bsf.util.CodeBuffer) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.StringUtils java.lang.String getContentAsString(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void propertyChange(java.beans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.util.BSFEngineImpl void compileScript(java.lang.String, int, int, java.lang.Object, org.apache.bsf.util.CodeBuffer) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,1445 @@
+<root>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void bottomOf(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(android.content.Context, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(android.app.Fragment, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.app.Activity getAct(android.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void warn(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityContextUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;org.jetbrains.anko.AnkoContext&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent singleTop(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiMode DESK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void uiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void above(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(android.app.Fragment, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void wtf(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void alignParentStart(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void fragmentUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.Orientation PORTRAIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean makeCall(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; createReusable(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void debug(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoLogger.DefaultImpls java.lang.String getLoggerTag(org.jetbrains.anko.AnkoLogger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(android.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void warn(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void centerHorizontally(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void above(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dimen(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent clearTask(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean makeCall(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(org.jetbrains.anko.AnkoContext&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent excludeFromRecents(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt void forEachChildWithIndex(android.view.ViewGroup, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt java.lang.Object configuration$default(android.app.Activity, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameBottom(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.Context getCtx(android.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(android.app.Fragment, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent excludeFromRecents(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder android.content.Context getCtx()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext void updateViewLayout(android.view.View, android.view.ViewGroup.LayoutParams) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(org.jetbrains.anko.AnkoContext, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor void setExecutor(java.util.concurrent.ExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void alignParentLeft(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt void forEachChildWithIndex(android.view.ViewGroup, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameBottom(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(android.content.Context, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(android.app.Fragment, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2dip(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext android.view.View getView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiMode TELEVISION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameTop(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext void updateViewLayout(android.view.View, android.view.ViewGroup.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void warn$default(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent clearTask(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt android.view.View firstChildOrNull(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.app.Activity getAct(android.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean makeCall(android.content.Context, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void error(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt void forEachChild(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent singleTop(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void rightOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean browse(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoAsyncContext AnkoAsyncContext(java.lang.ref.WeakReference&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void adapter(android.widget.ListAdapter, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(android.content.Context, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(org.jetbrains.anko.AnkoContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.content.Context, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void error(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiMode WATCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt void forEachChild(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ReusableAnkoContext android.content.Context getCtx()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton$default(org.jetbrains.anko.AlertDialogBuilder, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.os.Bundle bundleOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(org.jetbrains.anko.AnkoContext, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void customTitle(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext android.content.Context getCtx()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext void removeView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; create(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent clearTop(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(android.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.Resources getResources(org.jetbrains.anko.AnkoContext&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(android.content.Context, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoComponent android.view.View createView(org.jetbrains.anko.AnkoContext&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext T getOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(android.content.Context, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void items(java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void verbose(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(android.app.Fragment, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void alignParentTop(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void customView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent noAnimation(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext void updateViewLayout(android.view.View, android.view.ViewGroup.LayoutParams) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(android.content.Context, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityContextUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;org.jetbrains.anko.AnkoContext&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(android.content.Context, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void items(java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void verbose(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextImpl AnkoContextImpl(android.content.Context, T, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void wtf(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(android.app.Fragment, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor java.util.concurrent.Future&lt;kotlin.Unit&gt; execute(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton$default(org.jetbrains.anko.AlertDialogBuilder, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiMode APPLIANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void uiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void fragmentUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void adapter(android.widget.ListAdapter, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext T getOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;T&gt; createDelegate(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;R&gt; asyncResult(T, java.util.concurrent.ExecutorService, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoException AnkoException(java.lang.String, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(org.jetbrains.anko.AnkoContext, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean browse(android.content.Context, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoComponent android.view.View createView(org.jetbrains.anko.AnkoContext&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.util.DisplayMetrics getDisplayMetrics(org.jetbrains.anko.AnkoContext&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(android.app.Fragment, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.content.Context, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void verbose(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder android.app.AlertDialog.Builder getBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; UI(android.content.Context, boolean, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt;,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(android.content.Context, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameTop(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton$default(org.jetbrains.anko.AlertDialogBuilder, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.content.Context, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton$default(org.jetbrains.anko.AlertDialogBuilder, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext void updateViewLayout(android.view.View, android.view.ViewGroup.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.PropertyWithoutGetterException PropertyWithoutGetterException(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.content.Context, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(org.jetbrains.anko.AnkoContext, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt android.view.View firstChild(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.util.DisplayMetrics getDisplayMetrics(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(android.content.Context, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.Configuration getConfiguration(org.jetbrains.anko.AnkoContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.content.Context, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void wtf(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; UI(android.content.Context, boolean, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt;,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void below(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton(int, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt android.view.View firstChildOrNull(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;R&gt; asyncResult(T, java.util.concurrent.ExecutorService, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(android.content.Context, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameLeft(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiKt T style(T, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean browse(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.content.Context, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void verbose$default(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void alignParentBottom(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder org.jetbrains.anko.AlertDialogBuilder show()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void message(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(android.app.Activity, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(android.app.Fragment, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(android.content.Context, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt android.view.View setContentView(org.jetbrains.anko.AnkoComponent&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(android.app.Fragment, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; createReusable(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void adapter(android.database.Cursor, java.lang.String, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void topOf(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor java.util.concurrent.Future&lt;kotlin.Unit&gt; execute(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityUiThreadWithContext(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.Context,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder AlertDialogBuilder(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void customView(kotlin.jvm.functions.Function1&lt;? super android.view.ViewManager,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(android.content.Context, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(android.app.Fragment, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoLogger java.lang.String getLoggerTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void items(int, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;R&gt; asyncResult(T, java.util.concurrent.ExecutorService, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void icon(android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void alignParentRight(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(android.app.Fragment, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(android.content.Context, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(android.content.Context, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.DefaultImpls void updateViewLayout(org.jetbrains.anko.AnkoContext&lt;T&gt;, android.view.View, android.view.ViewGroup.LayoutParams) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityUiThreadWithContext(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.Context,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.MenuItemsSequencesKt kotlin.sequences.Sequence&lt;android.view.MenuItem&gt; itemsSequence(android.view.Menu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(android.content.Context, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.app.Activity getAct(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;kotlin.Unit&gt; async(T, java.util.concurrent.ExecutorService, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext DelegatingAnkoContext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton$default(org.jetbrains.anko.AlertDialogBuilder, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;T&gt; createDelegate(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(android.app.Fragment, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextImpl android.view.View getView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton$default(org.jetbrains.anko.AlertDialogBuilder, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.DefaultImpls void updateViewLayout(org.jetbrains.anko.AnkoContext&lt;T&gt;, android.view.View, android.view.ViewGroup.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.app.Fragment&gt; UI(android.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.app.Fragment&gt;,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector$default(org.jetbrains.anko.AnkoContext, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;kotlin.Unit&gt; async(T, java.util.concurrent.ExecutorService, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton$default(org.jetbrains.anko.AlertDialogBuilder, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton$default(org.jetbrains.anko.AlertDialogBuilder, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void rightOf(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(org.jetbrains.anko.AnkoContext&lt;?&gt;, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void positiveButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void centerVertically(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(android.app.Activity, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void fragmentUiThreadWithContext(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.Context,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean browse(android.app.Fragment, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void onKey(kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.KeyEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiMode CAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt java.lang.Object configuration$default(org.jetbrains.anko.AnkoContext, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ScreenSize XLARGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt android.view.View setContentView(org.jetbrains.anko.AnkoComponent&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;T&gt; create(android.content.Context, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent newTask(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void positiveButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(android.app.Fragment, java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.Configuration getConfiguration(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.app.Fragment&gt; UI(android.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.app.Fragment&gt;,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;kotlin.Unit&gt; async(T, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void fragmentUiThreadWithContext(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.Context,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean browse(android.app.Fragment, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt java.lang.Object configuration$default(android.app.Fragment, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt kotlin.sequences.Sequence&lt;android.view.View&gt; childrenSequence(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor java.util.concurrent.Future&lt;T&gt; submit(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void positiveButton$default(org.jetbrains.anko.AlertDialogBuilder, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;kotlin.Unit&gt; async(T, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.Configuration getConfiguration(org.jetbrains.anko.AnkoContext&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;T&gt; createReusable(android.content.Context, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent multipleTask(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.Configuration getConfiguration(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;T&gt; create(android.content.Context, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void adapter(android.database.Cursor, java.lang.String, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt android.view.View setContentView(org.jetbrains.anko.AnkoComponent&lt;T&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt kotlin.sequences.Sequence&lt;android.view.View&gt; childrenSequence(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; UI(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt;,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(org.jetbrains.anko.AnkoContext&lt;?&gt;, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent multipleTask(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ScreenSize SMALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.util.DisplayMetrics getDisplayMetrics(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2sp(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void info(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void cancellable$default(org.jetbrains.anko.AlertDialogBuilder, boolean, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void adapter(android.database.Cursor, java.lang.String, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(android.content.Context, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void above(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2dip(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiMode NORMAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;kotlin.Unit&gt; async(T, java.util.concurrent.ExecutorService, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(android.app.Fragment, java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void onCancel(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent noHistory(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.util.DisplayMetrics getDisplayMetrics(org.jetbrains.anko.AnkoContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void leftOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2sp(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2sp(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void longToast(android.app.Fragment, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean makeCall(android.app.Fragment, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext android.view.View getView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void error$default(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.AssetManager getAssets(org.jetbrains.anko.AnkoContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton$default(org.jetbrains.anko.AlertDialogBuilder, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton(int, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(android.content.Context, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameBottom(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameRight(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.UiKt T style(T, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dimen(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.app.Fragment&gt; UI(android.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.app.Fragment&gt;,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.MenuItemsSequencesKt kotlin.sequences.Sequence&lt;android.view.MenuItem&gt; itemsSequence(android.view.Menu)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameRight(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ScreenSize LARGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;R&gt; asyncResult(T, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameRight(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void leftOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.Orientation SQUARE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void positiveButton(int, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoAsyncContext java.lang.ref.WeakReference&lt;T&gt; getWeakRef()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton$default(org.jetbrains.anko.AlertDialogBuilder, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ScreenSize NORMAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent newTask(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor java.util.concurrent.Future&lt;T&gt; submit(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void positiveButton$default(org.jetbrains.anko.AlertDialogBuilder, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoException AnkoException(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean makeCall(android.app.Fragment, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextImpl void updateViewLayout(android.view.View, android.view.ViewGroup.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2dip(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityContextUiThreadWithContext(org.jetbrains.anko.AnkoAsyncContext&lt;org.jetbrains.anko.AnkoContext&lt;T&gt;&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.Context,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt android.view.View firstChild(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void onUiThread(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.content.Context,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2dip(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(android.app.Fragment, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.content.Context, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent noHistory(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dimen(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void debug(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameLeft(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt android.view.View firstChild(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextImpl void updateViewLayout(android.view.View, android.view.ViewGroup.LayoutParams) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; UI(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt;,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void topOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void leftOf(android.widget.RelativeLayout.LayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent clearWhenTaskReset(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.BackgroundExecutor java.util.concurrent.ExecutorService getExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email(android.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt kotlin.sequences.Sequence&lt;android.view.View&gt; childrenRecursiveSequence(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.AssetManager getAssets(org.jetbrains.anko.AnkoContext&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.content.Context, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext void removeView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.os.Bundle bundleOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt boolean getPortrait(android.content.res.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt T withArguments(T, kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void wtf$default(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.content.Context, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.Context getCtx(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.content.Context, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt java.util.concurrent.Future&lt;R&gt; asyncResult(T, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ViewChildrenSequencesKt kotlin.sequences.Sequence&lt;android.view.View&gt; childrenRecursiveSequence(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void onUiThread(android.app.Fragment, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DelegatingAnkoContext java.lang.Object getOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder AlertDialogBuilder(org.jetbrains.anko.AnkoContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void activityContextUiThreadWithContext(org.jetbrains.anko.AnkoAsyncContext&lt;org.jetbrains.anko.AnkoContext&lt;T&gt;&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.Context,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void negativeButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int sp(org.jetbrains.anko.AnkoContext&lt;?&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void warn(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void alignParentEnd(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void rightOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; UI(android.content.Context, boolean, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt;,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.content.Context, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(org.jetbrains.anko.AnkoContext&lt;?&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dip(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void debug(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void items(java.lang.CharSequence[], kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(android.app.Fragment, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextKt org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; UI(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt;,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt float px2sp(android.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AsyncKt void onUiThread(android.app.Fragment, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;T&gt; createReusable(android.content.Context, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void bottomOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ReusableAnkoContext ReusableAnkoContext(android.content.Context, T, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void title(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt T configuration(org.jetbrains.anko.AnkoContext&lt;?&gt;, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.Companion org.jetbrains.anko.AnkoContext&lt;android.content.Context&gt; create(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameTop(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(android.app.Fragment, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void items(java.lang.CharSequence[], kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void bottomOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.Context getCtx(android.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt android.content.res.Resources getResources(org.jetbrains.anko.AnkoContext&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextImpl void removeView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt boolean getLandscape(android.content.res.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(android.content.Context, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void debug$default(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(android.content.Context, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void below(android.widget.RelativeLayout.LayoutParams, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void info(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent clearWhenTaskReset(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void sameLeft(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.content.Context, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(android.app.Fragment, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void toast(android.app.Fragment, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.content.Context, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt boolean getLong(android.content.res.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt T withArguments(T, kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.Orientation LANDSCAPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog progressDialog$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent clearTop(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void topOf(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void error(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void below(android.widget.RelativeLayout.LayoutParams, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean share$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.RelativeLayoutLayoutParamsHelpersKt void centerInParent(android.widget.RelativeLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AlertDialogBuilder void neutralButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void info(org.jetbrains.anko.AnkoLogger, kotlin.jvm.functions.Function0&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DimensionsKt int dimen(org.jetbrains.anko.AnkoContext&lt;?&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContextImpl android.content.Context getCtx()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.ContextUtilsKt T withArguments(T, kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoContext.DefaultImpls void removeView(org.jetbrains.anko.AnkoContext&lt;T&gt;, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.HelpersKt java.lang.Object configuration$default(android.content.Context, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt void info$default(org.jetbrains.anko.AnkoLogger, java.lang.Object, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.LoggerKt java.lang.String getStackTraceString(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.AnkoLogger.DefaultImpls java.lang.String getLoggerTag(org.jetbrains.anko.AnkoLogger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt boolean email$default(org.jetbrains.anko.AnkoContext, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.IntentsKt android.content.Intent noAnimation(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt void selector(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.DialogsKt android.app.ProgressDialog indeterminateProgressDialog(org.jetbrains.anko.AnkoContext&lt;?&gt;, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

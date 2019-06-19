@@ -1,0 +1,17 @@
+<root>
+    <item name='org.multiverse.api.lifecycle.TxnEvent PrePrepare'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.lifecycle.TxnEvent PostCommit'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.lifecycle.TxnEvent PreStart'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.lifecycle.TxnEvent PostAbort'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.multiverse.api.lifecycle.TxnEvent PostStart'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

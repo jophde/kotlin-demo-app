@@ -1,0 +1,34 @@
+<root>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.RequirementAdapter void adapt(org.apache.ivy.osgi.core.BundleInfo, org.apache.ivy.osgi.obr.xml.Requirement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.OBRXMLWriter void writeManifests(java.lang.Iterable&lt;org.apache.ivy.osgi.repo.ManifestAndLocation&gt;, org.xml.sax.ContentHandler, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.RequirementAdapter void adapt(org.apache.ivy.osgi.core.BundleInfo, org.apache.ivy.osgi.obr.xml.Requirement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.OBRXMLWriter void writeManifests(java.lang.Iterable&lt;org.apache.ivy.osgi.repo.ManifestAndLocation&gt;, org.xml.sax.ContentHandler, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.OBRXMLWriter org.xml.sax.ContentHandler newHandler(java.io.OutputStream, java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.OBRXMLWriter void writeBundles(java.lang.Iterable&lt;org.apache.ivy.osgi.core.BundleInfo&gt;, org.xml.sax.ContentHandler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.OBRXMLWriter void writeBundles(java.lang.Iterable&lt;org.apache.ivy.osgi.core.BundleInfo&gt;, org.xml.sax.ContentHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.obr.xml.CapabilityAdapter void adapt(org.apache.ivy.osgi.core.BundleInfo, org.apache.ivy.osgi.obr.xml.Capability) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,139 @@
+<root>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onConfigurationSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.IMessageSender void sendMessage(org.testng.remote.strprotocol.IMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.MessageHelper org.testng.remote.strprotocol.TestMessage createTestMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.TestResultMessage TestResultMessage(org.testng.ITestContext, org.testng.ITestResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onTestStart(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onTestFailedButWithinSuccessPercentage(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.AbstractRemoteTestRunnerClient void startListening(org.testng.remote.strprotocol.IRemoteSuiteListener[], org.testng.remote.strprotocol.IRemoteTestListener[], org.testng.remote.strprotocol.AbstractRemoteTestRunnerClient.ServerConnection) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.SerializedMessageSender void sendMessage(org.testng.remote.strprotocol.IMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onTestSkipped(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.MessageHelper org.testng.remote.strprotocol.TestMessage createTestMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onTestSuccess(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onConfigurationFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.MessageHelper org.testng.remote.strprotocol.SuiteMessage createSuiteMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.TestResultMessage TestResultMessage(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String[], long, long, java.lang.String, int, int) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onConfigurationSkip(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.TestResultMessage TestResultMessage(org.testng.ITestContext, org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.strprotocol.MessageHelper int getMessageType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void beforeConfiguration(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.TestResultMessage void setParameters(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.MessageHelper org.testng.remote.strprotocol.GenericMessage unmarshallGenericMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.MessageHelper org.testng.remote.strprotocol.TestResultMessage unmarshallTestResultMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.SuiteMessage SuiteMessage(org.testng.ISuite, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.TestMessage TestMessage(org.testng.ITestContext, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onStart(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.MessageHelper org.testng.remote.strprotocol.SuiteMessage createSuiteMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.TestResultMessage TestResultMessage(java.lang.String, java.lang.String, org.testng.ITestResult) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.StringMessageSender void sendMessage(org.testng.remote.strprotocol.IMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onFinish(org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.strprotocol.MessageHelper ACK_MSG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.remote.strprotocol.MessageHelper STOP_MSG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.remote.strprotocol.RemoteTestListener void onTestFailure(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

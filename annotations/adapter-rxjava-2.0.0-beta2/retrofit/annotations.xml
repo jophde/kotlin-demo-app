@@ -1,0 +1,17 @@
+<root>
+    <item name='retrofit.RxJavaCallAdapterFactory retrofit.RxJavaCallAdapterFactory create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.HttpException retrofit.Response&lt;?&gt; response()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Result retrofit.Result&lt;T&gt; error(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.Result retrofit.Result&lt;T&gt; response(retrofit.Response&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='retrofit.HttpException HttpException(retrofit.Response&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,183 @@
+<root>
+    <item name='groovyx.gpars.dataflow.operator.DataflowProcessor STATE_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowPrioritySelector DataflowPrioritySelector(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowOperator DataflowOperator(groovyx.gpars.group.PGroup, java.util.Map, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.BinaryChoiceClosure java.lang.Object call(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.CopyChannelsClosure java.lang.Class[] getParameterTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline Pipeline(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowReadChannel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.PoisonPill groovyx.gpars.dataflow.operator.PoisonPill getImmediateInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.ChoiceClosure java.lang.Object call(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowProcessorAtomicBoundAllClosure java.lang.Object call(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.ImmediateCountingPoisonPill groovyx.gpars.dataflow.Promise&lt;java.lang.Boolean&gt; getTermination()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline Pipeline(groovyx.gpars.scheduler.Pool, groovyx.gpars.dataflow.DataflowReadChannel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.operator.DataflowProcessor listeners'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.PoisonPill groovyx.gpars.dataflow.operator.PoisonPill getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.BinaryChoiceClosure java.lang.Void call(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowProcessor groovyx.gpars.dataflow.operator.DataflowProcessor start()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline tap(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovyx.gpars.dataflow.DataflowWriteChannel&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowProcessor groovyx.gpars.dataflow.operator.DataflowProcessor start(groovyx.gpars.group.PGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowPrioritySelector DataflowPrioritySelector(groovyx.gpars.group.PGroup, java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowProcessor void addDataflowEventListener(groovyx.gpars.dataflow.operator.DataflowEventListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.operator.DataflowSelector select'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowSelector void setGuards(java.util.List&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline filter(groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.operator.DataflowProcessor INPUTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline Pipeline(groovyx.gpars.group.PGroup, groovyx.gpars.dataflow.DataflowReadChannel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline chainWith(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline filter(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowSelector DataflowSelector(groovyx.gpars.group.PGroup, java.util.Map, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline Pipeline(groovyx.gpars.dataflow.DataflowReadChannel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.operator.DataflowProcessor MAX_FORKS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.FilterClosure FilterClosure(groovy.lang.Closure&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowProcessor void checkMaxForks(java.util.Map&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.ChoiceClosure java.lang.Void call(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.FilterClosure java.lang.Class[] getParameterTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowProcessor DataflowProcessor(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, groovy.lang.Closure&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.CountingPoisonPill groovyx.gpars.dataflow.Promise&lt;java.lang.Boolean&gt; getTermination()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline Pipeline(groovyx.gpars.scheduler.Pool, groovyx.gpars.dataflow.DataflowReadChannel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.group.PGroup getGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline chainWith(groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowSelector DataflowSelector(groovyx.gpars.group.PGroup, java.util.Map, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline tap(groovyx.gpars.dataflow.DataflowWriteChannel&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowEventListener void registered(groovyx.gpars.dataflow.operator.DataflowProcessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyx.gpars.dataflow.operator.DataflowProcessor OUTPUTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.CopyChannelsClosure java.lang.Object call(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.DataflowEventAdapter void registered(groovyx.gpars.dataflow.operator.DataflowProcessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.dataflow.operator.Pipeline groovyx.gpars.dataflow.operator.Pipeline or(groovy.lang.Closure&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

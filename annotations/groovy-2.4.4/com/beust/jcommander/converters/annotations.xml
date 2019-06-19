@@ -1,0 +1,30 @@
+<root>
+    <item
+        name='com.beust.jcommander.converters.BigDecimalConverter java.lang.Object convert(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.converters.CommaParameterSplitter java.util.List&lt;java.lang.String&gt; split(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.converters.IParameterSplitter java.util.List&lt;java.lang.String&gt; split(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.beust.jcommander.converters.BigDecimalConverter java.math.BigDecimal convert(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.converters.FileConverter java.io.File convert(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.converters.FileConverter java.lang.Object convert(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

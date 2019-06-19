@@ -1,0 +1,305 @@
+<root>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.functions.Action1&lt;? super java.lang.Integer&gt; selection(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;java.lang.Integer&gt; itemLongClicks(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; color(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCompoundButton rx.functions.Action1&lt;? super java.lang.Object&gt; toggle(android.widget.CompoundButton)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRatingBar rx.Observable&lt;java.lang.Float&gt; ratingChanges(android.widget.RatingBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextSwitcher rx.functions.Action1&lt;? super java.lang.CharSequence&gt; currentText(android.widget.TextSwitcher)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.TextViewAfterTextChangeEvent com.jakewharton.rxbinding.widget.TextViewAfterTextChangeEvent create(android.widget.TextView, android.text.Editable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSeekBar rx.Observable&lt;java.lang.Integer&gt; userChanges(android.widget.SeekBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxToolbar rx.Observable&lt;android.view.MenuItem&gt; itemClicks(android.widget.Toolbar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;java.lang.Integer&gt; editorActions(android.widget.TextView, rx.functions.Func1&lt;? super java.lang.Integer,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; errorRes(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.SeekBarStopChangeEvent com.jakewharton.rxbinding.widget.SeekBarStopChangeEvent create(android.widget.SeekBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; secondaryProgress(android.widget.ProgressBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRatingBar rx.functions.Action1&lt;? super java.lang.Boolean&gt; isIndicator(android.widget.RatingBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRadioGroup rx.Observable&lt;java.lang.Integer&gt; checkedChanges(android.widget.RadioGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCompoundButton rx.functions.Action1&lt;? super java.lang.Boolean&gt; checked(android.widget.CompoundButton) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.TextViewEditorActionEvent&gt; editorActionEvents(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSearchView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; query(android.widget.SearchView, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAbsListView rx.Observable&lt;com.jakewharton.rxbinding.widget.AbsListViewScrollEvent&gt; scrollEvents(android.widget.AbsListView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCheckedTextView rx.functions.Action1&lt;? super java.lang.Boolean&gt; check(android.widget.CheckedTextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.TextViewTextChangeEvent&gt; textChangeEvents(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;com.jakewharton.rxbinding.widget.AdapterViewSelectionEvent&gt; selectionEvents(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAutoCompleteTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; completionHint(android.widget.AutoCompleteTextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; max(android.widget.ProgressBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; text(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAutoCompleteTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.AdapterViewItemClickEvent&gt; itemClickEvents(android.widget.AutoCompleteTextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; incrementSecondaryProgressBy(android.widget.ProgressBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; hintRes(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCheckedTextView rx.functions.Action1&lt;? super java.lang.Boolean&gt; check(android.widget.CheckedTextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRatingBar rx.functions.Action1&lt;? super java.lang.Float&gt; rating(android.widget.RatingBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; hint(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCompoundButton rx.Observable&lt;java.lang.Boolean&gt; checkedChanges(android.widget.CompoundButton) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; incrementSecondaryProgressBy(android.widget.ProgressBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; hintRes(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; incrementProgressBy(android.widget.ProgressBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.TextViewBeforeTextChangeEvent com.jakewharton.rxbinding.widget.TextViewBeforeTextChangeEvent create(android.widget.TextView, java.lang.CharSequence, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.AdapterViewItemClickEvent com.jakewharton.rxbinding.widget.AdapterViewItemClickEvent create(android.widget.AdapterView&lt;?&gt;, android.view.View, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCompoundButton rx.functions.Action1&lt;? super java.lang.Boolean&gt; checked(android.widget.CompoundButton)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRadioGroup rx.functions.Action1&lt;? super java.lang.Integer&gt; checked(android.widget.RadioGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; progress(android.widget.ProgressBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSeekBar rx.Observable&lt;java.lang.Integer&gt; systemChanges(android.widget.SeekBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; text(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Boolean&gt; indeterminate(android.widget.ProgressBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; incrementProgressBy(android.widget.ProgressBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;java.lang.Integer&gt; itemSelections(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; color(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.AdapterViewItemSelectionEvent com.jakewharton.rxbinding.widget.AdapterViewSelectionEvent create(android.widget.AdapterView&lt;?&gt;, android.view.View, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;com.jakewharton.rxbinding.widget.AdapterViewItemClickEvent&gt; itemClickEvents(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; hint(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;java.lang.Integer&gt; itemClicks(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSearchView rx.Observable&lt;com.jakewharton.rxbinding.widget.SearchViewQueryTextEvent&gt; queryTextChangeEvents(android.widget.SearchView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRatingBar rx.functions.Action1&lt;? super java.lang.Float&gt; rating(android.widget.RatingBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.AdapterViewNothingSelectionEvent com.jakewharton.rxbinding.widget.AdapterViewSelectionEvent create(android.widget.AdapterView&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;java.lang.Integer&gt; editorActions(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSearchView rx.Observable&lt;java.lang.CharSequence&gt; queryTextChanges(android.widget.SearchView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; textRes(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.TextViewAfterTextChangeEvent&gt; afterTextChangeEvents(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRadioGroup rx.functions.Action1&lt;? super java.lang.Integer&gt; checked(android.widget.RadioGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; progress(android.widget.ProgressBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxPopupMenu rx.Observable&lt;android.view.MenuItem&gt; itemClicks(android.widget.PopupMenu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRatingBar rx.functions.Action1&lt;? super java.lang.Boolean&gt; isIndicator(android.widget.RatingBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextSwitcher rx.functions.Action1&lt;? super java.lang.CharSequence&gt; currentText(android.widget.TextSwitcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;java.lang.Integer&gt; itemLongClicks(android.widget.AdapterView&lt;T&gt;, rx.functions.Func0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxCompoundButton rx.functions.Action1&lt;? super java.lang.Object&gt; toggle(android.widget.CompoundButton) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.TextViewTextChangeEvent com.jakewharton.rxbinding.widget.TextViewTextChangeEvent create(android.widget.TextView, java.lang.CharSequence, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.functions.Action1&lt;? super java.lang.Integer&gt; selection(android.widget.AdapterView&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.AbsListViewScrollEvent com.jakewharton.rxbinding.widget.AbsListViewScrollEvent create(android.widget.AbsListView, int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSeekBar rx.Observable&lt;com.jakewharton.rxbinding.widget.SeekBarChangeEvent&gt; changeEvents(android.widget.SeekBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAutoCompleteTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; completionHint(android.widget.AutoCompleteTextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; max(android.widget.ProgressBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;java.lang.CharSequence&gt; textChanges(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent create(android.widget.AdapterView&lt;?&gt;, android.view.View, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; textRes(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;java.lang.Integer&gt; itemLongClicks(android.widget.AdapterView&lt;T&gt;, rx.functions.Func0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSearchView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; query(android.widget.SearchView, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent&gt; itemLongClickEvents(android.widget.AdapterView&lt;T&gt;, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent&gt; itemLongClickEvents(android.widget.AdapterView&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Integer&gt; secondaryProgress(android.widget.ProgressBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxProgressBar rx.functions.Action1&lt;? super java.lang.Boolean&gt; indeterminate(android.widget.ProgressBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.SearchViewQueryTextEvent com.jakewharton.rxbinding.widget.SearchViewQueryTextEvent create(android.widget.SearchView, java.lang.CharSequence, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RatingBarChangeEvent com.jakewharton.rxbinding.widget.RatingBarChangeEvent create(android.widget.RatingBar, float, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAutoCompleteTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; threshold(android.widget.AutoCompleteTextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextSwitcher rx.functions.Action1&lt;? super java.lang.CharSequence&gt; text(android.widget.TextSwitcher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxRatingBar rx.Observable&lt;com.jakewharton.rxbinding.widget.RatingBarChangeEvent&gt; ratingChangeEvents(android.widget.RatingBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; error(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.CharSequence&gt; error(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapterView rx.Observable&lt;com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent&gt; itemLongClickEvents(android.widget.AdapterView&lt;T&gt;, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.widget.AdapterViewItemLongClickEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.TextViewEditorActionEvent&gt; editorActionEvents(android.widget.TextView, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.widget.TextViewEditorActionEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxPopupMenu rx.Observable&lt;java.lang.Void&gt; dismisses(android.widget.PopupMenu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.TextViewBeforeTextChangeEvent&gt; beforeTextChangeEvents(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.TextViewEditorActionEvent com.jakewharton.rxbinding.widget.TextViewEditorActionEvent create(android.widget.TextView, int, android.view.KeyEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.SeekBarProgressChangeEvent com.jakewharton.rxbinding.widget.SeekBarProgressChangeEvent create(android.widget.SeekBar, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.SeekBarStartChangeEvent com.jakewharton.rxbinding.widget.SeekBarStartChangeEvent create(android.widget.SeekBar)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAdapter rx.Observable&lt;T&gt; dataChanges(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxToolbar rx.Observable&lt;java.lang.Void&gt; navigationClicks(android.widget.Toolbar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxAutoCompleteTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; threshold(android.widget.AutoCompleteTextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;com.jakewharton.rxbinding.widget.TextViewEditorActionEvent&gt; editorActionEvents(android.widget.TextView, rx.functions.Func1&lt;? super com.jakewharton.rxbinding.widget.TextViewEditorActionEvent,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextSwitcher rx.functions.Action1&lt;? super java.lang.CharSequence&gt; text(android.widget.TextSwitcher)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxSeekBar rx.Observable&lt;java.lang.Integer&gt; changes(android.widget.SeekBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.Observable&lt;java.lang.Integer&gt; editorActions(android.widget.TextView, rx.functions.Func1&lt;? super java.lang.Integer,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.widget.RxTextView rx.functions.Action1&lt;? super java.lang.Integer&gt; errorRes(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,41 @@
+<root>
+    <item name='android.support.test.rule.ActivityTestRule org.junit.runners.model.Statement apply(org.junit.runners.model.Statement, org.junit.runner.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.ServiceTestRule org.junit.runners.model.Statement apply(org.junit.runners.model.Statement, org.junit.runner.Description)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.ServiceTestRule android.support.test.rule.ServiceTestRule withTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.UiThreadTestRule boolean shouldRunOnUiThread(org.junit.runner.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.ActivityTestRule T launchActivity(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.ActivityTestRule org.junit.runners.model.Statement apply(org.junit.runners.model.Statement, org.junit.runner.Description)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.ActivityTestRule android.content.Intent getActivityIntent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.UiThreadTestRule org.junit.runners.model.Statement apply(org.junit.runners.model.Statement, org.junit.runner.Description) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.rule.UiThreadTestRule org.junit.runners.model.Statement apply(org.junit.runners.model.Statement, org.junit.runner.Description)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

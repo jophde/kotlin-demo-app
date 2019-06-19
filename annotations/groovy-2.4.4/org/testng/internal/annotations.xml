@@ -1,0 +1,706 @@
+<root>
+    <item
+        name='org.testng.internal.Parameters java.lang.Object[] createInstantiationParameters(java.lang.reflect.Constructor, java.lang.String, org.testng.internal.annotations.IAnnotationFinder, java.lang.String[], java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.xml.XmlSuite) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod boolean canRunFromClass(org.testng.IClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.internal.ClonedMethod java.lang.String[] getMethodsDependedUpon()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassInfoMap ClassInfoMap(java.util.List&lt;org.testng.xml.XmlClass&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getBeforeTestMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod java.lang.Object[] getInstances()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.PoolService java.util.List&lt;FutureType&gt; submitTasksAndWait(java.util.List&lt;? extends java.util.concurrent.Callable&lt;FutureType&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Yaml org.testng.xml.XmlSuite parse(java.lang.String, java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod org.testng.ITestNGMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.YamlParser org.testng.xml.XmlSuite parse(java.lang.String, java.io.InputStream, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ObjectFactoryImpl java.lang.Object newInstance(java.lang.reflect.Constructor, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper java.util.Iterator&lt;java.lang.Object[]&gt; createArrayIterator(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils void dumpMethods(java.util.List&lt;org.testng.ITestNGMethod&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassInfoMap ClassInfoMap(java.util.List&lt;org.testng.xml.XmlClass&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getAfterSuiteMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.PoolService java.util.List&lt;FutureType&gt; submitTasksAndWait(java.util.List&lt;? extends java.util.concurrent.Callable&lt;FutureType&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker Invoker(org.testng.internal.IConfiguration, org.testng.ITestContext, org.testng.internal.ITestResultNotifier, org.testng.SuiteRunState, boolean, java.util.List&lt;org.testng.IInvokedMethodListener&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.MethodInstance SORT_BY_INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] groupsForThisMethodForConfiguration(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper void findGroupTransitiveClosure(org.testng.internal.XmlMethodSelector, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.lang.String[], java.util.Set&lt;java.lang.String&gt;, java.util.Set&lt;org.testng.ITestNGMethod&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper java.lang.String calculateMethodCanonicalName(org.testng.ITestNGMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.TestMethodWorker int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createSuiteConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.YamlParser java.lang.Object parse(java.lang.String, java.io.InputStream, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper org.testng.internal.ConstructorOrMethod findDeclaredFactoryMethod(java.lang.Class&lt;?&gt;, org.testng.internal.annotations.IAnnotationFinder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClassHelper T newInstance(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.TestResult int compareTo(org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ITestResultNotifier java.util.List&lt;org.testng.IConfigurationListener&gt; getConfigurationListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.XmlMethodSelector void setXmlClasses(java.util.List&lt;org.testng.xml.XmlClass&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.BaseTestMethod java.util.Map&lt;java.lang.String,java.lang.String&gt; findMethodParameters(org.testng.xml.XmlTest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getAfterClassMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.MethodHelper long calculateTimeOut(org.testng.ITestNGMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestMethodWorker int indexOf(org.testng.ITestNGMethod, org.testng.ITestNGMethod[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createTestConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClonedMethod java.util.Map&lt;java.lang.String,java.lang.String&gt; findMethodParameters(org.testng.xml.XmlTest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper org.testng.internal.ExpectedExceptionsHolder findExpectedExceptions(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestMethodWorker java.util.List&lt;org.testng.ITestNGMethod&gt; getTasks()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker Invoker(org.testng.internal.IConfiguration, org.testng.ITestContext, org.testng.internal.ITestResultNotifier, org.testng.SuiteRunState, boolean, java.util.List&lt;org.testng.IInvokedMethodListener&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper org.testng.junit.IJUnitTestRunner createTestRunner(org.testng.TestRunner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Constants java.lang.String displayStatus(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.BaseTestMethod java.util.Map&lt;java.lang.String,java.lang.String&gt; findMethodParameters(org.testng.xml.XmlTest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createTestMethodConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getBeforeClassMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.DynamicGraph int getNodeCountWithStatus(org.testng.internal.DynamicGraph.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.DynamicGraph.Status READY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper org.testng.ITestNGMethod[] findDependedUponMethods(org.testng.ITestNGMethod, org.testng.ITestNGMethod[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod ConfigurationMethod(org.testng.internal.ConstructorOrMethod, org.testng.internal.annotations.IAnnotationFinder, boolean, boolean, boolean, boolean, boolean, boolean, boolean, boolean, java.lang.String[], java.lang.String[], java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getAfterGroupsConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ConfigurationMethod java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.FactoryMethod FactoryMethod(org.testng.internal.ConstructorOrMethod, java.lang.Object, org.testng.xml.XmlTest, org.testng.internal.annotations.IAnnotationFinder, org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils void logInvocation(java.lang.String, java.lang.reflect.Method, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Constants java.lang.String getPropertyValue(java.util.Properties, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] dependentGroupsForThisMethodForTest(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.NoOpTestClass NoOpTestClass(org.testng.ITestClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInvocationHelper java.util.Iterator&lt;java.lang.Object[]&gt; invokeDataProvider(java.lang.Object, java.lang.reflect.Method, org.testng.ITestNGMethod, org.testng.ITestContext, java.lang.Object, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String join(java.util.List&lt;T&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.OverrideProcessor java.util.Collection&lt;org.testng.xml.XmlSuite&gt; process(java.util.Collection&lt;org.testng.xml.XmlSuite&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.OverrideProcessor java.util.Collection&lt;org.testng.xml.XmlSuite&gt; process(java.util.Collection&lt;org.testng.xml.XmlSuite&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getBeforeSuiteMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Graph.Node java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationGroupMethods void removeAfterGroups(java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Parameters NULL_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper void findGroupTransitiveClosure(org.testng.internal.XmlMethodSelector, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.lang.String[], java.util.Set&lt;java.lang.String&gt;, java.util.Set&lt;org.testng.ITestNGMethod&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.TestResult int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGClassFinder TestNGClassFinder(org.testng.internal.ClassInfoMap, java.util.Map&lt;java.lang.Class,java.util.List&lt;java.lang.Object&gt;&gt;, org.testng.xml.XmlTest, org.testng.internal.IConfiguration, org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Utils SPECIAL_CHARACTERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.BaseTestMethod BaseTestMethod(org.testng.internal.ConstructorOrMethod, org.testng.internal.annotations.IAnnotationFinder, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters java.lang.Object[] createConfigurationParameters(java.lang.reflect.Method, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.Object[], org.testng.ITestNGMethod, org.testng.internal.annotations.IAnnotationFinder, org.testng.xml.XmlSuite, org.testng.ITestContext, org.testng.ITestResult) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethods(org.testng.ITestNGMethod, org.testng.ITestNGMethod[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.internal.ConfigurationGroupMethods, java.lang.Object[], org.testng.ITestContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Configuration java.util.List&lt;org.testng.IConfigurationListener&gt; getConfigurationListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper java.util.Set&lt;java.lang.reflect.Method&gt; getAvailableMethods(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker void runTestListeners(org.testng.ITestResult, java.util.List&lt;org.testng.ITestListener&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper org.testng.ITestNGMethod[] findMethodsThatBelongToGroup(org.testng.ITestNGMethod, org.testng.ITestNGMethod[], java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters org.testng.internal.ParameterHolder handleParameters(org.testng.ITestNGMethod, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.Object, org.testng.internal.Parameters.MethodParameters, org.testng.xml.XmlSuite, org.testng.internal.annotations.IAnnotationFinder, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInvocationHelper void invokeHookable(java.lang.Object, java.lang.Object[], java.lang.Object, java.lang.reflect.Method, org.testng.internal.TestResult) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.SuiteRunnerMap void put(org.testng.xml.XmlSuite, org.testng.ISuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Tarjan Tarjan(org.testng.internal.Graph&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] dependentGroupsForThisMethodForTest(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.IConfiguration java.util.List&lt;org.testng.IConfigurationListener&gt; getConfigurationListeners()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.TestMethodWorker int compareTo(org.testng.internal.thread.graph.IWorker&lt;org.testng.ITestNGMethod&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInvocationHelper java.util.Iterator&lt;java.lang.Object[]&gt; invokeDataProvider(java.lang.Object, java.lang.reflect.Method, org.testng.ITestNGMethod, org.testng.ITestContext, java.lang.Object, org.testng.internal.annotations.IAnnotationFinder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Version VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationGroupMethods void removeBeforeGroups(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Graph.Node int compareTo(org.testng.internal.Graph.Node&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.TestNGMethod org.testng.internal.BaseTestMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper boolean isEnabled(java.lang.Class&lt;?&gt;, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.DynamicGraph void setStatus(T, org.testng.internal.DynamicGraph.Status) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod void setTestClass(org.testng.ITestClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper org.testng.IMethodSelector createSelector(org.testng.xml.XmlMethodSelector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ResultMap java.util.Set&lt;org.testng.ITestResult&gt; getResults(org.testng.ITestNGMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Utils void dumpMap(java.util.Map&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod java.lang.String[] getGroupsDependedUpon()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String detailedMethodName(org.testng.ITestNGMethod, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethod(java.lang.Object[], org.testng.ITestNGMethod, java.lang.Object[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.ITestClass, org.testng.ITestNGMethod[], org.testng.ITestNGMethod[], org.testng.internal.ConfigurationGroupMethods)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper org.testng.ITestNGMethod[] collectAndOrderMethods(java.util.List&lt;org.testng.ITestNGMethod&gt;, boolean, org.testng.internal.RunInfo, org.testng.internal.annotations.IAnnotationFinder, boolean, java.util.List&lt;org.testng.ITestNGMethod&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper java.util.List&lt;org.testng.ITestNGMethod&gt; uniqueMethodList(java.util.Collection&lt;java.util.List&lt;org.testng.ITestNGMethod&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationGroupMethods boolean isLastMethodForGroup(java.lang.String, org.testng.ITestNGMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper java.util.List&lt;org.testng.ITestNGMethod&gt; uniqueMethodList(java.util.Collection&lt;java.util.List&lt;org.testng.ITestNGMethod&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethods(org.testng.ITestNGMethod, org.testng.ITestNGMethod[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.internal.ConfigurationGroupMethods, java.lang.Object[], org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Constants boolean getBooleanPropertyValue(java.util.Properties, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] groupsForThisMethodForTest(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.IInvoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethods(org.testng.ITestNGMethod, org.testng.ITestNGMethod[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.internal.ConfigurationGroupMethods, java.lang.Object[], org.testng.ITestContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.internal.Yaml java.lang.StringBuilder toYaml(org.testng.xml.XmlSuite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInvocationHelper java.lang.Object invokeMethod(java.lang.reflect.Method, java.lang.Object, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters java.lang.Object convertType(java.lang.Class, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils org.testng.xml.XmlClass[] classesToXmlClasses(java.lang.Class&lt;?&gt;[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod m_method'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClassHelper T tryOtherConstructor(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Graph java.util.List&lt;T&gt; findPredecessors(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createAfterConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInheritance void fixMethodInheritance(org.testng.ITestNGMethod[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper java.lang.String calculateMethodCanonicalName(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ParameterHolder.ParameterOrigin ORIGIN_DATA_PROVIDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getAfterTestMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper java.util.Map&lt;java.lang.String,java.util.List&lt;org.testng.ITestNGMethod&gt;&gt; findGroupsMethods(java.util.Collection&lt;org.testng.ITestClass&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.IInvoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethods(org.testng.ITestNGMethod, org.testng.ITestNGMethod[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.internal.ConfigurationGroupMethods, java.lang.Object[], org.testng.ITestContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.internal.TestNGMethod SORT_BY_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] dependentGroupsForThisMethodForConfiguration(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper java.util.Set&lt;java.lang.reflect.Method&gt; getAvailableMethods(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod org.testng.ITestNGMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters org.testng.internal.ParameterHolder handleParameters(org.testng.ITestNGMethod, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.Object, org.testng.internal.Parameters.MethodParameters, org.testng.xml.XmlSuite, org.testng.internal.annotations.IAnnotationFinder, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.MethodInstance java.lang.Object[] getInstances()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Graph void addNode(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Graph java.util.Set&lt;T&gt; getNeighbors(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.DynamicGraph.Status FINISHED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getAfterTestConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Graph.Node int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getBeforeGroupsConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils int calculateInvokedMethodCount(org.testng.ITestNGMethod[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Utils java.io.File createTempFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.BaseTestMethod org.testng.internal.ConstructorOrMethod getConstructorOrMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Yaml java.lang.StringBuilder toYaml(org.testng.xml.XmlSuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] stackTrace(java.lang.Throwable, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Constants int getIntegerPropertyValue(java.util.Properties, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters org.testng.internal.ParameterHolder handleParameters(org.testng.ITestNGMethod, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.Object, org.testng.internal.Parameters.MethodParameters, org.testng.xml.XmlSuite, org.testng.internal.annotations.IAnnotationFinder, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.DynamicGraph java.util.List&lt;T&gt; getFreeNodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters java.lang.Object[] createInstantiationParameters(java.lang.reflect.Constructor, java.lang.String, org.testng.internal.annotations.IAnnotationFinder, java.lang.String[], java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.xml.XmlSuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] stackTrace(java.lang.Throwable, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod boolean canRunFromClass(org.testng.IClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper java.util.List&lt;org.testng.ITestNGMethod&gt; getMethodsDependedUpon(org.testng.ITestNGMethod, org.testng.ITestNGMethod[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodHelper boolean isEnabled(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.TestNGMethod org.testng.ITestNGMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters org.testng.internal.ParameterHolder handleParameters(org.testng.ITestNGMethod, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.Object, org.testng.internal.Parameters.MethodParameters, org.testng.xml.XmlSuite, org.testng.internal.annotations.IAnnotationFinder, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.internal.ConfigurationMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper java.lang.Object createInstance(java.lang.Class&lt;?&gt;, java.util.Map&lt;java.lang.Class,org.testng.IClass&gt;, org.testng.xml.XmlTest, org.testng.internal.annotations.IAnnotationFinder, org.testng.ITestObjectFactory) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils void writeResourceToFile(java.io.File, java.lang.String, java.lang.Class&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.DynamicGraph void setStatus(java.util.Collection&lt;T&gt;, org.testng.internal.DynamicGraph.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.SuiteRunnerMap org.testng.ISuite get(org.testng.xml.XmlSuite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethod(java.lang.Object[], org.testng.ITestNGMethod, java.lang.Object[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.ITestClass, org.testng.ITestNGMethod[], org.testng.ITestNGMethod[], org.testng.internal.ConfigurationGroupMethods) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createBeforeConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Graph.Node org.testng.internal.Graph.Node&lt;T&gt; clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGMethodFinder org.testng.ITestNGMethod[] getBeforeTestConfigurationMethods(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper void findGroupTransitiveClosure(org.testng.internal.XmlMethodSelector, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.lang.String[], java.util.Set&lt;java.lang.String&gt;, java.util.Set&lt;org.testng.ITestNGMethod&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod void setTestClass(org.testng.ITestClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.internal.Constants PROP_OUTPUT_DIR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.PackageUtils java.lang.String[] findClassesInPackage(java.lang.String, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.DynamicGraph.Status RUNNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInvocationHelper void invokeConfigurable(java.lang.Object, java.lang.Object[], java.lang.Object, java.lang.reflect.Method, org.testng.ITestResult) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Parameters java.lang.Object[] createConfigurationParameters(java.lang.reflect.Method, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.lang.Object[], org.testng.ITestNGMethod, org.testng.internal.annotations.IAnnotationFinder, org.testng.xml.XmlSuite, org.testng.ITestContext, org.testng.ITestResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.TestNGMethod java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ClonedMethod org.testng.internal.ClonedMethod clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper java.util.Map&lt;java.lang.String,java.util.List&lt;org.testng.ITestNGMethod&gt;&gt; findGroupsMethods(java.util.Collection&lt;org.testng.ITestClass&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.BaseTestMethod DATE_COMPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createBeforeConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodInvocationHelper void invokeWithTimeout(org.testng.ITestNGMethod, java.lang.Object, java.lang.Object[], org.testng.ITestResult) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Utils java.lang.String[] groupsForThisMethodForTest(java.lang.reflect.Method, org.testng.internal.annotations.IAnnotationFinder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Yaml void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createClassConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ConfigurationMethod org.testng.ITestNGMethod[] createAfterConfigurationMethods(org.testng.ITestNGMethod[], org.testng.internal.annotations.IAnnotationFinder, boolean, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.ClassHelper java.lang.Class&lt;?&gt; fileToClass(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.Utils java.lang.String[] stringToArray(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.TestNGClassFinder TestNGClassFinder(org.testng.internal.ClassInfoMap, java.util.Map&lt;java.lang.Class,java.util.List&lt;java.lang.Object&gt;&gt;, org.testng.xml.XmlTest, org.testng.internal.IConfiguration, org.testng.ITestContext) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.Invoker java.util.List&lt;org.testng.ITestResult&gt; invokeTestMethod(java.lang.Object[], org.testng.ITestNGMethod, java.lang.Object[], int, org.testng.xml.XmlSuite, java.util.Map&lt;java.lang.String,java.lang.String&gt;, org.testng.ITestClass, org.testng.ITestNGMethod[], org.testng.ITestNGMethod[], org.testng.internal.ConfigurationGroupMethods) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.MethodGroupsHelper void findGroupTransitiveClosure(org.testng.internal.XmlMethodSelector, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.util.List&lt;org.testng.ITestNGMethod&gt;, java.lang.String[], java.util.Set&lt;java.lang.String&gt;, java.util.Set&lt;org.testng.ITestNGMethod&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.ParameterHolder.ParameterOrigin ORIGIN_XML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

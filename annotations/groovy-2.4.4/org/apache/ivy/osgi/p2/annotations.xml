@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='org.apache.ivy.osgi.p2.P2Descriptor void addArtifactUrl(java.lang.String, java.lang.String, org.apache.ivy.osgi.util.Version, java.net.URI, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.p2.P2Descriptor void addBundle(org.apache.ivy.osgi.core.BundleInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

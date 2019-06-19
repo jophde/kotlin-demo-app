@@ -1,0 +1,34 @@
+<root>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine void initialize(org.apache.bsf.BSFManager, java.lang.String, java.util.Vector) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine void initialize(org.apache.bsf.BSFManager, java.lang.String, java.util.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine void exec(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine void undeclareBean(org.apache.bsf.BSFDeclaredBean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine void declareBean(org.apache.bsf.BSFDeclaredBean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine java.lang.Object apply(java.lang.String, int, int, java.lang.Object, java.util.Vector, java.util.Vector) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine java.lang.Object eval(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.bsf.engines.jython.JythonEngine void iexec(java.lang.String, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

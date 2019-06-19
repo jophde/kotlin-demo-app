@@ -1,0 +1,24 @@
+<root>
+    <item
+        name='groovyjarjarantlr.debug.misc.ASTFrame ASTFrame(java.lang.String, groovyjarjarantlr.collections.AST) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.debug.misc.JTreeASTModel int getChildCount(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.misc.JTreeASTModel int getIndexOfChild(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.misc.JTreeASTModel int getIndexOfChild(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.debug.misc.JTreeASTModel boolean isLeaf(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.debug.misc.JTreeASTModel JTreeASTModel(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

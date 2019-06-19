@@ -1,0 +1,129 @@
+<root>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension OPTIONAL_EXTENSION_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Specification INCOMPATIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Specification REQUIRE_IMPLEMENTATION_CHANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Specification COMPATIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.DeweyDecimal DeweyDecimal(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Specification org.apache.tools.ant.taskdefs.optional.extension.Compatibility getCompatibilityWith(org.apache.tools.ant.taskdefs.optional.extension.Specification)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Specification REQUIRE_SPECIFICATION_UPGRADE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension EXTENSION_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension EXTENSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension void addExtension(org.apache.tools.ant.taskdefs.optional.extension.Extension, java.util.jar.Attributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Specification org.apache.tools.ant.taskdefs.optional.extension.Compatibility getCompatibilityWith(org.apache.tools.ant.taskdefs.optional.extension.Specification) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension REQUIRE_IMPLEMENTATION_UPGRADE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension org.apache.tools.ant.taskdefs.optional.extension.Compatibility getCompatibilityWith(org.apache.tools.ant.taskdefs.optional.extension.Extension) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.JarLibManifestTask void addConfiguredExtension(org.apache.tools.ant.taskdefs.optional.extension.ExtensionAdapter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension org.apache.tools.ant.taskdefs.optional.extension.Extension[] getRequired(java.util.jar.Manifest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension INCOMPATIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension org.apache.tools.ant.taskdefs.optional.extension.Extension[] getOptions(java.util.jar.Manifest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension COMPATIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.JarLibResolveTask void addConfiguredExtension(org.apache.tools.ant.taskdefs.optional.extension.ExtensionAdapter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Specification REQUIRE_VENDOR_SWITCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension void addExtension(org.apache.tools.ant.taskdefs.optional.extension.Extension, java.lang.String, java.util.jar.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Specification boolean isCompatibleWith(org.apache.tools.ant.taskdefs.optional.extension.Specification) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension void addExtension(org.apache.tools.ant.taskdefs.optional.extension.Extension, java.lang.String, java.util.jar.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.ExtensionResolver java.io.File resolve(org.apache.tools.ant.taskdefs.optional.extension.Extension, org.apache.tools.ant.Project) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension org.apache.tools.ant.taskdefs.optional.extension.Compatibility getCompatibilityWith(org.apache.tools.ant.taskdefs.optional.extension.Extension)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension IMPLEMENTATION_VENDOR_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension REQUIRE_SPECIFICATION_UPGRADE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension IMPLEMENTATION_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension boolean isCompatibleWith(org.apache.tools.ant.taskdefs.optional.extension.Extension) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.taskdefs.optional.extension.Extension REQUIRE_VENDOR_SWITCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.Extension void addExtension(org.apache.tools.ant.taskdefs.optional.extension.Extension, java.util.jar.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.taskdefs.optional.extension.ExtensionResolver java.io.File resolve(org.apache.tools.ant.taskdefs.optional.extension.Extension, org.apache.tools.ant.Project)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

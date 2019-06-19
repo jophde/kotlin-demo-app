@@ -1,0 +1,101 @@
+<root>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils HTML_ELEMENT_MOVE_BY_CONTROL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean performSpecialAction(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils.TopToBottomLeftToRightComparator int compare(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, android.support.v4.view.accessibility.AccessibilityNodeInfoCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoRef com.googlecode.eyesfree.utils.AccessibilityNodeInfoRef makeOwned()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.ContrastUtils java.lang.CharSequence colorsToHexString(java.lang.Iterable&lt;java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.ContrastUtils java.lang.CharSequence colorsToHexString(java.lang.Iterable&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.BasePackageMonitor void onReceive(android.content.Context, android.content.Intent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean performNavigationByDOMObject(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean isScriptInjectionEnabled(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.StringBuilderUtils DEFAULT_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils FILTER_SCROLLABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils HTML_ELEMENT_MOVE_BY_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils.TopToBottomLeftToRightComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoRef com.googlecode.eyesfree.utils.AccessibilityNodeInfoRef obtain(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean performNavigationAtGranularityAction(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean performNavigationToHtmlElementAction(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.NodeFilter boolean accept(android.content.Context, android.support.v4.view.accessibility.AccessibilityNodeInfoCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils boolean nodeMatchesAnyClassByType(android.content.Context, android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, java.lang.Class&lt;?&gt;...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.NodeFilter com.googlecode.eyesfree.utils.NodeFilter or(com.googlecode.eyesfree.utils.NodeFilter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils.TopToBottomLeftToRightComparator int compare(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, android.support.v4.view.accessibility.AccessibilityNodeInfoCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.BasePackageMonitor void register(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean setSpecialContentModeEnabled(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoRef void reset(com.googlecode.eyesfree.utils.AccessibilityNodeInfoRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.NodeFilter com.googlecode.eyesfree.utils.NodeFilter and(com.googlecode.eyesfree.utils.NodeFilter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils FILTER_SHOULD_FOCUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils HTML_ELEMENT_MOVE_BY_SECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.WebInterfaceUtils boolean performSpecialAction(android.support.v4.view.accessibility.AccessibilityNodeInfoCompat, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.AccessibilityNodeInfoUtils.TopToBottomLeftToRightComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.StringBuilderUtils DEFAULT_BREAKING_SEPARATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.StringBuilderUtils android.text.SpannableStringBuilder appendWithSeparator(android.text.SpannableStringBuilder, java.lang.CharSequence...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.ClassLoadingManager void init(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.eyesfree.utils.StringBuilderUtils android.text.SpannableStringBuilder appendWithSeparator(android.text.SpannableStringBuilder, java.lang.CharSequence...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,92 @@
+<root>
+    <item name='android.support.test.espresso.contrib.AccessibilityChecks android.support.test.espresso.ViewAssertion accessibilityAssertion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction actionOnHolderItem(org.hamcrest.Matcher&lt;VH&gt;, android.support.test.espresso.ViewAction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction actionOnItem(org.hamcrest.Matcher&lt;android.view.View&gt;, android.support.test.espresso.ViewAction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.PickerActions android.support.test.espresso.ViewAction setTime(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerActions android.support.test.espresso.ViewAction close(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.NavigationViewActions android.support.test.espresso.ViewAction navigateTo(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.ViewAction actionOnItemAtPosition(int, android.support.test.espresso.ViewAction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.CountingIdlingResource CountingIdlingResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction actionOnHolderItem(org.hamcrest.Matcher&lt;VH&gt;, android.support.test.espresso.ViewAction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerActions android.support.test.espresso.ViewAction open(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerMatchers org.hamcrest.Matcher&lt;android.view.View&gt; isOpen()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerActions android.support.test.espresso.ViewAction close()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.PickerActions android.support.test.espresso.ViewAction setDate(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.CountingIdlingResource java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction atPosition(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerMatchers org.hamcrest.Matcher&lt;android.view.View&gt; isClosed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.ViewAction scrollToPosition(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.CountingIdlingResource CountingIdlingResource(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerActions android.support.test.espresso.ViewAction open()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction actionOnHolderItem(org.hamcrest.Matcher&lt;VH&gt;, android.support.test.espresso.ViewAction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction actionOnItem(org.hamcrest.Matcher&lt;android.view.View&gt;, android.support.test.espresso.ViewAction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerMatchers org.hamcrest.Matcher&lt;android.view.View&gt; isClosed(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.DrawerMatchers org.hamcrest.Matcher&lt;android.view.View&gt; isOpen(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction scrollTo(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.contrib.RecyclerViewActions android.support.test.espresso.contrib.RecyclerViewActions.PositionableRecyclerViewAction scrollToHolder(org.hamcrest.Matcher&lt;VH&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

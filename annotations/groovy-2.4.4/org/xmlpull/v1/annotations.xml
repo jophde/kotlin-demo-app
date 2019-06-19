@@ -1,0 +1,31 @@
+<root>
+    <item name='org.xmlpull.v1.XmlPullParserFactory PROPERTY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.xmlpull.v1.XmlPullParser FEATURE_PROCESS_NAMESPACES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.xmlpull.v1.XmlPullParser FEATURE_REPORT_NAMESPACE_ATTRIBUTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.xmlpull.v1.XmlPullParserFactory org.xmlpull.v1.XmlPullParserFactory newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.xmlpull.v1.XmlPullParser TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.xmlpull.v1.XmlPullParser NO_NAMESPACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.xmlpull.v1.XmlPullParser FEATURE_PROCESS_DOCDECL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.xmlpull.v1.XmlPullParserFactory org.xmlpull.v1.XmlPullParserFactory newInstance(java.lang.String, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.xmlpull.v1.XmlPullParser FEATURE_VALIDATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

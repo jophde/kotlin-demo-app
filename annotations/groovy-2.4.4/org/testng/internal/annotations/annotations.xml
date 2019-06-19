@@ -1,0 +1,120 @@
+<root>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder A findAnnotation(java.lang.reflect.Constructor, java.lang.Class&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.testng.internal.annotations.Sets java.util.Set&lt;T&gt; newLinkedHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Constructor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.ITestAnnotation findTest(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder boolean hasTestInstance(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder A findAnnotation(java.lang.reflect.Method, java.lang.Class&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder boolean hasTestInstance(java.lang.reflect.Method, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Constructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.IConfigurationAnnotation findConfiguration(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.ITestAnnotation findTest(org.testng.internal.annotations.IAnnotationFinder, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder A findAnnotation(java.lang.reflect.Constructor, java.lang.Class&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.testng.internal.annotations.Sets java.util.Set&lt;T&gt; newHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.IFactoryAnnotation findFactory(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Constructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.JDK15AnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder A findAnnotation(java.lang.reflect.Method, java.lang.Class&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.IConfigurationAnnotation findConfiguration(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Constructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.ITestAnnotation findTest(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Constructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.AnnotationHelper org.testng.annotations.IFactoryAnnotation findFactory(org.testng.internal.annotations.IAnnotationFinder, java.lang.reflect.Constructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.testng.internal.annotations.IAnnotationFinder java.lang.String[] findOptionalValues(java.lang.reflect.Constructor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

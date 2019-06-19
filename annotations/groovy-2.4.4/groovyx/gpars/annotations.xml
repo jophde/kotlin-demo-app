@@ -1,0 +1,255 @@
+<root>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure asyncFun(groovy.lang.Closure, groovyx.gpars.scheduler.FJPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure asyncFun(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure asyncFun(groovy.lang.Closure, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.List&lt;T&gt; collectManyParallel(java.util.Map, groovy.lang.Closure&lt;java.util.Collection&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map.Entry&lt;K,V&gt; findParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure&lt;T&gt; gmemoizeAtMost(groovy.lang.Closure&lt;T&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.lang.Object, groovy.lang.Closure&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.util.Collection, groovy.lang.Closure&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupByParallel(java.util.Collection&lt;T&gt;, groovy.lang.Closure&lt;K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure&lt;T&gt; gmemoize(groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil T maxParallel(java.util.Collection&lt;T&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure&lt;T&gt; gmemoizeAtLeast(groovy.lang.Closure&lt;T&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil T minParallel(java.util.Collection&lt;T&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; eachWithIndexParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map.Entry&lt;K,V&gt; findAnyParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil void asConcurrent(java.lang.Object, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.util.Collection, groovy.lang.Closure&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.ReactorMessagingRunnable java.lang.Object call(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; splitParallel(java.util.Collection&lt;T&gt;, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsExecutorsPoolUtil groovy.lang.Closure asyncFun(groovy.lang.Closure, groovyx.gpars.scheduler.Pool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.DataflowMessagingRunnable void doRun(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.util.Map, groovy.lang.Closure&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; grepParallel(java.util.Map&lt;K,V&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.util.Map, groovy.lang.Closure&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; findAllParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil boolean anyParallel(java.util.Map, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.List&lt;T&gt; collectManyParallel(java.util.Map, groovy.lang.Closure&lt;java.util.Collection&lt;? extends T&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; eachParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.lang.Object maxParallel(java.lang.Object, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; findAllParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupByParallel(java.util.Collection&lt;T&gt;, groovy.lang.Closure&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.MessagingRunnable void doRun(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil boolean everyParallel(java.util.Map, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovyx.gpars.pa.PAWrapper getParallel(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.MessagingRunnable java.lang.Object call(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.concurrent.Future&lt;T&gt; callTimeoutAsync(groovy.lang.Closure&lt;T&gt;, groovy.time.Duration, java.lang.Object...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.util.Map, groovy.lang.Closure&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; findAllParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; eachParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil boolean anyParallel(java.util.Map, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,java.util.List&lt;java.lang.Object&gt;&gt; groupByParallel(java.lang.Object, groovy.lang.Closure&lt;K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsExecutorsPoolUtil groovy.lang.Closure asyncFun(groovy.lang.Closure, groovyx.gpars.scheduler.Pool, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.concurrent.Future&lt;T&gt; leftShift(jsr166y.ForkJoinPool, groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; grepParallel(java.util.Map&lt;K,V&gt;, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; eachWithIndexParallel(java.util.Collection&lt;T&gt;, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovyx.gpars.pa.PAWrapper&lt;T&gt; getParallel(java.util.Collection&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,java.util.List&lt;java.lang.Object&gt;&gt; groupByParallel(java.lang.Object, groovy.lang.Closure&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil boolean everyParallel(java.util.Map, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.List&lt;T&gt; collectManyParallel(java.lang.Object, groovy.lang.Closure&lt;java.util.Collection&lt;? extends T&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure&lt;T&gt; gmemoizeBetween(groovy.lang.Closure&lt;T&gt;, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map.Entry&lt;K,V&gt; findAnyParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map.Entry&lt;K,V&gt; findParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure asyncFun(groovy.lang.Closure, groovyx.gpars.scheduler.FJPool, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsExecutorsPoolUtil groovy.lang.Closure async(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.GParsPoolUtil groovy.lang.Closure async(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; eachWithIndexParallel(java.util.Collection&lt;T&gt;, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.lang.Object minParallel(java.lang.Object, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.lang.Object splitParallel(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.ReactorMessagingRunnable V doRun(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.List&lt;T&gt; collectManyParallel(java.util.Collection, groovy.lang.Closure&lt;java.util.Collection&lt;? extends T&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Collection&lt;T&gt; collectParallel(java.lang.Object, groovy.lang.Closure&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.GParsPoolUtil java.util.Map&lt;K,V&gt; eachParallel(java.util.Map&lt;K,V&gt;, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

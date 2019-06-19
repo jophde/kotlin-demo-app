@@ -1,0 +1,18 @@
+<root>
+    <item
+        name='org.apache.ivy.plugins.latest.LatestRevisionStrategy void addConfiguredSpecialMeaning(org.apache.ivy.plugins.latest.LatestRevisionStrategy.SpecialMeaning) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.latest.LatestStrategy java.util.List sort(org.apache.ivy.plugins.latest.ArtifactInfo[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.plugins.latest.ComparatorLatestStrategy java.util.List sort(org.apache.ivy.plugins.latest.ArtifactInfo[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

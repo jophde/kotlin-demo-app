@@ -1,0 +1,62 @@
+<root>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.AsyncEventBus AsyncEventBus(java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.DeadEvent java.lang.Object getSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.AsyncEventBus AsyncEventBus(java.lang.String, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.EventBus void post(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.DeadEvent java.lang.Object getEvent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionContext java.lang.reflect.Method getSubscriberMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.AsyncEventBus AsyncEventBus(java.lang.String, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.DeadEvent DeadEvent(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.DeadEvent DeadEvent(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.AsyncEventBus AsyncEventBus(java.util.concurrent.Executor, android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionHandler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.AsyncEventBus AsyncEventBus(java.util.concurrent.Executor, android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionContext android.support.test.espresso.core.deps.guava.eventbus.EventBus getEventBus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionContext java.lang.Object getSubscriber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.EventBus EventBus(android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionHandler void handleException(java.lang.Throwable, android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionHandler void handleException(java.lang.Throwable, android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.SubscriberExceptionContext java.lang.Object getEvent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.eventbus.EventBus EventBus(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

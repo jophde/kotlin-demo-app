@@ -1,0 +1,54 @@
+<root>
+    <item
+        name='org.apache.ivy.core.event.retrieve.RetrieveEvent RetrieveEvent(java.lang.String, org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], org.apache.ivy.core.retrieve.RetrieveOptions) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.retrieve.EndRetrieveEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.RetrieveArtifactEvent RetrieveArtifactEvent(java.lang.String, org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.RetrieveArtifactEvent RetrieveArtifactEvent(java.lang.String, org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.retrieve.StartRetrieveEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.retrieve.EndRetrieveArtifactEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.StartRetrieveArtifactEvent StartRetrieveArtifactEvent(org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.EndRetrieveEvent EndRetrieveEvent(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], long, int, int, long, org.apache.ivy.core.retrieve.RetrieveOptions) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.StartRetrieveEvent StartRetrieveEvent(org.apache.ivy.core.module.id.ModuleRevisionId, java.lang.String[], org.apache.ivy.core.retrieve.RetrieveOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.EndRetrieveArtifactEvent EndRetrieveArtifactEvent(org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.retrieve.StartRetrieveArtifactEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.EndRetrieveArtifactEvent EndRetrieveArtifactEvent(org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.StartRetrieveArtifactEvent StartRetrieveArtifactEvent(org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.retrieve.RetrieveArtifactEvent void addArtifactAttributes(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

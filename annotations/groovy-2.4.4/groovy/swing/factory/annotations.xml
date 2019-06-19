@@ -1,0 +1,92 @@
+<root>
+    <item
+        name='groovy.swing.factory.RootPaneContainerFactory DEFAULT_DELEGATE_PROPERTY_DEFAULT_BUTTON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.RichActionWidgetFactory java.lang.Class[] getACTION_ARGS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_DISABLED_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.ButtonGroupFactory DEFAULT_DELEGATE_PROPERTY_BUTTON_GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.LayoutFactory DEFAULT_DELEGATE_PROPERTY_CONSTRAINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.LayoutFactory DELEGATE_PROPERTY_CONSTRAINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_MNEMONIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_DISPLAYED_MNEMONIC_INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_ENABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_MNEMONIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.ButtonGroupFactory DELEGATE_PROPERTY_BUTTON_GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_FOREGROUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory CONTEXT_DATA_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_BACKGROUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_ENABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_TOOL_TIP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_DISPLAYED_MNEMONIC_INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.BindFactory CONTEXT_DATA_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_DISABLED_ICON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_TOOL_TIP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.RichActionWidgetFactory java.lang.Class[] getICON_ARGS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.RichActionWidgetFactory java.lang.Class[] getSTRING_ARGS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DEFAULT_DELEGATE_PROPERTY_TAB_BACKGROUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.RootPaneContainerFactory DELEGATE_PROPERTY_DEFAULT_BUTTON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovy.swing.factory.TabbedPaneFactory DELEGATE_PROPERTY_TAB_FOREGROUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

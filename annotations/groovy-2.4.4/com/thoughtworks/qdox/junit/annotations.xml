@@ -1,0 +1,10 @@
+<root>
+    <item
+        name='com.thoughtworks.qdox.junit.APITestCase void assertApiEquals(java.net.URL, java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.thoughtworks.qdox.junit.APITestCase void assertApiEquals(java.net.URL, java.net.URL) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

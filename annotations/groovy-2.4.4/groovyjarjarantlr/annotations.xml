@@ -1,0 +1,2561 @@
+<root>
+    <item name='groovyjarjarantlr.Version subversion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void addElementToCurrentAlt(groovyjarjarantlr.AlternativeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer int escapeCharValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.ActionElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType java.lang.String toStringList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void defineRuleName(groovyjarjarantlr.Token, java.lang.String, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void replace(groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void replace(java.lang.String, groovyjarjarantlr.Token, groovyjarjarantlr.Token, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ASTFactory groovyjarjarantlr.collections.AST create(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.OneOrMoreBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CommonAST void initialize(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool java.io.PrintWriter openOutputFile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genBlockPreamble(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refToken(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleEndElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer _tokenSet_5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genMatchUsingAtomTokenType(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refInitAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator boolean elementsAreRange(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator groovyjarjarantlr.JavaBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MismatchedCharException MismatchedCharException(char, char, boolean, groovyjarjarantlr.CharScanner) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genAlt(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genGenericBlock(groovyjarjarantlr.AlternativeBlock, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refSemPred(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void genAlt(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleRefElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer boolean deterministic(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refTokenRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refCharLiteral(groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer _tokenSet_4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefParser _tokenNames'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CommonASTWithHiddenTokens CommonASTWithHiddenTokens(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator java.lang.String[] split(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genLookaheadSetForBlock(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.StringLiteralElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator java.lang.String reverseLexerRuleName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST java.lang.String decode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genSynPred(groovyjarjarantlr.SynPredBlock, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.GrammarAtom) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine java.util.List getProgram(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refWildcard(groovyjarjarantlr.Token, groovyjarjarantlr.Token, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genRule(groovyjarjarantlr.RuleSymbol) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator java.lang.String removeAssignmentFromDeclaration(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refTokenRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void beginSubRule(groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator java.lang.String getLookaheadTestTerm(int, groovyjarjarantlr.collections.impl.BitSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator java.lang.String getRangeExpression(int, int[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void genBody(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CharScanner void setText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCharFormatter java.lang.String literalString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genLookaheadSetForBlock(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CommonAST void initialize(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void setSubruleOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void replace(java.lang.String, groovyjarjarantlr.Token, groovyjarjarantlr.Token, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.BlockEndElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genAlt(groovyjarjarantlr.Alternative, groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.RuleBlock RuleBlock(groovyjarjarantlr.Grammar, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Tool void warning(java.lang.String[], java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CharScanner void match(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.TokenRangeElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.CharRangeElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genCommonBlock(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.ZeroOrMoreBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer boolean deterministic(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void genBody(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefParser _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void insertAfter(groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Version patchlevel'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator java.lang.String getTokenTypesClassName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.OneOrMoreBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genBlockInitAction(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRStringBuffer void append(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genFollowSetForRuleBlock(groovyjarjarantlr.RuleBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator java.lang.String extractTypeOfAction(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refTokenRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genCases(groovyjarjarantlr.collections.impl.BitSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genHeaderInit(groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void printSet(int, int, groovyjarjarantlr.Lookahead) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refCharLiteral(groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefParser _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefaultJavaCodeGeneratorPrintWriterManager java.io.PrintWriter setupOutput(groovyjarjarantlr.Tool, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genSynPred(groovyjarjarantlr.SynPredBlock, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genRule(groovyjarjarantlr.RuleSymbol, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.NoViableAltForCharException NoViableAltForCharException(char, groovyjarjarantlr.CharScanner) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator java.lang.String getLookaheadTestExpression(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.StringUtils java.lang.String stripBack(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool java.lang.String pathToFile(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refTokenRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refToken(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Version version'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genTokenDefinitions(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Version datestamp'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genBody(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CharFormatter java.lang.String literalString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genInitFactory(groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.DefineGrammarSymbols void beginTree(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MismatchedTokenException MismatchedTokenException(java.lang.String[], groovyjarjarantlr.Token, int, boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void refInitAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genBlockInitAction(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer _tokenSet_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.SynPredBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void defineRuleName(groovyjarjarantlr.Token, java.lang.String, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.StringUtils java.lang.String stripBack(java.lang.String, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator java.lang.String getLookaheadTestExpression(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void startTreeWalker(java.lang.String, groovyjarjarantlr.Token, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refRule(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ParseTreeRule int getLeftmostDerivation(java.lang.StringBuffer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genRule(groovyjarjarantlr.RuleSymbol, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.RuleBlock RuleBlock(groovyjarjarantlr.Grammar, java.lang.String, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer boolean deterministicImpliedPath(groovyjarjarantlr.BlockWithImpliedExitPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Grammar void processArguments(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genSynPred(groovyjarjarantlr.SynPredBlock, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer _tokenSet_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CommonASTWithHiddenTokens void initialize(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void setSubruleOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Token java.lang.String getText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.TokenStreamRewriteEngine DEFAULT_PROGRAM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CommonAST CommonAST(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void beginSubRule(groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void insertBefore(java.lang.String, groovyjarjarantlr.Token, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Parser void match(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Lookahead groovyjarjarantlr.Lookahead of(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refCharRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator boolean lookaheadIsEmpty(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool void processArguments(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void setArgOfRuleRef(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refTokensSpecElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MismatchedTokenException MismatchedTokenException(java.lang.String[], groovyjarjarantlr.Token, int, int, boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator NONUNIQUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genRuleHeader(groovyjarjarantlr.RuleSymbol, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST void initialize(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CharScanner void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.TokenStreamRewriteEngine void delete(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CharScanner void match(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genRule(groovyjarjarantlr.RuleSymbol, boolean, int, groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void insertAfter(java.lang.String, groovyjarjarantlr.Token, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST java.lang.String encode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void refReturnAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCharFormatter java.lang.String escapeString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator java.lang.String getRangeExpression(int, int[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genMatchUsingAtomText(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CharScanner groovyjarjarantlr.Token makeToken(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.OneOrMoreBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genFollowSetForRuleBlock(groovyjarjarantlr.RuleBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.StringUtils java.lang.String stripFrontBack(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer boolean subruleCanBeInverted(groovyjarjarantlr.AlternativeBlock, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refWildcard(groovyjarjarantlr.Token, groovyjarjarantlr.Token, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genHeaderMain(groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_11'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar groovyjarjarantlr.RuleBlock createNextTokenRule(groovyjarjarantlr.Grammar, groovyjarjarantlr.collections.impl.Vector, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genAlt(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CharFormatter java.lang.String escapeString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genCases(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genRule(groovyjarjarantlr.RuleSymbol, boolean, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.ZeroOrMoreBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Tool void reportException(java.lang.Exception, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool java.io.File parent(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refCharLiteral(groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void startParser(java.lang.String, groovyjarjarantlr.Token, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType java.lang.String toStringTree()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void defineRuleName(groovyjarjarantlr.Token, java.lang.String, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool int doEverything(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator boolean lookaheadIsEmpty(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genLookaheadSetForAlt(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genBlockInitAction(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.StringUtils java.lang.String stripFront(java.lang.String, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.AlternativeBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleEndElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void delete(java.lang.String, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator java.lang.String getLookaheadTestTerm(int, groovyjarjarantlr.collections.impl.BitSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleEndElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Tool void checkForInvalidArguments(java.lang.String[], groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType void initialize(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.Version project_version'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleRefElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefaultJavaCodeGeneratorPrintWriterManager java.io.PrintWriter setupOutput(groovyjarjarantlr.Tool, groovyjarjarantlr.Grammar, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.NoViableAltException NoViableAltException(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator groovyjarjarantlr.CppBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Lookahead java.lang.String toString(java.lang.String, groovyjarjarantlr.CharFormatter, groovyjarjarantlr.Grammar) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer boolean subruleCanBeInverted(groovyjarjarantlr.AlternativeBlock, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefaultJavaCodeGeneratorPrintWriterManager java.io.PrintWriter setupOutput(groovyjarjarantlr.Tool, groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator java.lang.String getLookaheadTestTerm(int, groovyjarjarantlr.collections.impl.BitSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRStringBuffer java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ParseTree void initialize(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ASTFactory groovyjarjarantlr.collections.AST make(groovyjarjarantlr.collections.impl.ASTArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refArgAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void delete(java.lang.String, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.StringUtils java.lang.String stripFront(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TreeParser void match(groovyjarjarantlr.collections.AST, groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator boolean lookaheadIsEmpty(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType groovyjarjarantlr.collections.AST getNextSibling()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refWildcard(groovyjarjarantlr.Token, groovyjarjarantlr.Token, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRecognitionException TokenStreamRecognitionException(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void setArgOfRuleRef(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator java.lang.String extractIdOfAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genBitsets(groovyjarjarantlr.collections.impl.Vector, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator groovyjarjarantlr.CSharpBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator java.lang.String extractTypeOfAction(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.TokenRangeElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TreeParser void match(groovyjarjarantlr.collections.AST, groovyjarjarantlr.collections.impl.BitSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genLookaheadSetForAlt(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void setGrammarOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genInclude(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer boolean altUsesWildcardDefault(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.ActionElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void beginTree(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.ZeroOrMoreBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer boolean deterministic(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.DefineGrammarSymbols void refSemPred(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ASTFactory groovyjarjarantlr.collections.AST create(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genMatchUsingAtomText(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST java.lang.String encode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleEndElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TreeParser void matchNot(groovyjarjarantlr.collections.AST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.BlockEndElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refCharRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void setGrammarOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenSet_4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genLookaheadSetForBlock(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genMatchUsingAtomText(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator java.lang.String extractTypeOfAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refArgAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.TokenStreamHiddenTokenFilter groovyjarjarantlr.Token nextToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamSelector groovyjarjarantlr.TokenStream getStream(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refTokensSpecElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.RuleBlock void setOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void setGrammarOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genBitsets(groovyjarjarantlr.collections.impl.Vector, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Grammar java.lang.String getSuperClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refStringLiteral(groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refTokensSpecElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genMatchUsingAtomTokenType(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genCases(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead FOLLOW(int, groovyjarjarantlr.RuleEndElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator int countLines(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Grammar boolean setOption(java.lang.String, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refReturnAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genBitsets(groovyjarjarantlr.collections.impl.Vector, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRParser _tokenNames'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer boolean deterministic(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleRefElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genSynPred(groovyjarjarantlr.SynPredBlock, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST void xmlSerializeRootClose(java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genJavadocComment(groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Grammar boolean setOption(java.lang.String, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.TreeElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.OneOrMoreBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator groovyjarjarantlr.CppBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void printGrammarAction(groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void setGrammarOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void setBlock(groovyjarjarantlr.AlternativeBlock, groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType groovyjarjarantlr.collections.AST getFirstChild()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ParseTree int getLeftmostDerivation(java.lang.StringBuffer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.BlockEndElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator int markBitsetForGen(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamHiddenTokenFilter groovyjarjarantlr.CommonHiddenStreamToken getHiddenBefore(groovyjarjarantlr.CommonHiddenStreamToken) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST void xmlSerializeRootOpen(java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Grammar void define(groovyjarjarantlr.RuleSymbol) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Lookahead groovyjarjarantlr.Lookahead intersection(groovyjarjarantlr.Lookahead) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genInitFactory(groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void setArgOfRuleRef(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.ZeroOrMoreBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Lookahead java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRParser void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void printSet(int, int, groovyjarjarantlr.Lookahead) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.DefineGrammarSymbols void refAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void setRuleOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void beginSubRule(groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genMatchUsingAtomTokenType(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.AlternativeBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator java.lang.String getLookaheadTestExpression(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void _printJavadoc(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genJavadocComment(groovyjarjarantlr.RuleSymbol) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genSynPred(groovyjarjarantlr.SynPredBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void printSet(int, int, groovyjarjarantlr.Lookahead) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST java.lang.String getText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PrintWriterWithSMAP void dump(java.io.PrintWriter, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refCharRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST java.lang.String decode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator void genSynPred(groovyjarjarantlr.SynPredBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.TokenRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator java.lang.String getLookaheadTestTerm(int, groovyjarjarantlr.collections.impl.BitSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool java.lang.String fileMinusPath(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genBitsetsHeader(groovyjarjarantlr.collections.impl.Vector, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Lookahead void combineWith(groovyjarjarantlr.Lookahead) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genASTDeclaration(groovyjarjarantlr.AlternativeElement, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator mainHeaderAction'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genGenericBlock(groovyjarjarantlr.AlternativeBlock, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void setRuleOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void startParser(java.lang.String, groovyjarjarantlr.Token, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ParseTreeToken int getLeftmostDerivation(java.lang.StringBuffer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.OneOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void refSemPred(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator groovyjarjarantlr.JavaBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void genCommonBlock(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ParseTreeToken java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genTokenTypes(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.BlockEndElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CommonASTWithHiddenTokens void initialize(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator groovyjarjarantlr.CSharpBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.GrammarAtom) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genMatchUsingAtomTokenType(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator java.lang.String getLookaheadTestExpression(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.CharRangeElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.CharLiteralElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refTokensSpecElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGeneratorPrintWriterManager java.io.PrintWriter setupOutput(groovyjarjarantlr.Tool, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void refArgAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.HTMLCodeGenerator java.lang.String getASTCreateString(groovyjarjarantlr.collections.impl.Vector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRParser void reportError(groovyjarjarantlr.RecognitionException, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator groovyjarjarantlr.PythonBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool java.io.File parent(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void setFileOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer boolean deterministic(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator boolean lookaheadIsEmpty(groovyjarjarantlr.Alternative, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refStringLiteral(groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.AlternativeBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefLexer _tokenSet_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ParseTree void initialize(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST void xmlSerializeNode(java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genMatchUsingAtomText(groovyjarjarantlr.GrammarAtom) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CharStreamIOException CharStreamIOException(java.io.IOException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.NoViableAltException NoViableAltException(groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.StringUtils java.lang.String stripFront(java.lang.String, char) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genAlt(groovyjarjarantlr.Alternative, groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void startTreeWalker(java.lang.String, groovyjarjarantlr.Token, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refRule(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CharScanner java.lang.String getText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols java.lang.String getHeaderAction(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genBitsets(groovyjarjarantlr.collections.impl.Vector, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator java.lang.String processActionCode(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.CharLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void setRuleOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleRefElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genCases(groovyjarjarantlr.collections.impl.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.RuleBlock void addExceptionSpec(groovyjarjarantlr.ExceptionSpec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refTokensSpecElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar groovyjarjarantlr.RuleBlock createNextTokenRule(groovyjarjarantlr.Grammar, groovyjarjarantlr.collections.impl.Vector, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void _refToken(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.WildcardElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.CharLiteralElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CSharpCodeGenerator NONUNIQUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void replace(groovyjarjarantlr.Token, groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CodeGenerator void genTokenInterchange(groovyjarjarantlr.TokenManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void replace(groovyjarjarantlr.Token, groovyjarjarantlr.Token, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.TreeParser void match(groovyjarjarantlr.collections.AST, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead FOLLOW(int, groovyjarjarantlr.RuleEndElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRLexer int tokenTypeForCharLiteral(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType void initialize(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamIOException TokenStreamIOException(java.io.IOException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead FOLLOW(int, groovyjarjarantlr.RuleEndElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MismatchedCharException MismatchedCharException(char, groovyjarjarantlr.collections.impl.BitSet, boolean, groovyjarjarantlr.CharScanner) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Parser void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refStringLiteral(groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refTokensSpecElementOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ASTNULLType java.lang.String getText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refInitAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator groovyjarjarantlr.PythonBlockFinishingInfo genCommonBlock(groovyjarjarantlr.AlternativeBlock, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.StringLiteralElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator java.lang.String getRangeExpression(int, int[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genCommonBlock(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar groovyjarjarantlr.RuleBlock createNextTokenRule(groovyjarjarantlr.Grammar, groovyjarjarantlr.collections.impl.Vector, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void beginTree(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void delete(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefLexer _tokenSet_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.RuleBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void setBlock(groovyjarjarantlr.AlternativeBlock, groovyjarjarantlr.AlternativeBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CppCodeGenerator void genBlockInitAction(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MismatchedCharException MismatchedCharException(char, char, char, boolean, groovyjarjarantlr.CharScanner) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.StringUtils java.lang.String stripBack(java.lang.String, char) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void startLexer(java.lang.String, groovyjarjarantlr.Token, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRTokdefParser void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ASTPair groovyjarjarantlr.ASTPair copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkGrammarAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.StringLiteralElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refReturnAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void setSubruleOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator NONUNIQUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refTokenRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void genAlt(groovyjarjarantlr.Alternative, groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void delete(groovyjarjarantlr.Token, groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.CharRangeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.SynPredBlock) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.ZeroOrMoreBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.MismatchedTokenException MismatchedTokenException(java.lang.String[], groovyjarjarantlr.Token, groovyjarjarantlr.collections.impl.BitSet, boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator java.lang.String getRangeExpression(int, int[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamRewriteEngine void insertBefore(groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator NONUNIQUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genFollowSetForRuleBlock(groovyjarjarantlr.RuleBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.RuleRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.ANTLRGrammarParseBehavior void refToken(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, boolean, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.MakeGrammar void refTokenRange(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.DocBookCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefLexer _tokenSet_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.CodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.ParserGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void refRule(groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, groovyjarjarantlr.Token, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.TreeParser void reportError(groovyjarjarantlr.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void startLexer(java.lang.String, groovyjarjarantlr.Token, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.AlternativeBlock)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.CSharpCodeGenerator void genBody(groovyjarjarantlr.LexerGrammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DiagnosticCodeGenerator void genLookaheadSetForAlt(groovyjarjarantlr.Alternative) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGeneratorPrintWriterManager java.io.PrintWriter setupOutput(groovyjarjarantlr.Tool, groovyjarjarantlr.Grammar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.CppCodeGenerator void gen(groovyjarjarantlr.TokenRefElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.BaseAST void initialize(groovyjarjarantlr.collections.AST) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='groovyjarjarantlr.MakeGrammar void refAction(groovyjarjarantlr.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.ANTLRTokdefLexer _tokenSet_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead FOLLOW(int, groovyjarjarantlr.RuleEndElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.Lookahead groovyjarjarantlr.Lookahead intersection(groovyjarjarantlr.Lookahead)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer boolean deterministic(groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.HTMLCodeGenerator void gen(groovyjarjarantlr.ActionElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='groovyjarjarantlr.TokenStreamHiddenTokenFilter groovyjarjarantlr.CommonHiddenStreamToken getHiddenAfter(groovyjarjarantlr.CommonHiddenStreamToken) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.DefineGrammarSymbols void setFileOption(groovyjarjarantlr.Token, groovyjarjarantlr.Token, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.JavaCodeGenerator void genAlt(groovyjarjarantlr.Alternative, groovyjarjarantlr.AlternativeBlock) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyjarjarantlr.LLkAnalyzer groovyjarjarantlr.Lookahead look(int, groovyjarjarantlr.TreeElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.JavaCodeGenerator void gen(groovyjarjarantlr.TreeElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.Tool void doEverythingWrapper(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyjarjarantlr.PythonCodeGenerator initHeaderAction'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

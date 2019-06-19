@@ -1,0 +1,43 @@
+<root>
+    <item name='com.beust.jcommander.internal.Maps java.util.Map&lt;T,T&gt; newHashMap(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Sets java.util.Set&lt;K&gt; newHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Maps java.util.Map&lt;T,T&gt; newHashMap(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.internal.Lists java.util.List&lt;K&gt; newArrayList(java.util.Collection&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Lists java.util.LinkedList&lt;K&gt; newLinkedList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Sets java.util.Set&lt;K&gt; newLinkedHashSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Maps java.util.Map&lt;K,V&gt; newLinkedHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Lists java.util.List&lt;K&gt; newArrayList(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Lists java.util.List&lt;K&gt; newArrayList(K...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Lists java.util.List&lt;K&gt; newArrayList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.Maps java.util.Map&lt;K,V&gt; newHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.beust.jcommander.internal.JDK6Console JDK6Console(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.beust.jcommander.internal.Lists java.util.LinkedList&lt;K&gt; newLinkedList(java.util.Collection&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

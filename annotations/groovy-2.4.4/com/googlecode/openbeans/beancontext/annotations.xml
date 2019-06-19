@@ -1,0 +1,417 @@
+<root>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.io.InputStream getResourceAsStream(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport boolean addService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport boolean classEquals(java.lang.Class, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void addBeanContextServicesListener(com.googlecode.openbeans.beancontext.BeanContextServicesListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void addBeanContextServicesListener(com.googlecode.openbeans.beancontext.BeanContextServicesListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void serviceRevoked(com.googlecode.openbeans.beancontext.BeanContextServiceRevokedEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void releaseService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void deserialize(java.io.ObjectInputStream, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextChildSupport void serviceAvailable(com.googlecode.openbeans.beancontext.BeanContextServiceAvailableEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport boolean add(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport.BCSSProxyServiceProvider void serviceRevoked(com.googlecode.openbeans.beancontext.BeanContextServiceRevokedEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void removeBeanContextMembershipListener(com.googlecode.openbeans.beancontext.BeanContextMembershipListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.googlecode.openbeans.beancontext.BeanContext globalHierarchyLock'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener void serviceRevoked(com.googlecode.openbeans.beancontext.BeanContextServiceRevokedEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.net.URL getResource(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void releaseService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext void removeBeanContextMembershipListener(com.googlecode.openbeans.beancontext.BeanContextMembershipListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices boolean addService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void releaseService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport java.util.Iterator getCurrentServiceClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextMembershipEvent BeanContextMembershipEvent(com.googlecode.openbeans.beancontext.BeanContext, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void revokeService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport boolean remove(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void bcsPreDeserializationHook(java.io.ObjectInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void bcsPreSerializationHook(java.io.ObjectOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesListener void serviceAvailable(com.googlecode.openbeans.beancontext.BeanContextServiceAvailableEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void releaseService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.net.URL getResource(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void bcsPreSerializationHook(java.io.ObjectOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport boolean hasService(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void serviceAvailable(com.googlecode.openbeans.beancontext.BeanContextServiceAvailableEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport com.googlecode.openbeans.beancontext.BeanContextServicesSupport.BCSSServiceProvider createBCSSServiceProvider(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices boolean hasService(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices boolean addService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport com.googlecode.openbeans.beancontext.BeanContextSupport.BCSChild createBCSChild(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void serialize(java.io.ObjectOutputStream, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext void addBeanContextMembershipListener(com.googlecode.openbeans.beancontext.BeanContextMembershipListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void bcsPreDeserializationHook(java.io.ObjectInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport boolean remove(java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void revokeService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void propertyChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void revokeService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext java.io.InputStream getResourceAsStream(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextChildSupport void serviceRevoked(com.googlecode.openbeans.beancontext.BeanContextServiceRevokedEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport boolean addService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void removeBeanContextServicesListener(com.googlecode.openbeans.beancontext.BeanContextServicesListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext java.net.URL getResource(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.util.Iterator bcsChildren()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.io.InputStream getResourceAsStream(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport boolean addService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport boolean classEquals(java.lang.Class, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext java.lang.Object instantiateChild(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void addBeanContextMembershipListener(com.googlecode.openbeans.beancontext.BeanContextMembershipListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void revokeService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void serialize(java.io.ObjectOutputStream, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void releaseService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices void removeBeanContextServicesListener(com.googlecode.openbeans.beancontext.BeanContextServicesListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport java.lang.Object instantiateChild(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextSupport void vetoableChange(com.googlecode.openbeans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext java.io.InputStream getResourceAsStream(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextMembershipEvent BeanContextMembershipEvent(com.googlecode.openbeans.beancontext.BeanContext, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport void releaseService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices java.lang.Object getService(com.googlecode.openbeans.beancontext.BeanContextChild, java.lang.Object, java.lang.Class, java.lang.Object, com.googlecode.openbeans.beancontext.BeanContextServiceRevokedListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContext java.net.URL getResource(java.lang.String, com.googlecode.openbeans.beancontext.BeanContextChild) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServices java.util.Iterator getCurrentServiceClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport com.googlecode.openbeans.beancontext.BeanContextSupport.BCSChild createBCSChild(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='com.googlecode.openbeans.beancontext.BeanContextServicesSupport boolean addService(java.lang.Class, com.googlecode.openbeans.beancontext.BeanContextServiceProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

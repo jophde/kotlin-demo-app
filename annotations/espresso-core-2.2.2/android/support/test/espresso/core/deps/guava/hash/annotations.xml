@@ -1,0 +1,521 @@
+<root>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.Hasher newHasher()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putUnencodedChars(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.HashCode hashString(java.lang.CharSequence, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.CharSequence&gt; unencodedCharsFunnel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.HashCode hashUnencodedChars(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashCode combineOrdered(java.lang.Iterable&lt;android.support.test.espresso.core.deps.guava.hash.HashCode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.CharSequence&gt; stringFunnel(java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction murmur3_128(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction murmur3_32(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction crc32()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putDouble(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putShort(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putChar(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.HashCode hashInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction sipHash24()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode android.support.test.espresso.core.deps.guava.hash.HashCode fromBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putString(java.lang.CharSequence, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putChar(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putShort(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode android.support.test.espresso.core.deps.guava.hash.HashCode fromLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putUnencodedChars(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction murmur3_128()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction murmur3_32()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher void processRemaining(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction sha256()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter boolean apply(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putUnencodedChars(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putFloat(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction crc32c()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putUnencodedChars(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.HashCode hashUnencodedChars(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter void putAll(android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putBoolean(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashingInputStream HashingInputStream(android.support.test.espresso.core.deps.guava.hash.HashFunction, java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putObject(T, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction goodFastHash(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels java.io.OutputStream asOutputStream(android.support.test.espresso.core.deps.guava.hash.PrimitiveSink)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode android.support.test.espresso.core.deps.guava.hash.HashCode fromString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; create(android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putByte(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.Iterable&lt;? extends E&gt;&gt; sequentialFunnel(android.support.test.espresso.core.deps.guava.hash.Funnel&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode byte[] asBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter boolean isCompatible(android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction sha1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; create(android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.Iterable&lt;? extends E&gt;&gt; sequentialFunnel(android.support.test.espresso.core.deps.guava.hash.Funnel&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashingInputStream HashingInputStream(android.support.test.espresso.core.deps.guava.hash.HashFunction, java.io.InputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putFloat(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putObject(T, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels java.io.OutputStream asOutputStream(android.support.test.espresso.core.deps.guava.hash.PrimitiveSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putUnencodedChars(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction sipHash24(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putByte(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.Hasher newHasher(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashCode combineOrdered(java.lang.Iterable&lt;android.support.test.espresso.core.deps.guava.hash.HashCode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putString(java.lang.CharSequence, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putByte(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnel void funnel(T, android.support.test.espresso.core.deps.guava.hash.PrimitiveSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode android.support.test.espresso.core.deps.guava.hash.HashCode fromInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putUnencodedChars(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBoolean(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;byte[]&gt; byteArrayFunnel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putByte(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction sha512()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; create(android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;, int, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode android.support.test.espresso.core.deps.guava.hash.HashCode fromString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode android.support.test.espresso.core.deps.guava.hash.HashCode fromBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.HashCode hashBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashCode combineUnordered(java.lang.Iterable&lt;android.support.test.espresso.core.deps.guava.hash.HashCode&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashCode int writeBytesTo(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashingOutputStream HashingOutputStream(android.support.test.espresso.core.deps.guava.hash.HashFunction, java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnel void funnel(T, android.support.test.espresso.core.deps.guava.hash.PrimitiveSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; readFrom(java.io.InputStream, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putChar(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putUnencodedChars(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.CharSequence&gt; stringFunnel(java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putString(java.lang.CharSequence, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashFunction android.support.test.espresso.core.deps.guava.hash.HashCode hashLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.Integer&gt; integerFunnel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction md5()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing int consistentHash(android.support.test.espresso.core.deps.guava.hash.HashCode, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putShort(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putBytes(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putChar(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putDouble(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putUnencodedChars(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.HashingOutputStream HashingOutputStream(android.support.test.espresso.core.deps.guava.hash.HashFunction, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; readFrom(java.io.InputStream, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putObject(T, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; create(android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;, int, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashCode combineUnordered(java.lang.Iterable&lt;android.support.test.espresso.core.deps.guava.hash.HashCode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hashing android.support.test.espresso.core.deps.guava.hash.HashFunction adler32()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putBytes(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher void process(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.HashCode hash()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.PrimitiveSink android.support.test.espresso.core.deps.guava.hash.PrimitiveSink putString(java.lang.CharSequence, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.AbstractStreamingHashFunction.AbstractStreamingHasher android.support.test.espresso.core.deps.guava.hash.Hasher putShort(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.BloomFilter android.support.test.espresso.core.deps.guava.hash.BloomFilter&lt;T&gt; readFrom(java.io.InputStream, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Hasher android.support.test.espresso.core.deps.guava.hash.Hasher putObject(T, android.support.test.espresso.core.deps.guava.hash.Funnel&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.test.espresso.core.deps.guava.hash.Funnels android.support.test.espresso.core.deps.guava.hash.Funnel&lt;java.lang.Long&gt; longFunnel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

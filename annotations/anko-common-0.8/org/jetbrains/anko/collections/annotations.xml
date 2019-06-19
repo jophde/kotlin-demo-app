@@ -1,0 +1,165 @@
+<root>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachReversed(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseBooleanArraySequence android.util.SparseBooleanArray access$getA$p(org.jetbrains.anko.collections.SparseBooleanArraySequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt kotlin.Sequence&lt;java.lang.Integer&gt; asSequence(android.util.SparseIntArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseArraySequence org.jetbrains.anko.collections.SparseArraySequence.SparseArrayIterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseBooleanArraySequence org.jetbrains.anko.collections.SparseBooleanArraySequence.SparseIntArrayIterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt kotlin.Sequence&lt;java.lang.Integer&gt; asSequence(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseBooleanArraySequence android.util.SparseBooleanArray access$getA$p(org.jetbrains.anko.collections.SparseBooleanArraySequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachByIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachReversed(T[], kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseBooleanArraySequence SparseBooleanArraySequence(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseArraySequence android.util.SparseArray&lt;T&gt; access$getA$p(org.jetbrains.anko.collections.SparseArraySequence&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt kotlin.Sequence&lt;T&gt; asSequence(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseArraySequence SparseArraySequence(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachReversedWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseBooleanArraySequence java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseIntArraySequence SparseIntArraySequence(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.collections.SparseArraySequence java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseIntArraySequence android.util.SparseIntArray access$getA$p(org.jetbrains.anko.collections.SparseIntArraySequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachByIndex(T[], kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachReversedWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachReversed(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt kotlin.Pair&lt;F,S&gt; toKotlinPair(android.util.Pair&lt;F,S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt android.util.Pair&lt;F,S&gt; toAndroidPair(kotlin.Pair&lt;? extends F,? extends S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt kotlin.Sequence&lt;java.lang.Boolean&gt; asSequence(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt android.util.Pair&lt;F,S&gt; toAndroidPair(kotlin.Pair&lt;? extends F,? extends S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt kotlin.Sequence&lt;T&gt; asSequence(android.util.SparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt kotlin.Sequence&lt;java.lang.Boolean&gt; asSequence(android.util.SparseBooleanArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseIntArraySequence android.util.SparseIntArray access$getA$p(org.jetbrains.anko.collections.SparseIntArraySequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseIntArraySequence java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachReversed(T[], kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachByIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt void forEachReversedWithIndex(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.CollectionsKt kotlin.Pair&lt;F,S&gt; toKotlinPair(android.util.Pair&lt;F,S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseArraySequence android.util.SparseArray&lt;T&gt; access$getA$p(org.jetbrains.anko.collections.SparseArraySequence&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachByIndex(T[], kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.ArraysKt void forEachReversedWithIndex(T[], kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.jetbrains.anko.collections.SparseIntArraySequence org.jetbrains.anko.collections.SparseIntArraySequence.SparseIntArrayIterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

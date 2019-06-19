@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.bsf.util.event.adapters.java_beans_PropertyChangeAdapter void propertyChange(java.beans.PropertyChangeEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

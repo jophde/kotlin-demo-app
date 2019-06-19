@@ -1,0 +1,283 @@
+<root>
+    <item
+        name='groovyx.gpars.group.PGroup A_SPLITTER_NEEDS_AN_INPUT_CHANNEL_AND_AT_LEAST_ONE_OUTPUT_CHANNEL_TO_BE_CREATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor prioritySelector(java.util.List, java.util.List, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroupBuilder groovyx.gpars.group.PGroup createFromPool(jsr166y.ForkJoinPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.BlockingActor blockingActor(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor prioritySelector(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor selector(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor operator(groovyx.gpars.dataflow.DataflowReadChannel, groovyx.gpars.dataflow.DataflowWriteChannel, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroupBuilder groovyx.gpars.group.PGroup createFromPool(groovyx.gpars.scheduler.Pool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor selector(java.util.List, java.util.List, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor prioritySelector(java.util.Map, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroupBuilder groovyx.gpars.group.PGroup createFromPool(jsr166y.ForkJoinPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; task(groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(java.util.List&lt;groovyx.gpars.dataflow.Promise&gt;, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;java.lang.Object&gt; task(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Select select(java.util.List&lt;groovyx.gpars.dataflow.SelectableChannel&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.group.PGroup groovyx.gpars.agent.Agent&lt;T&gt; agent(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor fairStaticMessageHandler(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(java.util.List&lt;groovyx.gpars.dataflow.Promise&gt;, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor splitter(groovyx.gpars.dataflow.DataflowReadChannel, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor fairMessageHandler(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(java.util.List&lt;groovyx.gpars.dataflow.Promise&gt;, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Select select(java.util.List&lt;groovyx.gpars.dataflow.SelectableChannel&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor prioritySelector(java.util.Map, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor messageHandler(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(java.util.List&lt;groovyx.gpars.dataflow.Promise&gt;, groovy.lang.Closure&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Select select(groovyx.gpars.dataflow.SelectableChannel...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor operator(groovyx.gpars.dataflow.DataflowReadChannel, groovyx.gpars.dataflow.DataflowWriteChannel, int, groovy.lang.Closure) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.DefaultActor fairActor(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(java.util.List&lt;groovyx.gpars.dataflow.Promise&gt;, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor splitter(groovyx.gpars.dataflow.DataflowReadChannel, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor operator(java.util.Map, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor selector(java.util.Map, groovy.lang.Closure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor operator(java.util.List, java.util.List, int, groovy.lang.Closure) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor splitter(groovyx.gpars.dataflow.DataflowReadChannel, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.agent.Agent&lt;T&gt; fairAgent(T, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor reactor(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(java.util.List&lt;groovyx.gpars.dataflow.Promise&gt;, groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor fairStaticMessageHandler(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; lazyTask(java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; task(groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor splitter(groovyx.gpars.dataflow.DataflowReadChannel, java.util.List&lt;groovyx.gpars.dataflow.DataflowWriteChannel&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor staticMessageHandler(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor reactor(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroupBuilder groovyx.gpars.group.PGroup createFromPool(java.util.concurrent.ThreadPoolExecutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; lazyTask(groovy.lang.Closure&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;, groovy.lang.Closure&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor selector(java.util.Map, groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.operator.DataflowProcessor operator(java.util.List, java.util.List, groovy.lang.Closure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; whenAllBound(groovyx.gpars.dataflow.Promise, groovyx.gpars.dataflow.Promise, groovy.lang.Closure&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor fairReactor(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; lazyTask(groovy.lang.Closure&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor staticMessageHandler(groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.agent.Agent&lt;T&gt; agent(T, groovy.lang.Closure)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.DefaultActor actor(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.actor.Actor fairReactor(groovy.lang.Closure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='groovyx.gpars.group.PGroup groovyx.gpars.dataflow.Promise&lt;T&gt; task(java.util.concurrent.Callable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='groovyx.gpars.group.PGroup groovyx.gpars.agent.Agent&lt;T&gt; fairAgent(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

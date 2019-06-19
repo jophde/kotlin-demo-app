@@ -1,0 +1,110 @@
+<root>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Type int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Type int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Date int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.DelegatedResourceComparator int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.DelegatedResourceComparator int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Name int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Name int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Exists int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Reverse int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Exists int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Content int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Size int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Content int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Date int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Reverse int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.Size int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.ResourceComparator int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.ResourceComparator int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.FileSystem int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.resources.comparators.FileSystem int resourceCompare(org.apache.tools.ant.types.Resource, org.apache.tools.ant.types.Resource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

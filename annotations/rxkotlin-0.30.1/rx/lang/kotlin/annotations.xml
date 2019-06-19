@@ -1,0 +1,379 @@
+<root>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier void access$setSubscriber$p(rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;, rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt T firstOrNull(rx.observables.BlockingObservable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Integer&gt; toObservable(kotlin.Progression&lt;? extends java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;&gt; access$getOnStartFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.SubjectsKt rx.subjects.AsyncSubject&lt;T&gt; AsyncSubject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;&gt; access$getOnStartFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier void onCompleted(kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Integer&gt; toObservable(kotlin.Progression&lt;? extends java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; onErrorReturnNull(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;&gt; access$getOnCompletedFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; toObservable(java.util.Iterator&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Integer&gt; toObservable(int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier void access$setSubscriber$p(rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;, rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; combineLatest(java.util.List&lt;? extends rx.Observable&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super java.util.List&lt;? extends T&gt;,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubjectsKt rx.subjects.TestSubject&lt;T&gt; TestSubject(rx.schedulers.TestScheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; fold(rx.Observable&lt;T&gt;, R, kotlin.jvm.functions.Function2&lt;? super R,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; onErrorReturnNull(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier void onError(kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; observable(kotlin.jvm.functions.Function1&lt;? super rx.Subscriber&lt;? super T&gt;,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.SubjectsKt rx.subjects.BehaviorSubject&lt;T&gt; BehaviourSubject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; deferredObservable(kotlin.jvm.functions.Function0&lt;? extends rx.Observable&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onCompleted(kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; onError(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Float&gt; toObservable(float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier rx.lang.kotlin.FunctionSubscriber&lt;T&gt; getSubscriber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;&gt; access$getOnErrorFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; flatMapSequence(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Boolean&gt; toObservable(boolean[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; mergeDelayError(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.SubjectsKt rx.subjects.BehaviorSubject&lt;T&gt; BehaviourSubject(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; onError(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; merge(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onCompleted(kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubscriptionKt void plusAssign(rx.subscriptions.CompositeSubscription, rx.Subscription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onStart(kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; flatMapSequence(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;&gt; access$getOnCompletedFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Short&gt; toObservable(short[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onNext(kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onStart(kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt.lift.1 rx.Subscriber&lt;? super T&gt; call(rx.Subscriber&lt;? super R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; observable(kotlin.jvm.functions.Function1&lt;? super rx.Subscriber&lt;? super T&gt;,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; onError(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; toSingletonObservable(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubscriptionKt void plusAssign(rx.subscriptions.CompositeSubscription, rx.Subscription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; switchOnNext(rx.Observable&lt;rx.Observable&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Subscription subscribeWith(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; deferredObservable(kotlin.jvm.functions.Function0&lt;? extends rx.Observable&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;&gt; access$getOnErrorFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.ObservablesKt.toObservable.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.SubjectsKt rx.subjects.PublishSubject&lt;T&gt; PublishSubject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; requireNoNulls(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; zip(java.util.List&lt;? extends rx.Observable&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super java.util.List&lt;? extends T&gt;,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; toObservable(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubjectsKt rx.subjects.ReplaySubject ReplaySubject$default(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onNext(kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier rx.lang.kotlin.FunctionSubscriber&lt;T&gt; access$getSubscriber$p(rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier void onNext(kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier FunctionSubscriberModifier(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Byte&gt; toObservable(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Subscription subscribeWith(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubscribersKt rx.lang.kotlin.FunctionSubscriber&lt;T&gt; subscriber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.ObservablesKt.lift.1 java.lang.Object call(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onError(kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Subscription subscribeWith(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; zip(java.util.List&lt;? extends rx.Observable&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super java.util.List&lt;? extends T&gt;,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; requireNoNulls(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubscribersKt rx.Subscriber&lt;T&gt; synchronized(rx.Subscriber&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.SubjectsKt rx.subjects.ReplaySubject&lt;T&gt; ReplaySubject(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber rx.lang.kotlin.FunctionSubscriber&lt;T&gt; onError(kotlin.jvm.functions.Function1&lt;? super java.lang.Throwable,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; lift(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super rx.Subscriber&lt;? super R&gt;,? extends rx.Subscriber&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier FunctionSubscriberModifier(rx.lang.kotlin.FunctionSubscriber, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Double&gt; toObservable(double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;kotlin.IndexedValue&lt;? extends T&gt;&gt; withIndex(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; flatMapSequence(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; filterNotNull(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; lift(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super rx.Subscriber&lt;? super R&gt;,? extends rx.Subscriber&lt;T&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;&gt; access$getOnNextFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; combineLatest(java.util.List&lt;? extends rx.Observable&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super java.util.List&lt;? extends T&gt;,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriber java.util.ArrayList&lt;kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;&gt; access$getOnNextFunctions$p(rx.lang.kotlin.FunctionSubscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; toObservable(java.lang.Iterable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;java.lang.Long&gt; toObservable(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; firstOrNull(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; toObservable(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubjectsKt rx.subjects.TestSubject&lt;T&gt; TestSubject(rx.schedulers.TestScheduler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.ObservablesKt.toIterable.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; toObservable(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier void onStart(kotlin.jvm.functions.Function0&lt;? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; emptyObservable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; lift(rx.Observable&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super rx.Subscriber&lt;? super R&gt;,? extends rx.Subscriber&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; filterNotNull(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;T&gt; firstOrNull(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; fold(rx.Observable&lt;T&gt;, R, kotlin.jvm.functions.Function2&lt;? super R,? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.SubjectsKt rx.subjects.Subject&lt;F,T&gt; synchronized(rx.subjects.Subject&lt;F,T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.FunctionSubscriberModifier rx.lang.kotlin.FunctionSubscriber&lt;T&gt; access$getSubscriber$p(rx.lang.kotlin.FunctionSubscriberModifier&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;kotlin.IndexedValue&lt;? extends T&gt;&gt; withIndex(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='rx.lang.kotlin.ObservablesKt rx.Observable&lt;R&gt; fold(rx.Observable&lt;T&gt;, R, kotlin.jvm.functions.Function2&lt;? super R,? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

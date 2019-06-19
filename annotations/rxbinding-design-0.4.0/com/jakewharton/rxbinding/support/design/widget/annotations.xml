@@ -1,0 +1,35 @@
+<root>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayout rx.functions.Action1&lt;? super java.lang.Boolean&gt; counterEnabled(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayout rx.functions.Action1&lt;? super java.lang.CharSequence&gt; error(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTabLayout rx.functions.Action1&lt;? super java.lang.Integer&gt; select(android.support.design.widget.TabLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayout rx.functions.Action1&lt;? super java.lang.Integer&gt; hintRes(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent.Kind UNSELECTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent create(android.support.design.widget.TabLayout, com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent.Kind, android.support.design.widget.TabLayout.Tab)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayout rx.functions.Action1&lt;? super java.lang.Integer&gt; errorRes(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent.Kind RESELECTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayout rx.functions.Action1&lt;? super java.lang.CharSequence&gt; hint(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.RxTextInputLayout rx.functions.Action1&lt;? super java.lang.Integer&gt; counterMaxLength(android.support.design.widget.TextInputLayout)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jakewharton.rxbinding.support.design.widget.TabLayoutSelectionEvent.Kind SELECTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

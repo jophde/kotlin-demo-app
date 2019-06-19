@@ -1,0 +1,14 @@
+<root>
+    <item name='io.realm.internal.modules.CompositeMediator E copyOrUpdate(io.realm.Realm, E, boolean, java.util.Map&lt;io.realm.RealmObject,io.realm.internal.RealmObjectProxy&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.modules.FilterableMediator E createDetachedCopy(E, int, java.util.Map&lt;io.realm.RealmObject,io.realm.internal.RealmObjectProxy.CacheData&lt;io.realm.RealmObject&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.modules.CompositeMediator E createDetachedCopy(E, int, java.util.Map&lt;io.realm.RealmObject,io.realm.internal.RealmObjectProxy.CacheData&lt;io.realm.RealmObject&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.realm.internal.modules.FilterableMediator E copyOrUpdate(io.realm.Realm, E, boolean, java.util.Map&lt;io.realm.RealmObject,io.realm.internal.RealmObjectProxy&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

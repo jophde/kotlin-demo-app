@@ -1,0 +1,24 @@
+<root>
+    <item
+        name='org.apache.tools.ant.types.optional.depend.DependScanner java.lang.String[] getIncludedFiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.types.optional.depend.DependScanner DEFAULT_ANALYZER_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.optional.depend.DependScanner java.lang.String[] getIncludedDirectories()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.optional.depend.ClassfileSet void addConfiguredRoot(org.apache.tools.ant.types.optional.depend.ClassfileSet.ClassRoot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.tools.ant.types.optional.depend.ClassfileSet ClassfileSet(org.apache.tools.ant.types.optional.depend.ClassfileSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.tools.ant.types.optional.depend.ClassfileSet java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

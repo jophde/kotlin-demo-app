@@ -1,0 +1,30 @@
+<root>
+    <item name='org.apache.ivy.core.event.download.EndArtifactDownloadEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.download.NeedArtifactEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.download.StartArtifactDownloadEvent StartArtifactDownloadEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.cache.ArtifactOrigin) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.download.PrepareDownloadEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.download.EndArtifactDownloadEvent EndArtifactDownloadEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.download.EndArtifactDownloadEvent EndArtifactDownloadEvent(org.apache.ivy.plugins.resolver.DependencyResolver, org.apache.ivy.core.module.descriptor.Artifact, org.apache.ivy.core.report.ArtifactDownloadReport, java.io.File) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.core.event.download.DownloadEvent void addArtifactAttributes(org.apache.ivy.core.module.descriptor.Artifact) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.core.event.download.StartArtifactDownloadEvent NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,1115 @@
+<root>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._DrawerLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.support.v4.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout _SlidingPaneLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt int sp(android.support.v4.app.Fragment, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._ViewPager,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt T configuration(android.support.v4.app.Fragment, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt org.jetbrains.anko.AnkoContext&lt;android.support.v4.app.Fragment&gt; UI(android.support.v4.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.support.v4.app.Fragment&gt;,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean makeCall(android.support.v4.app.Fragment, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportContextUtilsKt android.content.Context getCtx(android.support.v4.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(android.support.v4.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTitleStrip,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._ViewPager,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean share$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4ViewGroup INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager T lparams(T, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.ViewPager.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportAsyncKt void onUiThread(android.support.v4.app.Fragment, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.support.v4._DrawerLayout&gt; getDRAWER_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.ViewPager.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean share(android.support.v4.app.Fragment, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean makeCall(android.support.v4.app.Fragment, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SwipeRefreshLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean browse(android.support.v4.app.Fragment, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._NestedScrollView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._NestedScrollView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager T lparams(T, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.ViewPager.LayoutParams,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt org.jetbrains.anko.AnkoContext&lt;android.support.v4.app.Fragment&gt; UI(android.support.v4.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.support.v4.app.Fragment&gt;,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.Space space(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.Space,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportAsyncKt void uiThread(android.support.v4.app.Fragment, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean browse(android.support.v4.app.Fragment, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v4.view.PagerTabStrip&gt; getPAGER_TAB_STRIP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean share(android.support.v4.app.Fragment, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._DrawerLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._SlidingPaneLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTitleStrip,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTitleStrip,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt org.jetbrains.anko.AnkoContext&lt;android.support.v4.app.Fragment&gt; UI(android.support.v4.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AnkoContext&lt;android.support.v4.app.Fragment&gt;,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean share$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v4.view.PagerTitleStrip&gt; getPAGER_TITLE_STRIP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._SlidingPaneLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._FragmentTabHost,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._NestedScrollView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTitleStrip,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._NestedScrollView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._SlidingPaneLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt int dimen(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportAsyncKt void onUiThread(android.support.v4.app.Fragment, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean share$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._SlidingPaneLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SwipeRefreshLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4LayoutsKt kotlin.jvm.functions.Function1 access$getDefaultInit$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt int dip(android.support.v4.app.Fragment, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTabStrip,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportContextUtilsKt android.app.Activity getAct(android.support.v4.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportContextUtilsKt android.content.SharedPreferences getDefaultSharedPreferences(android.support.v4.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._ViewPager,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._ViewPager,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._FragmentTabHost,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.support.v4._NestedScrollView&gt; getNESTED_SCROLL_VIEW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4View INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._FragmentTabHost,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportContextUtilsKt android.content.Context getCtx(android.support.v4.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt java.lang.Object configuration$default(android.support.v4.app.Fragment, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.__ViewPager_OnPageChangeListener void onPageScrollStateChanged(kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog$default(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SwipeRefreshLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.__ViewPager_OnPageChangeListener void onPageSelected(kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt int dip(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.ContentLoadingProgressBar contentLoadingProgressBar(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.ContentLoadingProgressBar,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void toast(android.support.v4.app.Fragment, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt T withArguments(T, kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost _FragmentTabHost(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void longToast(android.support.v4.app.Fragment, java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.ContentLoadingProgressBar contentLoadingProgressBar(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._DrawerLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._NestedScrollView,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._DrawerLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void toast(android.support.v4.app.Fragment, java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SwipeRefreshLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void selector(android.support.v4.app.Fragment, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.support.v4._ViewPager&gt; getVIEW_PAGER()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.support.v4._FragmentTabHost&gt; getFRAGMENT_TAB_HOST()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void longToast(android.support.v4.app.Fragment, java.lang.CharSequence) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ListenersKt void onPageChangeListener(android.support.v4.view.ViewPager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4.__ViewPager_OnPageChangeListener,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.__ViewPager_OnPageChangeListener void onPageScrolled(kotlin.jvm.functions.Function3&lt;? super java.lang.Integer,? super java.lang.Float,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTabStrip,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt float px2dip(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ListenersKt void onTabChanged(android.support.v4.app.FragmentTabHost, kotlin.jvm.functions.Function1&lt;? super java.lang.String,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt float px2sp(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDimensionsKt int sp(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt T withArguments(T, kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void selector(android.support.v4.app.Fragment, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.ContentLoadingProgressBar contentLoadingProgressBar(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.ContentLoadingProgressBar,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean email$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._DrawerLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void toast(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTitleStrip,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v4.widget.ContentLoadingProgressBar&gt; getCONTENT_LOADING_PROGRESS_BAR()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SwipeRefreshLayout,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTabStrip,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void selector(android.support.v4.app.Fragment, java.lang.CharSequence, java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportAsyncKt void uiThread(android.support.v4.app.Fragment, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void longToast(android.support.v4.app.Fragment, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SwipeRefreshLayout swipeRefreshLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SwipeRefreshLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._DrawerLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.NestedScrollView nestedScrollView(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._NestedScrollView,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert$default(android.support.v4.app.Fragment, int, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.DrawerLayout drawerLayout(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._FragmentTabHost,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTabStrip,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.ViewPager.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportIntentsKt boolean share(android.support.v4.app.Fragment, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.ViewPager.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager _ViewPager(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt T configuration(android.support.v4.app.Fragment, org.jetbrains.anko.ScreenSize, kotlin.ranges.ClosedRange&lt;java.lang.Integer&gt;, java.lang.String, org.jetbrains.anko.Orientation, java.lang.Boolean, java.lang.Integer, java.lang.Integer, org.jetbrains.anko.UiMode, java.lang.Boolean, java.lang.Boolean, java.lang.Integer, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v4.widget.SwipeRefreshLayout&gt; getSWIPE_REFRESH_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.Space space(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.Space,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.Space space(android.view.ViewManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ListenersKt void onPageChangeListener(android.support.v4.view.ViewPager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4.__ViewPager_OnPageChangeListener,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._ViewPager,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ListenersKt void onRefresh(android.support.v4.widget.SwipeRefreshLayout, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, int, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._FragmentTabHost,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt org.jetbrains.anko.AlertDialogBuilder alert(android.support.v4.app.Fragment, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.AlertDialogBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ListenersKt void onTabChanged(android.support.v4.app.FragmentTabHost, kotlin.jvm.functions.Function1&lt;? super java.lang.String,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView _NestedScrollView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTitleStrip pagerTitleStrip(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTitleStrip,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportKt T withArguments(T, kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ListenersKt void onRefresh(android.support.v4.widget.SwipeRefreshLayout, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTabStrip,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.support.v4.widget.SlidingPaneLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.content.Context, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._SlidingPaneLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.support.v4.widget.DrawerLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager android.view.View lparams$default(org.jetbrains.anko.support.v4._ViewPager, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt void selector$default(android.support.v4.app.Fragment, java.lang.CharSequence, java.util.List, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout T lparams(T, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.SlidingPaneLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4View kotlin.jvm.functions.Function1&lt;android.content.Context,android.support.v4.widget.Space&gt; getSPACE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportContextUtilsKt android.app.Activity getAct(android.support.v4.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.view.ViewManager, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._FragmentTabHost,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportAsyncKt void supportFragmentUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.app.FragmentTabHost fragmentTabHost(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4...Anko.Factories.SupportV4ViewGroup kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.support.v4._SlidingPaneLayout&gt; getSLIDING_PANE_LAYOUT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog$default(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._DrawerLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout _DrawerLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._FragmentTabHost android.view.View lparams$default(org.jetbrains.anko.support.v4._FragmentTabHost, android.view.View, android.widget.FrameLayout.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.widget.SlidingPaneLayout slidingPaneLayout(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._SlidingPaneLayout,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, int, int, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView T lparams(T, android.view.ViewGroup.LayoutParams, kotlin.jvm.functions.Function1&lt;? super android.widget.FrameLayout.LayoutParams,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._ViewPager T lparams(T, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.ViewPager.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog progressDialog(android.support.v4.app.Fragment, java.lang.Integer, java.lang.Integer, kotlin.jvm.functions.Function1&lt;? super android.app.ProgressDialog,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportDialogsKt android.app.ProgressDialog indeterminateProgressDialog$default(android.support.v4.app.Fragment, java.lang.String, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._SlidingPaneLayout android.view.View lparams$default(org.jetbrains.anko.support.v4._SlidingPaneLayout, android.view.View, android.view.ViewGroup.MarginLayoutParams, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportAsyncKt void supportFragmentUiThread(org.jetbrains.anko.AnkoAsyncContext&lt;T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.ViewPager viewPager(android.app.Activity, kotlin.jvm.functions.Function1&lt;? super org.jetbrains.anko.support.v4._ViewPager,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._NestedScrollView android.view.View lparams$default(org.jetbrains.anko.support.v4._NestedScrollView, android.view.View, int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4.SupportV4ViewsKt android.support.v4.view.PagerTabStrip pagerTabStrip(android.content.Context, kotlin.jvm.functions.Function1&lt;? super android.support.v4.view.PagerTabStrip,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.support.v4._DrawerLayout T lparams(T, android.content.Context, android.util.AttributeSet, kotlin.jvm.functions.Function1&lt;? super android.support.v4.widget.DrawerLayout.LayoutParams,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,113 @@
+<root>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler void addChild(DH, org.apache.ivy.osgi.util.DelegatingHandler.ChildElementHandler&lt;DH&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.VersionComparator int compare(org.apache.ivy.osgi.util.Version, org.apache.ivy.osgi.util.Version) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.util.ZipUtil void zip(java.io.File, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.Version org.apache.ivy.osgi.util.Version withNudgedPatch()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.util.VersionComparator DESCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.Version int compareUnqualified(org.apache.ivy.osgi.util.Version) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler int getRequiredIntAttribute(org.xml.sax.Attributes, java.lang.String, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.VersionComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.Boolean getOptionalBooleanAttribute(org.xml.sax.Attributes, java.lang.String, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.String getRequiredAttribute(org.xml.sax.Attributes, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.Version Version(org.apache.ivy.osgi.util.Version, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.util.Version int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler long getRequiredLongAttribute(org.xml.sax.Attributes, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.VersionComparator int compare(org.apache.ivy.osgi.util.Version, org.apache.ivy.osgi.util.Version) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.ivy.osgi.util.Version int compareTo(org.apache.ivy.osgi.util.Version) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler.ChildElementHandler void childHanlded(DH) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.ivy.osgi.util.VersionComparator ASCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler void handleAttributes(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value"
+                 val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.String getRequiredAttribute(org.xml.sax.Attributes, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.VersionComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.String getCurrentElementIdentifier()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.Long getOptionalLongAttribute(org.xml.sax.Attributes, java.lang.String, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.VersionRange boolean contains(org.apache.ivy.osgi.util.Version) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler boolean getRequiredBooleanAttribute(org.xml.sax.Attributes, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.String getOptionalAttribute(org.xml.sax.Attributes, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.DelegatingHandler java.lang.Integer getOptionalIntAttribute(org.xml.sax.Attributes, java.lang.String, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item
+        name='org.apache.ivy.osgi.util.Version org.apache.ivy.osgi.util.Version withoutQualifier()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

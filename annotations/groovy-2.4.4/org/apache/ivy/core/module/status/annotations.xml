@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.ivy.core.module.status.StatusManager org.apache.ivy.core.module.status.StatusManager newDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

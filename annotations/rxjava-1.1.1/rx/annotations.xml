@@ -1,0 +1,2102 @@
+<root>
+    <item name='rx.Observable void forEach(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends rx.Observable&lt;?&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.Observable&lt;? extends T7&gt;, rx.functions.Func7&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(java.lang.Iterable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.Observable&lt;? extends T7&gt;, rx.Observable&lt;? extends T8&gt;, rx.Observable&lt;? extends T9&gt;, rx.functions.Func9&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? super T8,? super T9,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.functions.Func2&lt;? super T1,? super T2,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable endWith(rx.Completable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,java.util.Collection&lt;T&gt;&gt;&gt; toMultimap(rx.functions.Func1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable onErrorComplete()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, long, java.util.concurrent.TimeUnit, int, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(int, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable void forEach(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.Observable&lt;? extends T7&gt;, rx.Observable&lt;? extends T8&gt;, rx.functions.Func8&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? super T8,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; sequenceEqual(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single void unsafeSubscribe(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doAfterTerminate(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription unsafeSubscribe(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; take(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; firstOrDefault(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delaySubscription(rx.functions.Func0&lt;? extends rx.Observable&lt;U&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; cacheWithInitialCapacity(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; exists(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; switchIfEmpty(rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; mergeWith(rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; timer(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(java.lang.Iterable&lt;? extends rx.Observable&lt;?&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; sequenceEqual(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; sequenceEqual(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.SingleSubscriber void onSuccess(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnLifecycle(rx.functions.Action1&lt;? super rx.Subscription&gt;, rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0, rx.functions.Action0, rx.functions.Action0) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable void subscribe(rx.Completable.CompletableSubscriber) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; groupJoin(rx.Observable&lt;T2&gt;, rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;D1&gt;&gt;, rx.functions.Func1&lt;? super T2,? extends rx.Observable&lt;D2&gt;&gt;, rx.functions.Func2&lt;? super T,? super rx.Observable&lt;T2&gt;,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnLifecycle(rx.functions.Action1&lt;? super rx.Subscription&gt;, rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0, rx.functions.Action0, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; ofType(java.lang.Class&lt;R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromFuture(java.util.concurrent.Future&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Notification&lt;T&gt;&gt; materialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(int, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; sample(rx.Observable&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func0&lt;? extends rx.Observable&lt;U&gt;&gt;, rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;, rx.Observable&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; create(rx.Single.OnSubscribe&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Subscription subscribe(rx.SingleSubscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(java.lang.Iterable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(rx.functions.Func0&lt;? extends rx.Observable&lt;? extends TClosing&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delay(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; retryWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Throwable&gt;,? extends rx.Observable&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; delay(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.SingleSubscriber void add(rx.Subscription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.functions.Func6&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skip(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; toList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.functions.Func3&lt;? super T1,? super T2,? super T3,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends rx.Observable&lt;?&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable lift(rx.Completable.CompletableOperator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doAfterTerminate(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.Single&lt;? extends T4&gt;, rx.Single&lt;? extends T5&gt;, rx.Single&lt;? extends T6&gt;, rx.Single&lt;? extends T7&gt;, rx.Single&lt;? extends T8&gt;, rx.Single&lt;? extends T9&gt;, rx.functions.Func9&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? super T8,? super T9,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; timer(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnTerminate(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromObservable(rx.Observable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; sample(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func0&lt;? extends rx.Observable&lt;U&gt;&gt;, rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable lift(rx.Completable.CompletableOperator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; retry(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(long, java.util.concurrent.TimeUnit, int, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(rx.Observable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delaySubscription(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.functions.Func2&lt;? super T1,? super T2,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; from(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,java.util.Collection&lt;V&gt;&gt;&gt; toMultimap(rx.functions.Func1&lt;? super T,? extends K&gt;, rx.functions.Func1&lt;? super T,? extends V&gt;, rx.functions.Func0&lt;? extends java.util.Map&lt;K,java.util.Collection&lt;V&gt;&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(rx.Observable&lt;? extends rx.Completable&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,java.util.Collection&lt;V&gt;&gt;&gt; toMultimap(rx.functions.Func1&lt;? super T,? extends K&gt;, rx.functions.Func1&lt;? super T,? extends V&gt;, rx.functions.Func0&lt;? extends java.util.Map&lt;K,java.util.Collection&lt;V&gt;&gt;&gt;, rx.functions.Func1&lt;? super K,? extends java.util.Collection&lt;V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable create(rx.Completable.CompletableOnSubscribe) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Subscription subscribe(rx.SingleSubscriber&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout0(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observer void onNext(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(long, java.util.concurrent.TimeUnit, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.observables.GroupedObservable&lt;K,T&gt;&gt; groupBy(rx.functions.Func1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; concatMapEager(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;? extends R&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnError(rx.functions.Action1&lt;java.lang.Throwable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit, rx.Scheduler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(rx.Observable&lt;? extends TOpening&gt;, rx.functions.Func1&lt;? super TOpening,? extends rx.Observable&lt;? extends TClosing&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; just(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnSubscribe(rx.functions.Action1&lt;? super rx.Subscription&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(rx.Observable&lt;? extends TOpening&gt;, rx.functions.Func1&lt;? super TOpening,? extends rx.Observable&lt;? extends TClosing&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(java.lang.Iterable&lt;? extends rx.Single&lt;?&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.Single&lt;? extends T4&gt;, rx.Single&lt;? extends T5&gt;, rx.functions.Func5&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doAfterTerminate(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; reduce(rx.functions.Func2&lt;T,T,T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; repeat(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.BlockingObservable&lt;T&gt; toBlocking()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable subscribeOn(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler.Worker rx.Subscription schedulePeriodically(rx.functions.Action0, long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(int, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; unsubscribeOn(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; merge(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onBackpressureBuffer(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipLast(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable void forEach(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; merge(rx.Observable&lt;? extends T&gt;[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnSubscribe(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delay(rx.functions.Func0&lt;? extends rx.Observable&lt;U&gt;&gt;, rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; endWith(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timer(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, java.util.concurrent.TimeUnit, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(int, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.functions.Func5&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable retry(rx.functions.Func2&lt;java.lang.Integer,java.lang.Throwable,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge0(rx.Observable&lt;? extends rx.Completable&gt;, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; switchOnNext(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onBackpressureBuffer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onExceptionResumeNext(rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; merge(rx.Observable&lt;? extends T&gt;[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;, rx.Observable&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; ignoreElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(rx.Completable...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concatWith(rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; onErrorReturn(rx.functions.Func1&lt;java.lang.Throwable,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; repeat(long, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromSingle(rx.Single&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout0(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Subscription subscribe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; cast(java.lang.Class&lt;R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; limit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; repeatWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Void&gt;,? extends rx.Observable&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeUntil(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(java.lang.Iterable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; isEmpty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; repeat(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; lastOrDefault(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T2&gt; dematerialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Integer&gt; range(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; endWith(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timer(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; from(java.util.concurrent.Future&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; onErrorResumeNext(rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.schedulers.TimeInterval&lt;T&gt;&gt; timeInterval()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,V&gt;&gt; toMap(rx.functions.Func1&lt;? super T,? extends K&gt;, rx.functions.Func1&lt;? super T,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromSingle(rx.Single&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout0(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable error(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable void forEach(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable onErrorComplete(rx.functions.Func1&lt;? super java.lang.Throwable,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.functions.Func4&lt;? super T1,? super T2,? super T3,? super T4,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromObservable(rx.Observable&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; single()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; toObservable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onBackpressureDrop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; andThen(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Single&lt;T&gt; toSingleDefault(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(java.lang.Iterable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; map(rx.functions.Func1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(rx.Observable&lt;? extends rx.Completable&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable error(rx.functions.Func0&lt;? extends java.lang.Throwable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable unsubscribeOn(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; merge(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler.Worker rx.Subscription schedulePeriodically(rx.functions.Action0, long, long, java.util.concurrent.TimeUnit) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onErrorResumeNext(rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(rx.Observable&lt;? extends rx.Completable&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; retry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(int, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable error(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skip(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable void forEach(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; toSortedList(rx.functions.Func2&lt;? super T,? super T,java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; last(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Single&lt;T&gt; toSingleDefault(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(rx.Observable&lt;B&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; interval(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; retryWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Throwable&gt;,? extends rx.Observable&lt;?&gt;&gt;, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; doOnUnsubscribe(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; interval(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; fromCallable(java.util.concurrent.Callable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromAction(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable subscribeOn(rx.Scheduler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(rx.Observable&lt;B&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable startWith(rx.Completable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable error(rx.functions.Func0&lt;? extends java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(rx.Observable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.observables.GroupedObservable&lt;K,R&gt;&gt; groupBy(rx.functions.Func1&lt;? super T,? extends K&gt;, rx.functions.Func1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; distinctUntilChanged(rx.functions.Func1&lt;? super T,? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onErrorResumeNext(rx.functions.Func1&lt;java.lang.Throwable,? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromCallable(java.util.concurrent.Callable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable observeOn(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; finallyDo(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; interval(long, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnError(rx.functions.Action1&lt;? super java.lang.Throwable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification rx.Notification&lt;T&gt; createOnError(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Completable toCompletable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(java.lang.Iterable&lt;? extends rx.Observable&lt;?&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; error(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable.CompletableSubscriber void onSubscribe(rx.Subscription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.Single&lt;? extends T4&gt;, rx.Single&lt;? extends T5&gt;, rx.Single&lt;? extends T6&gt;, rx.Single&lt;? extends T7&gt;, rx.Single&lt;? extends T8&gt;, rx.functions.Func8&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? super T8,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; lift(rx.Observable.Operator&lt;? extends R,? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnTerminate(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; doOnError(rx.functions.Action1&lt;java.lang.Throwable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeUntil(rx.Observable&lt;? extends E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concatWith(rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; elementAt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable compose(rx.Completable.CompletableTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; contains(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable repeat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; doOnSuccess(rx.functions.Action1&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipWhile(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; from(java.util.concurrent.Future&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable R extend(rx.functions.Func1&lt;? super rx.Observable.OnSubscribe&lt;T&gt;,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; compose(rx.Single.Transformer&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable defer(rx.functions.Func0&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Subscriber void add(rx.Subscription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(int, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(rx.Completable...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable defer(rx.functions.Func0&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler.Worker rx.Subscription schedule(rx.functions.Action0, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(rx.Observable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; startWith(rx.Observable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; repeatWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Void&gt;,? extends rx.Observable&lt;?&gt;&gt;, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, java.util.concurrent.TimeUnit, int, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnUnsubscribe(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler.Worker rx.Subscription schedule(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(rx.Observable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnComplete(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; scan(rx.functions.Func2&lt;T,T,T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification rx.Notification&lt;T&gt; createOnCompleted(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Single&lt;T&gt; toSingle(rx.functions.Func0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.functions.Func3&lt;? super T1,? super T2,? super T3,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnUnsubscribe(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; from(java.lang.Iterable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable amb(java.lang.Iterable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler.Worker rx.Subscription schedule(rx.functions.Action0, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.schedulers.Timestamped&lt;T&gt;&gt; timestamp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, int, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler rx.Scheduler.Worker createWorker()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnEach(rx.functions.Action1&lt;rx.Notification&lt;? super T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromAction(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,java.util.Collection&lt;V&gt;&gt;&gt; toMultimap(rx.functions.Func1&lt;? super T,? extends K&gt;, rx.functions.Func1&lt;? super T,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.schedulers.Timestamped&lt;T&gt;&gt; timestamp(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onBackpressureDrop(rx.functions.Action1&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.Single&lt;? extends T4&gt;, rx.Single&lt;? extends T5&gt;, rx.Single&lt;? extends T6&gt;, rx.functions.Func6&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromCallable(java.util.concurrent.Callable&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.schedulers.TimeInterval&lt;T&gt;&gt; timeInterval(rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable retryWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Throwable&gt;,? extends rx.Observable&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Subscriber void setProducer(rx.Producer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; lastOrDefault(T, rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;, rx.functions.Action0) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable ambWith(rx.Completable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable U to(rx.functions.Func1&lt;? super rx.Completable,U&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; asObservable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; from(java.lang.Iterable&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit, rx.Scheduler, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; cache()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delay(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.functions.Func2&lt;? super T1,? super T2,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnComplete(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; distinctUntilChanged()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; toSortedList(rx.functions.Func2&lt;? super T,? super T,java.lang.Integer&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; toSortedList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(rx.Observable&lt;? extends rx.Completable&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable complete()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(rx.Observable&lt;? extends rx.Completable&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; all(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; debounce(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;U&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zipWith(rx.Observable&lt;? extends T2&gt;, rx.functions.Func2&lt;? super T,? super T2,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; first()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; startWith(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(int, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; first(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; onErrorResumeNext(rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnError(rx.functions.Action1&lt;? super java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Single&lt;T&gt; toSingle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; sequenceEqual(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.functions.Func2&lt;? super T,? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(int, long, java.util.concurrent.TimeUnit, rx.Scheduler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(int, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit, rx.Scheduler, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Subscription subscribe(rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipLast(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.Observable&lt;? extends T7&gt;, rx.Observable&lt;? extends T8&gt;, rx.functions.Func8&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? super T8,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delaySubscription(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable retry(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delay(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;U&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge0(rx.Observable&lt;? extends rx.Completable&gt;, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(java.lang.Iterable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable amb(rx.Completable...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; never()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; merge(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(int, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; serialize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; countLong()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skip(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnNext(rx.functions.Action1&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit, rx.Scheduler, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Subscription subscribe(rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable unsubscribeOn(rx.Scheduler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable repeatWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Void&gt;,? extends rx.Observable&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.functions.Func6&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; sequenceEqual(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.functions.Func2&lt;? super T,? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeWith(rx.Completable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(int, long, java.util.concurrent.TimeUnit, rx.Scheduler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; toObservable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; interval(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; sample(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable observeOn(rx.Scheduler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipLast(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onErrorReturn(rx.functions.Func1&lt;java.lang.Throwable,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; create(rx.Observable.OnSubscribe&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; finallyDo(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(rx.Completable...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; from(java.util.concurrent.Future&lt;? extends T&gt;, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; scan(R, rx.functions.Func2&lt;R,? super T,R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Scheduler.Worker rx.Subscription schedule(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; retry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.Observable&lt;? extends T7&gt;, rx.functions.Func7&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(rx.Completable...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timer(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler, rx.Completable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable repeat(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; toSortedList(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.functions.Func3&lt;? super T1,? super T2,? super T3,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable using(rx.functions.Func0&lt;R&gt;, rx.functions.Func1&lt;? super R,? extends rx.Completable&gt;, rx.functions.Action1&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnCompleted(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(int, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Subscription subscribe(rx.Subscriber&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; delay(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable never()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; merge(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onBackpressureBuffer(long, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification rx.Notification&lt;T&gt; createOnNext(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Single&lt;T&gt; toSingle(rx.functions.Func0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; from(java.util.concurrent.Future&lt;? extends T&gt;, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable onErrorResumeNext(rx.functions.Func1&lt;? super java.lang.Throwable,? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnRequest(rx.functions.Action1&lt;java.lang.Long&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable create(rx.Completable.CompletableOnSubscribe)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timer(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,V&gt;&gt; toMap(rx.functions.Func1&lt;? super T,? extends K&gt;, rx.functions.Func1&lt;? super T,? extends V&gt;, rx.functions.Func0&lt;? extends java.util.Map&lt;K,V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; firstOrDefault(T, rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleFirst(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; doAfterTerminate(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnSubscribe(rx.functions.Action1&lt;? super rx.Subscription&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipLast(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable java.lang.Throwable get(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(java.util.List&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; defer(java.util.concurrent.Callable&lt;rx.Single&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(rx.Observable&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(rx.Observable&lt;? extends rx.Completable&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleFirst(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.functions.Func4&lt;? super T1,? super T2,? super T3,? super T4,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable onErrorComplete(rx.functions.Func1&lt;? super java.lang.Throwable,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; filter(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(java.lang.Iterable&lt;? extends rx.Single&lt;?&gt;&gt;, rx.functions.FuncN&lt;? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zipWith(rx.Single&lt;? extends T2&gt;, rx.functions.Func2&lt;? super T,? super T2,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; cache(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; distinct(rx.functions.Func1&lt;? super T,? extends U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;, rx.functions.Action1&lt;java.lang.Throwable&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delaySubscription(rx.Observable&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.Map&lt;K,T&gt;&gt; toMap(rx.functions.Func1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Observable&lt;T&gt; andThen(rx.Observable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.Single&lt;? extends T4&gt;, rx.Single&lt;? extends T5&gt;, rx.Single&lt;? extends T6&gt;, rx.Single&lt;? extends T7&gt;, rx.functions.Func7&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; nest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification rx.Notification&lt;T&gt; createOnCompleted()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; zip(rx.Single&lt;? extends T1&gt;, rx.Single&lt;? extends T2&gt;, rx.Single&lt;? extends T3&gt;, rx.Single&lt;? extends T4&gt;, rx.functions.Func4&lt;? super T1,? super T2,? super T3,? super T4,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit, rx.Single&lt;? extends T&gt;, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; reduce(R, rx.functions.Func2&lt;R,? super T,R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable void forEach(rx.functions.Action1&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; retry(rx.functions.Func2&lt;java.lang.Integer,java.lang.Throwable,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; distinct()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(int, long, java.util.concurrent.TimeUnit, rx.Scheduler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable fromFuture(java.util.concurrent.Future&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; debounce(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concat(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zip(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.functions.Func5&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; elementAtOrDefault(int, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable delay(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(rx.functions.Func0&lt;? extends rx.Observable&lt;? extends TClosing&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; collect(rx.functions.Func0&lt;R&gt;, rx.functions.Action2&lt;R,? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; retryWhen(rx.functions.Func1&lt;rx.Observable&lt;? extends java.lang.Throwable&gt;,? extends rx.Observable&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; single(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; singleOrDefault(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(java.lang.Iterable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable retry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; last()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; using(rx.functions.Func0&lt;Resource&gt;, rx.functions.Func1&lt;? super Resource,? extends rx.Observable&lt;? extends T&gt;&gt;, rx.functions.Action1&lt;? super Resource&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timer(long, java.util.concurrent.TimeUnit, rx.Scheduler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; retry(rx.functions.Func2&lt;java.lang.Integer,java.lang.Throwable,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Integer&gt; count()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; switchMap(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; concatMap(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatWith(rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; doAfterTerminate(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doOnEach(rx.Observer&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeFirst(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Boolean&gt; sequenceEqual(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.functions.Func2&lt;? super T,? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; using(rx.functions.Func0&lt;Resource&gt;, rx.functions.Func1&lt;? super Resource,? extends rx.Observable&lt;? extends T&gt;&gt;, rx.functions.Action1&lt;? super Resource&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipLast(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification.Kind OnNext'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Completable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(long, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Subscription subscribe(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; zipWith(java.lang.Iterable&lt;? extends T2&gt;, rx.functions.Func2&lt;? super T,? super T2,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable merge(java.lang.Iterable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; concatEager(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable boolean await(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concat(rx.Observable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func0&lt;? extends rx.Observable&lt;U&gt;&gt;, rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;T&gt; error(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; switchOnNext(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnLifecycle(rx.functions.Action1&lt;? super rx.Subscription&gt;, rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0, rx.functions.Action0, rx.functions.Action0) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleLast(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;rx.Observable&lt;T&gt;&gt; window(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.singles.BlockingSingle&lt;T&gt; toBlocking()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Subscription subscribe(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; doAfterTerminate(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable void subscribe(rx.Subscriber&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleLast(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification.Kind OnCompleted'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; combineLatest(rx.Observable&lt;? extends T1&gt;, rx.Observable&lt;? extends T2&gt;, rx.Observable&lt;? extends T3&gt;, rx.Observable&lt;? extends T4&gt;, rx.Observable&lt;? extends T5&gt;, rx.Observable&lt;? extends T6&gt;, rx.Observable&lt;? extends T7&gt;, rx.Observable&lt;? extends T8&gt;, rx.Observable&lt;? extends T9&gt;, rx.functions.Func9&lt;? super T1,? super T2,? super T3,? super T4,? super T5,? super T6,? super T7,? super T8,? super T9,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; publish()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.observables.ConnectableObservable&lt;T&gt; replay(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnUnsubscribe(rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; defer(rx.functions.Func0&lt;rx.Observable&lt;T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; defaultIfEmpty(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; takeLastBuffer(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.util.List&lt;T&gt;&gt; buffer(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, int, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnLifecycle(rx.functions.Action1&lt;? super rx.Subscription&gt;, rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0, rx.functions.Action0, rx.functions.Action0) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Subscription subscribe(rx.functions.Action1&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; fromCallable(java.util.concurrent.Callable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeWhile(rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnTerminate(rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; debounce(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable onErrorResumeNext(rx.functions.Func1&lt;? super java.lang.Throwable,? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; join(rx.Observable&lt;TRight&gt;, rx.functions.Func1&lt;T,rx.Observable&lt;TLeftDuration&gt;&gt;, rx.functions.Func1&lt;TRight,rx.Observable&lt;TRightDuration&gt;&gt;, rx.functions.Func2&lt;T,TRight,R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; skipUntil(rx.Observable&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; compose(rx.Observable.Transformer&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; concatMapEager(rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; repeat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleFirst(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Completable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; takeLast(long, java.util.concurrent.TimeUnit, rx.Scheduler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; mergeDelayError(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; withLatestFrom(rx.Observable&lt;? extends U&gt;, rx.functions.Func2&lt;? super T,? super U,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; timer(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; take(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; take(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(long, java.util.concurrent.TimeUnit, rx.Observable&lt;? extends T&gt;, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnLifecycle(rx.functions.Action1&lt;? super rx.Subscription&gt;, rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0, rx.functions.Action0, rx.functions.Action0) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; timeout(rx.functions.Func0&lt;? extends rx.Observable&lt;U&gt;&gt;, rx.functions.Func1&lt;? super T,? extends rx.Observable&lt;V&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; singleOrDefault(T, rx.functions.Func1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; from(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;, int, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleWithTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable timeout(long, java.util.concurrent.TimeUnit, rx.Completable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(java.lang.Iterable&lt;? extends rx.Observable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable amb(java.lang.Iterable&lt;? extends rx.Completable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; delaySubscription(rx.Observable&lt;U&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Single&lt;R&gt; map(rx.functions.Func1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable repeatWhen(rx.functions.Func1&lt;? super rx.Observable&lt;? extends java.lang.Void&gt;,? extends rx.Observable&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; onBackpressureLatest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable mergeDelayError(rx.Observable&lt;? extends rx.Completable&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; amb(rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;, rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;R&gt; replay(rx.functions.Func1&lt;? super rx.Observable&lt;T&gt;,? extends rx.Observable&lt;R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Subscription subscribe(rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Notification.Kind OnError'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; merge(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; ambWith(rx.Observable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;java.lang.Long&gt; timer(long, long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleWithTimeout(long, java.util.concurrent.TimeUnit, rx.Scheduler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable doOnLifecycle(rx.functions.Action1&lt;? super rx.Subscription&gt;, rx.functions.Action1&lt;? super java.lang.Throwable&gt;, rx.functions.Action0, rx.functions.Action0, rx.functions.Action0) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; startWith(T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; throttleFirst(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Observable rx.Observable&lt;T&gt; just(T, T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Single rx.Observable&lt;T&gt; concat(rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;, rx.Single&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.Completable rx.Completable concatWith(rx.Completable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
